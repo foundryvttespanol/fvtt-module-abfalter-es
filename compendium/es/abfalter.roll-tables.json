@@ -1,0 +1,24 @@
+{
+  "label": "roll-tablas",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Gtwdocp7jz4SBAz9": {
+      "name": "Tabla Localizaciones",
+      "description": null
+    },
+    "wH9k5F5q8rT2bLqB": {
+      "name": "Invocaciones",
+      "description": null
+    },
+    "rVGuDTkkIDozQEC2": {
+      "name": "Pandora",
+      "description": null
+    },
+    "MpQ2sx6wPk5clJnm": {
+      "name": "La rueda de la Fortuna",
+      "description": null
+    }
+  }
+}

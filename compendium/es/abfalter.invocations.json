@@ -1,0 +1,1167 @@
+{
+  "label": "invocaciones",
+  "mapping": {
+    "description": "system.description",
+    "action": "system.action",
+    "pact": "system.pact",
+    "cost": "system.cost",
+    "difficulty": "system.difficulty",
+    "atk": "system.atk",
+    "def": "system.def"
+  },
+  "entries": {
+    "lztMGez8aplJGjp0": {
+      "name": "Aeon"
+    },
+    "P77fzqQelshe6wKi": {
+      "name": "Arcana 0 - El Loco",
+      "description": "Duración: Una hora por cada 10 puntos que supere la dificultad requerida.\n\nEfectos: Mientras este activo, el invocadoir ignora cualquier penalizador o bonificador de tiempo a la hora de invocaciones posteriores.",
+      "action": "Activa",
+      "pact": "Efecto: El Loco solicitará al usuario invocar y mantener un Pacto con otra invocación de la Arcana.",
+      "cost": 100,
+      "difficulty": 120,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "YzOhk9YtNyConrdH": {
+      "name": "Arcana I - Hierofante",
+      "description": "Duración: Instantáneo - El Hechizo lanzado se mantiene 1 asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: El Hierofante permite lanzar cualquier hechizo de libre acceso hasta nivel 50. Si el hechizo es Activo, el Invocador debe gastar su acción para utilizarlo. Cualquier hechizo lanzado por el Hierofante aplica su efecto en grado basel.",
+      "action": "Pasiva (Variable)",
+      "pact": "Efecto: El Hierofante exige tener Maestría en una habilidad; el Arcano puede solicitar que sea una habilidad específica la que alcance Maestría.",
+      "cost": 100,
+      "difficulty": 130,
+      "atk": "120",
+      "def": "120"
+    },
+    "58DObGudaFTagIxG": {
+      "name": "Arcana II - La Suma Sacerdotisa",
+      "description": "Duración: Un asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: La Suma Sacerdotisa protege al Invocador con un escudo sobrenatural que utiliza la habilidad de defensa de la Sacerdotisa. El escudo tiene un total de 800 PV, más 100 adicionales por cada 10 puntos con los que se supere la Dificultad de Invocación.",
+      "action": "Pasiva",
+      "pact": "El Invocador debe responder correctamente un acertijo o pregunta esotérica planteada por la Suma Sacerdotisa.",
+      "cost": 150,
+      "difficulty": 140,
+      "atk": "N/D",
+      "def": "160"
+    },
+    "1KxwbNUZqka6a7mi": {
+      "name": "Arcana III - La Emperatriz",
+      "description": "Duración: Un asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: El Invocador o la persona elegida obtiene un bono a todas sus Resistencias equivalente a 20, más 10 adicionales por cada 10 puntos con los que se supere la Dificultad de Invocación.",
+      "action": "Pasiva",
+      "pact": "La Emperatriz elige a una persona débil o frágil a quien el Invocador debe jurar proteger hasta la muerte para formar el pacto. Si la persona elegida sufre daño, el pacto termina.",
+      "cost": 200,
+      "difficulty": 150,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "AWO3dSXZWSEUWohM": {
+      "name": "Arcana IV - El Emperador",
+      "description": "Duración: instantáneo.\n\nEfecto: El Emperador realiza un número de ataques físicos equivalente a 1, más 1 adicional por cada 10 puntos con los que se supere la Dificultad de Invocación. Estos ataques tienen un Daño Base de 60, y el Invocador puede decidir en cada ataque si el tipo de daño es Filo, Penetrante o Contundente.",
+      "action": "Activa",
+      "pact": "El emperador requiere que el Invocador se convierta en líder de un grupo, cuyos miembros deben seguir voluntariamente las órdenes del Invocador.",
+      "cost": 200,
+      "difficulty": 160,
+      "atk": "120",
+      "def": "N/D"
+    },
+    "bHKpN46ikYObhI9G": {
+      "name": "Arcana IX - El Ermitaño",
+      "description": "Duración: Un asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Durante la duración, el Invocador se considera una criatura de acumulación de daño,  Obtiene TA 6 contra todo tipo de daño, además de Puntos de Vida adicionales. El bono de PV es igual a 1.000 + 100 por cada 10 puntos con los que se supere la Dificultad de Invocación. Mientras esté bajo este efecto, el Invocador no puede usar ninguna otra habilidad defensiva.",
+      "action": "Pasiva",
+      "pact": "El Ermitaño envía al Invocador a resolver un conflicto específico, de manera que termine pacíficamente.",
+      "cost": 400,
+      "difficulty": 220,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "uiDGa0r59JsIqS4W": {
+      "name": "Arcana V - El Sumo Sacerdote",
+      "description": "Duración: Un minuto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto:  Mientras este activo, el Sumo Sacerdote hacer un único ataque que consiste en una descarga de energía contra el enemigo del Invocador, utilizando las reglas de un Hechizo de Ataque. La ráfaga afecta en la TA de Energía y tiene un Daño Base de 100. Los objetivos vinculados al mal o la oscuridad reciben el doble de daño por la descarga.",
+      "action": "Activa",
+      "pact": "El sumo Sacerdote pide al Invocador que expie o sea perdonado de todos sus pecados previos.",
+      "cost": 250,
+      "difficulty": 170,
+      "atk": "160",
+      "def": "N/D"
+    },
+    "gUIDuMRrWmURVNuf": {
+      "name": "Arcana VI - Los Enamorados",
+      "description": "Duración: Un asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Se aplica un Efecto Automático sobre el Invocador mientras se mantengan los Amantes. Cualquier individuo que intente realizar acciones ofensivas contra el Invocador debe superar un Chequeo de Resistencia de RM o RP contra 140 para poder hacerla. Este chequeo debe realizarse cada asalto en que el Invocador sea objetivo de una acción ofensiva.",
+      "action": "Pasiva",
+      "pact": "Los Enamorados solicitan al Invocador que encuentre a una persona a quien ame y con quien desee pasar el resto de su vida.",
+      "cost": 250,
+      "difficulty": 180,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "UnYIPhhs2fWdPizO": {
+      "name": "Arcana VII - El carro",
+      "description": "Duración: Un asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Mientras se mantenga el Carro, el Invocador puede utilizar la habilidad de defensa del Arcano para Esquivar en lugar de la suya propia. Esta Esquiva no tiene límite de alcance a efectos de evitar Ataques en Área.",
+      "action": "Pasiva",
+      "pact": "El Carro elegirá un lugar lejano que el Invocador nunca haya visitado, y exigirá que el Invocador vaya a dicho lugar.",
+      "cost": 300,
+      "difficulty": 190,
+      "atk": "N/D",
+      "def": "200"
+    },
+    "nTjgQdiF3tjCJCjv": {
+      "name": "Arcana VIII - La Fuerza",
+      "description": "Duracción: instantáneo.\n\nEfecto: El Invocador puede usar la habilidad de Ataque del Arcano para ejecutar un ataque físico contra la TA de Energía. Este ataque tiene un Daño Base de 100 + 10 por cada 10 puntos por los que se supere la Dificultad de invocación.",
+      "action": "Activa",
+      "pact": "La Fuerza pedirá una prueba de fuerza al Invocador, exigiéndole derrotar a un enemigo poderoso, comúnmente un Elemental Mayor hasta nivel 6.",
+      "cost": 350,
+      "difficulty": 200,
+      "atk": "200",
+      "def": "200"
+    },
+    "KDxFSI9Nzpi7r4RR": {
+      "name": "Arcana X - La Rueda",
+      "description": "Duración: Variable\n\nEfecto: Tira 1d100 para Invocar el poder del Arcano elegido a continuación. Si el Arcano seleccionado requiere una acción Activa, sus efectos se aplican cuando el Invocador pueda gastar la acción en su turno. La cantidad por la que el Invocador supera la invocación de la Rueda se transfiere al Arcano seleccionado para determinar sus efectos.\n\n1-5: El Loco\n6-10: El Hierofante\n11-15: La Suma Sacerdotisa\n16-20: La Emperatriz\n21-25: El Emperador\n26-30: El sumo Sacerdote\n31-35: Los Amantes\n36-40: El Carro\n41-45: La Fuerza\n46-50: El Ermitaño\n51-55: La Justicia\n56-60: El Colgado\n61-65: La Muerte\n66-70: La Templanza\n71-75: El Diablo\n76-80: La Torre\n81-85: La Estrella\n86-90: La Luna\n91-95: El Sol\n96-99: El Juicio\n100: El mundo\n",
+      "action": "Pasiva (Variable)",
+      "pact": "La Rueda forjará un pacto con el Invocador puramente por azar, ya sea mediante el lanzamiento de una moneda o el resultado de un dado (pares o impares).",
+      "cost": 450,
+      "difficulty": 240,
+      "atk": "Variable",
+      "def": "Variable"
+    },
+    "bwJ4S9w1kINbLm4y": {
+      "name": "Arcana XI - La Justicia",
+      "description": "Duración: instantáneo\n\nEfecto: Refleja un ataque dirigido al Invocador más 1 adicional por cada 10 puntos por los que el Invocador supere la Dificultad de invocación. Para reflejar el ataque, la Fuerza debe lograr un resultado de Contraataque usando su habilidad de Defensa. Esta habilidad defensiva ignora los penalizadores de combate, incluyendo defender múltiples veces en un asalto.\n\nEl ataque reflejado mantiene el mismo Daño, Tipo de Ataque, Área y efectos esotéricos que tenía originalmente. Si la Fuerza falla al intentar reflejar el ataque, el Invocador deberá defenderse de ese ataque usando sólo un dado d100 sin poder sumar sus habilidades defensivas habituales.",
+      "action": "Pasiva",
+      "pact": "La Justicia requerirá que el Invocador juzgue una situación difícil o impida que ocurra una injusticia.",
+      "cost": 500,
+      "difficulty": 260,
+      "atk": "Variable",
+      "def": "240"
+    },
+    "8cwP2wEu5fB24J0P": {
+      "name": "Arcana XII - El Colgado",
+      "description": "Duración: instantáneo\n\nEl Colgado utiliza la vida del Invocador para realizar un Hechizo de Ataque. Este utiliza la Habilidad de Ataque del Colgado con un bono de +5 por cada 10 puntos por encima de la Dificultad de invocación. El hechizo ataca en la la TA de Energía y tiene un Daño Base igual a 4 veces la cantidad de vida que el Invocador sacrifica al Colgado. Por ejemplo, un Invocador que sacrifica 20 PV genera un ataque con 80 de Daño. Los PV sacrificados se recuperan a la velocidad normal de recuperación.\n",
+      "action": "Activa",
+      "pact": "El Invocador debe arriesgar voluntariamente su vida por un objeto o persona. El riesgo debe poner realmente al Invocador en peligro para que el Colgado lo acepte.",
+      "cost": 550,
+      "difficulty": 280,
+      "atk": "240+",
+      "def": "N/D"
+    },
+    "KN2NsGV8cqzMO23p": {
+      "name": "Arcana XIII - La Muerte",
+      "description": "Duración: instantáneo\n\nLa Muerte sana por completo al Invocador o a un sujeto elegido, recuperandolo totalmente y anulando todos los estados y efectos naturales o sobrenaturales, incluyendo la pérdida de órganos o extremidades.",
+      "action": "Activa",
+      "pact": "La Muerte pide al Invocador que entre en el estado entre la vida y la muerte, y por su propio poder supere la prueba y se recupere de forma natural sin ninguna interferencia externa.",
+      "cost": 600,
+      "difficulty": 300,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "5y29aHWHavJgodUf": {
+      "name": "Arcana XIV - La Templanza",
+      "description": "Duración: Un día por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Mientras este activo, la templanza otorga 100 puntos adicionales para determinar el exito de otras invocaciones y sus efectos adicionales.",
+      "action": "Activa",
+      "pact": "La Templanzarequerirá que el personaje alcance un nivel específico, usualmente entre 6º y 8º, o que aumente su nivel actual en uno para sellar el Pacto.",
+      "cost": 650,
+      "difficulty": 320,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "Jl6kcVBHiKgVtDMq": {
+      "name": "Arcana XIX - El Sol",
+      "description": "Duración: instantáneo\n\nEl Sol realiza un Hechizo de Ataque que abarca a un Área de 100 metros usando su habilidad de Ataque. Este ataque se realiza en TA de calor y tiene un Daño Base de 300 + 10 por cada 10 puntos que supere la Dificultad de Invocación. El Invocador puede elegir blancos dentro del Área.",
+      "action": "Activa",
+      "pact": "El Sol somete al Invocador a los efectos de su poder; si el Invocador sobrevive, es lo suficientemente digno para formar un Pacto.",
+      "cost": 900,
+      "difficulty": 420,
+      "atk": "300",
+      "def": "N/D"
+    },
+    "8EzQQNggIk3isbFq": {
+      "name": "Arcana XV - El Diablo",
+      "description": "Duración: Un asalto por cada 10 puntos que supere la dificultad requerida.\n\nMientras este activo, el Invocador se fusiona con el Diablo y puede usar sus habilidades de Ataque y Defensa. Su Defensa se considera Parada o Esquiva, según lo decida el Invocador, y sus ataques tienen un Daño Base de 80, pudiendo declararse como Ataques de Filo, Penetrantes o Contundentes. El Diablo permite parar energía.",
+      "action": "Activa",
+      "pact": "El diablo pedirá al Invocador que impida que otro invocador selle un Pacto con un Arcano Invertido.",
+      "cost": 700,
+      "difficulty": 340,
+      "atk": "300",
+      "def": "300"
+    },
+    "WJy9WY0GWgiuvENa": {
+      "name": "Arcana XVI - La Torre",
+      "description": "Duración: Un día por cada 10 puntos que supere la dificultad requerida.\n\nLa torre lanza un hechizo anímico usando su habilidad de Ataque. El hechizo afecta en la TA de Energía y si logra cualquier resultado de daño, el objetivo debe superar una tirada de Resistencia RM 160 o tendrá todas sus habilidades sobrenaturales suprimidas durante la duración, incluyendo rasgos raciales, magia, ki y habilidades psíquicas.\n",
+      "action": "Activa",
+      "pact": "La Torre pide al Invocador que mate a su actual poseedor del Pacto; si nadie posee actualmente el Pacto, entonces el Invocador forma el Pacto.",
+      "cost": 750,
+      "difficulty": 360,
+      "atk": "320",
+      "def": "N/D"
+    },
+    "C3zCHTCISr0ZlLWG": {
+      "name": "Arcana XVII - La Estrella",
+      "description": "Duración: 5 asaltos por cada 10 puntos que supere la dificultad requerida.\n\nLa estrella concede al Invocador un escudo sobrenatural con PV ilimitados que no puede romperse ni disiparse de ninguna forma durante la duración. El escudo utiliza la Habilidad de Defensa de la Estrella con un bono de +10 por cada 10 puntos que se superen sobre la Dificultad de Invocación.",
+      "action": "Pasiva",
+      "pact": "El Invocador debe alzar un símbolo que inspire y brinde esperanza a un grupo de personas.",
+      "cost": 800,
+      "difficulty": 380,
+      "atk": "N/D",
+      "def": "350+"
+    },
+    "N53aNXrtDclEejCv": {
+      "name": "Arcana XVIII - La Luna",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad requerida.\n\nLa Luna crea un hechizo anímico en una zona de 100 metros alrededor del Invocador usando su habilidad de Ataque. Las  criaturas en el área; en las que se obtuvo un valor de daño en el enfrentamiento, deben realizar un chequeo de Resistencia RM 160.  Los que fallen el chequeo  quedan dominados por el Invocador, quien puede aplicar cualquier estado o transformación sobre esa criatura a su elección, con la excepción de forzar a la criatura a morir.",
+      "action": "Activa",
+      "pact": "El Invocador reta a la Luna con un acertijo que esta no pueda resolver. Ganar una batalla de ingenio contra la Luna debe ser extremadamente difícil.",
+      "cost": 850,
+      "difficulty": 400,
+      "atk": "350",
+      "def": "N/D"
+    },
+    "2PjDsjLtrfKcngnx": {
+      "name": "Arcana XX - El juicio",
+      "description": "Duración: instantáneo\n\nEfecto: El Juicio puede deshacer eventos ocurridos en un área de 1 kilómetro desde el Invocador. En esta área, todo lo que ha sucedido se revierte dentro del último minuto, más 1 minuto adicional por cada 10 puntos que se superen la Dificultad de invocación. Aquellos dentro del área pueden recordar la corrección realizada a la realidad, y solo quienes tengan Gnosis 40 o superior son inmunes al poder del Arcano. Este poder no rebobina el tiempo, sino que simplemente modifica la realidad para cambiar lo que ha sucedido.",
+      "action": "Activa",
+      "pact": "El juicio preguntará al Invocador si desea ser juzgado.\nSi el Invocador acepta, el Juicio determinará si ha tenido una influencia relevante en el mundo según los criterios del propio Arcano. Si se determina que el Invocador no ha tenido relevancia en el destino, deberá superar un Chequeo de Resistencia de RM 160 o será borrado de la existencia.\n",
+      "cost": 950,
+      "difficulty": 440,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "uHTm4xrLXDPhdK94": {
+      "name": "Arcana XXI - El Mundo",
+      "description": "Duración: 1 minuto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Durante la duración, el Invocador puede ignorar por completo los efectos de cualquier daño, estados negativos, poderes o desventajas que se le apliquen, volviéndose efectivamente invencible gracias al poder del Mundo. Seres con Gnosis 40 o superior pueden ignorar esta invulnerabilidad. Además, cualquier prueba de Habilidad enfrentada que no requiera conocimiento se resuelve automáticamente a favor del Invocador.",
+      "action": "Activa",
+      "pact": "El Mundo requerirá al Invocador cumpla el propósito de su vida. Lo que exigirá variará dependiendo de la persona que intente sellar el Pacto.\n",
+      "cost": 1000,
+      "difficulty": 460,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "YnFTfNi062QjzeA4": {
+      "name": "Behemoth - Comunión con la Tierra",
+      "description": "Duración: 5 asaltos por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: El convocador adquiere una barrera de daño de 200 puntos frente a ataques físicos, y, excepcionalmente, una barrera adicional de 80 puntos contra ataques de energía y efectos sobrenaturales. También obtiene un +50 a su RF y resistencia absoluta a conjuros de la Vía de Tierra, salvo que el lanzador posea una Gnosis de 40 o más.",
+      "action": "Activa",
+      "cost": 350,
+      "difficulty": 240,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "4poOp2ThE895wYqp": {
+      "name": "Behemoth - Señor de la Tierra",
+      "description": "Duración: tres asaltos, comenzando al momento de la invocación.\n\nEfecto: Al ser invocado, Behemot desata una catástrofe en tres fases cuyo epicentro es el convocador. Él es inmune a cualquier efecto, pero no puede seleccionar objetivos dentro del área.\n\nAsalto 1: Se genera un terremoto en un radio de 2 kilómetros que derriba a quienes no superen una Agilidad contra 12 (o Acrobacias contra Absurdo) y destruye todo lo que no tenga barrera de daño superior a 100.\nAsalto 2: Aparecen grietas bajo los pies de todos los que se encuentren a menos de 250 metros del epicentro. Deben superar una Agilidad contra 15 (o Acrobacias contra Casi Imposible) o caerán 100 metros a un río de lava, entrando directamente en estado Calcinado (Nivel 400). Quienes estuvieran derribados previamente deben pasar una Agilidad contra 18 (o Acrobacias contra Imposible) para evitar la caída.\nAsalto 3: Columnas de roca y fuego estallan. Todos los que cayeron son expulsados del magma, pero siguen ardiendo. Todos los presentes en el área de efecto sufren un ataque predeterminado de dificultad final Inhumano, con Daño Base 200 en Calor.\nPor cada 10 puntos que se supere la dificultad de invocación, el radio del terremoto aumenta en +500 metros, y el alcance de las grietas y la erupción aumenta en +50 metros. ",
+      "action": "Activa",
+      "cost": 800,
+      "difficulty": 380,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "73x8MEhyuQicgYqD": {
+      "name": "Behemoth - Pacto",
+      "description": "Otorga las invocaciones Comunión con la Tierra y Señor de la Tierra.",
+      "action": "N/D",
+      "pact": "Behemot exige al convocador que se someta a su voluntad y demuestre que puede ser útil a sus designios",
+      "cost": 500,
+      "difficulty": 240,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "3PYh52bXaGme9w42": {
+      "name": "Behemoth - Señor de la Tierra"
+    },
+    "beVG1D04avKe5ZDA": {
+      "name": "Byakko - La Garra del Rey de las Bestias",
+      "description": "Duración: Instantáneo.\n\nEfecto: El convocador realiza un ataque cuerpo a cuerpo con la habilidad de Ataque de Byakko, con Daño Base 120 que afecta a la TA de Filo. El ataque ignora 4 puntos de la armadura del defensor, y por cada 10 puntos que supere la dificultad de invocación, puede elegir entre ignorar 1 punto adicional de armadura o sumar +5 al daño base.",
+      "action": "Activa",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "300",
+      "def": "N/D"
+    },
+    "ot8TbwNs72oNFkul": {
+      "name": "Byakko - Pacto",
+      "description": "Otorga las invocaciones Protección, La Garra del Rey de las Bestias, Señor del Oeste y La Bestia Definitiva.",
+      "action": "N/D",
+      "pact": "Byakko solo se une a quienes jamás han sido derrotados. Perder un solo combate en el futuro rompe el pacto sin apelación.",
+      "cost": 800,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "fE01xfIm7iGu7Gc1": {
+      "name": "Byakko - Señor del Oeste",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese lapso, el convocador canaliza la esencia marcial de Byakko para lanzar hasta dos conjuros por asalto como si fueran innatos, sin coste de Zeón y empleando las habilidades de Ataque y Defensa del tigre blanco en lugar de Proyección Mágica. Los hechizos son Descarga de Luz (grado intermedio), Barrera de Piedra (grado Intermedio), Control Mineral (grado avanzado) o Flash Cegador (grado avanzado).",
+      "action": "Activa",
+      "cost": 660,
+      "difficulty": 340,
+      "atk": "300",
+      "def": "N/D"
+    },
+    "xqvpM0fuMb7837Xj": {
+      "name": "Byakko - Protección",
+      "description": "Duración: 2 asaltos por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Mientras esté activo, el convocador está protegido por el rugido inquebrantable de Byakko. Reduce en 20 el Daño Base de los ataques físicos que reciba y en 10 el de los ataques de energía. Esta reducción se incrementa en +10 (físico) y +5 (energía) por cada 20 puntos adicionales que supere la dificultad, hasta un máximo de -200 de Daño Base físico y -100 de energía. ",
+      "action": "Pasiva",
+      "cost": 300,
+      "difficulty": 220,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "4100o4vC19HUBH48": {
+      "name": "Byakko - La Bestia Definitiva",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese tiempo, el convocador se convierte en la encarnación del combate indomable. Obtiene +4 a Agilidad y Poder, puede alcanzar resultados de Zen, dañar incluso a seres inmunes, y recibe +50 a Ataque y Defensa, aplicables también a las habilidades de invocaciones lanzadas en ese lapso. Se reviste de una armadura natural de 6 TA contra todo tipo de daño, y puede activar la Defensa de Byakko para generar un escudo sobrenatural de 2.000 PV.",
+      "action": "Pasiva",
+      "cost": 880,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "300"
+    },
+    "7eVwiKnU7YJRvMS5": {
+      "name": "Byakko, El Tigre Blanco, Guardian del Oeste"
+    },
+    "T43JwxKiUQbPjJgz": {
+      "name": "Caronte, Titiritero de Almas",
+      "description": "Duración: 1 hora por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: El Titiritero lanza un Hechizo Anímico contra la TA de Energía de dos objetivos elegidos, usando su habilidad de Ataque. Si ambos reciben daño, deben superar una Resistencia Mágica de 140 + 5 por cada 10 puntos que supere la Dificultad, hasta un máximo de RM 200. Si los dos fallan, sus almas intercambian cuerpos durante toda la duración. Si uno de ellos muere antes de que el hechizo termine, el intercambio se vuelve permanente para el otro.",
+      "action": "Activa",
+      "pact": "El Titiritero exigirá monedas de al menos tres civilizaciones antiguas, ",
+      "cost": 700,
+      "difficulty": 340,
+      "atk": "340",
+      "def": "N/D"
+    },
+    "Q857lDPZlURsm8le": {
+      "name": "Druaga - Destructora de Demonios",
+      "description": "Duración: Instantáneo\n\nEfecto: Druaga realiza un ataque a distancia contra un enemigo a 250 metros o menos, utilizando su habilidad de Ataque contra la TA Penetrante. Este ataque inflige 60 de Daño Base, o 120 de Daño Base si el objetivo es un Ser Entre Mundos con 25 o más de Gnosis. Druaga realiza un ataque adicional por cada 10 puntos que supere la dificultad de invocación, hasta un máximo de 20 ataques,",
+      "action": "Activa",
+      "cost": 400,
+      "difficulty": 280,
+      "atk": "240",
+      "def": "N/D"
+    },
+    "gu7lSjdzDHKYAhVz": {
+      "name": "Druaga - Pacto",
+      "description": "Otorga las invocaciones Destructora de Demonios y Kali.",
+      "action": "N/D",
+      "pact": "Druaga impone al convocador una prueba impredecible y caótica, cuya naturaleza desafía la lógica o el sentido común. Puede tratarse de derrotar a decenas de enemigos poderosos o recolectar cientos de flores específicas en lugares imposibles.",
+      "cost": 550,
+      "difficulty": 320,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "2yQVxipve7148Zag": {
+      "name": "Druaga - Kali",
+      "description": "Duración: Instantáneo\n\nEfecto: Druaga realiza 10 ataques consecutivos contra un único objetivo. Cada ataque inflige 100 de Daño Base contra la TA de Filo y la reduce 4. El daño causado por los ataques, se recupera siguiendo las reglas de sacrificio.\nLa habilidad de Ataque de Druaga se incrementa en +5 por cada 10 puntos que supere la dificultad de invocación, hasta un máximo de 400. Si el objetivo muere antes de recibir los 10 ataques, los restantes se redirigen contra el propio Invocador.",
+      "action": "Activa",
+      "cost": 700,
+      "difficulty": 340,
+      "atk": "320+",
+      "def": "N/D"
+    },
+    "40aLVwSuzCs0SZGy": {
+      "name": "Druaga"
+    },
+    "jb7X4Aj7Dzwwfxcc": {
+      "name": "Eir - Einjear",
+      "description": "Duración: 1 hora por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Eir permite que los espíritus de los caídos que se encuentren a menos de 100 metros, que aún esperen el Llamamiento y conserven voluntad de luchar, regresen al combate. Estos no están bajo el control del Invocador y nunca actuarán en contra de su naturaleza o antiguos aliados. Si sus cuerpos permanecen cerca y en condiciones, volverán a ellos con todos sus PV, conservando los niveles de Zeon, Ki y CVs que tenían al morir. Si no, se alzarán como espíritus materiales, con todos sus PV pero sin Zeon, Ki ni CVs, siendo inmunes a ataques que no afecten a la energía. Permanecen activos hasta agotar la duración o ser destruidos nuevamente.",
+      "action": "Activa",
+      "cost": 800,
+      "difficulty": 380,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "Dle7xkrE2XuAMztO": {
+      "name": "Eir - El Ojo de la Muerte",
+      "description": "Duración: 1 hora por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: El Invocador adquiere una habilidad de 240 en Medicina y Ocultismo, aplicable únicamente para diagnosticar y curar afecciones y heridas, tanto naturales como sobrenaturales.",
+      "action": "Activa",
+      "cost": 240,
+      "difficulty": 200,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "iRQuFMuSZsF5cXFX": {
+      "name": "Eir - Pacto",
+      "description": "Otorga las invocaciones El Ojo de la Muerte y Einjear.",
+      "action": "N/D",
+      "pact": "El Invocador debe salvar al menos a cinco personas de una muerte segura",
+      "cost": 400,
+      "difficulty": 280,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "hFyuTtiqdE5wJYm7": {
+      "name": "Eir, La Primera Valkyria"
+    },
+    "ydofcpfQlGRyiVb9": {
+      "name": "Enamon",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Enamon ejecuta una melodía que, tras 1 asalto completo, afecta a todos los presentes en un radio de 500 metros. Los afectados deben superar un Chequeo de RM o RP con una dificultad de 100 + 5 por cada 10 puntos que supere la dificultad de invocación, o quedarán fascinados durante toda la duración.\nMientras permanezcan fascinados, actuarán como sonámbulos, cumpliendo el mensaje de la canción. Si dicha instrucción va en contra de sus creencias más arraigadas, podrán realizar un nuevo Chequeo de Resistencia con un bonificador de +20 a su tirada.",
+      "action": "Activa",
+      "pact": "Enamon exige que una gran multitud, normalmente mil personas o más, alaben el talento musical o poético del Invocador. ",
+      "cost": 500,
+      "difficulty": 220,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "2lGiLZ2UiRyr1Qhz": {
+      "name": "Ethelthryth - Ordinare",
+      "description": "Duración: Instantáneo.\n\nEfecto: Si el Invocador conoce el Nombre Verdadero de una persona, se activa automáticamente un Hechizo Anímico que obliga al objetivo a superar una Resistencia Mágica de 140 + 5 por cada 10 puntos que supere la dificultad de invocación. Si falla, deberá obedecer la orden del Invocador hasta un máximo de 1 hora. El Invocador no puede ordenar al objetivo morir, y si la orden entra en conflicto directo con su naturaleza, este recibe un bonificador de +40 a su RM.",
+      "action": "Activa",
+      "cost": 450,
+      "difficulty": 320,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "agJLfI2mgW0JAJAt": {
+      "name": "Ethelthryth - In Nomine",
+      "description": "Duración: Instantáneo.\n\nEfecto: Ethelthryth lanza un Hechizo Anímico utilizando su habilidad de Ataque contra la TA de Energía del objetivo. Si inflige daño, por cada 10 puntos que supere la dificultad de invocación, el Invocador puede elegir entre aumentar en +10 la dificultad de la RM del objetivo o fijar a un blanco adicional diferente. Si el objetivo falla la RM, el Invocador descubre su Nombre Verdadero.",
+      "action": "Activa",
+      "cost": 350,
+      "difficulty": 240,
+      "atk": "300",
+      "def": "N/D"
+    },
+    "vMWEV8ykPfGGPKaR": {
+      "name": "Ethelthryth - Pacto",
+      "description": "Otorga las invocaciones In Nomine y Ordinare.",
+      "action": "N/D",
+      "pact": "El Invocador debe descubrir el Nombre Verdadero de un lugar, un objeto y una persona cuya identidad haya sido olvidada en el tiempo.",
+      "cost": 400,
+      "difficulty": 280,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "T7ZbFh870YUvTPK4": {
+      "name": "Ethelthryth, Señora de los Nombres"
+    },
+    "bTzaNOQZqaNqfq4B": {
+      "name": "Forseti - Equilibrium",
+      "description": "Duración: Instantáneo\n\nEfecto: Solo puede invocarse en el instante exacto en que el Invocador sufre daño por parte de un enemigo. El atacante debe superar una Resistencia Mágica de 140 + 5 por cada 10 puntos que supere la dificultad de invocación, con un máximo de 240 de RM.\nSi falla, el daño recibido por el Invocador se tranfiere al atacante hasta un máximo de 250 puntos de vida.",
+      "action": "Pasiva",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "48seuUkKsKkqPajG": {
+      "name": "Forseti - Equilibrium Mundi",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante este tiempo, cada vez que el Invocador reciba daño a causa de un ataque, el atacante debe superar una Resistencia Mágica de 120 + 5 por cada 10 puntos que supere la dificultad de invocación, hasta un máximo de 240 de RM.\nSi falla, el daño recibido por el Invocador se tranfiere al atacante hasta un máximo de 250 puntos de vida.",
+      "action": "Activa",
+      "cost": 700,
+      "difficulty": 340,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "hb917NGC6S28ehux": {
+      "name": "Forseti - Pacto",
+      "description": "Otorga las invocaciones Equilibrium y Equilibrium Mundi.",
+      "action": "N/D",
+      "pact": "El invocador deberá restaurar el equilibrio en tres lugares o eventos específicos, elegidos por Forseti.",
+      "cost": 600,
+      "difficulty": 320,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "1oMAXqUVhsEDq6Nd": {
+      "name": "Forseti, Señor del Equilibrio"
+    },
+    "QgRWjRv3MHNKpEY6": {
+      "name": "Galgaliel, Angel de los Dones",
+      "description": "Duración: 1 hora por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Galgaliel forja para el Invocador un arma de luz de Calidad +10, cuya existencia se mantiene durante toda la duración. Esta arma inflige el doble de daño contra criaturas oscuras o malignas.",
+      "action": "Activa",
+      "pact": "El Invocador debe jurar que solo hará el bien. Si alguna vez quebranta esta promesa, Galgaliel no volverá a servirle.",
+      "cost": 400,
+      "difficulty": 260,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "UlH58znMMVh2s44h": {
+      "name": "Garuda, Alas de Fuego",
+      "description": "Duración: 1 asalto por cada punto que supere la dificultad requerida.\n\nEfecto: Garuda genera una cúpula de llamas sólidas que rodea al Invocador o a quienes este elija proteger, con un radio máximo de 10 metros. Todos dentro de la barrera—aliados o enemigos—quedan protegidos, pero no pueden salir ni atacar hacia el exterior, y de igual forma, nadie fuera de la cúpula puede acceder ni atacar hacia su interior, a menos que la cúpula sea primero destruida o anulada.\nLa barrera posee TA total 8, sin puntos vulnerables, y 2.000 PV + 200 por cada 10 puntos que supere la dificultad de invocación. Solo puede ser dañada por ataques que afecten energía, y es completamente inmune al Calor y la Electricidad, tanto naturales como sobrenaturales.",
+      "action": "Activa",
+      "pact": "Garuda exigirá al Invocador que mate a un dragón y traiga su corazón para que la Garuda lo devore",
+      "cost": 350,
+      "difficulty": 220,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "Awb1JPRJPCA7Siy3": {
+      "name": "Genbu - Clarividencia",
+      "description": "Duración: Instantáneo.\n\nEfecto: El convocador obtiene una visión simbólica sobre los sucesos que pueden ocurrir a su alrededor en un plazo de un día. Estas impresiones son siempre crípticas y ambiguas, y representan posibilidades, no certezas, pues pueden variar si intervienen entidades de elevada Gnosis o Natura. Por cada 10 puntos que se supere la dificultad de invocación, el personaje puede elegir enfocarse en un evento específico que ocurra dentro de una hora para obtener mayor claridad, o extender su mirada días adicionales hacia el futuro.",
+      "action": "Activa",
+      "cost": 300,
+      "difficulty": 220,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "4Bl4WPmBM1N1ism2": {
+      "name": "Genbu - Pacto",
+      "description": "Otorga las invocaciones Clarividencia, El Escudo Definitivo, Señor del Norte y Amo de las Entrañas de la Tierra.",
+      "action": "N/D",
+      "pact": "Genbu solo sella su vínculo con aquellos libres de pecado o a quienes haya perdonado tras haber enmendado sus actos pasados. El lazo permanece mientras el convocador se mantenga virtuoso; una sola transgresión futura lo rompe de inmediato.\n\n ",
+      "cost": 800,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "VV8wuVktJJoIqA65": {
+      "name": "Genbu - Amo de las Entrañas de la Tierra",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese tiempo, el convocador se convierte en el fundamento viviente de la tierra. Obtiene +4 a Inteligencia y Poder, puede alcanzar resultados de Zen, dañar incluso a seres inmunes, y adquiere un +50 a su habilidad de Defensa, que también puede aplicar a cualquier invocación lanzada en ese periodo. Su cuerpo se reviste de una armadura natural de 5 TA contra todo tipo de daño, y puede activar un escudo sobrenatural de 2.000 PV utilizando la Defensa de Genbu.",
+      "action": "Pasiva",
+      "cost": 880,
+      "difficulty": 400,
+      "atk": "280",
+      "def": "300"
+    },
+    "nmunh3xefx1fHYut": {
+      "name": "Genbu - Señor del Norte",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: El convocador encarna el fluir ancestral de Genbu, manipulando corrientes y líquidos a voluntad. Puede lanzar hasta dos sortilegios por asalto como si fueran innatos, sin coste de Zeón y empleando las habilidades de Ataque y Defensa de Genbu en lugar de Proyección Mágica. Estos son Impacto de Agua (grado intermedio), Burbuja Protectora (grado avanzado), Control de las Mareas (grado base) o Prisión de Agua (grado base).",
+      "action": "Activa",
+      "cost": 660,
+      "difficulty": 340,
+      "atk": "300",
+      "def": "300"
+    },
+    "kj5UJZ0YVuGWbQ2j": {
+      "name": "Genbu - El Escudo Definitivo",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: El invocador crea un escudo sobrenatural vinculado a la habilidad de Defensa de Genbu. Esta barrera posee 5.000 PV +200 por cada 10 puntos que supere la dificultad. Si el escudo bloquea con éxito un ataque cuerpo a cuerpo con arma, dicha arma debe superar un chequeo de Entereza contra Rotura 18 o romperse al impacto.",
+      "action": "Activa",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "RAL2ekA9WOvWsIR2": {
+      "name": "Genbu, La Tortuga Negra, Guardian del Norte"
+    },
+    "T2QKv31b6lrFyHqE": {
+      "name": "Grandes Bestias"
+    },
+    "WJOIGzXoDO0JqzdJ": {
+      "name": "Hermod, El Mensajero de los Dioses",
+      "description": "Duración: Variable, generalmente 1 asalto.\n\nEfecto: El Mensajero puede entregar cualquier mensaje o paquete compuesto exclusivamente de objetos inorgánicos, con una Presencia máxima de 60 + 5 por cada 10 puntos que superen la dificultad requerida, en prácticamente cualquier lugar del mundo de forma instantánea.",
+      "action": "Activa",
+      "pact": "El Mensajero informa al Invocador de la existencia de una persona que desea enviar un mensaje a gran distancia, y le encomienda la misión de encontrarla y entregar dicho mensaje de forma segura, dentro del plazo que esa persona necesite.",
+      "cost": 200,
+      "difficulty": 150,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "5cn6CpqMAdRW1KrL": {
+      "name": "Huginn and Muninn - Ojo del Mundo",
+      "description": "Duración: 1 hora por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: El Invocador adquiere Visión Extrasensorial. Puede observar cualquier lugar en un radio de 500 metros como si poseyera una habilidad de Advertir y Buscar de 240.",
+      "action": "Activa",
+      "cost": 240,
+      "difficulty": 200,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "ij72rhzW2Af274Zq": {
+      "name": "Huginn and Muninn - Pacto",
+      "description": "Otorga las invocaciones Visión Verdadera y Ojo del Mundo.",
+      "action": "N/D",
+      "pact": "El Invocador debe entregar uno de sus propios ojos o, en su defecto, reunir al menos mil ojos recién extraídos para sellar el Pacto.",
+      "cost": 200,
+      "difficulty": 180,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "uCX9y9T0lcoHxbte": {
+      "name": "Huginn and Muninn - Visión Verdadera",
+      "description": "Duración: 1 hora por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: El Invocador obtiene la capacidad de ver espíritus y criaturas invisibles, así como de percibir todos los poderes mágicos y matrices psíquicas durante la duración del efecto.",
+      "action": "Activa",
+      "cost": 120,
+      "difficulty": 140,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "UwdhnM4YysKT2ovJ": {
+      "name": "Huginn y Muninn, Ojos de Cuervo"
+    },
+    "E2h9lil5j2f5Zwi3": {
+      "name": "Idea, “Musa” de la Locura",
+      "description": "Duración: Instantáneo.\n\nIdea lanza un Hechizo Anímico como un ataque de energía contra un objetivo a un máximo de 300 metros. Si el ataque causa daño, el blanco debe superar una RM o RP contra 120 +5 por cada 10 puntos que supere la dificultad de invocación. Si falla por menos de 20, sufre una psicosis menor que lo lleva a un estado de Terror o Ira durante 5 asaltos; si falla por entre 20 y 60, padece una locura temporal —como esquizofrenia o paranoia— que se extiende hasta la próxima Luna Nueva; y si la diferencia es mayor a 60, pierde el contacto con la realidad para siempre.",
+      "action": "Activa",
+      "pact": "El Invocador debe inducir a una gran multitud a un estado de locura colectiva,",
+      "cost": 400,
+      "difficulty": 240,
+      "atk": "220",
+      "def": "N/D"
+    },
+    "mXOF4nbHGKQXQehq": {
+      "name": "Idún - Envejecer",
+      "description": "Duración: Instantáneo.\n\nEfecto: La Dama Idún lanza un Hechizo Anímico que impacta contra la TA de Energía utilizando su habilidad de Ataque. Si inflige daño, el objetivo debe superar una Resistencia Mágica de 140 + 5 por cada 10 puntos que supere la dificultad de invocación. Si falla, envejece tantos años como el margen de fracaso, quedando afectado por los estragos físicos de la vejez sin llegar a morir. Este efecto es temporal, y el objetivo rejuvenece a razón de 1 año por hora hasta recuperar su edad original.",
+      "action": "Activa",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "240",
+      "def": "N/D"
+    },
+    "T9S1Sea9pDkSJ0P4": {
+      "name": "Idún - Pacto",
+      "description": "Otorga las invocaciones Envejecer y Rejuvenecer.",
+      "action": "N/D",
+      "pact": "Si el Invocador es humano, debe sacrificar 10 años de su esperanza de vida. Si no es humano, deberá ofrecer una cantidad equivalente de años según su especie. Este sacrificio se realiza de forma instantánea, envejeciendo al Invocador de inmediato. Los seres inmortales no pueden sellar el Pacto con Idun.",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "o7zG3FT3yS5GGkt7": {
+      "name": "Idún - Rejuvenecer",
+      "description": "Duración: Instantáneo.\n\nEfecto: La Dama lanza un Hechizo Anímico que impacta contra la TA de Energía utilizando su habilidad de Ataque. Si inflige daño, el objetivo debe superar una Resistencia Mágica de 120 + 5 por cada 10 puntos que supere la dificultad de invocación. Si falla, envejece tantos años como el margen de fracaso, quedando afectado por los estragos físicos de la vejez sin llegar a morir. Este efecto es temporal, y el objetivo rejuvenece a razón de 1 año por hora hasta recuperar su edad original.",
+      "action": "Activa",
+      "cost": 400,
+      "difficulty": 240,
+      "atk": "200",
+      "def": "N/D"
+    },
+    "aeyn4KzcKyMvyX5s": {
+      "name": "Idún, Señora de la juventud eterna"
+    },
+    "JUWZl5Cp8x5iNpDm": {
+      "name": "Kagutsuchi - Hi no Komodo",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Al ser invocado, Kagutsuchi lanza un Hechizo Anímico contra la TA de Energía de un único objetivo, utilizando su habilidad de Ataque. Si el objetivo sufre daño, Hi no Kodomo lo envuelve en llamas sobrenaturales. El objetivo queda ardiendo un asalto por cada 10 puntos que el Invocador haya superado la dificultad de invocación, y debe realizar una RF contra 140 cada asalto, sufriendo un daño igual al nivel de fallo hasta que el efecto se disipe.",
+      "action": "Activa",
+      "cost": 350,
+      "difficulty": 200,
+      "atk": "220",
+      "def": "N/D"
+    },
+    "7IGZe4eonJ7tljog": {
+      "name": "Kagutsuchi - Hi no Tsubasa",
+      "description": "Duración: Instantáneo\n\nEfecto: Kagutsuchi desata un ataque sobrenatural en línea, utilizando su habilidad de Ataque contra la TA de Calor. El Invocador decide qué objetivos son alcanzados por las llamas, que reducen a cenizas toda amenaza.\nEl ataque inflige 200 de Daño Base, ocupando un espacio de 50 metros de ancho por 100 metros de largo +20 metros de longitud por cada 10 puntos que supere la dificultad de invocación.",
+      "action": "Activa",
+      "cost": 650,
+      "difficulty": 360,
+      "atk": "340",
+      "def": "N/D"
+    },
+    "CNaAi5ur2GT4RXLB": {
+      "name": "Kagutsuchi - Pacto",
+      "description": "Otorga las invocaciones Hi no Komodo y Hi no Tsubasa.",
+      "action": "N/D",
+      "pact": "Kagutsuchi exige al convocador que atraviese su cuerpo en llamas. Si sobrevive a las quemaduras, sella el pacto.",
+      "cost": 450,
+      "difficulty": 220,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "JHUjHvhJ0Lx29LiE": {
+      "name": "Kagutsuchi, Señor del Fuego"
+    },
+    "NpE15eJIiPtDtPYp": {
+      "name": "Kirín - Feng Shui",
+      "description": "Duración: Igual a la duración del poder que se copie mediante Feng Shui.\n\nEfecto: El convocador puede usar cualquier habilidad de Seiryu, Genbu, Suzaku o Byakko, respetando su efecto original, pero aplicando la dificultad y coste propios de Feng Shui. Para los efectos que dependan de cuántos puntos se supera la dificultad de invocación, se cuentan los puntos por encima de la dificultad de Feng Shui, no la del poder imitado.",
+      "action": "Activa",
+      "cost": 1000,
+      "difficulty": 440,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "unHsPHedUsoefUKC": {
+      "name": "Kirín - Pacto",
+      "description": "Otorga la invocación Feng Shui.",
+      "action": "N/D",
+      "pact": "Kirin solo se vincula con quien ya cumple las condiciones de Genbu, Suzaku, Seiryu y Byakko, aunque sólo haya pactado con uno. Si el invocador incumple cualquiera de esas condiciones, el pacto se disuelve sin excepción.",
+      "cost": 800,
+      "difficulty": 440,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "idgdDnIOHqfvBlgP": {
+      "name": "Kirin, El Centro"
+    },
+    "bLt5sA22MVDp1P6L": {
+      "name": "Leviathan - Pacto",
+      "description": "Otorga las invocaciones  Comunión con el Agua y Señor de las Aguas.",
+      "action": "N/D",
+      "pact": "El convocador debe obedecer la voluntad de Leviatán y ganarse su favor.",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "7hqeipMMdQu8qi3O": {
+      "name": "Leviathan - Comunión con el Agua",
+      "description": "Duración: 5 asaltos por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese tiempo, el convocador recibe la mitad del daño de cualquier fuente y obtiene inmunidad total contra la magia de la Vía de Agua, a excepción de conjuros lanzados por seres con Gnosis 40 o superior.",
+      "action": "Activa",
+      "cost": 350,
+      "difficulty": 240,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "Kki3WpZLsb6Ku394": {
+      "name": "Leviathan - Señor de las Aguas",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad.\n\nEfecto: Leviatán desata un tsunami de 5 km de ancho y 500 m de alto, que avanza con Movimiento 10, arrasando todo a su paso, incluso donde no hay agua. Estructuras con barrera ≤120 son destruidas, y quienes no superen Fuerza 18 son engullidos.\nLos atrapados sufren Parálisis Total y cada asalto un ataque Inhumano (Daño Contundente 100–150). Una prueba de Nadar puede aliviar la presa: Difícil (Parálisis Parcial), Absurdo (Menor), Casi Imposible (ninguna). Cada nivel adicional reduce también la dificultad del ataque.\nEl convocador permanece inmune a todos los efectos.",
+      "action": "Activa",
+      "cost": 800,
+      "difficulty": 380,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "Dd3Xrvr2ZkxBVt2p": {
+      "name": "Leviathan, Señor de los Oceanos"
+    },
+    "8ZFQXxAR0tZw8EeV": {
+      "name": "Lix Tetrax",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Lix Tetrax hace brotar alas sobre la espalda del Invocador, otorgándole un Valor de Vuelo Natural de 12 durante toda la duración.",
+      "action": "Pasiva",
+      "pact": "El Invocador debe liberar de un cautiverio injusto a la persona que Lix le indique. ",
+      "cost": 200,
+      "difficulty": 180,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "gP9EmEAUqUhpy2Nv": {
+      "name": "Naaga, Madre de los Venenos",
+      "description": "Duración: Instantáneo.\n\nEfecto: Naaga ejecuta un ataque físico en Penetrante, usando su habilidad de Ataque con un Daño Base de 50. Si el objetivo sufre daño, queda afectado por un veneno sobrenatural de nivel 40, cuyos efectos decide el Invocador.\nPor cada 20 puntos que supere la dificultad de invocación, el nivel del veneno y la habilidad de Ataque aumentan en +5, sin que esta pueda superar un máximo de 350.",
+      "action": "Activa",
+      "pact": "El Invocador debe beber una pequeña dosis de veneno de nivel 80 creado por Naaga, cuyos efectos le son completamente desconocidos. Si logra sobrevivir sin ayuda externa, el Pacto queda sellado.",
+      "cost": 200,
+      "difficulty": 140,
+      "atk": "160+",
+      "def": "N/D"
+    },
+    "BF8PaEk3eJlzifGB": {
+      "name": "Oficial"
+    },
+    "HnyMjsNlXjmyKTdN": {
+      "name": "Pandora, El castigo divino",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Pandora lanza un Hechizo Anímico centrado en el Invocador, creando un área de 20 m +10 por cada 10 puntos que supere la dificultad de invocación, que ataca en la TA de Energía de todos los presentes mediante su habilidad de Ataque. Si un objetivo recibe daño, debe superar una RM 120 +5 por cada 10 puntos que supere la dificultad de invocación (máx. 260 RM)\nQuienes fallen la RM se ven afectados por un estado aleatorio determinado por una tirada de 1d100, cuyo efecto dura hasta que finalice la duración. Incluso el Invocador es objetivo de este poder, aunque puede repetir la tirada una sola vez, aceptando el segundo resultado obligatoriamente.\n\nTabla de efectos (1d100):\n1–5: Recupera 200 LP   36–40: Ceguera      71–75: Alucinaciones\n6–10: Fascinación     41–45: Sordera      76–80: Debilidad\n11–15: +20 a toda acción  46–50: Euforia      81–85: Parálisis total\n16–20: Dolor         51–55: Mudez       86–90: Miedo\n21–25: Daño a LP      56–60: Inconsciencia   91–95: Terror\n26–30: Ira           61–65: Coma        96–99: +50 a toda acción\n31–35: +40 a todas resistencias 66–70: Éxtasis      100: Muerte",
+      "action": "Activa",
+      "pact": "El Invocador debe provocar una catástrofe que sumerja a un gran número de personas en la desesperación y el tormento, para detenerla antes de que sea demasiado tarde.",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "260",
+      "def": "N/D"
+    },
+    "EVjMjeVPonxMmngH": {
+      "name": "Arcanos Puros"
+    },
+    "jICaUGJaKKrJ60oU": {
+      "name": "Raksasha",
+      "description": "Raksasa realiza un Hechizo Anímico que, si impacta al objetivo, lo arrastra a una cámara de tortura sobrenatural. Allí deberá superar una RF contra 120 o sufrir un penalizador a toda acción igual a la mitad del nivel de fracaso. Por cada 10 puntos que supere la dificultad de la invocación, la rueda de la tortura gira una vez más, obligando a repetir la RF con +5 a la dificultad. Si falla cualquier tirada por más de 80, el objetivo muere del dolor. Aquellos inmunes al dolor no pueden ser objetivo de esta invocación.",
+      "action": "Activa",
+      "pact": "El Invocador debe sacrificarse a sí mismo o sacrificar a la persona que más ama para sellar el Pacto con Raksasa. El sujeto del sacrificio deberá superar una Resistencia Física de 160; si falla, sufre una penalización a toda acción equivalente al margen de fracaso, la cual se recupera a razón de 1 punto por día. Sin embargo, si el fallo es de 80 o más, el dolor infligido provoca su muerte inmediata. Las criaturas inmunes al dolor no pueden sellar este Pacto.",
+      "cost": 400,
+      "difficulty": 220,
+      "atk": "180",
+      "def": "N/D"
+    },
+    "oTvmYcFP2fYXUtC3": {
+      "name": "Invertido 0 - El Loco",
+      "description": "Duración: Un minuto por cada 10 puntos que supere la dificultad requerida\n\nEfecto: El Loco impone un penalizador de -50 a cualquier invocación realizada en su presencia, pudiendo incluso impedir su éxito. Es importante señalar que este efecto solo afecta la habilidad de convocar de un personaje al momento de realizar la invocación.",
+      "action": "Activa",
+      "pact": "El Loco Invertido exige que el usuario intente invocar y falle un Pacto con otro Arcano.",
+      "cost": 100,
+      "difficulty": 120,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "SNcRbcnMY49RbRg6": {
+      "name": "Arcanos Invertidos"
+    },
+    "GSRfwufHnDncYEOz": {
+      "name": "Invertido I - El Hierofante",
+      "description": "Duración: 1 Asalto por cada 10 puntos que supere la Dificultad requerida.\n\nEfecto: Mientras se mantenga la invocación, el Hierofante Invertido puede desatar una única descarga de oscuridad contra el enemigo del Invocador, utilizando su habilidad de Ataque bajo las reglas de un Hechizo de Ataque contra la TA de Energía y un Daño Base de 100.",
+      "action": "Activa",
+      "pact": "El Hierofante Invertido transmite un conocimiento limitado sobre una criatura específica para que el Invocador pueda convocarla. Sin embargo exigirá que la criatura debe permanecer libre y sin ataduras tras la invocación para que el Pacto se complete",
+      "cost": 100,
+      "difficulty": 130,
+      "atk": "140",
+      "def": "N/D"
+    },
+    "94LlUE1mXidp6mMf": {
+      "name": "Invertido II - La Suma Sacerdotisa",
+      "description": "Duración: Instantáneo..\n\nEfecto: La Suma Sacerdotisa Invertida desata una explosión de energía de amplio alcance usando su habilidad de Ataque, aplicando las reglas de un Hechizo de Ataque contra la TA de Energía. Su Daño Base es 80 y afecta a todos dentro de un área de 20 m, ampliándose en 10 m por cada 10 puntos que superen la Dificultad de la invocación.",
+      "action": "Activa",
+      "pact": "La Suma Sacerdotisa invertida exige al Invocador destruir un objeto o criatura sobrenatural de su elección.",
+      "cost": 150,
+      "difficulty": 140,
+      "atk": "160",
+      "def": "N/D"
+    },
+    "6lM4SaRhLof87BCS": {
+      "name": "Invertido III - La Emperatriz",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: La emperatriz Invertida usa su habilidad de Ataque para lanzar un Hechizo Anímico contra la TA de Energía. Si causa daño, el objetivo debe superar un chequeo de RM cotra una dificultad de 120 + 5 por cada 10 puntos que excedan la dificultad requerida. Quienes fallen se verán forzados a repetir sus acciones activas realizadas en el asalto de la invocación, hasta el final de la duración.",
+      "action": "Activa",
+      "pact": "El invocador debe destruir cualquier obra que haya creado y matar a su descendencia, en el caso de que la tenga",
+      "cost": 200,
+      "difficulty": 150,
+      "atk": "160",
+      "def": "N/D"
+    },
+    "K1Jku15NiQDGByqH": {
+      "name": "Invertido IV - El Emperador",
+      "description": "Duración: 5 asaltos por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: El Emperador Invertido usa su habilidad de Ataque para lanzar un Hechizo Anímico contra la TA de Energía. Si causa daño, el objetivo debe superar un chequeo de RM o RP con una dificultad de 140. Quienes fallen se volverán obedientes al Invocador hasta el final de la duración, salvo que reciban una orden que entre en un fuerte conflicto con su comportamiento, lo que les permitirá un nuevo chequeo de Resistencia.",
+      "action": "Activa",
+      "pact": "El emperador invertido exige que el Invocador deba emplear la fuerza para someter a un grupo de personas que fueran sus iguales o que actualmente sean individuos libres.",
+      "cost": 200,
+      "difficulty": 160,
+      "atk": "180",
+      "def": "N/D"
+    },
+    "fHM7Tbcz5JWoZX2A": {
+      "name": "Invertido IX - El Ermitaño",
+      "description": "Duración: Instantáneo.\n\nEfecto: El Ermitaño Invertido usa su habilidad de Ataque para lanzar un Hechizo Anímico sobre el objetivo, afectando su AT de Energía. Si el Hechizo causa daño, el objetivo debe superar un chequeo de RM con una dificultad de 140 + 5 por cada 10 puntos que excedan la dificultad requerida. Si falla, queda atrapado en la Vigilia durante 1 minuto por cada nivel de fracaso, regresando posteriormente a su ubicación original.",
+      "action": "Activa",
+      "pact": "El Invocador debe aislarse y no ver a nadie durante al menos un año",
+      "cost": 400,
+      "difficulty": 240,
+      "atk": "220",
+      "def": "N/D"
+    },
+    "KZJokny1rnfsV38B": {
+      "name": "Invertido V - El Sumo Sacerdote",
+      "description": "Duración: Instantáneo.\n\nEfecto: El Sumo Sacerdote usa su habilidad de Defensa para formar un escudo sobrenatural que protege contra cualquier ataque durante el asalto. El escudo tiene un máximo de PV de 1.000 + 100 por cada 10 puntos que excedan la dificultad requerida.",
+      "action": "Pasiva",
+      "pact": "El Invocador debe fundar un culto y asumir el papel de líder, con el único propósito de engañar y manipular a sus seguidores.",
+      "cost": 250,
+      "difficulty": 170,
+      "atk": "N/D",
+      "def": "180"
+    },
+    "T5sVJbimFOfFeE9i": {
+      "name": "Invertido VI - Los Enamorados",
+      "description": "Duración: Instantáneo.\n\nEfecto: Los Enamorados Invertido realiza un ataque con un Hechizo Anímico usando su habilidad de Ataque, dirigido contra la TA de Energía. Si causa daño, el objetivo debe superar un chequeo de RM con una dificultad de 120 + 5 por cada 10 puntos que excedan la dificultad requerida. El objetivo pierde PV y Zeon equivalentes al nivel de fallo, los cuales el Invocador absorbe para restaurar los suyos. Para que la víctima se recupere, el Invocador debe perder primero una cantidad de PV equivalentes a los que absorbió o gastar Zeon.",
+      "action": "Activa",
+      "pact": "El Invocador debe sacrificar o destruir el objeto o la persona que más le importe.",
+      "cost": 250,
+      "difficulty": 180,
+      "atk": "200",
+      "def": "N/D"
+    },
+    "8qpG5S5a5A6CahWm": {
+      "name": "Invertido VII - El Carro",
+      "description": "Duración: Instantáneo.\n\nEfecto: El Arcano lanza un Hechizo Anímico con su habilidad de Ataque contra la TA de Energía. Si causa daño, el objetivo debe superar un chequeo de RM con una dificultad de 160. Si falla, será transportado aleatoriamente a un lugar distante, comenzando en 100 km y aumentando 100 km adicionales por cada 10 puntos que supere la dificultad requerida. El Invocador no conoce el destino del objetivo, pero puede elegir ser transportado en su lugar.",
+      "action": "Activa",
+      "pact": "El Invocador y quienes estén cerca son transportados a un lugar aleatorio a miles de kilómetros de distancia. Si regresan al sitio donde el Arcano fue invocado y lo convocan nuevamente, el Pacto queda sellado.",
+      "cost": 300,
+      "difficulty": 190,
+      "atk": "220",
+      "def": "N/D"
+    },
+    "E8qVADVAspMBMIvv": {
+      "name": "Invertido VIII - La Fuerza",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Al ser invocado, y en cada asalto de la duración, el Arcano realiza un ataque físico en la TA Contundente usando su habilidad de Ataque. Este ataque tiene un Daño Base de 100. Cada asalto en el que no logre infligir daño con su ataque, su Daño Base aumenta en +20. El Invocador debe dirigir al Arcano a atacar a una entidad viva o animada en cada asalto, de lo contrario, el Arcano atacará al propio Invocador.",
+      "action": "Activa",
+      "pact": "Tras la invocación, el Arcano susurra al Invocador, instándolo a cometer actos violentos cuando y donde lo exija. Una vez que su deseo de violencia se ha cumplido, el Pacto queda sellado.",
+      "cost": 350,
+      "difficulty": 200,
+      "atk": "220",
+      "def": "N/D"
+    },
+    "QO61UCoUxRAGiCKq": {
+      "name": "Invertido X - La Rueda",
+      "description": "Duración: Instantáneo.\n\nEfecto: La Rueda Invertida libera un Hechizo Anímico en un área de 100 m alrededor del Invocador. Si causa daño, quienes se encuentren en la zona deben superar un chequeo de RM con una dificultad de 120 + 5 por cada 10 puntos que supere la dificultad requerida. Quienes fallen pierden 1 nivel, más 1 nivel adicional por cada 40 puntos de fracaso.",
+      "action": "Activa",
+      "pact": "El Invocador debe haber sellado al menos cuatro Pactos con otras invocaciones. Para aceptar el Pacto con este Arcano, debe romper uno de esos Pactos al azar.",
+      "cost": 450,
+      "difficulty": 240,
+      "atk": "240",
+      "def": "N/D"
+    },
+    "GThSnJ47Hv4lWYA7": {
+      "name": "Invertido XI - La Justicia",
+      "description": "Duración: Instantáneo.\n\nEfecto: El Arcano libera un Hechizo Anímico usando su habilidad de Ataque contra la AT de Energía del objetivo. Si causa daño, el objetivo debe superar un chequeo de RM con una dificultad de 140. Si falla, una de sus habilidades principales (Combate, Sobrenatural o Psíquica) queda sellada. El Invocador obtiene acceso a los valores de esa categoría y cualquier poder asociado durante 1 minuto por cada 10 puntos que superen la dificultad requerida. Al finalizar la duración, el objetivo recupera sus habilidades, pero sus reservas de Zeon, Ki y CV no se restauran. Sin embargo, su cansancio sí se recupera, y el daño sufrido por el Invocador no se transfiere de vuelta al objetivo.",
+      "action": "Activa",
+      "pact": "La Justicia Invertida exige al Invocador que lleve a cabo uno o varios actos injustos que él mismo determinará. Las repercusiones de estas acciones deben desatar un caos masivo en el lugar donde ocurren.",
+      "cost": 500,
+      "difficulty": 260,
+      "atk": "240",
+      "def": "N/D"
+    },
+    "wML22c5c5iqG6aKK": {
+      "name": "Invertido XII - El Colgado",
+      "description": "Duración: Instantáneo.\n\nEfecto: El Colgado Invertidi libera un Hechizo Anímico en un área de 50 m, atacando en la TA de Energía. Si causa daño, los afectados deben superar un chequeo de RM con una dificultad de 140 + 5 por cada 10 puntos que superen la dificultad requerida. Si fallan, reciben un Penalizador a Todas las Acciones equivalente al nivel de fallo, recuperándose a razón de 10 por hora. Aquellos que fallen por 80 o más sufrirán el penalizador para siempre.",
+      "action": "Activa",
+      "pact": "El Invocador debe aceptar un sufrimiento descomunal que lo mantiene en estado de Dolor Intenso (-80 a toda acción). Para liberarse de esta carga, debe encontrar a alguien que acepte voluntariamente recibir ese sufrimiento y convivir con él hasta su muerte. Si el Invocador cancela el estado de Dolor Intenso por voluntad propia, el Pacto se rompe automáticamente.",
+      "cost": 550,
+      "difficulty": 280,
+      "atk": "260",
+      "def": "N/D"
+    },
+    "5ppk2JC1j6uEVu04": {
+      "name": "Invertido XIII - La Muerte",
+      "description": "Duración: Instantáneo.\n\nEfecto: La Muerte Invertida ejecuta un Hechizo Anímico letal contra un objetivo dentro del alcance cuerpo a cuerpo del Invocador, atacando la TA de Energía. Su habilidad de Ataque es de 240 + 10 por cada 10 puntos que superen la dificultad requerida. Debido a su naturaleza, incluso aquellos ajenos a lo sobrenatural pueden ver este ataque. Si causa daño, el objetivo debe superar un chequeo de RM con una dificultad de 140; si falla, muere instantáneamente.",
+      "action": "Activa",
+      "pact": "La Muerte Invertida exige al Invocador causar la muerte de un grupo numeroso de personas sin una razón real para hacerlo. La cantidad de víctimas depende del poder del personaje, pero nunca es menor a cincuenta.",
+      "cost": 600,
+      "difficulty": 300,
+      "atk": "240+",
+      "def": "N/D"
+    },
+    "XBXN4SIjfaU4J9px": {
+      "name": "Invertido XIV - La Templanza",
+      "description": "Duración: Instantáneo.\n\nEfecto: La Templanza Invertida envuelve al Invocador en un escudo sobrenatural usando su habilidad de Defensa. El escudo tiene 500 PV y solo puede ser dañado por ataques sobrenaturales. Si un ataque de este tipo es bloqueado por el escudo, el atacante debe superar un chequeo de RM con una dificultad de 160, o su tipo de poder sobrenatural (Magia, Ki, Psíquico) quedará sellado por 1 día por cada 10 puntos que el Invocador supere la dificultad requerida.",
+      "action": "Pasiva",
+      "pact": "El Invocador debe sacrificar una parte de su poder al Arcano, generalmente perdiendo entre 1 y 2 niveles y ajustando sus estadísticas de personaje en consecuencia.",
+      "cost": 650,
+      "difficulty": 320,
+      "atk": "N/D",
+      "def": "280"
+    },
+    "ShMWY9y3OoPgDuzb": {
+      "name": "Invertido XIX - El Sol",
+      "description": "Duración: Instantáneo.\n\nEfecto: El Sol Invertido realiza una descarga usando su habilidad de Ataque que afecta en la TA de Calor. Este ataque funciona como un Hechizo de Ataque. Afecta un área de 500 m + 500 m adicionales por cada 10 puntos que superen la dificultad requerida, atacando indiscriminadamente a todos excepto al Invocador. La explosión tiene un Daño Base de 300.",
+      "action": "Activa",
+      "pact": "Desde el momento de la invocación, el Arcano maldice al Invocador, haciéndole perder 1 PV por asalto. Esta pérdida de PV no puede recuperarse por ningún medio, salvo tomando la vida de una criatura con 20 o más de Presencia, ya sea por la propia mano del Invocador o mediante sus entidades convocadas. Si el Invocador sobrevive 24 horas en este estado, el Pacto queda sellado. (28.800 asaltos)",
+      "cost": 900,
+      "difficulty": 420,
+      "atk": "350",
+      "def": "N/D"
+    },
+    "QG1CahYNIgjaKTic": {
+      "name": "Invertido XV - El Diablo",
+      "description": "Duración: 10 asaltos por cada 10 puntos que superen la dificultad requerida.\n\nEfecto: Al ser invocado, el Diablo Invertido lanza un Hechizo Anímico contra la TA de Energía de un único objetivo usando su habilidad de Ataque. Si causa daño, el objetivo debe superar un chequeo de RM con una dificultad de 140. Si falla, es poseído por el Arcano y obligado a atacar a sus aliados, comenzando por aquellos que más le importan. El objetivo usa la habilidad de Ataque del Arcano para hacerlo, pero no se defenderá si es atacado. Quien mate al objetivo poseído deberá superar inmediatamente un chequeo de RM con dificultad 140 o también quedará poseído. Este efecto persiste hasta el final de la duración o hasta que alguien tenga éxito en la resistencia, poniendo fin a la invocación antes de tiempo.",
+      "action": "Activa",
+      "pact": "El Invocador debe mirar profundamente en su interior y decidir llevar a cabo un acto de verdadera maldad acorde con su propia naturaleza. El Arcano no le guía ni le ayuda a descubrir qué significa el mal para él.",
+      "cost": 700,
+      "difficulty": 340,
+      "atk": "300",
+      "def": "N/D"
+    },
+    "zclVVX2RUiRdOG3h": {
+      "name": "Invertido XVI - La Torre",
+      "description": "Duración: Instantáneo.\n\nEfecto: El Arcano lanza un Hechizo Anímico contra la TA de Energía del objetivo usando su habilidad de Ataque. Si causa daño, el objetivo debe superar una serie de Chequeos de Resistencia con una dificultad de 120 + 5 por cada 10 puntos que superen la dificultad requerida.\nPrimero se realizan 13 Chequeos de RM contra: Penalizador a Todas las Acciones, Miedo, Terror, Dolor, Debilidad, Parálisis Total, Ira, Ceguera, Sordera, Mudez, Fascinación, Daño e ÇInconsciencia. Después, el objetivo debe superar un Chequeo de RV contra un veneno de nivel 60 y un Chequeo de RD contra una enfermedad degenerativa de nivel 60.\nPor cada Chequeo de Resistencia que el objetivo supere, el Invocador debe realizar el mismo chequeo. Si el Invocador lo supera, el objetivo repite el chequeo en un ciclo que continúa hasta que uno de los dos falle todos los 15 Chequeos de Resistencia.",
+      "action": "Activa",
+      "pact": "El Invocador debe asesinar al actual portador del Pacto con este Arcano Invertido. Si nadie posee el Pacto en ese momento, el Invocador lo forma en su lugar.",
+      "cost": 750,
+      "difficulty": 340,
+      "atk": "300",
+      "def": "N/D"
+    },
+    "sf5Mw9UXJBW7xNb4": {
+      "name": " Invertido XVII - La Estrella",
+      "description": "Duración: 5 asaltos por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: El Arcano lanza un Hechizo de Ataque impregnado de energía oscura contra la TA de Energía, utilizando su propia habilidad de Ataque. Puede atacar una vez por asalto hasta el final de su duración, y cada ataque inflige un Daño Base de 200. El daño causado por estos ataques no puede ser sanado de forma natural, solo a través de medios sobrenaturales.",
+      "action": "Activa",
+      "pact": "El Invocador debe sumir a un país o nación en la desesperación, eliminando cualquier posibilidad de esperanza.",
+      "cost": 800,
+      "difficulty": 380,
+      "atk": "320",
+      "def": "N/D"
+    },
+    "R60sTymtey6VGzjD": {
+      "name": "Invertido XVIII - La Luna",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: El Invocador puede usar el poder de la habilidad de Defensa de la Luna Invertida para esquivar ataques. Cada vez que evade un ataque, se genera una ilusión de sí mismo que requiere superar un chequeo de Búsqueda o Detección de Ki con dificultad 320 para identificarla como falsa.",
+      "action": "Activa",
+      "pact": "El Invocador debe engañar a una nación o país con una mentira elaborada.",
+      "cost": 850,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "350"
+    },
+    "pM1sfMcCCrLzSD0n": {
+      "name": "Invertido XX - El Juicio",
+      "description": "Duración: 1 minuto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Durante la duración, un área de 1 kilómetro alrededor del Invocador queda maldita, drenando automáticamente la Gnosis de cualquier ser a 0, excepto aquellos con Gnosis 45 o superior. Cualquier poder sobrenatural o habilidad que requiera un nivel específico de Gnosis se anula mientras se esté dentro del área, sin posibilidad de realizar un Chequeo de Resistencia para evitar el efecto.",
+      "action": "Activa",
+      "pact": "El Juicio Invertido invoca a la persona que más odia al personaje o a su mayor enemigo. Este individuo tiene el poder de decidir el castigo que el personaje debe sufrir. Si el invocador acepta el castigo, el Pacto queda sellado; de lo contrario, fracasa.",
+      "cost": 950,
+      "difficulty": 440,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "PQjVQUg2Psg9P8Aw": {
+      "name": "Invertido XXI - El Mundo",
+      "description": "El Mundo Invertido distorsiona la realidad alrededor del Invocador en un radio de un kilómetro, más otro adicional por cada 10 puntos que superen la dificultad requerida. Cualquier ser dentro de esta área sufre una Pifia automática en cada tirada, independientemente del resultado obtenido. Esta invocación no afecta a entidades con Gnosis superior a 45, pero anula el poder de otros Arcanos dentro de su alcance. Si se enfrenta a un sujeto protegido por El Mundo Puro, ambos efectos se neutralizan de inmediato.",
+      "action": "Activa",
+      "pact": "El Invocador debe fracasar en todos los aspectos de su vida y quedar sin propósito alguno. Solo en ese momento, mientras también falla al invocar este Arcano, el Pacto se sellará.",
+      "cost": 1000,
+      "difficulty": 460,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "TSXabnw9zpKfzzis": {
+      "name": "Seiryu - La Furia de la última Tormenta",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese tiempo, el convocador se convierte en el conducto directo del poder divino de Seiryu. Su cuerpo se colma de energía celestial, ganando +4 a Fuerza y Poder, y un +50 a su habilidad ofensiva (o a la de cualquier invocación que realice en ese periodo). Sus ataques con electricidad infligen +50 de daño, pueden alcanzar resultados de Zen, afecta incluso a criaturas inmunes, y se protege con una barrera sobrenatural de 2.000 PV empleando la habilidad de Defensa de Seiryu.",
+      "action": "Pasiva",
+      "cost": 880,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "300"
+    },
+    "znHbFVqh2UtPW3y7": {
+      "name": "Seiryu - Pacto",
+      "description": "Otorga las invocaciones Señor del Este, Tormenta, Rayo y La Furia de la Última Tormenta.",
+      "action": "N/D",
+      "pact": " Solo quienes porten la sangre de un rey o emperador pueden formar un pacto con Seiryu.",
+      "cost": 800,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "5kSKYqWxIVRBljIM": {
+      "name": "Seiryu - Señor del Este",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Seiryu imbuye al convocador con su poder elemental, permitiéndole invocar tormentas en cualquier punto dentro de un kilómetro de radio y desatar rayos o vendavales a voluntad. Durante este tiempo, el personaje puede lanzar hasta dos sortilegios por asalto sin coste alguno de Zeón, utilizando la habilidad de Ataque de Seiryu en lugar de su Proyección Mágica. Los conjuros que puede manifestar de este modo son Rayo (grado base), Crear Viento (grado avanzado), Remolino (grado base) o Control de la Electricidad (grado intermedio).",
+      "action": "Activa",
+      "cost": 660,
+      "difficulty": 340,
+      "atk": "300",
+      "def": "N/D"
+    },
+    "4WMpNV7BNxZwRshC": {
+      "name": "Seiryu - Tormenta",
+      "description": "Duración: 1 minuto por cada punto que supere la dificultad de invocación.\n\nEfecto: Seiryu invoca una tormenta de proporciones colosales, centrada sobre el invocador. Tras un minuto de formación, el cielo se abre con lluvias torrenciales, vientos intensos y truenos ensordecedores. El entorno se ve alterado como si semejante fenómeno climático hubiera surgido de forma natural.",
+      "action": "Activa",
+      "cost": 300,
+      "difficulty": 220,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "WmRHecpwr59bBrPl": {
+      "name": "Seiryu - Rayo",
+      "description": " Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Al final de cada asalto del convocador, un rayo cae sobre un área de 5 metros. Es un ataque a distancia con Daño Base 80 en la TA de Electricidad y la habilidad de Ataque de Seiryu. Si hay una tormenta activa, el Daño Base aumenta a 120. Este poder no procede del invocador, sino que desciende desde el cielo como ataque indirecto.",
+      "action": "Activa",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "240",
+      "def": "N/D"
+    },
+    "iT9qwzf1Ws9ZoBcp": {
+      "name": "Seiryu, El Dragón Celeste, Guardián del Este"
+    },
+    "VgQu50GAeubQVnWX": {
+      "name": "Suzaku - Calamidad",
+      "description": "Duración: 5 asaltos por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese tiempo, Suzaku lanza cada asalto un ataque sobrenatural a distancia con su habilidad de Ataque, dirigido a un objetivo hasta 250 metros. El ataque inflige Daño 80, afecta a la TA de Energía, y aquellos que sufran daño deben superar un chequeo de RM de 140 +5 por cada 10 puntos que supere la dificultad requerida. Quienes fallen adquieren la desventaja de Mala Suerte y solo pueden realizar Tirada Abierta con un 100 natural. El convocador puede elegir que el ataque no inflija daño, aplicando únicamente el efecto de resistencia.",
+      "action": "Activa",
+      "cost": 400,
+      "difficulty": 280,
+      "atk": "260",
+      "def": "N/D"
+    },
+    "gf3eV231EeNZou6M": {
+      "name": "Suzaku - El elegido del Sol",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Mientras permanezca activo, el convocador se convierte en llama alada al servicio de Suzaku. Obtiene +4 a Destreza y Poder, puede alcanzar la dificultad Zen, dañar incluso a seres inmunes, y recibe un +50 a su habilidad de Ataque, que también puede aplicarse a cualquier invocación lanzada durante la duración. Su cuerpo irradia calor abrasador, sumando +50 de daño a todos los ataques de tipo Calor, y se eleva con un Tipo de Vuelo de 12. Además, puede activar la habilidad de Defensa de Suzaku para crear un escudo sobrenatural de 2.000 PV.",
+      "action": "Pasiva",
+      "cost": 880,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "300"
+    },
+    "iXWBjKAfLqwJtvbr": {
+      "name": "Suzaku - Buena Fortuna",
+      "description": "Duración: 5 minutos por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Mientras esté activo, el convocador afina su temple bajo el fuego de Suzaku: reduce en 2 su margen de pifia (mínimo 1) y amplía en +5 el umbral de tiradas abiertas, lo que le permite, por defecto, obtener Tirada Abierta con un resultado de 85 o más.",
+      "action": "Activa",
+      "cost": 300,
+      "difficulty": 220,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "pjZqUEcJ0DyBD3DP": {
+      "name": "Suzaku - Pacto",
+      "description": "Otorga las invocaciones  Calamidad, Buena Fortuna, Señor del Sur y El Elegido del Sol",
+      "action": "N/D",
+      "pact": "Suzaku solo vincula su fuego a quien vive sin mentir y mantiene lealtad absoluta a su familia. Una sola mentira o traición futura.",
+      "cost": 800,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "pYZjmYZ3Q4ZlqhB8": {
+      "name": "Suzaku - Señor del Sur",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese tiempo, el convocador se convierte en llama viva al servicio de Suzaku. Puede lanzar hasta dos conjuros por asalto como si fueran innatos, sin coste de Zeón, utilizando las habilidades de Ataque y Defensa de Suzaku en lugar de su Proyección Mágica. Los hechizos son Bola de Fuego (grado intermedio), Barrera de Fuego (grado Intermedio), Control sobre el Fuego (grado avanzado) o Consumir Esencia (grado base).",
+      "action": "Activa",
+      "cost": 660,
+      "difficulty": 340,
+      "atk": "300",
+      "def": "N/D"
+    },
+    "M094oTC58oOjE8Ii": {
+      "name": "Suzaku, El Fenix, Guardián del Sur"
+    },
+    "hy4DjftT8rniLt3G": {
+      "name": "Tawil - Mas Alla del Tiempo y el Espacio",
+      "description": "Duración: 1 siglo por cada punto que supere la dificultad de invocación.\n\nEfecto: El convocador elige un objetivo dentro de su campo de visión. Este debe superar un chequeo de RM de 140 +5 por cada 10 puntos que supere la dificultad de invocación, hasta un máximo de 260 de RM. Si falla, el objetivo queda sellado fuera del tiempo, sin posibilidad de interactuar, envejecer o ser percibido por nadie ni nada. Si falla por más de 60 puntos, el sello es permanente: no podrá volver jamás. Al finalizar el efecto (si no fue permanente), el objetivo reaparece en un lugar aleatorio del mundo.",
+      "action": "Activa",
+      "cost": 1200,
+      "difficulty": 500,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "WFjngJzhqO4iiSYJ": {
+      "name": "Tawil - La Puerta",
+      "description": "Duración: 1 minuto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: El invocador crea una puerta temporal que le permite defenderse con la habilidad de Tawil ante cualquier tipo de ataque, ya sea físico, mágico, mental o conceptual. Si la defensa tiene éxito, el ataque queda atrapado en la puerta, listo para ser liberado contra un objetivo dentro de su rango original, replicando su efecto y daño exactos con el mismo valor final de ataque que tuvo originalmente. Puede almacenar 1 ataque base, más 1 adicional por cada 20 puntos que supere la dificultad.",
+      "action": "Activa",
+      "cost": 900,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "400"
+    },
+    "ACWqDq76BcpvvJka": {
+      "name": "Tawil - Pacto",
+      "description": "Otorga las invocaciones Compresión del Tiempo, La Puerta y Más Allá del Tiempo y el Espacio.",
+      "action": "N/D",
+      "pact": "Tawil exige al invocador cruzar una de sus puertas a un punto incierto del tiempo y el espacio. Si sobrevive, debe levantar una torre reloj monumental. Mientras la torre exista, el vínculo perdura; si es destruida, Tawil nunca volverá a responderle.",
+      "cost": 800,
+      "difficulty": 400,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "PmNfCfEljvtRLJvW": {
+      "name": "Tawil - Compresión del Tiempo",
+      "description": "Duración: 1 asalto por cada 20 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese lapso, el convocador opera en tiempo congelado, completamente aislado. No puede afectar ni ser afectado por nada ni nadie —física, mental o sobrenaturalmente— excepto a sí mismo.",
+      "action": "Activa",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "VR3pQmkVQImlsF1g": {
+      "name": "Tawil At-U’mr, Señor de las Puertas"
+    },
+    "oPq5cunG0g5mom7I": {
+      "name": "Thanathos",
+      "description": "Duración: 1 minuto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante este tiempo, todos los ataques del Invocador —incluidos los mágicos y los de sus invocaciones— aumentan su Daño Base en +50. Además, cada impacto provoca un crítico automático con un +50 al nivel del crítico. En criaturas con Acumulación de Daño, cualquier impacto se considera punto vulnerable.",
+      "action": "Pasiva",
+      "pact": "El Invocador no puede sellar el Pacto con Thanathos en su propio nombre. Debe designar a otro como portador del vínculo… y luego sacrificar su propia vida para completar el ritual de unión.",
+      "cost": 400,
+      "difficulty": 240,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "pavUwVzegGwR7CJa": {
+      "name": "El Vendedor",
+      "description": "Duración: Igual al tiempo que dure la transacción.\n\nEfecto: El Vendedor aparece en el lugar invocado y ofrece sus mercancías, exigiendo, por supuesto, un precio acorde al valor de cada objeto.",
+      "action": "Activa",
+      "pact": "El Vendedor no exige pacto alguno. Sin embargo, no está obligado a responder… y con frecuencia simplemente no lo hace. Tiene otros asuntos.",
+      "cost": 800,
+      "difficulty": 240,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "mqYcFPoqhVuDdt9u": {
+      "name": "Veles, El Poder de la Magia",
+      "description": "Duración: 5 asaltos por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese tiempo, los hechizos del Invocador se lanzan automáticamente un grado por encima de lo que les correspondería según la cantidad de Zeon reunida. Así, un hechizo preparado para lanzarse en grado Base se manifestará como si fuera de grado Intermedio, y así sucesivamente.",
+      "action": "Pasiva",
+      "pact": "El Invocador debe poseer el Don de la magia. Al sellar el Pacto, Veles tomará el Don del próximo hijo del Invocador. Si no puede o no desea tener descendencia, la entidad reclamará otro tributo equivalente.",
+      "cost": 350,
+      "difficulty": 240,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "Ibj3ItfeZA7Qt02y": {
+      "name": "Ziz - Pacto",
+      "description": "Otorga las invocaciones Comunión con el Viento y Señor del Viento.",
+      "action": "N/D",
+      "pact": "El convocador debe seguir la voluntad de Ziz y ganarse su favor",
+      "cost": 500,
+      "difficulty": 280,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "kfum1cUCVTvUWBqf": {
+      "name": "Ziz - Comunión con el Viento",
+      "description": " Duración: 5 asaltos por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Mientras dure el efecto, el convocador obtiene un Tipo de Vuelo de 12. Los ataques a distancia contra él sufren un penalizador de -40, y los ataques cuerpo a cuerpo un -20. Además, adquiere inmunidad a la magia de la Vía de Aire, salvo si es conjurada por seres con Gnosis 40 o superior.",
+      "action": "Activa",
+      "cost": 350,
+      "difficulty": 240,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "70paGx07RRaRK65R": {
+      "name": "Ziz - Señor del Viento",
+      "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Ziz crea un ciclón de 1 km de radio que avanza en la dirección que indique el convocador con Movimiento 15. Todo aquel dentro del área debe superar un chequeo de Fuerza o Agilidad contra 14 o será arrastrado; si se encuentra a menos de 100 m del epicentro, la dificultad aumenta a 16.\nLos atrapados deben superar cada asalto una RF contra 180 o sufrir daño equivalente al grado de fracaso. Criaturas con vuelo pueden intentar escapar con un chequeo de Fuerza contra 18. El convocador es inmune a todos los efectos del ciclón.",
+      "action": "Activa",
+      "cost": 800,
+      "difficulty": 380,
+      "atk": "N/D",
+      "def": "N/D"
+    },
+    "xehKhet81BSzP2Eo": {
+      "name": "Ziz, Señor de los Cielos"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "label": "macros",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "1RVDjwrl13GdPPqr": {
+      "name": "Activate Energy Shield",
+      "description": null
+    },
+    "HmIpGUF5h2Fj3pgs": {
+      "name": "Ayudas al Combate",
+      "description": null
+    },
+    "08SKQKpiEnOJLqlL": {
+      "name": "Damage Calculator v1",
+      "description": null
+    },
+    "6stw7TPDeQOB9vJV": {
+      "name": "Elemental Damage Resolution v4",
+      "description": null
+    },
+    "bW0WZQWT1bjpWkWa": {
+      "name": "End Turn Macro",
+      "description": null
+    },
+    "grnTNY3Bu9aAQimg": {
+      "name": "Full Restore",
+      "description": null
+    },
+    "YQ4RJ4Cvu63M9gRC": {
+      "name": "Impact Resolution v3",
+      "description": null
+    },
+    "QFGxIuU3A24tEgB1": {
+      "name": "LP Damage and Crit Macro",
+      "description": null
+    },
+    "KBJ8t2sfSUdkORSl": {
+      "name": "Programmatic Psychics v7",
+      "description": null
+    },
+    "RdP5K4gEYYxHORXx": {
+      "name": "Programmatic Spells v4",
+      "description": null
+    },
+    "QCsIwPjzgk84zCAu": {
+      "name": "Programmatic Weapons v5",
+      "description": null
+    },
+    "kduh6JFaychYYyng": {
+      "name": "Psychic Potential",
+      "description": null
+    },
+    "lK4ktO2i6afMDtlz": {
+      "name": "Restore Ki /w 1 Hour",
+      "description": null
+    }
+  }
+}

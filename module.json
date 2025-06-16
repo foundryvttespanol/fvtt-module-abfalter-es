@@ -1,0 +1,47 @@
+{
+  "id": "fvtt-module-abfalter-es",
+  "title": "Translation: Spanish [Anima Beyond Fantasy Alter System]",
+  "description": "Traducción del sistema Anima Beyond Fantasy Alter (https://github.com/Lumenita/abfalter) al español -  Anima Beyond Fantasy Alter spanish translation"",
+  "authors": [{
+      "name": "Svetlana [Shairin]"
+    }
+  ],
+  "version": "1.51.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.345",
+    "maximum": "13"
+  },
+  "languages": [{
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "fvtt-module-abfalter-es.js"
+  ],
+  "relationships": {
+    "systems": [{
+        "id": "abfalter",
+        "type": "system",
+        "compatibility": "1.5.1"
+      }
+    ],
+    "requires": [{
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+			{
+        "id": "foundryvtt-es",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/foundryvttespanol/fvtt-module-abfalter-es",
+  "manifest": "https://raw.githubusercontent.com/foundryvttespanol/fvtt-module-abfalter-es/main/module.json",
+  "download": "https://github.com/foundryvttespanol/fvtt-module-abfalter-es/archive/main.zip"
+}

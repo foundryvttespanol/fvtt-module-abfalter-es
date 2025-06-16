@@ -1,0 +1,808 @@
+{
+  "label": "Equipo",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Kulodx4NxXtCJNqI": {
+      "name": "Munición",
+      "description": null
+    },
+    "Bzmxwi1qJDluUbmv": {
+      "name": "Flecha de Mella",
+      "description": "Una flecha con una punta penetrante diseñada para atravesar armaduras duras. Resta un punto a la TA del defensor."
+    },
+    "PR0dACmIMlLJBLdN": {
+      "name": "Gabardina Armada",
+      "description": "Esta es una armadura hecha de cuero tratado, pero con capas acolchadas para darle mayor consistencia."
+    },
+    "bkuYYLIa6Pz33HPI": {
+      "name": "Armaduras",
+      "description": null
+    },
+    "UG5H6dE5ag8AesaJ": {
+      "name": "Arcabuz",
+      "description": "El arcabuz es un arma de fuego compuesta por un largo tubo metálico a través del cual se dispara una bala de plomo impulsada por la explosión de pólvora. Básicamente, el arcabuz es un cañón lo suficientemente pequeño como para ser transportado y disparado por una sola persona. Al igual que las ballestas, no depende de la Fuerza del usuario, por lo que no utiliza ningún bono de Fuerza que el personaje pueda tener. En su lugar, el arcabuz posee su propia Fuerza, que es 11, lo que añade un +20 al Daño Base del disparo. Si se obtiene una Pifia con un nivel inferior a 80 usando el arcabuz, el arma se encasquilla. Si la Pifia supera 80, el arcabuz estalla, quedando inutilizado. \nPor cada +5 en la calidad del arma, se añade un punto a la Fuerza con la que dispara y se incrementa en 15 el nivel de Pifia necesario para que estalle."
+    },
+    "CvkJDIZwN7fClGbr": {
+      "name": "Espada Bastarda",
+      "description": "A una o dos manos.<hr>\nEsta es una espada a medio camino entre una espada larga y una mandoble, con una longitud de aproximadamente metro y medio. Su empuñadura alargada y contrapeso permiten que se use tanto a una como a dos manos."
+    },
+    "5sLWaXeJ2SePs2r8": {
+      "name": "Hacha de Batalla",
+      "description": "Lanzable (Alcance 5m, Cadencia 100)<hr>\nUna versión más manejable del hacha a dos manos, el hacha de batalla puede blandirse con una sola mano."
+    },
+    "5KryXn20NQM7Ueq5": {
+      "name": "Bastón de Combate",
+      "description": "Bastón reforzado con un contrapeso en su parte superior, que puede blandirse eficazmente como una maza. Es muy comúnmente utilizado por nobles, ya que es un arma discreta y refinada que, al mismo tiempo, resulta efectiva."
+    },
+    "p9fOBjl40oRVhAzE": {
+      "name": "Bec de Corbin",
+      "description": "A dos manos.<hr>\nArma de asta de dos metros de largo, de dos manos, con forma de punta y martillo en el extremo. El extremo suele estar adornado y decorado para parecer el pico de un animal. Es un arma comúnmente usada por los guardias de palacio."
+    },
+    "cmPxVylUgHlP6tSf": {
+      "name": "Berdiche",
+      "description": " A dos manos.<hr>\nA medio camino entre un hacha y un arma de asta, se caracteriza por tener una hoja similar a la de un hacha, unida al asta en dos puntos, lo que permite al portador colocar la mano en ese espacio y usar la hoja como guardia en combate cuerpo a cuerpo."
+    },
+    "9qUSLOnce1uAgDGs": {
+      "name": "Dardo de Cerbatana",
+      "description": "Dardos diseñados para ser disparados con una Cerbatana"
+    },
+    "OE23KEiIaj4YuAnL": {
+      "name": "Blowgun",
+      "description": "Este es un tubo hueco de madera o metal de entre 30 cm y 1 metro de largo. Se utiliza para disparar pequeños dardos, que normalmente están envenenados. Como regla especial, la cerbatana no aplica la Fuerza del usuario para calcular el daño causado. Requiere ambas manos para su uso."
+    },
+    "804XJ0Glij3RY1mw": {
+      "name": "Boku-to",
+      "description": "A una o dos manos.<hr>\nKatana de madera usada normalmente en entrenamientos. Un personaje que sepa usar una katana no sufre penalizador a su habilidad al empuñar un boku-to."
+    },
+    "fKVGgN7yWLGGJZtq": {
+      "name": "Boleadoras",
+      "description": "Arma arrojadiza compuesta por tres bolas de metal o cuero reforzado unidas por cuerdas. Se utiliza para capturar a un oponente. A diferencia de otras armas diseñadas para captura, no sufre un penalizador de –40 al intentar atrapar a un oponente."
+    },
+    "4iCy77MMA3462lgB": {
+      "name": "Bumerán",
+      "description": "Lanzable (Alcance 20 m, Cadencia 60)<hr>\nPalo curvado de madera o metal diseñado para ser lanzado y regresar si no impacta contra nada. Para atraparlo es necesario superar una tirada de dificultad DIF de Truco de Manos."
+    },
+    "Pm5La0L5XCXmnmmd": {
+      "name": "Bracamarte",
+      "description": "Espada recta y pesada de un solo filo, cuya hoja se ensancha hacia el extremo."
+    },
+    "nDVrj2A50siKUrVz": {
+      "name": "Brandistock",
+      "description": "A dos manos.<hr>\nEsta lanza tiene la particularidad de que su punta es retráctil y se despliega al realizar una acometida con el arma. Por su diseño particular, en el momento en que la punta se despliega, el Daño Base del arma aumenta a 60, aunque posteriormente es necesario emplear dos asaltos completos para devolver la punta a su posición original."
+    },
+    "OWLuaJCZsiJFsGFO": {
+      "name": "Peto",
+      "description": "Esta armadura metálica cubre el pecho y la espalda."
+    },
+    "2e3gmeoY54dsMc3H": {
+      "name": "Brigantina",
+      "description": "Armadura compuesta por una camisa, normalmente de cuero, con pequeñas y finas placas metálicas oblongas remachadas en el interior de la armadura."
+    },
+    "g2RtxuxCFZ8T3hEi": {
+      "name": "Espada Ancha",
+      "description": "Un arma de hoja recta, ligeramente más corta que la Espada Larga. Se caracteriza por su hoja ancha y gran fortaleza."
+    },
+    "FgJjFuBioDrJCueH": {
+      "name": "Botella Rota",
+      "description": ""
+    },
+    "CIrqa03uBC5lciVA": {
+      "name": "Rodela",
+      "description": "Este es un escudo muy pequeño, de no más de 30 centímetros de ancho. La mayor ventaja de la rodela es que puede fijarse directamente al antebrazo, permitiendo que ambas manos queden libres."
+    },
+    "oV8vXMrXm3EXZ0I4": {
+      "name": "Arco de Balas",
+      "description": "Un arco corto combinado con una honda, capaz de lanzar piedras o perdigones en lugar de flechas. Debido a la naturaleza de su uso, el personaje aumenta su Fuerza en 2 puntos al calcular el daño causado con sus disparos."
+    },
+    "o0hvmgLyy4Ui1hx2": {
+      "name": "Balas",
+      "description": "Munición para el Arco de Balas"
+    },
+    "bbbTJIC2Qdp5xA4O": {
+      "name": "Anillas",
+      "description": "Esta es una chaqueta hecha de anillos metálicos entrelazados entre sí y cosidos sobre una capa de cuero o tela endurecida para mantenerlos unidos."
+    },
+    "ssLylIaClof400eI": {
+      "name": "Cañón",
+      "description": "Un arma de fuego compuesta por un tubo metálico grande desde el cual se impulsa un proyectil metálico de gran tamaño mediante pólvora. El proyectil está diseñado para explotar, creando una nube de metralla con un radio de 4.5 a 9 metros. Aunque el proyectil en sí ataca de manera convencional, la explosión no lo hace.\nSe verifica la precisión para determinar si el proyectil impacta donde se pretende (usando la Tabla 45). Luego, si una víctima intenta Esquivar o Parar, debe superar una prueba de Esquivar o Atletismo de dificultad Absurdo 180, si está a más de la mitad del radio de la explosión, o de dificultad Casi Imposible 240, en caso contrario.\nLos cañones no dependen de la Fuerza del usuario; en cambio, tienen su propia puntuación de Fuerza (13), por lo que se añade +25 al Daño Base de los proyectiles disparados.\nSi al usar el cañón se obtiene un fallo crítico (Pifia) menor a 70, el arma se encasquilla. Si el fallo es mayor a 70, el cañón explota, arruinando el arma. Por cada +5 en la calidad del arma, se añade un punto a la Fuerza con la que se disparan los proyectiles, y se incrementa en 15 el nivel de fallo crítico necesario para que el cañón explote."
+    },
+    "6tFf06gIicKka2v8": {
+      "name": "Bala de Cañón",
+      "description": "Munición para Cañón"
+    },
+    "2A6R5aNAbfjw3KwI": {
+      "name": "Coronilla",
+      "description": "Este es un casco metálico que protege la parte superior de la cabeza."
+    },
+    "PLKWHR8sW0dum7M6": {
+      "name": "Lanza de Caballería",
+      "description": "Una versión más larga y pesada de la lanza tradicional, mide entre 2.7 y 3.7 metros de largo y solo puede ser empuñada a caballo. Si se usa para bloquear un ataque, el defensor aplica una penalización de –30 a su habilidad."
+    },
+    "qxjEb7XRlhtUVRNN": {
+      "name": "Cestus",
+      "description": "Cubierta metálica para las manos, rodillas, codos o antebrazos que incluye cuchillos o púas usados para golpear al enemigo."
+    },
+    "pKfgFxyIE9FpwG5P": {
+      "name": "Cadena",
+      "description": "Presa (Fuerza 8)<hr>\nUna cadena de eslabones metálicos."
+    },
+    "d9VA1OJCdL09S71k": {
+      "name": "Mallas",
+      "description": "Posiblemente la armadura más avanzada de su época. Está compuesta por finos anillos metálicos entrelazados o cosidos entre sí; ofrece una enorme protección junto con una gran movilidad."
+    },
+    "8joqGLh81cFA8X04": {
+      "name": "Silla",
+      "description": "A dos manos."
+    },
+    "3Z23MZjiKSUcdt2V": {
+      "name": "Turcus",
+      "description": "Arma indígena que consiste en una hoja circular, usada como arma arrojadiza. Es conocida como Turcus en otras culturas. Puede regresar tras ser lanzada si no impacta en nada. Para atraparla, se requiere superar una prueba de Truco de Manos de dificultad Muy Difícil 140."
+    },
+    "A8K07RrSXC7PhFTp": {
+      "name": "Chui",
+      "description": "Maza oriental, compuesta por un bastón rematado con una esfera metálica."
+    },
+    "UO5bU2NEjYeqXjG5": {
+      "name": "Cinquedea",
+      "description": "Precisa.<hr>\nDaga extremadamente grande con una hoja muy ancha que se extiende desde la guarda hasta terminar en una punta. Apodada “cinco dedos” debido al tamaño de su hoja, es utilizada principalmente por civiles en territorios donde está prohibido portar espadas."
+    },
+    "lWEagWV4WWOX58Zv": {
+      "name": "Anilla",
+      "description": "Este es un aro metálico que rodea la cabeza del personaje, protegiéndolo de golpes laterales o de ataques dirigidos a la frente."
+    },
+    "2G2HrQhTLJao9B3H": {
+      "name": "Garras",
+      "description": "Cuchillos en un guante diseñados para parecerse a garras de animal."
+    },
+    "TxTERUgRRVr37GBc": {
+      "name": "Claymore",
+      "description": "A dos manos.<hr>\nEspada de gran tamaño, equilibrada para usarse exclusivamente con ambas manos. Mide entre 114 y 140 centímetros de largo, aunque su tamaño suele ser algo menor que el de una espada bastarda. Su característica más particular es la guarda, que tiene la forma de un vértice triangular para ofrecer una defensa sólida."
+    },
+    "ZBbr8AEhpIbskwJZ": {
+      "name": "Garrote",
+      "description": "Hecho de madera o simplemente de piedra, el garrote es el arma de impacto por excelencia."
+    },
+    "PuXoXvlfcnlKgBUj": {
+      "name": "Comunes",
+      "description": null
+    },
+    "eW3FMFplmUhsKiKw": {
+      "name": "Completa de Cuero",
+      "description": "Una versión de armadura de cuero que también protege las piernas. Las articulaciones están hechas de tela."
+    },
+    "HJ3rHOTXMA79zITo": {
+      "name": "Arco Compuesto",
+      "description": "A dos manos.<hr>\nEste es el tipo de arco más grande y poderoso. Está hecho de tres piezas y mide más de 2.4 metros. Requiere usar ambas manos, pero su bonificación de Fuerza no se duplica."
+    },
+    "xtWjAOLbAKLQhFJs": {
+      "name": "Saeta",
+      "description": "<p>Saeta diseñada para ser usada en una Ballesta.</p>"
+    },
+    "Vyg7nuxIxZI5O43V": {
+      "name": "Ballesta",
+      "description": "A una o dos manos.<hr>\nUna ballesta montada sobre un armazón con una ranura desde la cual se disparan saetas. Se tensa mediante un pequeño cabrestante. Las ballestas no dependen de la Fuerza del usuario y, por lo tanto, no aplican ninguna bonificación de Fuerza que tenga el personaje. En su lugar, poseen su propia puntuación de Fuerza (8), por lo que se añade +10 al Daño Base de las saetas disparadas. Por cada +5 en la calidad del arma, además de mejorar su precisión, se añade un punto a la Fuerza con la que dispara. Requiere ambas manos para su uso."
+    },
+    "gevCmUCiK14JSXZZ": {
+      "name": "Daga",
+      "description": "Lanzable (Alcance 20 m, Cadencia 50), Precisa.<hr>\nCuchillo de combate de entre 20 y 30 centímetros de largo. Suele estar afilado por ambos lados y equilibrado para ser lanzado."
+    },
+    "IaeDzJLMqdUQZ1IU": {
+      "name": "Daikyu",
+      "description": "Arco largo de grandes dimensiones, que requiere mucho espacio para su uso."
+    },
+    "B0GCDEZj1yydGTI6": {
+      "name": "Dardos",
+      "description": "Dardos pequeños con punta metálica diseñados para ser arrojados a mano."
+    },
+    "A4fuFMs9kYPcWtmI": {
+      "name": "Dirk",
+      "description": "Precisa.<hr>\nCon una hoja de forma triangular, esta arma se utiliza de manera similar a un picahielos."
+    },
+    "bNRCqubQ2Zo8P0Td": {
+      "name": "Dominus Exxet",
+      "description": null
+    },
+    "mvo567DQKhnWaSYg": {
+      "name": "Dominus Exxet",
+      "description": null
+    },
+    "cKQZ1fUs5cnJsvwx": {
+      "name": "Dominus Exxet Projectile/Ammunition",
+      "description": null
+    },
+    "CC4KkcwJv3FWJTfI": {
+      "name": "Exotic / Custom",
+      "description": null
+    },
+    "FSKy1elIECbSY7ry": {
+      "name": "Falcata",
+      "description": "Espada corta y curva, con un solo filo afilado y más ancha en la punta. Gracias a un gran contrapeso en la empuñadura, ofrece una resistencia considerable y un corte contundente. También es mucho más pesada que otras espadas de dimensiones similares. Su uso se asemeja más al de un hacha que al de una espada."
+    },
+    "OJWDhTcNYaKOYH3J": {
+      "name": "Mayal",
+      "description": "Se trata de un asta de madera o metal con una cadena que termina en una bola metálica con púas. Existe una versión con varias cadenas más pequeñas."
+    },
+    "CYgS1O9Ek8C3a56h": {
+      "name": "Flecha de Fajo",
+      "description": "Flecha muy ligera que añade aproximadamente 20 metros al alcance máximo del arco."
+    },
+    "ATdwNqtsXmW8dD0p": {
+      "name": "Florete",
+      "description": "Precisa.<hr>\nEspada más delgada y flexible que el estoque. Se utiliza como arma de estocada."
+    },
+    "kdOq1xXUpV30vlU6": {
+      "name": "Frentón",
+      "description": "Esta es una placa metálica para bloquear golpes en la frente."
+    },
+    "1TkNTJK9BiL4fXR5": {
+      "name": "De Campaña Pesada",
+      "description": "Esta es la armadura más pesada y completa de todos los tipos existentes. Incluso las articulaciones están cubiertas con gruesas capas de metal que, aunque dificultan el movimiento, protegen cada parte de la anatomía."
+    },
+    "zE8d4ccF8QJnId8o": {
+      "name": "Completa Pesada",
+      "description": "Una versión de la armadura completa en la que las placas metálicas tienen el doble o el triple de grosor. Aunque requiere mayor fuerza y habilidad para usarse, la protección que ofrece es mucho mejor."
+    },
+    "El6J7Fwh0hS9sdxS": {
+      "name": "Completa",
+      "description": "Estas son verdaderas obras de arte metálicas que suelen hacerse por encargo. Las piezas que la componen cubren todo el cuerpo, utilizando articulaciones de cuero que a su vez están cubiertas por placas de metal. Desafortunadamente, su peso es excesivo y permite poca movilidad."
+    },
+    "o0mPltuM08ATUbNF": {
+      "name": "Escudo Corporal",
+      "description": "Un gran escudo pesado, a menudo tan alto como una persona. Generalmente es usado por soldados de infantería y tiene una base cuadrada o puntiaguda que le permite clavarse en el suelo por su propio peso.\n\nSi un personaje desea usarlo como arma secundaria para atacar, no añade su bonificación a la habilidad defensiva durante ese asalto de combate."
+    },
+    "8Dl4Z65C2UFcjRgI": {
+      "name": "Piel",
+      "description": "Protección hecha de capas de pieles de animales. Es pesada y difícil de usar."
+    },
+    "PsbpSZh7RDUp40Pr": {
+      "name": "Red de Gladiador",
+      "description": "Lanzable, Presa (Fuerza 10).<hr>\nEsta arma es una red estrecha con ganchos lastrados diseñada para enredar a la persona a quien se lanza o se balancea. Aunque es un arma cuerpo a cuerpo, su ataque abarca un área de 5 metros y puede enredar a varios objetivos. No aplica el bono de Fuerza del personaje ni la penalización de –40 que normalmente se usa en maniobras para apresar al enemigo cuando se utiliza esta arma."
+    },
+    "kUfhTGVzkFpgWG14": {
+      "name": "Glavius",
+      "description": "A una o dos manos.<hr>\nLanza compuesta por un asta de aproximadamente 90 cm y una hoja de unos 75 cm, diseñada para usarse a corta y media distancia."
+    },
+    "4G6gWfto3NYuSBOE": {
+      "name": "Goedendag",
+      "description": "A una o dos manos.<hr>\nEste simple garrote, equipado con una punta de hierro en forma de pico, está especialmente diseñado para penetrar armaduras con sorprendente facilidad."
+    },
+    "lOIEmUzyaQyfSJYb": {
+      "name": "Completo Cerrado",
+      "description": "Este es un yelmo que cubre toda la cabeza. Usualmente, tiene un visor que puede levantarse para mejorar la visión o bajarse para proteger el rostro."
+    },
+    "lb6hmakEO4zrh0pQ": {
+      "name": "Gran Martillo de Guerra",
+      "description": "A una o dos manos.<hr>\nArma de impacto de gran tamaño diseñada para ser empuñada a dos manos. Consiste en un asta recta coronada por un enorme martillo de metal. Algunos tienen puntas afiladas en un lado, lo que permite usarlos también para un segundo tipo de ataque, un ataque penetrante o de estocada."
+    },
+    "Uy6zf4hANoSnA2Uq": {
+      "name": "Grosse Messer",
+      "description": "A dos manos.<hr>\nUtilizada tanto por soldados como por civiles, esta excelente arma es una versión especializada de la espada bastarda, diseñada para cortar. Con un solo filo y un extremo ligeramente más pesado, se considera una de las mejores armas de corte."
+    },
+    "33urG01jXt5J6nfI": {
+      "name": "Guandao",
+      "description": "A dos manos.<hr>\nAlabarda oriental con una hoja pesada y una punta en el extremo opuesto del asta. Es muy pesada, pero a cambio ofrece un gran alcance."
+    },
+    "6V4P08a55nC1m7IC": {
+      "name": "Alabarda",
+      "description": "A una o dos manos.<hr>\nLa alabarda es un arma compuesta por un asta de madera o metal que termina en una hoja afilada similar a un hacha. Su longitud total varía entre 1,5 y 2 metros."
+    },
+    "kFu7ftxkE8MPNfDe": {
+      "name": "Semi-Completa",
+      "description": "Esta es una armadura completa de metal compuesta por docenas de piezas perfectamente forjadas y diseñadas para encajar entre sí. Es más ligera que la armadura completa, ya que sacrifica parte de su protección en favor de una mayor movilidad."
+    },
+    "IVieSrBlpY51h3cp": {
+      "name": "Martillo",
+      "description": ""
+    },
+    "UNu1nKdbZBtQOsbJ": {
+      "name": "Hacha de Mano",
+      "description": "Lanzable (Alcance 10 m, Cadencia 80)<hr>\nEstas son hachas ligeras que se usan con una sola mano. Suelen contar con un contrapeso que facilita su uso como armas arrojadizas. Miden entre 30 y 60 centímetros de largo."
+    },
+    "ewX4S8F84PQLAcdk": {
+      "name": "Cuero Endurecido",
+      "description": "Esta es una armadura hecha de cuero tratado con aceites y ungüentos hasta volverse completamente rígida."
+    },
+    "CYp0sXfS2swJeb8M": {
+      "name": "Arpón",
+      "description": "Lanzable (Alcance 20 m, Cadencia 100), Una o dos manos.<hr>\nEsta es un arma de asta corta, similar a una jabalina, pero con una punta con púas."
+    },
+    "nzTd86xwZ9evZlgn": {
+      "name": "Anciano de Primavera",
+      "description": "A dos manos.<hr>\nArma de origen oriental compuesta por dos astas largas unidas por cadenas a una tercera sección más corta. Cada una de las astas largas termina en una hoja similar a la de una alabarda, pero más pequeña. Se utiliza colocando la sección corta central en la espalda, mientras las astas largas se maniobran con cada mano. Para dar mayor potencia a los golpes, el arma se hace girar aprovechando la fuerza centrífuga.\nAunque se emplean ambas manos, no se duplica el bono de Fuerza. La Guja de Tres Secciones permite realizar un segundo ataque por turno como si se usara un arma secundaria, pero aplicando solo un penalizador de –10 a la Habilidad de Ataque del personaje."
+    },
+    "1xVrfN1COPbk5NTo": {
+      "name": "Yelmo",
+      "description": null
+    },
+    "GzbvSVj4bPCSSQTi": {
+      "name": "Balista Pesada",
+      "description": "Versión de mayor tamaño de la balista, que requiere cinco personas para operarla. Posee una Fuerza de 13, por lo que añade +25 al Daño Base de sus virotes. Por cada +5 a la calidad del arma, además de mejorar su precisión, suma un punto a la Fuerza con la que dispara.\nSu ataque de área se extiende en línea recta 5 metros desde el punto inicial de impacto."
+    },
+    "nSNO5k7sodLmeKi5": {
+      "name": "Maza Pesada de Combate",
+      "description": "A una o dos manos.<hr>\nUna versión más pesada del maza, con un asta de casi 90 centímetros de largo. Está rematada con un peso de enormes proporciones. Debido a su tamaño, generalmente se usa con ambas manos."
+    },
+    "kkYX3Sz0mw8nW5Q6": {
+      "name": "Saeta Pesada",
+      "description": "Munición para la Ballesta Pesada."
+    },
+    "PJ9ztHOgPYMh69Z4": {
+      "name": "Ballesta Pesada",
+      "description": "A dos manos.<hr>\nUna ballesta grande y pesada. Tiene una Fuerza de 10, por lo que posee un bono de +15 al Daño Base de sus saetas. Requiere el uso de ambas manos."
+    },
+    "lvPcTebWfbk1mKTG": {
+      "name": "Virote Pesado",
+      "description": "Munición para la Balista Pesada"
+    },
+    "B8TtiXCyOI5Zn3xW": {
+      "name": "Azada",
+      "description": ""
+    },
+    "0yjfPtzcKFxWd3ZM": {
+      "name": "Garfio",
+      "description": "Un arma pequeña y curva con una punta afilada."
+    },
+    "rnkOvjWFomhBRQjB": {
+      "name": "Hu Die Dao",
+      "description": "Precisa.<hr>\nEstas cuchillas, normalmente usadas en pares, están diseñadas para ocultarse fácilmente bajo la ropa oriental (generalmente en mangas anchas). Protegen los dedos con una guarda resistente que también se usa para asestar golpes contundentes, similar a unos nudillos de bronce. Además, cuentan con un gancho en la parte trasera de la guarda que permite enganchar el arma del oponente y desarmarlo con facilidad."
+    },
+    "45IC1cEX2idxEgVy": {
+      "name": "Improvisadas",
+      "description": null
+    },
+    "Htcx2mK2v5H2T230": {
+      "name": "Javalina",
+      "description": "Lanzable (Alcance 30 m, Cadencia 80)<hr>\nUna lanza corta usada casi exclusivamente para lanzar."
+    },
+    "w3pW8Zk7KpyfaxNl": {
+      "name": "Jutte",
+      "description": "Arma para apresar.<hr>\nMaza defensiva en forma de “L”, que puede atrapar armas con mucha facilidad."
+    },
+    "cterL4qdR6jfrZ4q": {
+      "name": "Kama",
+      "description": "Herramienta de combate en forma de hoz, de aproximadamente 50 centímetros de longitud. Existen algunas versiones con hoja retráctil, lo que permite una mayor ocultación."
+    },
+    "GdSFQpkoYscjrDDP": {
+      "name": "Katana",
+      "description": "Una o dos manos.<hr>\nUna espada de diseño asiático, con una hoja curva afilada solo por un lado. Similar a un sable, es considerablemente más pesada y efectiva, pero menos duradera y más vulnerable a daños."
+    },
+    "6gpHDB0BxE9VVYLJ": {
+      "name": "Katar",
+      "description": "Un guantelete equipado con hojas de cuchillo de 25 a 30 centímetros de longitud. Posee un mecanismo complejo que permite extender y girar las hojas. En esos casos, pueden bloquear proyectiles como una Rodela."
+    },
+    "Awe91snef7gsdn3L": {
+      "name": "Katzbalger",
+      "description": "Espada recta con guarda en forma de S, diseñada para desenfundarse muy fácilmente. Es utilizada por arqueros y lanceros como último recurso, cuando los enemigos están tan cerca que los arcos y las picas dejan de ser efectivos. Gracias a su diseño, el katzbalger es excepcionalmente fácil de sacar de la vaina, por lo que el personaje solo aplica una penalización de –15 a su habilidad al desenfundarla."
+    },
+    "qleoyfdpKwVnDz5z": {
+      "name": "Kau Sin Ke",
+      "description": "Presa (Fuerza 8)<hr>\nArma oriental compuesta por un mango y varias varillas metálicas unidas por aros o cadenas. Gracias a la fuerza rotatoria que le imprime su usuario, sus impactos son muy poderosos, pero es muy difícil de manejar."
+    },
+    "8WII8AyHzYHZdDzi": {
+      "name": "Keiko",
+      "description": "También llamada Kake-yoroi, esta armadura es una versión más ligera y versátil del Tanko, normalmente diseñada para la caballería."
+    },
+    "ddvJOzkvJIfySlxT": {
+      "name": "Kerambit",
+      "description": "Precisa.<hr>\nEl Kerambit se caracteriza por su forma de luna con una curva de doble filo. Tiene un anillo en la parte inferior del pomo que permite al portador colocar el dedo índice en él para sujetar el arma con mayor seguridad. Dejando el puño libre y permitiendo al usuario abrir y cerrar la mano, es un arma perfecta para combinar con ataques físicos o artes marciales. Un personaje que usa un kerambit es muy difícil de desarmar, por lo que aplica +2 a los controles de Característica para evitar perder el arma."
+    },
+    "uAUsz5Uw6NxauJ30": {
+      "name": "Kiseru",
+      "description": "Es una pipa metálica reforzada, de más de medio metro de largo. El usuario la empuña por el mango. Debido a su naturaleza inusual, es un arma enormemente discreta."
+    },
+    "vrW1LxUEeNaidG0Z": {
+      "name": "Cuchillo de Cocina",
+      "description": ""
+    },
+    "JzK2mM9k84FW2y63": {
+      "name": "Koncerz",
+      "description": "El Koncerz es un arma utilizada normalmente desde la montura. Es similar a un sable por su empuñadura, pero posee una hoja de más de metro y medio de longitud, lo que permite al jinete aprovechar su considerable alcance para estocar desde lo alto. Aunque conceptualmente es una espada, se aplican las reglas de armas de asta cuando se usa montado. Debido a su tamaño, puede atacar a varios enemigos como si fuera un arma Grande."
+    },
+    "Sv983HrtpDeNcE02": {
+      "name": "Kozan-do",
+      "description": "Armadura oriental pesada, compuesta por pequeños triángulos o placas cuadradas de metal, unidos entre sí mediante cordones de cuero o algodón."
+    },
+    "OsEbFxb7Bjk7tI6F": {
+      "name": "Kris",
+      "description": "Precisa.<hr>\nEspada corta con una hoja serpenteante."
+    },
+    "d1SPh5TXJRGp5RJB": {
+      "name": "Kukri",
+      "description": "Cuchillo con el filo levemente curvado, que mide alrededor de 30 centímetros."
+    },
+    "ScfgKIrrjM9RMRPD": {
+      "name": "Kumade",
+      "description": "Kama de mayor tamaño, unida a un asta de aproximadamente unos dos metros de largo."
+    },
+    "W2tYJNeDbp1A3n2n": {
+      "name": "Kunai",
+      "description": "Lanzable (Alcance 20m, Cadencia 40)<hr>\nArma arrojadiza similar a un puñal, aunque de mayor tamaño. Suelen llevar anillas en la empuñadura para sujetarla mejor."
+    },
+    "sQyIZf3cyx8GtaCe": {
+      "name": "Kusari-Gama",
+      "description": "A dos manos; Presa (Fuerza 8)<hr>\nSe trata de una hoz de diseño asiático que lleva una cadena unida a la parte inferior, usada para atrapar o inmovilizar al oponente. Aunque se empuña con ambas manos, no se duplica el bono de Fuerza. Puede utilizarse para ataques convencionales, o bien haciendo girar la cadena para intentar atrapar al enemigo, en cuyo caso solo causa un Daño Base de 10."
+    },
+    "t2vpyJz00ogooEuE": {
+      "name": "Kyoketsu-shogui",
+      "description": "Presa (Fuerza 7)"
+    },
+    "yOImUQMp0jhVYCIT": {
+      "name": "Lajatang",
+      "description": "A dos manos.<hr>\nArma de asta de casi 2 metros de largo, con dos hojas en forma de luna creciente. Permite al personaje realizar un ataque adicional como si empuñara un arma en la otra mano, aunque aplicando solo una penalización de –10 a su habilidad."
+    },
+    "RTI25J4NUEDUtmUb": {
+      "name": "Laminar",
+      "description": "Esta armadura está formada por placas rectangulares de cuero, cosidas entre sí en forma de camisa."
+    },
+    "sBtkidmh3cR6rZGK": {
+      "name": "Lanza",
+      "description": "Lanzable (alcance 30 m, cadencia 80), a una o dos manos<hr>\nLa lanza es el arma de asta por excelencia. Consiste en un largo asta de madera o metal que termina en una fina punta de doble filo. Es muy adecuada para su uso desde caballo o para mantener a los enemigos a distancia. Puede medir desde 1.5 hasta más de 2.1 metros de longitud. Aunque puede usarse con una sola mano, pelear así implica una penalización de –10 al ataque, a menos que se utilice para resistir una carga."
+    },
+    "tLq1mg7EBFMxC3CD": {
+      "name": "Mangual",
+      "description": "A dos manos.<hr>\nUn mayal de enormes dimensiones. Tiene varias cadenas que salen del extremo del asta, cada una terminada en una bola metálica con púas."
+    },
+    "O4YMzxBnlY3vTfgL": {
+      "name": "Lazo",
+      "description": "Presa (Fuerza 9)<hr>\nEl lazo es una cuerda preparada con un nudo corredizo para atrapar animales o personas. Como regla especial, no se aplica la Fuerza del usuario para calcular el daño causado. Requiere ambas manos para usarse."
+    },
+    "2RZF5tba0TvXKZRx": {
+      "name": "Capucha de Cuero",
+      "description": "Esta es una capucha de cuero tratado con aceite que cubre toda la cabeza excepto el rostro."
+    },
+    "WAfCh4VnVHGtikqK": {
+      "name": "Cuero",
+      "description": "Esta es una armadura hecha de cuero muy grueso tratado con aceites para darle mayor resistencia."
+    },
+    "YsKEqYHXhzKKoIdF": {
+      "name": "Balista Ligera",
+      "description": "La balista es una ballesta de proporciones enormes que se utiliza como arma de asedio. Se mueve sobre ruedas debido a su gran tamaño, lo que la hace imposible de transportar a mano. Las balistas ligeras son manejadas por tres personas: dos que la mueven lateralmente y una tercera que apunta y dispara. Las balistas no dependen de la fuerza del usuario y, por lo tanto, no utilizan los bonos de fuerza de su tripulación. En cambio, el arma tiene su propia puntuación de fuerza (12), a la que se le suma +20 al daño base de los virotes disparados. Cada +5 a la calidad del arma, además de mejorar su precisión, añade un punto a la fuerza con la que dispara. Como regla especial, el tremendo poder de penetración del virote disparado por la balista le permite realizar un tipo de ataque en área en línea recta de 3 metros desde su punto inicial de impacto."
+    },
+    "WNUxCRCx0B5t810W": {
+      "name": "Placas",
+      "description": "Esta es una armadura pesada compuesta por una combinación de placas metálicas sobre articulaciones articuladas. Tiene menos piezas que la “Armadura Completa Pesada”, pero también cubre todo el cuerpo."
+    },
+    "oEToMUtVgclZYoNk": {
+      "name": "Virote ligero",
+      "description": "Munición para la Balista Ligera"
+    },
+    "MRe4NfhtqkN69F5T": {
+      "name": "Liu Xing Chui",
+      "description": "A dos manos, Presa (Fuerza 8).<hr>\nTambién llamado “martillo meteoro,” es un arma contundente muy usada en combinación con artes marciales. Consiste en una cuerda larga atada, en uno o ambos extremos, a una esfera metálica que se mantiene en movimiento continuo para ser lanzada fácilmente contra un oponente."
+    },
+    "raUTAWcN9bYS9f1q": {
+      "name": "Arco Largo",
+      "description": "A dos manos.<hr>\nComo el arco corto, pero con una longitud de entre 140 y 180 centímetros. Requiere el uso de ambas manos, aunque el Bono de Fuerza no se duplica."
+    },
+    "B00yhbuVZQ3ewoYM": {
+      "name": "Espada Larga",
+      "description": "Una hoja cortante con una punta afilada. Generalmente mide entre 90 y 110 centímetros de largo."
+    },
+    "z9Z08ytA5GagnAh4": {
+      "name": "Lorica Segmentata",
+      "description": "Armadura compuesta por bandas metálicas en el torso, cuello y hombros, unidas entre sí por bisagras y correas de cuero."
+    },
+    "G5ODILbRlTvNxDmw": {
+      "name": "Lujiaodao",
+      "description": "Arma de presa.<hr>\nArma doble compuesta por dos hojas con forma de luna. Su portador sostiene el arma por el centro, protegido por una de las hojas, y desarma a los oponentes atrapando sus armas entre las hojas lunares."
+    },
+    "mUkai2lsoqu0aTMc": {
+      "name": "Maza Barra",
+      "description": "Una o dos manos.<hr>\nEsta peculiar maza está formada por dos placas metálicas en sección transversal, dispuestas en forma de cruz."
+    },
+    "lnM3L1OLCzQCokOK": {
+      "name": "Maza",
+      "description": "Esta arma consiste en un asta de madera o metal de aproximadamente 45 centímetros de largo, rematada con una cabeza pesada, redonda o esférica."
+    },
+    "jjD1JwECH3wreo6d": {
+      "name": "Capucha de Mallas",
+      "description": "Yelmo idéntico a la capucha de cuero, pero hecho de anillos o trenzas de metal. El interior está forrado con tela para evitar daños en la piel del portador."
+    },
+    "Q3tuU9BD93VJd9Gb": {
+      "name": "Pistola de Mecha",
+      "description": "Una versión más pequeña y compleja del arcabuz que puede dispararse con una mano. Al igual que su contraparte mayor, tiene una puntuación propia de Fuerza (9), a la cual se añade un bono de +10 al Daño Base del disparo que realiza. Si se obtiene un fallo crítico (Pifia) con un nivel menor a 80, el arma se encasquilla. Si el fallo crítico es 80 o más, el arma explota, lo que la inutiliza. Por cada +5 en la calidad del arma, se añade un punto a la Fuerza con la que dispara, y también se suma 15 al nivel de fallo crítico necesario para que explote."
+    },
+    "yVNU7wEIoDUc9MDu": {
+      "name": "Barra Metálica",
+      "description": ""
+    },
+    "kEZl7unJeRdg3F7g": {
+      "name": "Saeta ligera",
+      "description": "Munición para la Ballesta de Mano"
+    },
+    "hNrmlpd9IIjYgmUP": {
+      "name": "Ballesta de Mano",
+      "description": "Una ballesta de tamaño muy pequeño que puede dispararse con una sola mano. Tiene una Fuerza de 5, por lo que no se añade ningún bono al Daño Base. En términos de juego, funciona igual que una ballesta normal, por lo que no es necesario aprender a usarla por separado."
+    },
+    "BQF1AXOk61HUUVAq": {
+      "name": "Montante",
+      "description": "A dos manos.<hr>\nEspada con empuñadura y guarda más grandes que lo normal, cuya hoja mide aproximadamente 90 centímetros. Se usa de forma similar a una lanza. Una mano sostiene la empuñadura, mientras que la otra sostiene una parte sin filo de la hoja."
+    },
+    "g8hGZI1WtHxFsu3M": {
+      "name": "Nagimaki",
+      "description": "A dos manos<hr>\nVersión más pequeña de una naginata, con un asta de poco más de 90 centímetros."
+    },
+    "nAmsrOQ86LPISdnr": {
+      "name": "Naginata",
+      "description": "A una o dos manos.<hr>\nAlabarda oriental con una hoja de mayor tamaño."
+    },
+    "BABB5MJ9umz59b2f": {
+      "name": "Ninja-to",
+      "description": "Espada corta oriental de hoja recta. Su hoja suele medir menos de 90 centímetros."
+    },
+    "c6JQfBOx2wlXmUho": {
+      "name": "Nodachi",
+      "description": "A una o dos manos.<hr>\nUna versión más grande de la katana, que puede usarse con una o dos manos. Se emplea de forma similar, pero es mucho más larga y gruesa."
+    },
+    "jpNR97zpYor25Kux": {
+      "name": "Nunchakus",
+      "description": "Son dos palos cortos de madera o metal unidos por una cadena corta."
+    },
+    "qQwiYFnKz6Fpk3E0": {
+      "name": "O-Yoroi",
+      "description": "Se considera la armadura pesada samurái por excelencia. Sus hombros están protegidos por dos guardas rectangulares y la parte inferior por cuatro faldones trapezoidales, unidos al peto mediante un sistema intrincado de cordones y nudos."
+    },
+    "688q3jxdpKzmS77n": {
+      "name": "Oficial",
+      "description": null
+    },
+    "9fj3WvOdpbpVTzwK": {
+      "name": "Completo Abierto",
+      "description": "Este es un yelmo completo que cubre toda la cabeza, excepto el rostro."
+    },
+    "ZFyHOYmZsNQsaXX1": {
+      "name": "Armas Orientales",
+      "description": null
+    },
+    "md3gG2oPwLUdOTzs": {
+      "name": "Acolchada",
+      "description": "Esta es una armadura simple hecha de varias capas de tela acolchada para absorber la fuerza de los golpes."
+    },
+    "WcdAkTLjGoVmCecC": {
+      "name": "Daga de Parada",
+      "description": "Arma de presa, Lanzable (Alcance 15 m, Cadencia 50), Precisa.<hr>\nUna variación de la daga tradicional diseñada para parar los ataques de armas enemigas y atraparlas con la empuñadura. En su base tiene dos bordes cortantes."
+    },
+    "YjpAAtJ8Ow91obZ7": {
+      "name": "Piezas",
+      "description": "Armadura compuesta por varias piezas de metal que cubren las partes más vitales del cuerpo. Normalmente van cosidas sobre un traje de cuero o de piel, aunque a veces se ensamblan mediante uniones."
+    },
+    "kzoEQMshra15wkBL": {
+      "name": "Pata",
+      "description": "Precisa.<hr>\nSimilar a una espada corta, pero con la particularidad de estar integrada directamente en un guantelete. Esta arma es una evolución del katar, cuya hoja puede medir hasta 60 centímetros."
+    },
+    "sriJlKkTCXPW9uWt": {
+      "name": "Perpunte",
+      "description": "Versión reforzada de la armadura acolchada, diseñada para ser utilizada sin capas adicionales."
+    },
+    "7VQhblBVXD4hProW": {
+      "name": "Pico",
+      "description": ""
+    },
+    "GEtxyl5thwgWoZP9": {
+      "name": "Pika (Distancia)",
+      "description": "A dos manos.<hr>\nSimilar a una lanza, la pica es un arma de mayor longitud (mide entre 2,7 y 5,5 metros). Esta arma ofrece una defensa excepcional en formaciones militares. Por su método de uso, presenta dos velocidades distintas, dependiendo de si el enemigo está o no dentro del alcance cuerpo a cuerpo. Al enfrentarse a un enemigo que aún no está cerca o que se aproxima cargando, la pica tiene una Iniciativa de +20, en lugar de –30."
+    },
+    "nJ23DQDFERK6hRRA": {
+      "name": "Pika (Mele)",
+      "description": "A dos manos.<hr>\nSimilar a una lanza, la pica es un arma de mayor longitud (mide entre 2,7 y 5,5 metros). Esta arma ofrece una defensa excepcional en formaciones militares. Por su método de uso, presenta dos velocidades distintas, dependiendo de si el enemigo está o no dentro del alcance cuerpo a cuerpo. Al enfrentarse a un enemigo que aún no está cerca o que se aproxima cargando, la pica tiene una Iniciativa de +20, en lugar de –30."
+    },
+    "SN69oMKcg7Qj3TF9": {
+      "name": "Bala (Pistola)",
+      "description": "Munición para Pistola/Arcabuz.<hr>\nRequieren Polvora (5 MO/disparo)"
+    },
+    "pgaX2zsu4OAHWPHB": {
+      "name": "Core Exxet",
+      "description": null
+    },
+    "YWbBkF921n6do8p6": {
+      "name": "Proyectiles/Armas Lanzadas",
+      "description": null
+    },
+    "EKAsBtiSScaOmzl0": {
+      "name": "Pudao",
+      "description": "A una o dos manos.<rh>\nArma oriental de infantería, adaptada para su uso en varias artes marciales. Tiene un asta corta y termina en una hoja de un solo filo."
+    },
+    "6fQU6GmHIPKd3Xgv": {
+      "name": "Vara",
+      "description": "A dos manos.<hr>\nEsta arma consiste en un asta de madera o metal que puede medir hasta un metro. Aunque puede utilizarse con una sola mano, combatir de ese modo impone un penalizador de –10 a la Habilidad de Ataque del personaje."
+    },
+    "Ag6mjKY6TcH1pjgz": {
+      "name": "Ram Dao",
+      "description": "A una o dos manos.<hr>\nEspada pesada de gran tamaño, con una hoja muy ancha que termina en forma de “D”."
+    },
+    "zMvkGwd1Uoh7bXLN": {
+      "name": "Estoque",
+      "description": "Precisa.<hr>\nUna espada fina y estilizada de doble filo."
+    },
+    "F83nMdWzFizoWCTN": {
+      "name": "Cuervo",
+      "description": "Precisa.<hr>\nCuchillo de múltiples hojas en forma de estrella con un agujero en el centro. El pulgar se coloca en el agujero y el cuchillo se hace girar con fuerza. Al girar, puede bloquear ataques de proyectiles como si fuera una Rodela."
+    },
+    "tDn3NCkm6k6TeI6F": {
+      "name": "Ballesta de repetición",
+      "description": "En realidad, esta no es una clase diferente de arma respecto a la ballesta normal, por lo que puede usarse sin necesidad de desarrollar una habilidad específica aparte. Simplemente está equipada con un sistema de engranajes que le permite disparar un mayor número de saetas sin necesidad de recargar. Usualmente cuenta con un cargador que contiene entre 4 y 8 saetas. Requiere el uso de ambas manos."
+    },
+    "yFljEzmJ5tHrZBO2": {
+      "name": "Sable",
+      "description": "Una hoja curva y ligera, más pequeña y menos resistente que la espada larga, pero mucho más maniobrable."
+    },
+    "6KXFl69p88E5E7Uv": {
+      "name": "Sai",
+      "description": "Arma de presa; Precisia.<hr>\nArma punzante sin filo, con forma de cuchillo, cuya guarda en cruz se curva hacia adelante asemejando un tridente. Se usa principalmente para parar las armas del oponente."
+    },
+    "MsKSQEsTuBu9l4SJ": {
+      "name": "Sang Kauw",
+      "description": "Lanza doble extraña, con un agarre en el centro en forma de media luna y un escudo en el medio. Permite al portador bloquear proyectiles como si se tratara de una rodela."
+    },
+    "EsSVKbnpDnM3yqed": {
+      "name": "Escamas",
+      "description": "Esta es una armadura de cuero cubierta con escamas metálicas similares a las de un pez."
+    },
+    "ehzTcLaYHdzaGvhP": {
+      "name": "Cimitarra",
+      "description": "Una espada curva grande, generalmente más corta que la espada larga, pero con una hoja más ancha."
+    },
+    "vZ1IwbmbgGfHa1ud": {
+      "name": "Escramasajón",
+      "description": "Espada corta sin cruceta y con un solo filo extremadamente afilado."
+    },
+    "JIFCE3UkGChaIzds": {
+      "name": "Guadaña",
+      "description": "A una o dos manos.<hr>\nConsiste en un largo asta que termina en una hoja curva igualmente larga. También cuenta con un mango que permite usarla con ambas manos."
+    },
+    "7MkiwAVfgJH76sVW": {
+      "name": "Shang Gou",
+      "description": "Arma de Presa.<hr>\nEstas armas exóticas, también llamadas espadas de gancho, se utilizan principalmente para desarmar e inmovilizar al enemigo. Por su diseño único, si se usan en pareja pueden engancharse entre sí para aumentar su alcance. Cuando un personaje las utiliza de esta forma, pierde su ataque adicional con la otra mano, pero a cambio puede realizar la maniobra de Ataque de Área como si usara un arma Grande, aplicando solo una penalización de –40 a su Habilidad."
+    },
+    "v9y7DqrhrjkV3bIT": {
+      "name": "Escudo",
+      "description": "Superficie de metal o madera reforzada con asas en la parte posterior para poder sostenerla. Se utiliza principalmente como medio de defensa.\n\nSi un personaje desea usarla para atacar como arma secundaria, no añade su bono a la Habilidad Defensiva durante ese Asalto de Combate."
+    },
+    "JKjEGZv1hgmom0Sr": {
+      "name": "Escudos",
+      "description": null
+    },
+    "rME4rfgPX9QY61JT": {
+      "name": "Espada Corta",
+      "description": "Precisa.<hr>\nUna hoja recta y afilada de unos 45 centímetros de largo. Aunque puede cortar, se utiliza principalmente como arma de estocada. Su tamaño reducido la convierte en un arma muy discreta."
+    },
+    "5OCJxqVNiDmQNx58": {
+      "name": "Arco Corto",
+      "description": ""
+    },
+    "a9D15WPlLpDiMsPd": {
+      "name": "Shuko",
+      "description": "Este es un artefacto en forma de garra que se sujeta en la palma de las manos. Se utiliza tanto como arma como herramienta para escalar. Las shuko otorgan un +10 a la Habilidad de Trepar del personaje."
+    },
+    "xnPsKz2hic1QSSve": {
+      "name": "Shuriken",
+      "description": "Lanzable (Alcance 20 m, Cadencia 30)<hr>\nPequeñas armas metálicas asiáticas utilizadas exclusivamente para ser lanzadas. Pueden tener diversas formas, desde discos con bordes afilados hasta cuchillos en forma de estrella."
+    },
+    "fRvp14wZjDLf9EXI": {
+      "name": "Hoz",
+      "description": ""
+    },
+    "gB6HEsMnryNWwAJG": {
+      "name": "Honda",
+      "description": "Se trata de una pequeña bolsa de cuero atada a una cuerda. Se utiliza mediante un movimiento giratorio para lanzar piedras a gran velocidad."
+    },
+    "J3yiMCW64Z3b1Rpd": {
+      "name": "Piedra de Honda",
+      "description": "Munición para la Honda"
+    },
+    "hk4Alk8X0feNHBo3": {
+      "name": "Sode Garami",
+      "description": "A dos Manos, Presa (Fuerza 7)<hr>\nArma de asta de más de dos metros de largo, diseñada para atrapar al enemigo con su cabeza llena de garfios y púas. Si el personaje ejecuta un ataque de Presa contra un enemigo que lleva ropa susceptible de ser enganchada o enredada, puede aplicar un bono de +2 al control de característica de Fuerza."
+    },
+    "Jyk5wBkDAAkfvxeo": {
+      "name": "Spatha",
+      "description": "Evolución del gladius, de mayor tamaño. En muchos aspectos, puede considerarse una versión arcaica de la espada larga."
+    },
+    "cculg3qL8EdbhTfL": {
+      "name": "Bolas",
+      "description": "Bolas de metal equipadas con púas para facilitar su lanzamiento."
+    },
+    "gOUKYHoH1oAd06ey": {
+      "name": "Flecha de Descarga",
+      "description": "La más común de las flechas usadas con arcos."
+    },
+    "tEgip5lXPXdi5Qpe": {
+      "name": "Estilete",
+      "description": "Lanzable (Alcance 30 m, Cadencia 30), Precisa.<hr>\nUn cuchillo afilado en forma de aguja cuya principal función es el lanzamiento, aunque también puede ser utilizado en combate cuerpo a cuerpo."
+    },
+    "1mgz2v5pJ7vLQMWh": {
+      "name": "Piedra",
+      "description": "Munición usada por el Arco de Balas"
+    },
+    "5Lx4A5wU68aEemf7": {
+      "name": "Cuero tachonado",
+      "description": "Esta es una armadura de cuero blando reforzada con pequeños fragmentos metálicos incrustados. Es muy útil por su buena relación entre protección y movilidad, aunque puede resultar incómoda de llevar debido a la rigidez añadida por los tachones."
+    },
+    "293qT9ETfn2xllWw": {
+      "name": "Quebradora",
+      "description": "A una o dos manos.<hr>\nEsta es una espada corta de gran peso, con una hoja de casi 25 centímetros de ancho. Debido a su enorme potencial de impacto, se utiliza con frecuencia para romper armas o atravesar la armadura del enemigo. Puede manejarse con una o dos manos, dependiendo de la fuerza del portador y la situación de combate."
+    },
+    "DUI4GCoDdzenTBgM": {
+      "name": "Tanko",
+      "description": "Armadura oriental compuesta esencialmente de largas placas metálicas flexibles."
+    },
+    "MtEi60wUhBHFuls3": {
+      "name": "Tanto",
+      "description": "Precisa.<hr>\nArma oriental, se asemeja a la katana pero es mucho más pequeña."
+    },
+    "jZ1z8030p3WNStuB": {
+      "name": "Abanico de Combate",
+      "description": "Precisa, Lanzable (alcance 20 m, Cadencia 40)<hr>\nUn arma oriental especialmente exótica, con apariencia de abanico, pero en lugar de las varillas de madera tiene cuchillas afiladas. La base del abanico es un contrapeso pesado que puede realizar un ataque de impacto."
+    },
+    "DOb6NqEaOXNspcPb": {
+      "name": "Tetsubo",
+      "description": "A una o dos manos.<hr>\nUna maza hexagonal metálica extraordinaria, con acabado en púas o protuberancias. Se puede usar a una o dos manos."
+    },
+    "5yyJVh3I3EZXhmqK": {
+      "name": "Tonfa",
+      "description": "Arma tipo garrote, con un mango corto que sobresale en el centro, diseñada para ser usada sujetándola a lo largo del antebrazo."
+    },
+    "Yh3lfbkHtSjz2dr4": {
+      "name": "Antorcha",
+      "description": ""
+    },
+    "Yj81eq65JofJqUlG": {
+      "name": "Tridente",
+      "description": "Lanzable (Alcance 15 m, Cadencia 100), a una o dos manos.<hr>\nLanza o jabalina con una punta compuesta de tres partes que recuerda a un tenedor. Su diseño permite que sea lanzada. Es un poco más grande que el tridente usado para la pesca."
+    },
+    "jrFZHJwfa0hXGzqL": {
+      "name": "Katana de Doble Hoja",
+      "description": "Es un bastón que tiene una katana en cada extremo. Se sostiene y maneja agarrando el largo asta central. Aunque se usan ambas manos, el bono de Fuerza no se duplica. Por la forma en que se empuña, permite realizar un segundo ataque por turno, como si se usara un arma secundaria. Sin embargo, cuando se usa de este modo, solo aplica una penalización de –10 a la Capacidad de Ataque del personaje."
+    },
+    "ZMN40z28QJYCHK0F": {
+      "name": "Hacha a Dos Manos",
+      "description": "A una o dos manos.<hr>\nUn enorme hacha con un contrapeso en la base del mango. Dependiendo del diseño, puede tener una o dos hojas. Su tamaño hace casi imprescindible empuñarla con ambas manos. Mide entre 1,5 metros y más de 2,1 metros de largo."
+    },
+    "trkMiDH8maLFBaHQ": {
+      "name": "Mandoble",
+      "description": "A una o dos manos.<hr>\nEl mandoble es la más grande de las espadas y puede medir más de 1,5 metros de largo. Usada casi exclusivamente con ambas manos, es un arma torpe pero muy letal."
+    },
+    "RwkxviHIv0LGKnhq": {
+      "name": "Uchi-ne",
+      "description": "Lanzable (Alcance 30 m, Cadencia 100)<hr>\nVersión oriental del jabalina, pero más corta y pesada."
+    },
+    "mxeMbiSVRPn124fx": {
+      "name": "Urumi",
+      "description": "Esta extraña arma, con la empuñadura de una espada y un filo formado por tiras metálicas flexibles y extendidas, puede usarse como un látigo para producir cortes dolorosos al enemigo. Su manejo requiere gran destreza, ya que es muy fácil hacerse daño a uno mismo con ella. Debido a su diseño peculiar, es difícil defenderse de sus ataques, por lo que cualquier oponente que intente bloquearlos o esquivarlos aplica la penalización correspondiente a proyectiles lanzados en su defensa."
+    },
+    "KN4uPDk44G6Ew7S3": {
+      "name": "Valaska",
+      "description": "A una o dos manos<hr>\nHacha ligera con un asta de aproximadamente 90 centímetros, coronada por una hoja en un lado y un pequeño martillo en el otro."
+    },
+    "jmj7ZwlD2ui5faR3": {
+      "name": "Jarrón",
+      "description": "Lanzable"
+    },
+    "jm7oBwgxYctQaUqo": {
+      "name": "Wakizashi",
+      "description": "Similar al tanto por su tamaño y diseño, el wakizashi es un arma usada como complemento de la katana y generalmente se maneja con la mano izquierda."
+    },
+    "9CNLyicyDEnWpPLc": {
+      "name": "Martillo de Guerra",
+      "description": "Arma contundente que consiste en un asta rematada por una gran cabeza de martillo de acero."
+    },
+    "sHsg3pWIYt0Gkrbs": {
+      "name": "Armas",
+      "description": null
+    },
+    "DqqlHd60DRmQTDDb": {
+      "name": "Látigo",
+      "description": "Presa (Fuerza 8)<hr>\nEl látigo es una cuerda o cadena diseñada para usarse como arma. Se maneja con rápidos movimientos de muñeca y es capaz de cortar o atrapar a un oponente."
+    },
+    "c3nR13L3I4GfVbfN": {
+      "name": "Palo de Madera",
+      "description": ""
+    },
+    "PCZKdNISw7WNlgQi": {
+      "name": "Hacha de Leñador",
+      "description": "A una o dos manos"
+    }
+  }
+}

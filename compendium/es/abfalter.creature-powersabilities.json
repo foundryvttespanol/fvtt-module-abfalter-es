@@ -1,0 +1,735 @@
+{
+  "label": "Poderes-Habilidades de Criatura",
+  "mapping": {
+    "description": "system.description",
+    "shortDesc": "system.shortDesc",
+    "cost": "system.cost"
+  },
+  "entries": {
+    "Omin2NdZdS9SJfFw": {
+      "name": "Inmunidad Absoluta",
+      "shortDesc": "Los Noth ignoran automáticamente cualquier chequeo de Resistencia, sin importar su naturaleza u origen. Para todos los efectos, se considera que lo han superado."
+    },
+    "UKXYDuBgIbFA9kx3": {
+      "name": "Acceso a una Disciplina Psíquica",
+      "shortDesc": "El ser puede usar sus CV para adquirir afinidad con una única disciplina psíquica y utilizar sus poderes. Los elementales de fuego no pueden usar poderes de crioquinesis, y viceversa.",
+      "cost": 15
+    },
+    "BnMWEV7Q4UJOiuI8": {
+      "name": "Acceso a Disciplinas Psíquicas",
+      "shortDesc": "El ser puede usar sus CV para adquirir afinidad con varias disciplinas psíquicas y utilizar sus poderes. Los elementales de fuego no pueden usar poderes de crioquinesis, y viceversa.",
+      "cost": 30
+    },
+    "zuZ2Ay0du3Ce62LI": {
+      "name": "Magia Atada a Acción",
+      "description": "El control del ser sobre los poderes del flujo del alma son inestables y sólo le responden cuando realiza una acción determinada. Si, por ejemplo, su magia está atada a bailar, sus hechizos sólo funcionarán mientras baile. Es posible que los poderes mágicos funcionen únicamente en situaciones o condiciones específicas, como durante el día o con los pies en el suelo.",
+      "shortDesc": "El ser solo puede usar magia si realiza la acción específica o si se cumplen las condiciones concretas de la Desventaja. Si la acción es una Habilidad Secundaria, el personaje debe realizar una tirada contra Dificultad (DIF) para lanzar sus hechizos. ",
+      "cost": -20
+    },
+    "Hcv2iERSHw0XqSI6": {
+      "name": "Sentidos Agudos: [Sentido]",
+      "shortDesc": "Uno de sus cinco sentidos está especialmente desarrollado. Por lo tanto, aplica un bono de +30 a cualquier tirada de Habilidad Secundaria basada en Percepción que implique su uso.",
+      "cost": 10
+    },
+    "NDfVFzoR2xCRYNBN": {
+      "name": "Punto Vulnerable Adicional",
+      "shortDesc": "El ser tiene un punto vulnerable adicional (aparte de la cabeza y el corazón) que es fácilmente accesible para los atacantes.",
+      "cost": -20
+    },
+    "MIPHnb3Fbg0aLjps": {
+      "name": "Ventajas"
+    },
+    "17ndleWB9e3uFh4D": {
+      "name": "Seres Extraplanares",
+      "shortDesc": "Los Noth no están basados ni siguen ninguna de las reglas de la existencia. Por lo tanto, tienen ciertas características únicas que todos poseen. En primer lugar, los Noth pueden dañar a cualquier criatura, sin importar ninguna inmunidad especial que esta pueda tener. Esto afecta tanto a poderes innatos, hechizos o incluso capacidades gnósticas, sin importar su valor o grado."
+    },
+    "A555ma8GBSWz25vv": {
+      "name": "Ambidiestro",
+      "shortDesc": "El ser puede realizar maniobras con cualquiera de las dos manos. En combate, solo sufre –10 a los ataques con un arma adicional.",
+      "cost": 30
+    },
+    "T1fWMRsOVZL1kxRX": {
+      "name": "Mantenimiento Añadido",
+      "description": "El ser puede mantener sus poderes psíquicos con mayor fuerza.",
+      "shortDesc": "Cualquier poder mantenido de esta forma tiene un nivel de dificultad más alto que el que el ser podría alcanzar normalmente.",
+      "cost": 30
+    },
+    "GdWl3Pi5jPN5aRAh": {
+      "name": "Respiración Acuática",
+      "shortDesc": "El ser puede respirar bajo el agua sin ninguna dificultad.",
+      "cost": 10
+    },
+    "r9nrancnylpj0NjM": {
+      "name": "Miembros Atrofiados",
+      "shortDesc": "El ser carece de extremidades utilizables o las que posee no pueden usarse correctamente, aplicando una penalización de –60 a cualquier chequeo físico que las requiera. Si las extremidades afectadas son las piernas, se aplica una penalización de –6 a su Valor de Movimiento. \n\nNo puede ser seleccionada por ánimas.",
+      "cost": -20
+    },
+    "hdgKKrCd4jwbSL4P": {
+      "name": "Atributo Incrementado +1",
+      "description": "Esta habilidad solo puede adquirirse mediante el uso de conjuros que otorguen habilidades de Criatura o para crear modificadores raciales de una etnia natural. En estos casos, otorgan un +1 a una Característica, y puede adquirirse nuevamente para aumentar una diferente. No puede elegirse dos veces para la misma Característica.",
+      "shortDesc": "+1 a una Característica.\n\nPor defecto está aplicado a FUE en la Pestaña Efectos",
+      "cost": 20
+    },
+    "A4u4xEHpODeLOFzs": {
+      "name": "Atributo Incrementado +2",
+      "description": "Esta habilidad solo puede adquirirse mediante el uso de conjuros que otorguen habilidades de Criatura o para crear modificadores raciales de una etnia natural. En estos casos, otorgan un +2 a una Característica, y puede adquirirse nuevamente para aumentar una diferente. No puede elegirse dos veces para la misma Característica.",
+      "shortDesc": "+2 a una Característica.\n\nPor defecto está aplicado a FUE en la Pestaña Efectos",
+      "cost": 40
+    },
+    "3klDhZBN3o1gblzJ": {
+      "name": "Atributo Incrementado +3",
+      "description": "Esta habilidad solo puede adquirirse mediante el uso de conjuros que otorguen habilidades de Criatura o para crear modificadores raciales de una etnia natural. En estos casos, otorgan un +3 a una Característica, y puede adquirirse nuevamente para aumentar una diferente y en tal caso otorga un +1 acumulativo al bono anterior. Es decir, proporciona un +4 si se adquiere dos veces, un +5 si se elige tres veces, etc.\n\nLa Gnosis base de esta habilidad es 15, pero aumenta en 5 puntos cada vez que se selecciona nuevamente. ",
+      "shortDesc": "+3 (o más) a una Característica.\n\nPor defecto está aplicado a FUE en la Pestaña Efectos",
+      "cost": 60
+    },
+    "P3m23GKU9wiN0Cxi": {
+      "name": "Afinidad: [ELEMENTO/RAZA]",
+      "description": "El ser tiene afinidad con algo específico, ya sea un tipo de ser o un elemento. Si se trata de un elemento, recibe un bono de +20 a cualquier tirada de Resistencia contra efectos causados por él. Si, por otro lado, se trata de una clase de Criatura, cualquier miembro de dicha especie sentirá algún tipo de lazo con él, como si perteneciera a la misma raza.",
+      "shortDesc": "+20 a las Resistencias contra efectos del elemento con el que tiene Afinidad, o es tratado como un miembro de la raza con la que tiene Afinidad.",
+      "cost": 10
+    },
+    "ikYSaW7MsRtiaYvn": {
+      "name": "Metamorfismo Básico",
+      "shortDesc": "Permite la modificación de ciertos rasgos corporales de forma limitada, como los rasgos faciales o el color de la piel.",
+      "cost": 40
+    },
+    "QiK1KjFuJ84NkBkN": {
+      "name": "Ciego",
+      "shortDesc": "No posee el sentido de la vista ni cuenta con algún método sobrenatural para ver. Siempre aplicará la penalización por Ceguera.",
+      "cost": -20
+    },
+    "QwSacCPNe4TztlqP": {
+      "name": "Pautas de Combate",
+      "shortDesc": "La Máquina puede adaptarse a las tácticas de combate de un individuo tras enfrentarlo durante un periodo prolongado. Así, si alguien lucha durante más de tres asaltos consecutivos contra componentes de la Máquina, estos reciben un +10 a cualquier tirada de combate contra ese oponente a partir del inicio del cuarto asalto. Este bono aumenta gradualmente con el tiempo, hasta +20 si el enfrentamiento dura más de 10 asaltos, y hasta +30 si continúa durante más de un minuto. Este bono finaliza una vez concluido el combate."
+    },
+    "YPRpmsoIVFpWhokO": {
+      "name": "Visión Nocturna Completa",
+      "shortDesc": "La oscuridad no afecta en absoluto su capacidad para ver, ni siquiera la oscuridad sobrenatural.",
+      "cost": 20
+    },
+    "XuCvAFPv1pHZegUP": {
+      "name": "Potencial Enfrentado",
+      "description": "Los hechizos de ataque de un personaje con esta ventaja se vuelven más poderosos cuando colisionan contra otra descarga sobrenatural.\n",
+      "shortDesc": "El ser aplica un bono de +50 a su tirada para calcular el resultado de un Choque de conjuros contra otra descarga.",
+      "cost": 20
+    },
+    "CvCmAFXdJXNdpf2j": {
+      "name": "Poderes de Criatura"
+    },
+    "4o2yaL05T7oCt5Lb": {
+      "name": "Barrera de Daño [100]",
+      "shortDesc": "Por alguna razón, el ser es inmune a las armas físicas que producen un daño base inferior a 100. En términos de juego, aplican las reglas de barrera de daño descritas en el Capítulo 14. Esta ventaja no funciona contra ataques capaces de afectar energía.",
+      "cost": 20
+    },
+    "lkLlwjVgLU94ySg8": {
+      "name": "Barrera de Daño [120]",
+      "shortDesc": "Por alguna razón, el ser es inmune a las armas físicas que producen un daño base inferior a 120. En términos de juego, aplican las reglas de barrera de daño descritas en el Capítulo 14. Esta ventaja no funciona contra ataques capaces de afectar energía.",
+      "cost": 25
+    },
+    "kDudOauZrErYRjwQ": {
+      "name": "Barrera de Daño [160]",
+      "shortDesc": "Por alguna razón, el ser es inmune a las armas físicas que producen un daño base inferior a 160. En términos de juego, aplican las reglas de barrera de daño descritas en el Capítulo 14. Esta ventaja no funciona contra ataques capaces de afectar energía.",
+      "cost": 40
+    },
+    "ZumNlY4Kyg1zHApL": {
+      "name": "Barrera de Daño [80]",
+      "shortDesc": "Por alguna razón, el ser es inmune a las armas físicas que producen un daño base inferior a 80. En términos de juego, aplican las reglas de barrera de daño descritas en el Capítulo 14. Esta ventaja no funciona contra ataques capaces de afectar energía.",
+      "cost": 15
+    },
+    "zBan51or3SjHnDCk": {
+      "name": "Barrera de Daño"
+    },
+    "JrZHx8iJd7NmYzk0": {
+      "name": "Dañar Energía",
+      "shortDesc": "Este poder permite dañar a seres basados en energía de la misma forma que la habilidad Ki Extrusión de Presencia. Afecta a todos los ataques que realiza.",
+      "cost": 10
+    },
+    "aesVnURVf5DqktpF": {
+      "name": "Sentido del Peligro",
+      "description": "El ser posee un sexto sentido que le permite percibir cuándo se aproxima un peligro o una amenaza, aunque no pueda identificar su origen o naturaleza hasta que lo vea.",
+      "shortDesc": "El ser no puede ser sorprendido, a menos que la Iniciativa de su oponente sea al menos 150 puntos superior a la suya.",
+      "cost": 40
+    },
+    "AH8f9xM4SFSFV3sc": {
+      "name": "Destrucción",
+      "shortDesc": "Un Noth no soporta daño más allá de su resistencia natural. Si en algún momento sus Puntos de Vida llegan a cero, es destruido automáticamente y desaparece sin dejar rastro."
+    },
+    "j2Cm1pzCrsCw5BjC": {
+      "name": "Desventajas"
+    },
+    "fgf58Qw2FMPzzT3h": {
+      "name": "Características Físicas Divinas",
+      "shortDesc": "El DJ puede asignar cualquier valor a las Características físicas (FUE, DES, AGI, CON).",
+      "cost": 80
+    },
+    "4f70PjB1vnhzw97X": {
+      "name": "Características Anímicas Divinas",
+      "shortDesc": "El DJ puede asignar cualquier valor a las Características espirituales (INT, POD, VOL, PER).",
+      "cost": 80
+    },
+    "FNzMOcczki4fOX0F": {
+      "name": "No Respira",
+      "shortDesc": "El ser no necesita respirar para vivir.",
+      "cost": 10
+    },
+    "yhuof6zfixP80Xqk": {
+      "name": "No se Alimenta",
+      "shortDesc": "El ser no necesita comer para vivir.",
+      "cost": 10
+    },
+    "6z2uuIq76kmLCf5y": {
+      "name": "No Duerme",
+      "shortDesc": "El ser no tiene la necesidad de dormir. Puede quedar inconsciente de manera normal.",
+      "cost": 10
+    },
+    "P4YaTUytDo5QKcX8": {
+      "name": "Forma Elemental",
+      "shortDesc": "El ser posee las habilidades descritas en los hechizos forma elemental de su respectiva Vía.",
+      "cost": 100
+    },
+    "x9Ei1rr6sVv8nAFV": {
+      "name": "Forma Elemental o Inmaterial"
+    },
+    "8QhDj9RUqTvcCit3": {
+      "name": "Habilidades Esenciales"
+    },
+    "iIEwkLQwwlX7HZbX": {
+      "name": "Visión Extrasensorial",
+      "shortDesc": "El ser no necesita ojos para percibir lo que lo rodea. Para todos los efectos, “siente” su entorno como si pudiera ver normalmente, por lo que no se aplican penalizaciones a sus tiradas que usen la visión, como condiciones de oscuridad o ángulo de visión. No obstante, sigue sin poder ver a través de paredes u objetos físicos similares.",
+      "cost": 30
+    },
+    "MydOpL4H5BRwzj5A": {
+      "name": "Concentración Extrema",
+      "description": "El ser puede concentrarse mucho más que la mayoría de los psíquicos, obteniendo así mayores beneficios de sus poderes.",
+      "shortDesc": "El ser duplica el bono que normalmente obtiene por concentrarse. Por ejemplo, si se concentra durante un asalto completo, obtiene un +20 en lugar de un +10.",
+      "cost": 30
+    },
+    "knWm0whxCeFNKpP3": {
+      "name": "Necesidad Extrema",
+      "shortDesc": "El ser tiene una necesidad de índole física para sobrevivir. Por ejemplo, requiere algo específico, como consumir hierro; si no lo hace en un período determinado, muere automáticamente.",
+      "cost": -20
+    },
+    "Pn6h9dSsE4BKqEb3": {
+      "name": "Resistencia al Cansancio",
+      "shortDesc": "Esta Ventaja otorga dos puntos adicionales de Cansancio.\n\nPuede adquirirse varias veces para obtener mayores beneficios.",
+      "cost": 10
+    },
+    "I4kWdlyHCDZxweIJ": {
+      "name": "Calibre",
+      "description": "El ser puede aprovechar mejor su habilidad y enfocar sus poderes en un objetivo concreto.",
+      "shortDesc": "Los CV gastados para mejorar Proyección Psíquica aumentan la habilidad en +20 en lugar de +10.",
+      "cost": 20
+    },
+    "aMaBwl7s1KcLmr8d": {
+      "name": "Movimiento Libre",
+      "shortDesc": "El ser es capaz de moverse sin respetar ninguna de las reglas de la gravedad, siempre que haya un punto de apoyo. Otorga la habilidad de caminar por paredes o incluso por el techo.",
+      "cost": 20
+    },
+    "N90k7TbB0BQtgsTL": {
+      "name": "Movimiento Libre por la Naturaleza",
+      "shortDesc": "El ser es capaz de avanzar por áreas de jungla y bosque sin penalizaciones al movimiento.",
+      "cost": 10
+    },
+    "wU3FaAgiVTQOZfJj": {
+      "name": "Inutilidad Somática",
+      "description": "Una Criatura con esta Habilidad no necesita hacer gestos físicos para usar su magia; puede realizar cualquier tipo de acción física sin que esto afecte a sus poderes",
+      "shortDesc": "El ser no reduce su ACT a la mitad al ser incapaz de gesticular.",
+      "cost": 20
+    },
+    "UYPOT3eIni4ZaloJ": {
+      "name": "Don",
+      "description": "El ser puede sentir y controlar las energías sobrenaturales inherentes a su propia alma. La magia fluye a través de su espíritu, y con el conocimiento adecuado, el ser podrá lanzar hechizos.",
+      "shortDesc": "El ser es capaz de usar magia. Si se trata de un elemental, posee un bono de +20 a su ACT en la Vía Mágica que es afín y un –20 en la opuesta.",
+      "cost": 30
+    },
+    "2nr7DogeSFNpZYRv": {
+      "name": "Inmune a Fenómenos Climáticos",
+      "shortDesc": "Por muy extremo que sea el clima, el ser no sufre ningún tipo de problema por estar expuesto a él.",
+      "cost": 10
+    },
+    "qW44z89HBuO0R2wL": {
+      "name": "Inmune a Enfermedades Naturales",
+      "shortDesc": "Ninguna enfermedad natural puede afectar al ser. Sin embargo, cualquier patógeno dañino que provenga de un ser con Gnosis mayor a 10, o que haya sido creado por medios místicos, continuará afectándolo normalmente.",
+      "cost": 10
+    },
+    "c4EwzKY6pnRtmfua": {
+      "name": "Inmune a Venenos Naturales",
+      "shortDesc": "Ningún veneno natural puede afectar al ser. Sin embargo, cualquier sustancia dañina que provenga de un ser con Gnosis mayor a 10, o que haya sido creada por medios místicos, continuará afectándola normalmente.",
+      "cost": 20
+    },
+    "VQbv0p2xvV5JX8w0": {
+      "name": "Inmune al Dolor",
+      "shortDesc": "El ser es completamente insensible al dolor. Ignora cualquier penalización a todas acción que normalmente sufriría como resultado de Críticos (excepto aquellas causadas por la pérdida o destrucción de un miembro), así como condiciones similares provocadas por efectos sobrenaturales.",
+      "cost": 20
+    },
+    "Qa1UhybTNweSWWEg": {
+      "name": "Inmunidad",
+      "shortDesc": "Del mismo modo, es extremadamente difícil dañar o incluso afectar a los Noth, ya que solo entidades o artefactos con un poder existencial superior pueden “tocarlos”. Los seres que no pueden verlos no pueden hacerles daño de ninguna forma, y aquellos cuya Gnosis sea al menos 10 puntos superior a su Natura o tengan una Gnosis natural de 30 solo infligirán la mitad del daño con sus ataques. Solo quienes tengan una Gnosis 15 puntos superior a su Natura o una Gnosis natural de 35 o más podrán dañar a los Noth normalmente. Esto también se aplica a las armas con un poder extremadamente alto; sin importar si pueden o no afectar a seres sobrenaturales, solo las armas con un poder existencial superior pueden dañar a los Noth, ya sea parcialmente o en su totalidad."
+    },
+    "57oQMqBkMMdxJpIs": {
+      "name": "Magia Innata Mejorada",
+      "description": "El ser puede ejecutar sus hechizos innatos con un potencial mayor al normal.",
+      "shortDesc": "Los conjuros innatos del ser añaden +10 a su potencial, según lo indicado por su ACT.",
+      "cost": 20
+    },
+    "aIJ8VBa3FSIlQyRW": {
+      "name": "Resistencia Física Excepcional [+10]",
+      "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE).",
+      "cost": 10
+    },
+    "1yUTSRLveyZmDuHw": {
+      "name": "Resistencia Física Excepcional [+20]",
+      "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE).",
+      "cost": 20
+    },
+    "Ynd9vmaXmnVQib3m": {
+      "name": "Resistencia Física Excepcional [+30]",
+      "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE).",
+      "cost": 30
+    },
+    "B4kjc4pBmU2okw3J": {
+      "name": "Resistencia Física Excepcional [+40]",
+      "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE).",
+      "cost": 40
+    },
+    "oy3zBnNiafdK53kK": {
+      "name": "Resistencia Física Excepcional [+50]",
+      "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE).",
+      "cost": 50
+    },
+    "KecpNx9KS90cZGWY": {
+      "name": "Resistencia Física Excepcional"
+    },
+    "FQcjzg4fnfAsEgEB": {
+      "name": "Modificador psíquico incrementado",
+      "description": "La Criatura posee una capacidad especial para aprovechar las condiciones ambientales que puedan influir en sus poderes.",
+      "shortDesc": "El ser dobla cualquier modificador natural que utilice su disciplina psíquica. Por ejemplo, un telepático aplicaría +40 por estar en contacto con el objetivo de su poder (en lugar de los +20 normales), y un piroquinético aplicaría +60 por encontrarse dentro de un volcán (en lugar de los +30 normales). Cualquier modificador negativo también se incrementa.",
+      "cost": 10
+    },
+    "fHoJft4ijk2OafJs": {
+      "name": "Reacción Incrementada [+30]",
+      "shortDesc": "Indica el bono que se suma a la iniciativa del ser en combate, ya sea al usar sus armas físicas, hechizos u otras habilidades especiales.",
+      "cost": 30
+    },
+    "8HWhiZvw5thvxp4E": {
+      "name": "Reacción Incrementada"
+    },
+    "JhaDiEHkHMNt0StV": {
+      "name": "Inhumanidad",
+      "shortDesc": "Esta habilidad permite al ser realizar tareas físicas que serían imposibles para un ser humano. La Inhumanidad le permite al ser contar cualquier resultado de nivel Inhumano que logre en la Tabla de Dificultad y aprovechar al máximo las capacidades que le otorgan sus Características.",
+      "cost": 10
+    },
+    "Z314MyRYrAwgmhET": {
+      "name": "Poder Innato",
+      "description": "Toda la energía física del ser proviene de su alma, la cual alimenta sus Técnicas y Habilidades de Ki.",
+      "shortDesc": "Al calcular sus puntos iniciales de Ki, en lugar de usar el valor básico de sus Características, el ser utiliza únicamente su atributo de Poder y multiplica por seis la cantidad que este le otorga. Los puntos adicionales por tener un valor de Característica superior a 10 también se multiplican.\n\nLímites: Este Ventaja solo puede ser elegida si se utilizan las reglas opcionales de Unificación de Puntos de Ki.",
+      "cost": 20
+    },
+    "yNIrcDWczIeTduD8": {
+      "name": "Poderes Sobrenaturales Innatos"
+    },
+    "5dmKIBIswjtaNebK": {
+      "name": "Interacción con el Mundo",
+      "shortDesc": "A pesar de ser inmaterial, si lo desea puede tocar objetos en el mundo físico. Incluso es capaz de atacar, ya sea usando sus armas naturales o empleando objetos materiales.",
+      "cost": 30
+    },
+    "agZipYCHASkwfBAo": {
+      "name": "Invisibilidad e Indetecciones"
+    },
+    "YGFqVHJbPRWtspoh": {
+      "name": "Recuperación de KI",
+      "description": "Esta Ventaja permite que la energía espiritual del ser se recupere más rápido de lo normal",
+      "shortDesc": "La Criatura recupera 1 punto de ki de sus características cada 10 minutos, en vez de cada hora.",
+      "cost": 20
+    },
+    "JohTITufNNIV3jzX": {
+      "name": "Carencia de un Sentido",
+      "shortDesc": "El ser carece de un sentido distinto a la vista y no puede realizar tiradas de percepción que lo requieran.",
+      "cost": -10
+    },
+    "UIejSdGrDoX6KyVs": {
+      "name": "Poderes de la Máquina"
+    },
+    "aAWydEU6LAohRJOJ": {
+      "name": "Magia Estanca",
+      "description": "La magia no fluye naturalmente a través del cuerpo y alma del ser. Algún tipo de bloqueo le impide canalizar los poderes del entorno, y su propia alma tampoco regenera magia. Cuando usa su poder, el ser nunca lo recupera por sí mismo. La única forma de hacerlo es alimentándose de las energías místicas de otros seres u objetos mágicos.\n\nRestricción: Esta Desventaja no puede combinarse con Recuperación Lenta de Magia.",
+      "shortDesc": "El ser carece de regeneración Zeónica y no recupera de forma natural los puntos de Zeón que consume. Solo recupera magia drenando objetos que lo permitan o seres vivos que posean el Don.",
+      "cost": -30
+    },
+    "nzvmyb1otpBWVhkJ": {
+      "name": "Ventajas Mágicas/Psíquicas"
+    },
+    "W04761hPtK3izNdj": {
+      "name": "Desventajas Mágicas/Psíquicas"
+    },
+    "fHTF6Ama4oGr70qJ": {
+      "name": "Extenuación Mágica",
+      "description": "El ser sufre fatiga intensa cada vez que usa magia. Se agotará cada vez que lanza hechizos de gran poder, debilitándose.",
+      "shortDesc": "El ser pierde un punto de Cansancio cuando lanza un Hechizo con un coste superior a 100, 2 puntos si supera 200 y 3 puntos si supera 300.",
+      "cost": -10
+    },
+    "moaLCSN9Ab0UtSLT": {
+      "name": "Metamorfosis"
+    },
+    "zQYEFfG8jpcuEQkK": {
+      "name": "Desplazamientos y Transportes"
+    },
+    "1NojbQiLTyfQWsH6": {
+      "name": "Movimiento sin Peso",
+      "shortDesc": "El ser se desplaza sin dificultad por lugares donde ninguna criatura física podría pasar, como permanecer de pie sobre una rama, caminar sobre el agua o incluso sobre las nubes.",
+      "cost": 10
+    },
+    "yLgZnBSxUWAl9USM": {
+      "name": "Resistencias Místicas y Psíquicas"
+    },
+    "N54zLSsZwF3IAT1L": {
+      "name": "Vuelo Místico [12]",
+      "shortDesc": "El ser es capaz de volar de forma sobrenatural. Por lo tanto, puede elevarse en cualquier condición y no es derribado, incluso si sufre un crítico.",
+      "cost": 100
+    },
+    "wLszltfuCyWtl9o0": {
+      "name": "Vuelo Místico [2]",
+      "shortDesc": "El ser es capaz de volar de forma sobrenatural. Por lo tanto, puede elevarse en cualquier condición y no es derribado, incluso si sufre un crítico.",
+      "cost": 10
+    },
+    "OYdt8yJi5dhXtXOJ": {
+      "name": "Vuelo Místico [8]",
+      "shortDesc": "El ser es capaz de volar de forma sobrenatural. Por lo tanto, puede elevarse en cualquier condición y no es derribado, incluso si sufre un crítico.",
+      "cost": 60
+    },
+    "iiZMfPwd7aFlxHxp": {
+      "name": "Vuelo Místico"
+    },
+    "06uGd0FCL8nrAcUI": {
+      "name": "Resistencia Mísica Excepcional [+20]",
+      "shortDesc": "El ser resiste bastante bien los efectos psíquicos y sobrenaturales.",
+      "cost": 20
+    },
+    "ogRK6g4vm7gln2ue": {
+      "name": "Resistencia Mísica Excepcional [+30]",
+      "shortDesc": "El ser resiste bastante bien los efectos psíquicos y sobrenaturales.",
+      "cost": 30
+    },
+    "Hkg0X1pSoZcYjnR8": {
+      "name": "Resistencia Mísica Excepcional [+40]",
+      "shortDesc": "El ser resiste bastante bien los efectos psíquicos y sobrenaturales.",
+      "cost": 40
+    },
+    "KZaWF48UfR2Or3xw": {
+      "name": "Resistencia Mísica Excepcional [+10]",
+      "shortDesc": "El ser resiste bastante bien los efectos psíquicos y sobrenaturales.",
+      "cost": 10
+    },
+    "PIZyhc9KkOcUC3zY": {
+      "name": "Vuelo Natural [10]",
+      "shortDesc": "El ser posee extremidades que funcionan como alas y le permiten volar. Debe mantenerlas en buen estado, así como contar con suficiente espacio para batirlas y poder despegar. Si recibe un crítico que le cause alguna consecuencia negativa, cae al suelo de inmediato.",
+      "cost": 80
+    },
+    "MermWVEVRO5uOsya": {
+      "name": "Vuelo Natural [12]",
+      "shortDesc": "El ser posee extremidades que funcionan como alas y le permiten volar. Debe mantenerlas en buen estado, así como contar con suficiente espacio para batirlas y poder despegar. Si recibe un crítico que le cause alguna consecuencia negativa, cae al suelo de inmediato.",
+      "cost": 100
+    },
+    "udSqgK7c6T4Ell8n": {
+      "name": "Vuelo Natural"
+    },
+    "LcIvJn5d6JvxdxFi": {
+      "name": "Inmunidad Natural a un Elemento (Completa)",
+      "description": "El ser es completamente inmune a los efectos causados por un elemento específico. Si recibe daño de dicho tipo, este se anula. Esta ventaja no es efectiva si el elemento proviene o es generado por un ser con una Gnosis superior a la de la Criatura.\nTampoco funcionará contra daños producidos mediante tiradas de Resistencia (aunque en este caso puede aplicar un +40 a sus tiradas).\nEn el caso de elementales, el elemento elegido debe coincidir con aquel al que tienen afinidad.",
+      "shortDesc": "Elegir Elemento.",
+      "cost": 30
+    },
+    "Iy6o3lQkdOVYUGPJ": {
+      "name": "Inmunidad Natural a un Elemento (Mitad Daño)",
+      "description": "El ser es parcialmente inmune a los efectos causados por un elemento específico. Si recibe daño de dicho tipo, este se reduce a la mitad. Esta ventaja no es efectiva si el elemento proviene o es generado por un ser con una Gnosis superior a la de la Criatura.Tampoco funcionará contra daños producidos mediante tiradas de Resistencia (aunque en este caso puede aplicar un +40 a sus tiradas).En el caso de elementales, el elemento elegido debe coincidir con aquel al que tienen afinidad.",
+      "shortDesc": "Elegir Elemento.",
+      "cost": 10
+    },
+    "5NwS1uvr0wnJVWbf": {
+      "name": "Conocimiento Natural de una Vía (20)",
+      "description": "Un personaje con esta Ventaja posee la capacidad de lanzar ciertos hechizos de forma natural, sin necesidad de estudiarlos. Puede tejer inconscientemente los poderes del Flujo del Alma para una Vía, como si la Vía simplemente respondiera a sus habilidades. El ser sabe usar los hechizos a la perfección, pero no comprende la teoría detrás de ellos ni puede explicarla a otros.",
+      "shortDesc": "Esta ventaja otorga conocimiento innato de una Vía de magia hasta nivel 20 sin necesidad de invertir puntos de magia.",
+      "cost": 10
+    },
+    "rvhk366mz0KUfVIQ": {
+      "name": "Conocimiento Natural de una Vía (40)",
+      "description": "Un personaje con esta Ventaja posee la capacidad de lanzar ciertos hechizos de forma natural, sin necesidad de estudiarlos. Puede tejer inconscientemente los poderes del Flujo del Alma para una Vía, como si la Vía simplemente respondiera a sus habilidades. El ser sabe usar los hechizos a la perfección, pero no comprende la teoría detrás de ellos ni puede explicarla a otros.",
+      "shortDesc": "Esta ventaja otorga conocimiento innato de una Vía de magia hasta nivel 40 sin necesidad de invertir puntos de magia.",
+      "cost": 20
+    },
+    "MzRyGcMGEcVO7gwo": {
+      "name": "Conocimiento Natural de una Vía (60)",
+      "description": "Un personaje con esta Ventaja posee la capacidad de lanzar ciertos hechizos de forma natural, sin necesidad de estudiarlos. Puede tejer inconscientemente los poderes del Flujo del Alma para una Vía, como si la Vía simplemente respondiera a sus habilidades. El ser sabe usar los hechizos a la perfección, pero no comprende la teoría detrás de ellos ni puede explicarla a otros.",
+      "shortDesc": "Esta ventaja otorga conocimiento innato de una Vía de magia hasta nivel 60 sin necesidad de invertir puntos de magia.",
+      "cost": 30
+    },
+    "2ewbHWHRECuVPdS3": {
+      "name": "Conocimiento Natural de una Vía (80)",
+      "description": "Un personaje con esta Ventaja posee la capacidad de lanzar ciertos hechizos de forma natural, sin necesidad de estudiarlos. Puede tejer inconscientemente los poderes del Flujo del Alma para una Vía, como si la Vía simplemente respondiera a sus habilidades. El ser sabe usar los hechizos a la perfección, pero no comprende la teoría detrás de ellos ni puede explicarla a otros.",
+      "shortDesc": "Esta ventaja otorga conocimiento innato de una Vía de magia hasta nivel 80 sin necesidad de invertir puntos de magia.",
+      "cost": 40
+    },
+    "xjf0ZNAGjFOuWZwA": {
+      "name": "Conocimiento Natural de una Vía (90)",
+      "description": "Un personaje con esta Ventaja posee la capacidad de lanzar ciertos hechizos de forma natural, sin necesidad de estudiarlos. Puede tejer inconscientemente los poderes del Flujo del Alma para una Vía, como si la Vía simplemente respondiera a sus habilidades. El ser sabe usar los hechizos a la perfección, pero no comprende la teoría detrás de ellos ni puede explicarla a otros.",
+      "shortDesc": "Esta ventaja otorga conocimiento innato de una Vía de magia hasta nivel 90 sin necesidad de invertir puntos de magia.",
+      "cost": 50
+    },
+    "9j9Z3fTTNd7l4g44": {
+      "name": "Poder Natural",
+      "description": "El ser realiza sus hechizos utilizando su poder espiritual, potenciándolos con su esencia en lugar de su conocimiento.",
+      "shortDesc": "Para calcular su potencial máximo en los hechizos, el ser usa su Característica de Poder en lugar de su Inteligencia. Esta ventaja no influye en el nivel de Vía, que continúa usando Inteligencia de la manera habitual.",
+      "cost": 10
+    },
+    "rNhcnbQi7KVj6A3Q": {
+      "name": "Vulnerabilidad Elemental (50% Daño)",
+      "shortDesc": "El ser es vulnerable de forma natural al daño producido por un elemento, el cual incrementa el daño recibido en un 50 %. En el caso de los seres elementales, el elemento elegido debe ser el opuesto al de su afinidad.",
+      "cost": -10
+    },
+    "JAvnzpPYoeIfJa9J": {
+      "name": "Vulnerabilidad Elemental (Doble Daño)",
+      "shortDesc": "El ser es vulnerable de forma natural al daño producido por un elemento, el cual dobla  el daño recibido. En el caso de los seres elementales, el elemento elegido debe ser el opuesto al de su afinidad.",
+      "cost": -20
+    },
+    "SjV4H2xPKqeN8hGs": {
+      "name": "Visión Nocturna",
+      "shortDesc": "Permite reducir a la mitad cualquier penalización que se aplique debido a la oscuridad natural.",
+      "cost": 10
+    },
+    "vaiUl8lhExB6dsyr": {
+      "name": "Sin Concentración",
+      "description": "Los poderes psíquicos del ser con esta Desventaja son demasiado poco confiables para que pueda planificar su uso con antelación.",
+      "shortDesc": "Un ser con esta Desventaja no aplica bonificaciones a su potencial psíquico al concentrarse.",
+      "cost": -10
+    },
+    "EK84Oz2RgF282wpR": {
+      "name": "Poderes de los Noth"
+    },
+    "Awsd1q8C5RMPIfqV": {
+      "name": "Percepción Noth",
+      "shortDesc": "Los Noth no pueden ser percibidos por individuos normales ni por seres sobrenaturales; existen en un plano distinto, y solo aquellos con una percepción única pueden verlos o sentirlos. Solo los seres naturales cuya Gnosis sea al menos 10 puntos superior a su Natura o criaturas con una Gnosis natural de 30 o más pueden percibirlos. Ningún otro método, incluidos hechizos de percepción o habilidades especiales, puede alterar este hecho; esto incluye también la ventaja Ver lo Sobrenatural."
+    },
+    "9wCsOjNBVG81Y0LT": {
+      "name": "Poderes Ofensivos"
+    },
+    "oVbuOv39bxrJnXVU": {
+      "name": "Magia Opuesta",
+      "description": "A diferencia de otros lanzadores de hechizos, la naturaleza mágica del ser se sostiene en poderes opuestos y antagónicos. Por ello, puede utilizar hechizos de Vías Opuestas de manera completamente natural.",
+      "shortDesc": "El ser no duplica el coste de Nivel de Vía para aprender hechizos de Vías opuestas. Por ejemplo, podría aprender fácilmente hechizos de Luz y Oscuridad sin necesidad de duplicar los puntos invertidos.",
+      "cost": 10
+    },
+    "B0Rmp0odjQPbYlLd": {
+      "name": "Obligación Oral",
+      "description": "El ser sólo puede lanzar Hechizos si puede hablar.",
+      "shortDesc": "El personaje debe ser capaz de hablar para acumular magia y lanzar sus hechizos.",
+      "cost": -10
+    },
+    "KBLkxddmGVgIrDMZ": {
+      "name": "Concentración Pasiva",
+      "description": "El ser puede concentrarse en cualquier situación, sin importar la dificultad o las complicaciones",
+      "shortDesc": "El ser puede concentrarse para canalizar un poder incluso mientras realiza acciones activas.",
+      "cost": 30
+    },
+    "3Bu9ZAmUBze29xF2": {
+      "name": "Exención Física",
+      "description": "Esta habilidad representa la eliminación total de las necesidades físicas explicadas anteriormente. Un ser que la posea puede beneficiarse de cualquiera de las siguientes ventajas: Sin Inconsciencia, Incansable, No Respira, No se Alimenta, No Duerme, Inmune a Venenos Naturales, Inmune a Enfermedades Naturales, Inmune a Fenómenos Climáticos.",
+      "shortDesc": "Un ser que lo posea puede tener cualquiera de las siguientes ventajas: Sin Inconsciencia, Incansable, No Respira, No Come, No Duerme, Inmune a Venenos Naturales, Inmune a Enfermedades Naturales, Inmune a Fenómenos Climáticos.",
+      "cost": 50
+    },
+    "TvBa0IoiW2lJ2Enc": {
+      "name": "Forma Física a Voluntad.",
+      "shortDesc": "A pesar de que el estado natural del ser es el descrito, si así lo desea puede asumir una forma física.",
+      "cost": 10
+    },
+    "OKYkjkoEp1Iv6mNZ": {
+      "name": "Invulnerabilidad Física",
+      "shortDesc": "Cuando los miembros de la Máquina reciben daño continuo de una clase particular de arma, modifican sus cuerpos para volverse resistentes a esos ataques. Cuando tres o más componentes de la Máquina han sido destruidos por una clase determinada de arma, después de un minuto los demás componentes reducen el Daño Base de cualquier ataque de esa clase en 10 puntos. Este beneficio aumenta gradualmente según cuántos componentes hayan sido destruidos por tales armas. Si se han destruido más de 10, el daño se reduce en 20 puntos; si más de 25, se reduce en 30 puntos. Cuando se han destruido cien o más, la reducción alcanza –40. Se puede proteger contra múltiples clases de armas a la vez. Por razones desconocidas, algo en la naturaleza de la Máquina impide que esta habilidad funcione contra ataques mágicos, por lo que el daño de los hechizos no se reduce. Este beneficio termina una vez finalizado el combate."
+    },
+    "p1iaJf4EqNH31e5l": {
+      "name": "Necesidad Física",
+      "shortDesc": "El ser tiene una necesidad de tipo físico para sobrevivir. Por ejemplo, requiere algo específico, como consumir hierro, dentro de un período de tiempo determinado o sufre una Penalización acumulativa de –10 a Todas las Acciones. Si la necesidad no se satisface durante un largo período, incluso puede morir.",
+      "cost": -10
+    },
+    "SULecrTRnSmkKRjL": {
+      "name": "Ambivalencia Psíquica",
+      "description": "A través de sus capacidades psíquicas, el ser se encuentra especialmente potenciada al utilizar más de un poder al mismo tiempo, obteniendo bonificaciones superiores a las de otros individuos con habilidades mentales.",
+      "shortDesc": "Cuando el ser divide su potencial psíquico para usar más de un poder por turno, obtiene un bono acumulativo de +5 por cada poder que declare.",
+      "cost": 30
+    },
+    "ub4czBZe4OBfxmT5": {
+      "name": "Consumición Psíquica",
+      "description": "Si el ser sufre un fallo psíquico, pierde automáticamente una cantidad de Puntos de Vida igual a la cantidad por la que falló.",
+      "shortDesc": "Los poderes psíquicos de un ser con esta desventaja generan un serio retroceso en su cuerpo, causando daño interno.",
+      "cost": -20
+    },
+    "1RXfc29bMS2f5OAB": {
+      "name": "Extenuación Psíquica",
+      "description": "Los poderes psíquicos de un personaje con esta Desventaja causan un gran esfuerzo físico sobre su cuerpo, dejándolo terriblemente exhausto incluso al utilizar habilidades psíquicas de bajo nivel.",
+      "shortDesc": "El ser pierde el doble de puntos de fatiga indicados cada vez que usa poderes psíquicos.",
+      "cost": -10
+    },
+    "8V5sRuGcB8LQHcQm": {
+      "name": "Resistencia a la Fatiga Psíquica",
+      "description": "El ser nunca sufre fatiga al utilizar sus poderes psíquicos.",
+      "shortDesc": "Si el ser falla al usar uno de sus poderes, no pierde Puntos de Fatiga cuando ya ha consumido todos sus CV. Los poderes de nivel tres no se ven afectados por esta Ventaja.",
+      "cost": 30
+    },
+    "dsrovaerz4LNh8ei": {
+      "name": "Desequilibrio Psíquico",
+      "description": "El ser ha desarrollado una de sus Disciplinas Psíquicas más fuerte que las otras que posee.",
+      "shortDesc": "El ser obtiene automáticamente un nivel de dificultad adicional superior al normal al utilizar los poderes de una disciplina específica.",
+      "cost": 20
+    },
+    "tB4XejXfop5xwES9": {
+      "name": "Recuperación de CV",
+      "description": "Un ser con esta Ventaja puede recuperarse fácilmente tras usar sus poderes.",
+      "shortDesc": "La tasa de recuperación de CV del ser es de 1 punto cada 10 minutos.",
+      "cost": 20
+    },
+    "aZc8hET3RHHRHha2": {
+      "name": "Inmunidad Psicológica",
+      "shortDesc": "La mente del ser no es capaz de sentir ningún tipo de estado psicológico. Por lo tanto, es completamente inmune a efectos psíquicos, como Dolor, Miedo, Terror o Ira.",
+      "cost": 20
+    },
+    "4K6tBJIESeglSLMu": {
+      "name": "Miedo Racial",
+      "shortDesc": "El ser tiene un miedo insuperable a algo específico, por lo que sufre dicho estado cuando se encuentra en su presencia.",
+      "cost": -10
+    },
+    "MHuAPpBMIP1GfAQA": {
+      "name": "Terror Racial",
+      "shortDesc": "El ser tiene un terror insuperable a algo específico, por lo que sufre dicho estado cuando se encuentra en su presencia.",
+      "cost": -20
+    },
+    "75WcmuHNUXaGkFUD": {
+      "name": "Vicio Racial",
+      "shortDesc": "El ser tiene algún tipo de vicio natural que no puede superar por ningún medio. Cada vez que tiene la oportunidad de satisfacerlo y no lo hace, causa que el ser sufra una penalización de –20 a toda acción.",
+      "cost": -10
+    },
+    "QwLs21H7N4bTE5h7": {
+      "name": "Obligación Somática",
+      "description": "Un ser con esta Desventaja debe tener libertad total de movimiento con sus extremidades para poder controlar o utilizar sus hechizos.",
+      "shortDesc": "El ser debe poder gesticular para acumular magia y lanzar hechizos.",
+      "cost": -10
+    },
+    "29b5kXaScYA4q2MM": {
+      "name": "Resistencias y Regeneraciones"
+    },
+    "Tc0ElXkRk5kKMbP7": {
+      "name": "Ver Espíritus",
+      "shortDesc": "Permite al ser ver espíritus.",
+      "cost": 10
+    },
+    "1FfezoD57eyayCU2": {
+      "name": "Ver lo Sobrenatural",
+      "description": "El ser puede percibir el Flujo del Alma y, al mismo tiempo, percibir la energía de las matrices psíquicas.",
+      "shortDesc": "El ser puede ver lo sobrenatural, incluyendo la magia, las matrices psíquicas y las criaturas espirituales. No aplica penalización por ceguera en ninguna de estas situaciones.",
+      "cost": 30
+    },
+    "qjNtSBAwhk9zwIjf": {
+      "name": "Lenta Recuperación de Magia",
+      "description": "La magia tiene problemas para atravesar la esencia del ser; experimentando dificultades para recuperar el poder que ha utilizado.",
+      "shortDesc": "El ser reduce su regeneración zeónica a la mitad.",
+      "cost": -30
+    },
+    "USkEp8HbaDonnrep": {
+      "name": "Ánimas"
+    },
+    "12noA8r0ficP0haw": {
+      "name": "Inmunidades Especiales"
+    },
+    "IVoV8A70FAkSFdpQ": {
+      "name": "Medios de Visión Especiales"
+    },
+    "KhchF23HBTPMW35F": {
+      "name": "Desplazamientos Especiales"
+    },
+    "SWNDCS9kWnA2DNV2": {
+      "name": "Percepciones Especiales"
+    },
+    "8g9mEnqE4WZogdaJ": {
+      "name": "Invisibilidad Espiritual",
+      "shortDesc": "Es ser es completamente invisible, excepto para aquellos seres que posean la habilidad de ver espíritus o que alcancen una dificultad de Inhumano en su una tirada de Buscar, o Zen en Advertir.",
+      "cost": 80
+    },
+    "WImyXLmHnrtQYNcj": {
+      "name": "Características Físicas Sobrehumanas",
+      "shortDesc": "Extiende el límite máximo que puedes elegir para las Características físicas (FUE, DES, AGI, CON) hasta un máximo de 13.",
+      "cost": 20
+    },
+    "twCsczplm3Tqgs7Z": {
+      "name": "Características Anímicas Sobrehumanas",
+      "shortDesc": "Extiende el límite máximo que puedes elegir para las Características anímicas (INT, POD, VOL, PER) hasta un máximo de 13.",
+      "cost": 20
+    },
+    "GTBnVegpaHLqLlpS": {
+      "name": "Recuperación Superior de Magia",
+      "description": "La esencia de una Criatura con esta Ventaja actúa como un imán para la magia, y es capaz de regenerar su poder a un ritmo más rápido que otros individuos místicos.",
+      "shortDesc": "El ser recupera su Zeón al doble de su tasa normal de regeneración Zeónica.",
+      "cost": 30
+    },
+    "RfHmcbbjSDesArOj": {
+      "name": "Movimiento Subterráneo Superior",
+      "shortDesc": "El ser excava con facilidad y se mueve naturalmente bajo tierra blanda, como un topo o un gusano. Además, puede atravesar piedra sólida y alcanzar zonas más difíciles.",
+      "cost": 30
+    },
+    "CU4aCIe6lbG1Iq4a": {
+      "name": "Características Físicas Sobrenaturales",
+      "shortDesc": "Extiende el límite máximo que puedes elegir para las Características físicas (FUE, DES, AGI, CON) hasta un máximo de 15.",
+      "cost": 40
+    },
+    "WduYD2ehTUZzcHAf": {
+      "name": "Características Anímicas Sobrenaturales",
+      "shortDesc": "Extiende el límite máximo que puedes elegir para las Características anímicas (INT, POD, VOL, PER) hasta un máximo de 15.",
+      "cost": 40
+    },
+    "ZC5BUFxjs9gXuMf8": {
+      "name": "Superviviente",
+      "description": "Sin importar lo peligrosa que sea la situación, una Criatura con esta Ventaja posee una habilidad especial para sobrevivir cuando está al borde de la muerte.",
+      "shortDesc": "El ser puede soportar Puntos de Vida negativos hasta diez veces su valor de Constitución, en lugar de cinco. Además, aplica un bono de +40 a su Tirada de Resistencia Física para intentar estabilizarse. Una vez fuera de la delgada línea entre la vida y la muerte, su Penalización en Todas las Acciones es sólo -30, en lugar de -60. Si se aplican las reglas opcionales de Puntos de Vida negativos, el +40 se añade a los controles de Resistencia Física para resistir.",
+      "cost": 10
+    },
+    "9hAPlN7n1RfEbn9D": {
+      "name": "Incansable",
+      "shortDesc": "El ser no se cansa sin importar la cantidad de esfuerzo físico o mental que realice. Sin embargo, debido a eso, el ser no puede usar puntos de Cansancio para aumentar sus habilidades físicas.",
+      "cost": 20
+    },
+    "kYQ3fXYHKLQS3eOQ": {
+      "name": "Al límite",
+      "description": "Un ser al borde de la muerte entra en un estado de desesperación que lo impulsa a superar sus capacidades normales.",
+      "shortDesc": "Cuando los Puntos de Vida del ser se reducen por debajo de un cuarto de su total, recibe un bono de +20 a Todas las Acciones. Este modificador solo se aplica en situaciones donde el ser pone en riesgo su vida o la de otros.",
+      "cost": 5
+    },
+    "GZTTX93xsUIAQ9O2": {
+      "name": "Tamaño Innatural",
+      "shortDesc": "El DJ puede aumentar o disminuir el Tamaño base del ser hasta un máximo de 5 puntos.",
+      "cost": 10
+    },
+    "Wm7MhOUG6WlaqHuy": {
+      "name": "Inutilidad Oral",
+      "description": "El ser no necesita hablar para controlar los poderes del Flujo de Almas.",
+      "shortDesc": "El ser puede lanzar conjuros en completo silencio sin reducir su ACT.",
+      "cost": 20
+    },
+    "08y2Dvap89ee2tzY": {
+      "name": "Vulnerable a un Tipo de Ataque",
+      "shortDesc": "Esto significa que un tipo específico de ataque produce el doble de daño al ser, como por ejemplo, armas de proyectil o contundentes.",
+      "cost": -20
+    },
+    "W87PLRdLtJqRfsdu": {
+      "name": "Vulnerable al Daño",
+      "shortDesc": "El ser es excepcionalmente vulnerable a daños masivos de cualquier tipo. Si sufre un Crítico, es destruido automáticamente.",
+      "cost": -30
+    },
+    "EaczmtAFu77Y4DpQ": {
+      "name": "Sin Inconsciencia",
+      "shortDesc": "El ser no puede quedarse inconsciente, sin importar los resultados críticos o efectos sobrenaturales que lo indiquen.",
+      "cost": 10
+    },
+    "GBfAK2HKNc1xkddA": {
+      "name": "Zen",
+      "shortDesc": "Zen es el estado de perfección absoluta en cuerpo y alma. Funciona exactamente como la Inhumanidad, excepto que permite a los personajes alcanzar la Dificultad Zen en sus controles y habilidades.",
+      "cost": 20
+    }
+  }
+}

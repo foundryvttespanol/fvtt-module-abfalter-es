@@ -1,0 +1,668 @@
+{
+  "label": "ki-techniques",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "WF9QC9mi8GSHCQjw": {
+      "name": "A'arab Zaraq",
+      "description": null
+    },
+    "jTDJXxCIrCQaxbnn": {
+      "name": "Abel Crux",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +200, Additional Attack +1.\n[A]: -2 Ki.\n[D]: None.\n\nThe final onslaught of the Lord of Infinity is Abel Crux, the Cross of Abel. When unleashed, the entire world is engulfed in darkness and a sense of paralysis, while constellations and stars materialize and whirl around. During this moment, Longinus vanishes from Omega’s grasp, returning to its original spear form, and hurtles down from the heavens with unstoppable velocity towards the target's head. Upon impact, a dozen swords materialize around the target, responding to the Lord of Infinity's command, and converge upon the victim from all directions, obliterating them from existence. This technique empowers Omega to execute two devastating attacks against a single foe, with a formidable +200 bonus to Attack Ability."
+    },
+    "wzDJccoeVnirZmx9": {
+      "name": "Aeternum",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Block Ability (Single) +75, Additional Defense +2, Maintained.\n[A]: -2 Ki.\n[D]: Specialized Defense (Only Spells).\n\nOperating on similar principles to Necis, Aeternum empowers the user's weapon to resonate with their spiritual force, enabling them to deflect any form of sorcery. Spells simply ricochet off or unravel upon approaching the user. Aeternum bestows upon its wielder a +75 bonus to their Block Ability against a single attack and enables defense against two additional attacks without penalties. These benefits are exclusively tailored to counter spells and sorceries; therefore, they are rendered ineffective against non-mystical attacks."
+    },
+    "XPpuRiKHefJjdAwP": {
+      "name": "Ajna",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Perceptive Abilities (Radial Vision, See Supernatural), Maintained.\n[A]: -2 Ki.\n[D]: Exhaustion (-2 Fatigue).\n\nAlso known as the \"Eye of the Mind,\" this Technique enables the character to unveil a spiritual eye, manifesting as an energy tattoo upon their forehead. Through this mystical sight, they gain the ability to perceive nearly everything.\n\nWhen employing Ajna, the character attains the perceptive abilities of Radial Vision and See Supernatural."
+    },
+    "lbUdtQVXGuVB0tCi": {
+      "name": "Alpha Obscuritas",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Quick Recovery, Limited Additional Attack +1.\n[A]: None.\n[D]: None.\n\nAs Omega employs this technique, a secondary manifestation of the Lord of Infinity materializes behind its adversaries, launching attacks upon them while Omega's true form dissolves into a swirling vortex of darkness. This technique grants Omega the capability to reclaim an action within a turn, even when forced into a defensive position. Additionally, it bestows upon Omega the ability to execute an extra attack, allowing it to strike once more even after exhausting its standard allotment of attacks for the turn.\n"
+    },
+    "9hFAyNm2HuCNvSh3": {
+      "name": "Anahata",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Block 80 feet, Limited Block Ability +90\n[A]: None.\n[D]: None.\n\nThe aim of this Technique is to shield those who cannot defend themselves. When activated, the character gracefully rotates their arms in a circular motion, leaving behind a faint trail of energy that appears to duplicate their hands. In the face of an enemy's Area Attack or a barrage of projectiles, hundreds of phantom arms seem to materialize from the character, swiftly neutralizing the threat.\n\nIn game mechanics, the character can execute a Block maneuver covering an 80-foot radius, bolstering their Defensive Ability with a +90 bonus. However, Anahata does not afford the opportunity for a counterattack."
+    },
+    "ogaUegtFriLsX724": {
+      "name": "Angelus Ultima, The Last Angel",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +150, Long-distance Attack (Single) 3,000 feet (Trail of Destruction), Area Attack (Single) 150 feet.\n[A]: None.\n[D]: Predetermination.\n\nThis Technique morphs the user's weapon into an immense wing of pulsating supernatural energy. If the character isn't wielding a weapon, the wing manifests directly from their back. They then release it, allowing it to plummet to the ground, wreaking havoc on everything in its path.\n\nWith this Technique, the character can execute a Long-distance Attack spanning a range of 3,000 feet, with an area of effect extending in a 150-foot radius along its trajectory. Additionally, it empowers the character with a substantial bonus of +150 to their Attack Ability."
+    },
+    "lqfvtFsjsU4BtQS8": {
+      "name": "Anima",
+      "description": null
+    },
+    "iTJp6GehGCQwXpv3": {
+      "name": "Arashido",
+      "description": null
+    },
+    "PZdlyc9XnXEcfY3M": {
+      "name": "Armageddon",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 300 feet, Damage Augmentation (Single) +50, Attack Ability (Single) +90.\n[A]: -3 Ki.\n[D]: Maintained Technique (Spacial Opening).\n\nExploiting the breach initiated by Spacial Opening, Armageddon triggers a spatial rupture, unleashing a torrential downpour of meteors in its most devastating manifestation. In gaming terms, it empowers the character to execute an attack within a 300-foot radius, augmenting their Attack Ability by +90. Similar to Spacial Opening, this Technique calculates its base damage by doubling the user's Presence then adding their Power bonus. Furthermore, Armageddon inflicts an additional +50 damage due to the immense quantity of meteors. It is required to maintain Spacial Opening to unleash Armageddon."
+    },
+    "Tx4voIbOQTF4qU4s": {
+      "name": "Arnbjorg",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Block Ability (Single) +50, Counterattack Ability +50, Indirect Attack, Limited\nAdditional Attack +1.\n[A]: -1 Ki.\n[D]: Elemental Binding (Water).\n\nWhen employing this Technique to halt an incoming strike, the character conjures a mirage of themselves to execute the block, followed swiftly by a counterattack. This icy apparition, upon delivering the strike, fractures into myriad shards. Arnbjorg augments the character's Block Ability by 50 points and enables the execution of a counterattack in accordance with the rules for an Indirect Attack. This counteroffensive is an extra attack, possible even if the character has already initiated an attack earlier in the turn or intends to do so later."
+    },
+    "1LNlKy86asNe8XOe": {
+      "name": "Asronomical Impact",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 3 miles, Impact 18, Damage Multiplier (Single) x2, Predetermined Attack (440).\n[A]: -1 Ki.\n[D]: Predetermination, Action Penalty –150.\n\nWith Astronomical Impact, the character conjures forth the most cataclysmic of events, harnessing their Ki to draw an immense meteor towards the world, unleashing devastation for miles around. As the character begins accumulating Ki for the Technique, a monstrous vortex materializes in the sky, from which an enormous meteor slowly descends. When fully prepared, the character extends their arms in a cross, guiding the meteor's destructive descent, bringing forth chaos and devastation upon impact.\n\nAstronomical Impact manifests as a 3-mile radius Area Attack, boasting a formidable final predetermined Attack Ability of 440 (Zen). It ignores the character's Base Damage, instead utilizing double their Presence plus their Power bonus, which is then multiplied by two. Those affected by the attack endure an Impact of Strength 18 if damage is dealt.\n\nHowever, this Technique bears the disadvantages of being Predetermined, and following its use, the character incurs a penalty of -150 to all subsequent actions."
+    },
+    "GjpI2AdZJnvYqeOY": {
+      "name": "Barrel Shot",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Limited Additional Attack +5.\n[A]: -2 Ki.\n[D]: Maintained Technique (Gunslinger).\n\nThe character channels Ki through their arm into one of their runic pistols, unleashing a rapid burst of bullets upon their enemies. During Barrel Shot, the runes illuminate and the pistol undergoes a subtle transformation.\n\nThis Technique empowers the character to unleash six attacks with one of their pistols, allowing for an additional attack with their second weapon if desired. Barrel Shot's effects are exclusive to pistols crafted by Gunslinger; with any other weapon, it remains ineffective."
+    },
+    "bigoe74WTrNYwK5n": {
+      "name": "Bhakti",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Limited Block Ability +75, Additional Defense +2.\n[A]: None.\n[D]: None.\n\nThe character's body becomes a conduit for their Ki, imbuing them with a serene awareness that allows them to detect any hostile intent aimed in their direction. As if entering a trance-like state, they instinctively react to thwart potential assaults, moving with such swiftness that they intercept attacks before their adversaries even initiate them.\n\nBhakti bestows upon its user a +75 bonus to their Block Ability, and they do not incur penalties for additional defenses until the fourth attack against them. However, utilizing this Technique is purely defensive in nature, prohibiting the character from seizing the opportunity to retaliate with a counterattack."
+    },
+    "tlsju4IztBQBIaLo": {
+      "name": "Blood Feast",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Critical Enhancement (Single) +50 (Automatic Critical), Maintained.\n[A]: None.\n[D]: None.\n\nInfusing his body with infernal energy, the character extracts blood from his pores, saturating his hands or weapon of choice. Upon striking an enemy, the blood seeps into the wound, corroding the foe from within. After each strike, the blood dissipates from his hands or the weapon's edge, necessitating a brief pause before replenishing itself.\n\nBlood Feast bestows the capacity to deliver an Automatic Critical with one attack per turn, augmenting the final Critical result by +50."
+    },
+    "8MMEQAFXRMiroefW": {
+      "name": "Bounce Shot",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Indirect Attack, Camouflage Attack (240).\n[A]: -1 Ki.\n[D]: Maintained Technique (Gunslinger).\n\nThe gunslinger harnesses Ki to enhance both their sight and their ability to predict shot trajectories. They then fire at their enemy, seemingly missing the mark, lulling the opponent into believing the attack has failed. However, this apparent miss is a meticulously calculated tactic; the bullet rebounds off nearby objects, returning towards its target from an unexpected angle.\n\nTo discern the true nature of this attack, the defender must succeed in an Almost Impossible Notice check, or else suffer the penalty for being Surprised. Additionally, as Bounce Shot employs a firing angle independent of the character, it eliminates the possibility of a counterattack. These effects are exclusive to pistols created by Gunslinger."
+    },
+    "KcvW0sL6yTDLDevX": {
+      "name": "Bullet Time",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Dodge Ability (Multiple) +40.\n[A]: -1 Ki.\n[D]: Specialized Defense (Only Projectiles).\n\nBy sharpening his visual perception and honing his ability to anticipate trajectories, the gunslinger can predict the path of incoming shots before they are even fired. This Technique bestows upon the character a 40-point bonus to his Dodge Ability against all types of ranged attacks."
+    },
+    "51CERlfrV9CB20Hq": {
+      "name": "Celeritas",
+      "description": null
+    },
+    "TNjlGa6syPYwA3I5": {
+      "name": "Cosmos",
+      "description": null
+    },
+    "qYJ0otQs10zyhwUO": {
+      "name": "Dark Phoenix",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +150, Long-distance Attack (Single) 800 feet (Projection, Trail of Destruction)\n[A]: None.\n[D]: Elemental Requirement (Greater Intensity), Vital Sacrifice (50 LP), Action Penalty –75.\n\nHarnessing the surrounding flames, the character absorbs their fiery essence, triggering a cataclysmic explosion that births a colossal mass of obsidian flames in the likeness of a Phoenix. Within moments, they launch themselves into the fray, obliterating all in their path with sinister wings ablaze.\n\nDark Phoenix enables the character to unleash devastation from a distance of 800 feet, utilizing the Projection and Trail of Destruction advantages, while bolstering their Attack Ability by 150 points. However, attempting this technique exacts a heavy toll on the body; it saps a portion of their life force (temporarily deducting 50 LP) and inflicts a penalty of -75 to all actions. To execute Dark Phoenix, the character must be near a minimum of eight intensities of fire."
+    },
+    "SptPyYYDmn3G0ktA": {
+      "name": "Dedisco Deus Crux, The Cross of the Forgotten God",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +100, Additional Attack +1.\n[A]: None.\n[D]: None.\n\nEven the most rudimentary of these Techniques harbors immense power. Upon activation, the character taps into their Ki, briefly connecting with a primordial and long-forgotten force. Immersed in its essence, the character charges towards their foe, wielding their weapon with precision. Moments later, two streams of pure energy emanate from the enemy's body, converging to form a colossal cross that cleaves the enemy apart.\n\nWhen employing this Technique, the character executes two attacks, each benefiting from a +100 modifier to their Attack Ability."
+    },
+    "Zi5db65ZYRk9CVRo": {
+      "name": "Defensive Protocol DT-01: Screen",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Predetermined Defense (180), Energy Shield (400 LP, Regeneration 100), Maintained.\n[A]: None.\n[D]: Requirement (Ancient Blood).\n\nChanneling the character's spiritual essence, the nanomachines erect a formidable barrier of energy, woven from a fusion of numerical sequences and intricate programming codes. Dubbed Defensive Protocol DT-01, this defensive mechanism empowers the character with the ability to ward off assaults using an Energy Shield with 400 Life Points. Moreover, the shield rejuvenates at a rate of 100 points per turn. Remarkably, the shield operates independently of the character's own abilities, employing a Predetermined Defense rating of Absurd (180) points."
+    },
+    "FUIPfxppd0yTZy3z": {
+      "name": "Defensive Protocol DT-02: Greater Screen",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Predetermined Defense (240), Energy Shield (500 LP, Regeneration 250), Maintained.\n[A]: None.\n[D]: Requirement (Ancient Blood).\n\nAn enhanced iteration of Defensive Protocol DT-01, this Technique constructs a significantly more formidable barrier. With this Technique, the character gains the ability to fend off attacks using an Energy Shield boasting 500 Life Points, replenishing at a rate of 250 points per turn. Remarkably, the shield operates independently of the character's Defense Ability, relying instead on a Predetermined Defense rating of 240 points (Almost Impossible)."
+    },
+    "SiPpqjl8CJCjiWsV": {
+      "name": "Delevi Deus Anima, Exterminator of the Souls of the Gods",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +200, Area Attack (Single) 3 miles, Damage Multiplier (Single) x3, Supernatural Attack, Indirect Attack, Armor Penetration (Ignores Armor).\n[A]: None.\n[D]: Predetermination, Overload (20 turns).\n\nDelevi Deus Anima, known as the Exterminator of the Souls of the Gods, stands as perhaps the most formidable and annihilating Technique ever conceived. Its cataclysmic force erases everything within its reach, leaving devastation in its wake. Legend holds that if left unchecked, its power could consume entire planets. When activated, the character channels their power, manifesting in the form of four colossal wings of light that extend beyond the atmosphere. Each wing possesses unmatched might, unraveling everything it touches for miles around, engulfing all in radiant emptiness. As the wings recede, they leave behind feathers that descend slowly from the heavens, resembling tears shed by the sky.\n\nDelevi Deus Anima unleashes an Indirect Attack of Supernatural Energy, covering an area with a 3-mile radius around the character, bolstered by a +200 bonus to their Attack Ability. Instead of relying on the user's weapon's Base Damage, the technique's potency is determined by doubling the user's Presence, adding their Power bonus, and then tripling the resulting total.  All defenses are rendered futile as no armor offers protection against this onslaught;. However, after executing the Technique, the character must wait an entire minute before harnessing Ki Abilities again."
+    },
+    "W7urGvJZzPCFjT6v": {
+      "name": "Denkido, The Path of Electricity",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 150 feet (Target Choice), Elemental Attack (Electricity), Damage Multiplier (Single) x3\n[A]: None.\n[D]: Action Penalty –75\n\nDenkido, also known as the Path of Electricity, is a formidable Technique that lives up to its name by conjuring an electrifying storm around its practitioner. During its activation, the character ascends into the air as a barrage of lightning bolts cascades from their form, precisely striking down targets of their choosing with devastating force.\n\nHowever, the intense focus required to wield Denkido comes at a cost. The character experiences a secondary effect that temporarily disables them, necessitating a brief respite before they can fully recover. Within a 150-foot radius, Denkido empowers the character to assail all selected foes with an Electric Attack Type. Unlike conventional weapon damage, Denkido's Base Damage calculation relies on double the character's Presence, augmented by their Power bonus, then multiplied by three.\n\nFollowing the execution of Denkido, the character suffers a significant penalty of -75 to all actions, gradually recuperating at a rate of 10 points per turn."
+    },
+    "kgs72whostQI0k5R": {
+      "name": "Depravate Alae",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Initiative Augmentation +100 (Maintained)\n[A]: None.\n[D]: None.\n\nOmega stretches an arm toward the sky, summoning dozens of clocks that materialize around it, shattering into a storm of fragmented glass within seconds. Following this, Omega's movements accelerate, as if time itself were slowing for everyone else but it. Depravate Alae, or the Depraved Wings, is a sustained technique that affords Omega a +100 bonus to Initiative, granting it unparalleled swiftness in combat."
+    },
+    "EIE7LLhzqzBYilnC": {
+      "name": "Di Quiu",
+      "description": null
+    },
+    "arYtGQQxoiLI3owY": {
+      "name": "Dies Irae",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Elemental Attack (Light), Supernatural Attack, Area Attack (Single) 150 feet, Attack Ability (Single) +50.\n[A]: -2 Ki.\n[D]: None.\n\nRaising his weapon toward the heavens, the character invokes a response that fills the surroundings with resplendent runes, emanating a serene and tranquil light. As he lowers his arm, a magnificent blade of luminous energy, a symbol of the divine sword itself, descends from the celestial realm, cleaving through everything in proximity to the character.\n\nDies Irae, is a light based elemental attack that strikes on the energy table. It affects all within a 150-foot radius of the character, leaving destruction in its wake. Additionally, it empowers the character's Attack Ability by 50 points for the duration of the assault.\n\n"
+    },
+    "NzVhvfdEmbIAEgpS": {
+      "name": "Douryuzan",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 80 feet, Impact 14, Attack Ability (Single) +50.\n[A]: None.\n[D]: Exhaustion (–2 Fatigue).\n\nWhen executing Douryuzan, the character plants the tip of their weapon into the ground before swiftly executing a 360-degree spin. This motion generates a powerful wind that sends everything within an 80-foot radius flying.\n\nDouryuzan increases the character's Attack Ability by 50 points and subjects those affected by the Technique to an Impact of Strength 14, propelling them through the air. Activating Douryuzan, requires two points of fatigue."
+    },
+    "h7CkOgjQKnyQU8da": {
+      "name": "Earthquake",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 80 feet, Damage Augmentation (Single) +50.\n[A]: -2 Ki.\n[D]: Conditions (Certain Terrain: Directly on the Ground).\n\nBy striking the earth with his hand, the character channels his devastating Ki through the earth, causing it to tremble and unleashing a fierce earthquake over a confined area. The seismic activity cracks open the ground, sending stone splinters shooting forth to impale the character's enemies.\n\nThe Earthquake Technique empowers the character to launch an attack within an 80-foot radius. Its Base Damage is determined by doubling the character's Presence and adding their Power bonus, to which 50 points are then added. It's important to note that this Technique can only be executed while the character is grounded."
+    },
+    "vrhSx4c1S5Fb3YuE": {
+      "name": "Ego",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Mirage (Non-detection Difficulty: Inhuman, Phantasmal Illusion PhR 180).\n[A]: None.\n[D]: None.\n\nThe user channels their energy to materialize an illusionary duplicate of themselves, a flawless replication functioning as an extension of their essence. Following the rules Phantasmal Illusions, this image requires an Inhuman Difficulty (320) ki detection check to reveal its false nature. If it inflicts damage, the PsR check to resist the illusion's effects is set at a Difficulty of 180."
+    },
+    "DSO7krhXMBDvihjn": {
+      "name": "Eld",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Damage Augmentation +75, Attack Ability (Single) +150.\n[A]: None.\n[D]: Maintained Technique: Feuer.\n\nThis formidable technique instills terror in its targets, as it not only enhances the character's attack prowess but also boosts their base damage by 75. To employ this technique, the character must already be maintaining Feuer."
+    },
+    "mCGh4v4z2qWoGSnF": {
+      "name": "Eternal Martyrdom",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Quick Recovery, Counterattack Ability +25.\n[A]: None.\n[D]: Limited Circumstance (Half of Life Points)\n\nDrawing from his own suffering, the character embraces the blood that flows from his wounds, enveloping himself in sinister runes. In a moment of otherworldly contortion, despite appearing incapacitated, he launches himself at his foe with impossible speed.\n\nEternal Martyrdom permits the character to reclaim his turn's action, granting a 25-point bonus to his Attack Ability if he successfully executes a counterattack. However, to activate this Technique, the character must have their Life Points reduced to at least half of their total."
+    },
+    "FVdCl1Pc1qScnvHE": {
+      "name": "Ether",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Intangibility, Maintained.\n[A]: -1 Ki.\n[D]: None.\n\nThe character's form and all belongings merge seamlessly with the shadows, adopting a dark and shadowy guise. Upon activation of this Technique, the user enters a state of Intangibility."
+    },
+    "ppuw1VScROJOYTC4": {
+      "name": "Excisum Aeris",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Long-Distance Attack (Single) 150-ft, Initiative Augmentation +50.\n[A]: -1 Ki.\n[D]: None.\n\nThis technique permits the character to unleash a full ki explosion at a precise moment, propelling their strike with such velocity that it distorts the air as they advance to attack. The technique harnesses the base damage of the user's weapons to deliver its strike."
+    },
+    "isLFNQWgoMsSDU0H": {
+      "name": "Excisum Magister",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Attack Ability (Single) +75, Initiative Augmentation +125.\n[A]: -1 Ki.\n[D]: None.\n\nThe fighter channels all of their energy into a single maneuver—an attack so swift that it possesses the capability to cleave through an opponent's body. This technique enhances the fighter's base initiative by 125 and attack ability by 75."
+    },
+    "2NfLFpgw0iz8WOFX": {
+      "name": "Expello",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +90, Interruption (PhR Damage +120, Magic), Damage Augmentation (Single) +100.\n[A]: None.\n[D]: None.\n\nAt the pinnacle of Magus Abstergo's arsenal lies a Technique rooted in annihilation of energy, denying targets access to any supernatural abilities. Concentrating all the character's essence into their weapon, this Technique generates a supernatural void capable of eradicating and absorbing magic upon mere contact. When the void touches a spellcaster, a vortex of power momentarily hampers their magical abilities.\n\nExpello amplifies the user's Attack Ability by 90 points and their Damage by 100. If it inflicts damage on a character with magical capabilities, they must succeed in a PhR check against the damage received plus 120, or face disruption that nullifies all their maintained spells."
+    },
+    "PB7xwBIkaG4fzHQz": {
+      "name": "Feuer",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Damage Augmentation (Multiple), Elemental Attack, Maintained.\n[A]: \n[D]: Elemental Binding (Fire).\n\nThrough the concentration of ki within their weapon, a character can envelop it in a fiery aura, augmenting its base damage by 25 points and enabling the potential for attacks with the fire damage type."
+    },
+    "u0xQItQ2uUVZLIxC": {
+      "name": "Final Defensive Protocol DT-03: Guardian",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Predetermined Defense (320), Energy Shield (1,000 LP, Regeneration 500), Maintained.\n[A]: -1 Ki.\n[D]: Requirement (Ancient Blood), Vital Sacrifice (25 LP).\n\nThis defensive program harnesses nearly all of the character's energy, prompting the nanomachines to form a protective barrier of technomagical components around them. This immense sphere of pure power envelops the character entirely, creating a flawless defense system—a shield that effortlessly absorbs any form of attack. With this Technique, the character gains the ability to defend against assaults using an Energy Shield boasting 1,000 Life Points, which regenerates at a rate of 500 points per turn. Unlike the character's own abilities, the shield operates based on a Predetermined Defense value of Inhuman (320). However, the drawback of energy overload necessitates a sacrifice of 25 Life Points each time the Technique is activated. "
+    },
+    "Z4xzaf6VNc4QksEe": {
+      "name": "Final Offensive Protocol AT-03: Apocalypse",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Predetermined Attack (440), Damage Multiplier (Single) x3, Combinable.\n[A]: -1 Ki.\n[D]: Requirement (Ancient Blood), Maintained Technique (Mecanus), Limited Circumstance (Half of Life Points).\n\nThe Final Offensive Protocol AT-03, dubbed Apocalypse, stands as the ultimate combat program within the Legacy of Solomon, unrivaled and unstoppable. Upon activation, thousands of tiny machines merge with the cannon from Offensive Protocol AT-02: Mecanus, amplifying its power to unimaginable heights. When unleashed, the cannon's blast possesses such devastating force that it obliterates everything in its path, unleashing a true apocalypse of destruction.\n\nThis Technique merges seamlessly with Offensive Protocol AT-02: Mecanus, enhancing the attack's potency with a Final Attack Ability of 440 (Zen) and tripling its Base Damage. Optionally, it can also be combined with Offensive Protocol RX-02: Pandora for even greater devastation."
+    },
+    "cdZYfvWQuwXO18mK": {
+      "name": "Frostkolier",
+      "description": null
+    },
+    "7pLpyAb67BFr5bhR": {
+      "name": "Frostlinder",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Long-distance Attack (Single) 60 feet, Additional Attacks +3.\n[A]: None.\n[D]: Elemental Binding (Water).\n\nBy channeling cold into his weapon, the character coats the weapon in sharp shards of ice. He then hurls these shards at his enemies in a series of four ranged attacks up to 60 feet away. If he wishes each attack can be directed at a different foe.\n"
+    },
+    "MtVYkexSlLw0Pf98": {
+      "name": "Frostvalar",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Physical Shock, Elemental Attack (Cold), Maintained.\n[A]: -2 Ki.\n[D]: Elemental Binding (Water)\n\nEnveloping his weapon in a chilling aura, the character imbues it with the ability to freeze upon contact and renders its surface reflective. This enables him to deflect supernatural discharges and redirect them back towards their caster. Frostvalar bestows upon the user's weapon the attributes of a Cold Elemental Attack, and employs the rules for Physical Shock when intercepting supernatural discharges."
+    },
+    "hw7zz2liiLaEuhOc": {
+      "name": "Fukuryuzan",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Long-distance Attack (Single) 60 feet, Armor Penetration –3 AT.\n[A]: None.\n[D]: None.\n\nThe character anchors the tip of their weapon into the ground, leveraging their strength to execute a formidable upward slash. The force generated is immense, conjuring a blade of energy in the air. This unleashed energy possesses the capability to cleave through anything in its path, whether flesh or metal.\n\nFukuryuzan is a Long-Distance Attack with a reach of 60 feet. Additionally, it reduces the Armor Type of the defender against the attack by 3 points."
+    },
+    "pBra0Ct3G7MEAY8v": {
+      "name": "Götterdämmerung",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Damage Multiplier (Single) x3.\n[A]: -2 Ki.\n[D]: None.\n\nThe Lord of Infinity hoists Longinus above its head, channeling all of its malevolent power through the weapon. In a mere moment, the spear expands and undergoes a transformation, morphing into a pure blade of annihilation capable of disintegrating both body and soul upon impact. Götterdämmerung triples the Base Damage of one of Omega’s attacks, elevating it to a staggering 600 points of devastating power."
+    },
+    "H2b1kPmGRdldNCve": {
+      "name": "Genmai, Dance of Illusions",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Mirage 4 (Non-detection Difficulty: Inhuman, Phantasmal Illusions PhR 180), Limited Additional Attacks +2.\n[A]: None.\n[D]: None.\n\nAs the character strikes the ground, a veil of smoke envelops them, birthing several ethereal duplicates within its murky depths. Despite lacking physical force, these phantasmal images effectively confound the senses of the character's adversaries, inducing the belief that the attacks are tangible and inflicting genuine pain. Moreover, the character seamlessly melds among these illusory forms, enabling them to unleash authentic strikes amidst the flurry of false assaults.\n\nGenmai conjures four mirages under the character's command. Adversaries seeking to discern their authenticity through Ki Detection face an Impossible (280) Difficulty. Should the mirages inflict any harm, affected adversaries must overcome a PhR check of 180 or fall victim to the illusions' effects according to the rules for Phantasmal Illusions. Additionally, the character can execute two extra attacks, that must be among the onslaught of duplicates."
+    },
+    "0wVbD0MZTjDdG1ay": {
+      "name": "Genzou no Sekai, World of Illusions",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Supernatural States (Phantasmal Illusion PhR 160, Inhaled, 80 feet).\n[A]: -1 Ki\n[D]: None.\n\nHarnessing Ki as its catalyst, Genzou no Sekai conjures a peculiar mist that warps reality according to the character's desires. Within this fog, akin to a separate dimension, the character ascends to the role of a virtual deity, wielding absolute control over their environment.\n\nUpon activating World of Illusions, all adversaries within an 80-foot radius of the character, enveloped in the mist generated by the Technique, must surpass a PhR check of 160. Failure results in their immersion into a Phantasmal Illusion."
+    },
+    "po86u7KmGOPuipYN": {
+      "name": "Gozuryuzan",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Limited Additional Attack +4 (Continuous Attack).\n[A]: None.\n[D]: None.\n\nWhen employing Gozuryuzan, the character executes a rapid succession of attacks, seamlessly sheathing and unsheathing their sword with each strike. The speed of these movements creates an illusion of multiple swords attacking the enemy simultaneously. Consequently, the defender finds it nearly impossible to react to the onslaught; as soon as they attempt to block or evade one blow, a barrage of ten more is already descending upon them.\n\nIn game terms, Gozuryuzan is a Technique that allows the character to unleash 5 consecutive attacks on the enemy without interruption.\n"
+    },
+    "hls0mhJEc0US6rts": {
+      "name": "Guan Shi",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 80 feet (Target Choice), Critical Enhancement (Single) +50 (Automatic Critical).\n[A]: -2 Ki.\n[D]: Maintained Technique (Jin Shu), Combat Circumstance (Trapped).\n\nGuan Shi, known as the Stone Coffin, follows the Technique Jin Shu, as it harnesses the energy to detonate the stone arms ensnaring the character's enemies, crushing them beneath the debris. This Technique launches an attack on all adversaries previously Trapped with Jin Shu (success of the Trap is required, regardless of degree). If Guan Shi inflicts damage, it automatically triggers a Critical with a +50 bonus to its final value."
+    },
+    "Uu50JKnnZxzKw7uE": {
+      "name": "Gunhell",
+      "description": null
+    },
+    "z9UcTOjsjRnhwtZ5": {
+      "name": "Gunnhildur",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Limited Additional Attack +10 (Continuous Attack).\n[A]: -1 Ki.\n[D]: Elemental Binding (Water).\n\nEmploying this formidable Technique, the character envelops their foe in a frigid aura, spawning numerous ice mirrors that encircle the enemy from all angles. Subsequently, the character seamlessly merges with these mirrors, launching a barrage of attacks from every direction. This Technique bestows upon the character the capacity to execute 11 Continuous Attacks against their adversary."
+    },
+    "WGzOZaFrBOIZ8UiQ": {
+      "name": "Gunslinger",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Physical Ki Weapons of Quality +10 (Projectiles, Additional Weapons: 1), Maintained.\n[A]: None.\n[D]: None.\n\nHarnessing his Ki, the character shapes twin runic pistols in his hands, partially melded with his forearms for precise energy projection. These pistols, imbued with special qualities and linked to his essence, serve as the cornerstone of Gunhell Techniques. Interestingly, the pistols' color and rune form vary from user to user, reflecting their nature and personality.\n\nGunslinger equips its creator with two pistols of +10 Quality, boasting unlimited ammunition. These weapons possess a +10 Initiative and Base Damage of 100, already factoring in their Strength bonus."
+    },
+    "vbAFGk7a2Y9i0Z6r": {
+      "name": "Horecka",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Damage Multiplier; x2, Area Attack: 150-foot radius.\n[A]: -1 Ki.\n[D]: Maintained Technique: Feuer.\n\nThis technique unleashes a devastating inferno that engulfs everything within a vast 150-foot radius surrounding the character, erupting in a colossal explosion. The flames are so searingly intense that they double the base damage of the character's weapon. However, mastering Horecka demands the character already have the technique Feuer maintained."
+    },
+    "TWq7Xvj8B56Rgfhq": {
+      "name": "Hyousetsu Jigoku",
+      "description": null
+    },
+    "idsLczoROVm0pc3V": {
+      "name": "Hypnos Requiem",
+      "description": null
+    },
+    "S9VqHfCYH2utqMuc": {
+      "name": "Ignis",
+      "description": null
+    },
+    "ixdV8ZZu6wtLKBCX": {
+      "name": "Infernal Call",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 80 feet, Predetermined Damage 150, Critical Enhancement (Single) +40.\n[A]: None.\n[D]: Vital Sacrifice (25 LP).\n\nWith a grim gesture, the character drags his fingers across his chest, opening ten wounds that spill forth a deluge of black blood, cascading heavily like tar upon the ground. Suddenly, from this morbid pool, thousands of tentacles bristling with razor-sharp maws burst forth, wreaking havoc as they swiftly traverse their surroundings.\n\nInfernal Call empowers the character to unleash an Area Attack within an 80-foot radius, inflicting a formidable Base Damage of 150 points. Moreover, should any of the wounds result in a Critical hit, its severity is amplified by an additional 40 points. However, to employ this Technique, the character must sacrifice 25 Life Points."
+    },
+    "ip55yRGkUZQOnjTs": {
+      "name": "Inocentius Terminis",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 3 Miles.\n[A]: None.\n[D]: \n\nWith a sinister gesture, the Lord of Infinity traces a seemingly innocuous gash in the air using Longinus. In a fraction of a second, a profound silence descends, followed by a sweeping wave of dark energy that engulfs a radius spanning miles. Inocentius Terminis is a special attack with a three-mile radius and a formidable Base Damage of 250, calculated as twice Omega’s Presence plus its Power bonus."
+    },
+    "z1BWN8pJ3dGUsn2z": {
+      "name": "Jin Shu",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 80 feet (Target Choice), Trapping 16, Maintained.\n[A]: -2 Ki.\n[D]: Reduced Damage (No Damage), Exhaustion –2.\n\nWhen employing this Technique, the character channels Ki into one of their fists and strikes the ground with maximum force, transmitting their energy through the earth and triggering a potent chain reaction. In an instant, numerous arms made of stone and metal emerge from the surface, ensnaring all nearby targets.\n\nJin Shu enables the character to execute a Trapping attack within an 80-foot radius around themselves, with an attribute rating of 16 for the check. Specific targets can be selected within this radius for the attacks. Jin Shu inflicts no damage, and each activation causes the user to lose 2 points of fatigue due to the intense concentration of energy. To sustain the restraint on trapped enemies, the character can maintain the Technique by expending 7 points of Ki per turn, using the 16 Characteristic for the opposed check."
+    },
+    "UHDGpKd5JcvIQVuc": {
+      "name": "Jocasta, Edge of Shadows",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +40, Damage Augmentation (Single) +75\n[A]: -2 Ki.\n[D]: Elemental Requirement (Lesser Intensity)\n\nThe character's weapon transforms into pure darkness enveloped in black flames. Upon striking the enemy, the flames twist and contort. In an instant, the attacker swiftly slices through their foe with an unstoppable maneuver, leaving behind only a faint, dark line etched on the victim's body. Within moments, the line expands into a gaping wound, causing the opponent to split into two pieces. Jocasta is a devastating attack that boosts the character’s Attack Ability by +40 points and increases the Base Damage of the assault by +75. To execute this technique, the character must have access to at least two levels of fire intensity."
+    },
+    "cnK0iE5ZKxAsEy0B": {
+      "name": "Kagami",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Attack Mirroring (Mirroring Esoteric Abilities), Predetermined Defense (240).\n[A]: None.\n[D]: None.\n\nBy projecting his Ki ahead, the character erects a barrier of mystical ice, a mirror of spirits that deflects incoming strikes back towards the assailant. Upon impact with the barrier, a spectral image of the attacker emerges and retaliates against them. Kagami enables the character to execute a Predetermined Defense with an almost impossible (240) Defense Ability rating. If successful, the attack is not only repelled but also mirrored back towards the attacker, along with any supernatural abilities it carries."
+    },
+    "EYVDAaP1hUGJHlrP": {
+      "name": "Kagami",
+      "description": null
+    },
+    "Ma8aoMSDkpKMhr9z": {
+      "name": "Kagami no Kakera",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Limited Additional Attack +5, Minor Sustenance.\n[A]: None.\n[D]: None.\n\nDubbed the Fragments of the Mirror, this Technique conjures 25 razor-sharp crystal shards encircling the character, swiftly launched in succession against chosen adversaries. Kagami no Kakera bestows upon the character five extra attacks per turn for five continuous turns. Each attack can target a distinct opponent engaged in close-quarters combat with the character."
+    },
+    "GIYgFNUJ99oyp7qQ": {
+      "name": "Kawarimi, Exchange",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Dodge Ability (Single) +75, Automatic Transportation 60 feet.\n[A]: -1 Ki.\n[D]: None.\n\nWhen faced with an incoming attack, the character taps into their Ki to manipulate reality, seamlessly swapping their position with another object in the moment of impact. Kawarimi enhances the user's Dodge Ability by 75 points, enabling them to swiftly relocate within a maximum distance of 60 feet from their initial position."
+    },
+    "2TelOb6x95IAvq04": {
+      "name": "Kazedo, The Path of Wind",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Long-distance Attack (Single) 15 feet, Damage Multiplier (Single) x2, Maintained.\n[A]: -1 Ki.\n[D]: None.\n\nThe wind coalesces around the character, harmonizing with each of their strikes as if it were an extension of their body. Consequently, they can deliver powerful blows at short range. Kazedo bestows upon the character the ability to execute an attack up to 15 feet away once per turn. Instead of relying on the character's weapon damage, this Technique utilizes double their Presence plus their Power bonus as its Base Damage, which is then multiplied by two."
+    },
+    "ITolkribPkRRuymd": {
+      "name": "Kolinger",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Armor Augmentation 6, Maintained.\n[A]: None.\n[D]: Elemental Binding (Water).\n\nHarnessing his aura into a formidable shield, the character conjures a vast expanse of ice, shaping it into crystalline armor. Kolinger bestows upon the character an AT of 6, against all forms of attacks."
+    },
+    "yEhm8V40Wj13lcpZ": {
+      "name": "Kouryu",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +100, Initiative Augmentation +150, Combat Maneuvers and Aiming –25, Automatic Transportation 150 feet.\n[A]: -5 Ki.\n[D]: Defenseless, Conditions (Unsheathe).\n\nThe Ultimate Dragon lends its name to this Technique, designed to concentrate all the power and offensive prowess of the character into a single unstoppable strike. The user sheathes their weapon and focuses on their target, channeling energy throughout their body and meticulously preparing each movement their muscles will execute. Once fully prepared, they take a small step toward their enemy and seemingly vanish, only to reappear behind their opponent with their weapon poised tranquilly. In reality, they move with such incredible speed that their movements are imperceptible. Seconds later, the body of their opponent is rent into tiny pieces.\n\nKouryu is an attack that significantly enhances the character's Initiative by 150 points, adds 100 points to their Attack Ability, and allows them to unsheathe their weapon without penalty. Moreover, they can teleport up to 150 feet to reach any enemy. However, despite its overwhelming power, Kouryu suffers from a significant drawback: when executing the Technique, the focus required to prepare their attack renders the character completely unable to defend themselves. To use Kouryu, the character must have their weapon sheathed."
+    },
+    "tjKH4ohr4bDo1nX0": {
+      "name": "Kyrie Eleison",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Combat Maneuvers and Aiming (Single) –75, Critical Enhancement (Single) +125 (Automatic Critical).\n[A]: -2 Ki\n[D]: None\n\nThis compassionate attack, embodying divine mercy, enables the character to swiftly and precisely dispatch their enemy with a single motion, bringing about a quick and painless end to their suffering—an act of kindness amidst conflict. In the aftermath of executing the Technique, a significant amount of blood gushes from the point of impact, leaving behind only a small cruciform wound.\n\nKyrie Eleison bestows upon the user the ability to target a vital point with their attack, reducing the maneuver's penalty by 75. Upon inflicting damage, the attack triggers an automatic Critical, further enhanced by a +125 bonus to the Critical result.\n"
+    },
+    "Kj4R74Brv1M6MxsH": {
+      "name": "La Rose du Sang",
+      "description": null
+    },
+    "sOgjakqu86DkJaod": {
+      "name": "Le Feu",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Attack Ability (Single) +40, long distance attack 60 ft.\n[A]: -2 Ki.\n[D]: None.\n\nThis technique launches a formidable ball of fire, capable of reaching targets up to 60 feet away. Le Feu ignores conventional weapon-based damage, relying instead on a calculation of twice the character's Presence, augmented by their Power bonus."
+    },
+    "nvchkpJWROQuklvh": {
+      "name": "Le Pétale, The Petal",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Energy Shield (1,000 Life Points), Maintained.\n[A]: -1 Ki.\n[D]: Limited Circumstance (Suffers Damage).\n\nFollowing a wound, the character focuses their energy into the spilled blood, fashioning a colossal shield of crimson energy that safeguards them from any potential attack. True to its name, the shield assumes the exquisite shape of rose petals. This Technique manifests an Energy Shield with 1,000 Life Points. However, as it necessitates bloodshed, the character must have sustained damage in the previous turn."
+    },
+    "UPfUuYW3hnGVE2QR": {
+      "name": "Le Tige, The Stem",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Additional Defense +3, Maintained.\n[A]: -1 Ki.\n[D]: None.\n\nDrawing inspiration from the stem of a rose, which sways and adjusts to the whims of the wind, this Technique enables the character to move with elegance, guided by their Ki, evading incoming attacks. Legend has it that the movements executed with this technique are so flawless and graceful that practitioners don't even disturb a single hair while defending. With this Technique, the character can defend themselves from up to three additional attacks per turn without suffering any penalties."
+    },
+    "ZOcuFt8BIjMMLBwm": {
+      "name": "Legacy of Solomon",
+      "description": null
+    },
+    "lBtKh6NwwxkQsX0w": {
+      "name": "Les Epines, The Thorns",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Limited Additional Attack +3, Maintained.\n[A]: -2 Ki.\n[D]: Reduced Damage (Half Damage).\n\nWith each strike, the character inflicts numerous piercings and cuts on the enemy's body, creating countless small wounds reminiscent of those caused by the thorns of a rosebush. This skill grants the character the capability to execute three extra attacks per turn, albeit at the cost of halving the damage dealt by each blow."
+    },
+    "S5gbimOWEhIREkLk": {
+      "name": "Les Feuilles, The Leaves",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Armor Augmentation 3, Maintained.\n[A]: None.\n[D]: None.\n\nWhen employing this Technique, the character generates a subtle and barely perceptible shield of energy around themselves. However, whenever they endure an attack capable of causing harm, the impacted area sprouts numerous rose leaves, forming a stunning armor that shields against the blow. Les Feuilles enhances the character's AT by 3 points."
+    },
+    "3dgz4RJrDPHLQtD8": {
+      "name": "Libera Me",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Indirect Attack, Camouflage Attack (Very Difficult), Damage Augmentation (Single) +25 (Vital Sacrifice).\n[A]: -2 Ki.\n[D]: None.\n\nUpon activating Libera Me, the assailant willingly pierces themselves with their own weapon. However, rather than inflicting harm upon themselves, the weapon seamlessly passes through, finding its mark in the body of the intended foe. This extraordinary technique breaches reality itself, utilizing the attacker's blood to transmit the force of the blow to the enemy. The intensity of the strike directly correlates with the force applied by the attacker, magnifying the damage dealt to the defender.\n\nLibera Me grants its wielder the ability to execute a Camouflage Attack, Indirect Attack, if the defender fails to pass a Very Difficult Notice check, they will suffer the penalty for being taken by surprise. Moreover, this maneuver increases the Base Damage by +25, in addition to an extra value corresponding to the number of Life Points the attacker decides to sacrifice for its execution."
+    },
+    "bUk7ifsN6F7DAzTI": {
+      "name": "Luctus",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Critical Enhancement (Single) +75, Combinable.\n[A]: None.\n[D]: None.\n\nBy focusing energy into their hand and extending it along the weapon's edge, the user induces rapid vibrations, rendering it challenging to track the weapon's movements with the eyes. This technique enables the attack to unleash significant internal damage, enhancing the Critical results it produces by +75.\n\nThis technique can be combined with Oculus and Obitus if they are learned."
+    },
+    "xQYztGK5FuraRKhl": {
+      "name": "Lycorys, Submerge in Darkness",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Block Ability (Single) +75, Counterattack Ability +75.\n[A]: None.\n[D]: Elemental Requirement (Lesser Intensity).\n\nWith a mere motion, the character shrouds themselves in shadowy flames, blending partially into the darkness, thwarting their foe's ability to perceive them clearly. When under attack, the flames extend as a manifestation of their presence, ensnaring the assailant's weapon and empowering the character's retaliatory strike. Lycorys enhances the character's Block Ability by 75 points, and upon a successful block, grants an additional +75 bonus to their counterattack. To execute Lycorys, the character must possess at least two levels of fiery intensity."
+    },
+    "1RU3dug914ZFbYUW": {
+      "name": "Lycorys Korene, Submerge in Darkness",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Dodge Ability (Single) +75, Counterattack Ability +75.\n[A]: None.\n[D]: Elemental Requirement (Lesser Intensity).\n\nWith a mere motion, the character shrouds themselves in shadowy flames, blending partially into the darkness, thwarting their foe's ability to perceive them clearly. When under attack, the flames flare up as they twist and contort, making it difficult for the enemy to see what they are trying to strike and empowering the character's retaliatory strike. Lycorys enhances the character's Block Ability by 75 points, and upon a successful block, grants an additional +75 bonus to their counterattack. To execute Lycorys, the character must possess at least two levels of fiery intensity."
+    },
+    "znWNZGGbsYEzea1J": {
+      "name": "Maboroshi, The Dream",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +75, Supernatural States (Greater Illusion PhR 160).\n[A]: None.\n[D]: Reduced Damage (No Damage).\n\nFocusing their Ki into the tips of their fingers or their weapon, the character delivers hundreds of lightning-fast strikes to the enemy's body within a split second, disrupting their Ki flow and distorting their perception. Upon enduring the onslaught, the enemy witnesses their surroundings morph into a vibrant tree which then disappears into the void as it is engulfed in blue flames, as they are unwittingly ensnared in a profound illusion.\n\nMaboroshi bolsters the user's Attack Ability by 75 points, and upon inflicting damage, the adversary must pass a PhR check of 160. Failure results in the enemy succumbing to a Greater Illusion crafted by the character, unique to each encounter. The duration of this illusion extends for a number of minutes equal to the discrepancy between the enemy's PhR check result and the Difficulty. Importantly, Maboroshi inflicts no physical harm upon the enemy."
+    },
+    "JPWnwfX3HIaasQxx": {
+      "name": "Maelstrom",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Supernatural States (Partial Paralysis PhR 140, Along the Ground, 150 feet).\n[A]: -1 Ki.\n[D]: Elemental Requirement (Greater Intensity).\n\nBy touching a substantial body of water with one hand and reaching the other hand into the air, the character absorbs the essence of both elements. When they bring their palms together, the fusion of water and air generates an intense cold that radiates across the ground, freezing and immobilizing all in its path.\n\nUpon activation, Maelstrom impacts individuals in contact with the ground within a 150-foot radius. Those affected must pass a PhR check against a Difficulty of 140 or fall into a state of Partial Paralysis. It's essential for the character to be in contact with a significant body of water to execute this Technique."
+    },
+    "idJBnuVUbaVLeOQW": {
+      "name": "Magnus Exactor",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Area Attack (Single) 30-foot radius, Initiative Augmentation +150\n[A]: -1 Ki.\n[D]: None.\n\nAt full speed, the character obliterates obstacles within a 30-foot radius. Victims perceive a sudden apparition charging towards them, only to vanish shortly thereafter. This technique calculates its base damage using the character's weapon's base damage."
+    },
+    "oLpsCBfQUfyvPcyc": {
+      "name": "Magus Abstergo",
+      "description": null
+    },
+    "Rxh8lQIzui0q4wPJ": {
+      "name": "Manipura",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +75, Supernatural States (Complete Paralysis PhR 160).\n[A]: -2 Ki.\n[D]: Reduced Damage (No Damage).\n\nFocusing his energy into the tip of his finger, the character executes an attack with supernatural swiftness. With a mere touch, the accumulated Ki surges into the enemy's body, permeating through every nerve ending. Within moments, the enemy's limbs become inert, rendering them incapable of movement as they collapse to their knees.\n\nManipura enhances the character's Attack Ability by +75. While the attack itself does not inflict physical damage, if the result of the attack suggests it would have, the enemy must succeed in a PhR check of 180 or suffer from Total Paralysis."
+    },
+    "PcHEILg7XeQMkmum": {
+      "name": "Master of Catastrophes",
+      "description": null
+    },
+    "8Sl1jSrxP3v0LBgN": {
+      "name": "Mille Petales de Rose, Thousand Rose Petals",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 300 feet (Target Choice), Additional Attack +2, Indirect Attack.\n[A]: -3 Ki.\n[D]: Maintained Technique (Le Pétale).\n\nThe character focuses all their energy on the Energy Shield forged by Le Pétale, causing it to burst into countless tiny rose petals that slice through designated targets with absolute precision. The outcome is a crimson deluge so captivatingly beautiful that its victims meet their demise enthralled by the mesmerizing spectacle. When employing this Technique, the character launches three successive attacks on selected targets within a 300-foot radius. These attacks are indirect, and instead of relying on the damage of the character's weapon, they utilize double their Presence as the Base Damage, along with their Power Characteristic bonus."
+    },
+    "WEpt7gFoj4IAiCR9": {
+      "name": "Muladhara",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Counterattack Ability +90, Combat Maneuvers and Aiming –50, Increased Bonus (Dexterity +6).\n[A]: None.\n[D]: None.\n\nMuladhara empowers the character to induce vibrations in any body they come into contact with. When confronted with an enemy's attack, the character swiftly intervenes, positioning their hands or weapon in the path of the strike. With a rapid motion, they emit a deafening sound accompanied by intense vibrations, making it arduous for the adversary to maintain their grip on their weapon, potentially causing it to fall into the character's possession. As they execute this Technique, intricate mantras resembling \"Muladhara\" often materialize in the air.\n\nThis Technique boosts the character's Attack Ability by 90 points when executing a counterattack and negates the penalties associated with the Disarm maneuver if they choose to employ it (though it is not mandatory). In the event of a successful Disarm maneuver, the character can apply a +6 bonus to their Dexterity for the opposed Characteristic check."
+    },
+    "JEDKp2LU06NMb4Wq": {
+      "name": "Necis",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +75, Damage Augmentation (Single) +50.\n[A]: None.\n[D]: Specialized Attack (Only Against Blocks).\n\nWhile executing this Technique, the character's weapon becomes charged with energy, resonating to penetrate any defense standing between them and their adversary. With Necis, the character gains a substantial bonus of +75 to their Attack Ability and +50 to their Base Damage. However, this Technique is tailored for direct confrontation, targeting adversaries who rely on their Block Ability or employ supernatural shields; it proves ineffective against opponents who evade attacks through dodging."
+    },
+    "XRwUF2pdn2RR91WW": {
+      "name": "Nirvana",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Block Ability (Multiple) +175, Energy Shield (800 LP), Attack Mirroring.\n[A]: -2 Ki.\n[D]: None.\n\nNirvana, the Last Paradise, epitomizes absolute defense, virtually impervious to any assault. By manifesting a state of perfect peace, an ethereal sanctuary devoid of violence, Nirvana deflects all forms of aggression back upon the aggressor. As tranquility bathes the surroundings in a serene light, countless monumental mantras materialize in the air.\n\nThis Technique enables the character to erect an Energy Shield, bolstering their Block Ability by an impressive bonus of 175 points. The Energy Shield remains resilient against up to 800 Life Points of damage before succumbing. Furthermore, it instantaneously mirrors any attack directed at the user, redirecting it back toward the assailant with their own attack result.\n"
+    },
+    "vS1ExnXu7QZwSZOd": {
+      "name": "Obitus",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Camouflage Attack (Zen Difficulty), Combinable.\n[A]: -2 Ki.\n[D]: Defenseless, Excessive Energy Use.\n\nThe apex of Obscuritas Techniques, Obitus conjures numerous images launched simultaneously at an enemy, while the true character vanishes and strikes unexpectedly at a vulnerable spot. Failure to achieve Zen in a notice check leaves the target defending with a surprise penalty.\n\nRegrettably, Obitus is plagued by two significant issues. Firstly, the attacker launches themselves at the enemy without any defensive maneuvers, rendering them unable to Block or Dodge in the same turn. Secondly, it exacts an immense toll on ki reserves, automatically losing ki equal to its original cost.\n\nThis technique can be combined with Oculus and Luctus if they are known."
+    },
+    "Kl6JfGPCQyM1oIwl": {
+      "name": "Obscuritas",
+      "description": null
+    },
+    "ehovtuYAukfvp3Jt": {
+      "name": "Oculus",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Combat Maneuvers and Aiming (Single) –50, Combinable.\n[A]: None.\n[D]: None.\n\nUtilizing Oculus, a character intensifies their vision by directing all their energy into their eyes just before striking. This focused concentration elongates their pupils, resembling those of a predatory creature, as they pinpoint the precise target area. Armed with this heightened sight, the character can execute precise attacks on specific body parts or other combat maneuvers, reducing penalties by up to 50 points.\n\nFurthermore, if the character has mastered the techniques of Luctus or Obitus, they can combine Oculus with these techniques."
+    },
+    "rFIrjP3jqtve32hv": {
+      "name": "Offensive Protocol AT-01: Edge of Solomon",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Limited Additional Attack +1, Predetermined Attack (240), Long-distance Attack (Single) 15 feet.\n[A]: None.\n[D]: Requirement (Ancient Blood).\n\nUtilizing the character's energy, the nanomachines materialize a technomagical blade beside them, which swiftly pierces through their enemy upon manifestation. This Technique executes an additional attack autonomously, distinct from any actions the character performs during the turn. The attack is executed with a Final Attack Ability of 240. Offensive Protocol AT-01 calculates its Base Damage as twice the user's Presence, augmented by their Power bonus."
+    },
+    "UFw6E95vaF3RZRoI": {
+      "name": "Offensive Protocol AT-02: Mecanus",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Limited Additional Attack +1, Predetermined Attack (240), Long-distance Attack (Single) 300 feet, Minor Sustenance, Combinable.\n[A]: None.\n[D]: Requirement (Ancient Blood).\n\nThe character's energy activates nanomachines, materializing an immense technomagical weapon—a sophisticated cannon that hovers above them. Intrinsically linked to the character's thoughts, this potent artifact scans for potential targets within its range, unleashing a devastating barrage of projectiles upon detection. Operating independently, this technique executes an extra attack, distinct from any actions the character takes during the turn, boasting a Final Attack Ability of 240. Known as Offensive Protocol AT-02, its Base Damage is twice the user's Presence score, augmented by their Power bonus, and it remains sustained for five turns."
+    },
+    "1QAfbt4hmXcZUI5I": {
+      "name": "Offensive Protocol RX-02: Pandora",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 150 feet, Combinable.\n[A]: None.\n[D]: Requirement (Ancient Blood), Maintained Technique (Mecanus).\n\nThis protocol enhances the Offensive Protocol AT-02 system, dubbed Mecanus, transforming each shot into a symphony of genuine destruction. Through this technique, Mecanus intertwines its effects with Offensive Protocol AT-02, expanding the attack's impact to cover a radius of 150 feet, wreaking havoc across the area."
+    },
+    "9uUJICcOInJk5n4L": {
+      "name": "Official",
+      "description": null
+    },
+    "cbdZKvXDJoiQGp09": {
+      "name": "Omega's Techniques",
+      "description": null
+    },
+    "QQ86NxRIvBUu8Dqr": {
+      "name": "Onibi Will’o The Wisp",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +40, Long-distance Attack (Single) 150 feet, Elemental Attack (Fire).\n[A]: -1 Ki\n[D]: None.\n\nFor a fleeting moment, the character's aura blazes with a mesmerizing blue fire, emitting wisps of ethereal flames that assail the enemy. Onibi empowers the character to launch a Long-distance Attack spanning 150 feet, infused with the essence of fire, bolstering the user's offensive prowess by 40 points. As the flames draw upon the character's essence, they ignore the weapon's damage and instead rely on double their Presence, plus their Power bonus, to determine their base damage."
+    },
+    "4qh74vfG9dyaD2bM": {
+      "name": "Ordo Mundus",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Block Ability (Single) +125.\n[A]: -2 Ki.\n[D]: None.\n\nOmega envelops itself within its ten wings, forming a flawless sphere that serves as an impenetrable shield, impervious even to divine assaults. This technique empowers Omega to augment its Block Ability by an additional +100, enhancing its defensive capabilities to an unparalleled level."
+    },
+    "vXd93ZsRjbGxDwA7": {
+      "name": "Ormus",
+      "description": null
+    },
+    "XXjc8opGAbGsQSXK": {
+      "name": "Patrocinium",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Armor Augmentation 6, Greater Sustenance.\n[A]: None.\n[D]: Specialized Defense (Only Spells).\n\nIn preparation to ward off spells, the practitioner of Patrocinium sketches a circular symbol in the air, conjuring an anti-magic emblem that orbits continuously around them, trailing their every movement. Should an adversary cast a spell targeting the user, this symbol intervenes, diminishing the sorcery's impact. Patrocinium provides the user with Armor Type 6, effective only against magical attacks. This defensive Technique remains active for one minute (20 combat turns)."
+    },
+    "tZjXUy02tJJWkFy2": {
+      "name": "Perfect Shot",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +75, Greater Brand.\n[A]: +1 Ki \n[D]: Maintained Technique (Gunslinger).\n\nBy focusing his energy into a single bullet, the gunslinger infuses it with formidable power to guarantee precise strikes on its intended target. Upon impact, the bullet's energy permeates the target's body, leaving behind a distinctive mark surrounding the wound. Subsequently, all subsequent shots by the character aimed at that target are irresistibly drawn towards it. These shots, guided supernaturally, possess the ability to adjust their trajectory mid-flight.\n\nWith Perfect Shot, the character can unleash an attack using one of their Gunslinger pistols, bolstering their Attack Ability with a +75 bonus. If damage is dealt, the target suffers the effects of a Greater Brand, providing the character with a +50 bonus on all future Gunslinger attacks against that target for the next hour."
+    },
+    "yCu8tSgQ5e59jGPi": {
+      "name": "Primary Corruption",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Damage Resistance (1,000 LP, Regeneration 250), Intangibility (Fusion), Maintained.\n[A]: None.\n[D]: None.\n\nMerging his essence with primal malevolence, the character transforms his form into a mass of dense black blood, akin to tar, brimming with demonic eyes. Elevated beyond mortal bounds, the character becomes a nexus of pure corruption, capable of disregarding even the most potent attacks as if they were inconsequential. Moreover, he gains the ability to infiltrate bodies, causing them to rupture from within upon the conclusion of the Technique.\n\nPrimary Corruption endows the character with the ability to resist assaults as though possessing Damage Resistance equivalent to 1,000 additional Life Points, with a regeneration rate of 250 Life Points per turn. Immaterial in nature, he can traverse solid objects, and only attacks capable of damaging energy can affect him. Additionally, he follows to the rules for Fusion."
+    },
+    "5nlkuuemdgS0QclW": {
+      "name": "Questus Resedi Mundus, The Lamentation of the World That Was Left Behind",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +75, Limited Additional Attack +8 (Continuous Attack).\n[A]: None.\n[D]: None.\n\nWhen the character employs this Technique, everything freezes momentarily, plunging into complete darkness except for the character and their targets. Then, with each attack, the assailant launches themselves at their enemies, vanishing after each strike; regardless of the defender's efforts, their counterattacks only connect with ephemeral shadows. Finally, the character materializes in the air, surrounded by wings as they gather their remaining power for a devastating final blow that shatters the darkness, cascading around them like shattered glass.\n\nThis Technique enables the character to execute eight continuous additional attacks, with a bonus of +75 applied to their Attack Ability in the final strike."
+    },
+    "7ijQqefCPgTQDsUf": {
+      "name": "Raikoudo, The Path of Lightning",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +50, Long-distance Attack (Single) 300 feet (Projection, Trail of Destruction), Elemental Attack (Electricity), Interruption (PhR Damage, Ki, Magic, and Psychic Abilities).\n[A]: -2 Ki.\n[D]: Overload (20 Turns), Defenseless.\n\nRaikoudo, the pinnacle Technique of the Path of Storms, manifests as a ferocious combat prowess, transmuting the user's body into a maelstrom of electricity and unstoppable force. Like a bolt of lightning, the character cleaves through the heavens, obliterating all in their path. Yet, the assault extends beyond mere physical harm; it induces a disruption in the souls of the character's enemies, instantly nullifying any active supernatural abilities they possess. However, such formidable power exacts a grave toll: while executing Raikoudo, the character is defenseless, and upon its conclusion, the electrical surge leaves them unable to wield Ki for a full minute.\n\nThis Technique enables the character to unleash a ranged attack with a reach of 300 feet, utilizing their own body as a projectile. All adversaries caught in the path of this movement endure an assault rooted in the Electricity Attack Type, granting a +50 bonus to the attacker's Attack Ability. Those harmed by this attack must succeed in a PhR check with a Difficulty equal to the damage incurred, or suffer the immediate cancellation of all active Ki, magical, and psychic abilities. Raikoudo does not utilize the user's weapon's Base Damage; instead, it employs double their Presence plus their Power bonus."
+    },
+    "cKB1GhRP3QRGQ3EE": {
+      "name": "Reactive Protocol AC-01: Exaltation",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Quick Recovery.\n[A]: None.\n[D]: Requirement (Ancient Blood).\n\nHarnessing the character's energy, the nanomachines generate a potent electrical surge, invigorating their muscles and nerve pathways, enabling them to respond swiftly even in the most unlikely scenarios. This Technique grants the character the ability to regain their Action during a turn in which it has been lost."
+    },
+    "lBMVJKfY5JM9z4t0": {
+      "name": "Ren Zhi Shu, The Pillar of the World",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 150 feet, Damage Augmentation (Single) +100, Indirect Attack, Armor Penetration –8.\n[A]: \n[D]: Overload 20, Exhaustion –4.\n\nBy focusing his energy, the character summons an immense stone column adorned with hundreds of runes, which he then employs to crush his adversaries. Its devastating force is such that it nearly disregards any form of protection or defense. However, the energy overload resulting from this technique temporarily neutralizes the Ki abilities of the attacker, rendering them unable to utilize their Ki Abilities and Techniques for one minute after its completion.\n\nRen Zhi Shu enables the character to unleash an Indirect Area Attack with a radius of 150 feet, reducing the defender's Armor Type by 8 points. Instead of relying on the weapon damage of the user, this Technique utilizes as its Base Damage double their Presence plus their Power bonus, augmented by an additional 100 points."
+    },
+    "kmPHcHIQyey9WIeD": {
+      "name": "Requiem",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Limited Additional Attack +6, Continuous Attack, Damage Multiplier (Single) x2, Elemental Attack (Light).\n[A]: -2 Ki\n[D]: None\n\nThe pinnacle of the Ormus techniques is Requiem, summoning celestial beings to pass judgment upon the enemy. When employing this Technique, the character marks a target with a gesture, causing the energy surrounding them to materialize into the forms of the four angels who stand guard over the cardinal points, accompanied by two strikes by a fifth representing Metatron, the Voice of God. These celestial entities unleash a rapid succession of strikes upon the enemy, while the character gathers an immense amount of pure light within their weapon, launching it towards the foe. In the aftermath, a profound calm and unyielding silence settle over the scene.\n\nRequiem grants its user the capacity to execute six consecutive additional attacks. Subsequently, the character unleashes a seventh and final additional strike, infused with Light, which doubles the damage inflicted."
+    },
+    "HBEoMxGLKWuNvyEp": {
+      "name": "Ryukanzan",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Breakage Augmentation +20, Combat Maneuvers and Aiming (Single) –25.\n[A]: -1 Ki.\n[D]: Conditions (Unsheathe).\n\nRyukanzan, known as the Whirlwind Cut, is a technique devised to conclude combat without shedding a single drop of blood. The practitioner sheathes their blade, channeling energy along its edge, before unsheathing it with remarkable speed to execute a circular blow aimed at the enemy's weapon. Under the overwhelming force of Ryukanzan, the enemy's weapon shatters into fragments.\n\nThis Technique grants the character the ability to perform a Directed Attack against the enemy's weapon without incurring any penalty to their Attack Ability for doing so. Additionally, it enhances the Breakage of the blow by 20 points."
+    },
+    "eCZKdsWhbA8B2XAV": {
+      "name": "Samui",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Counterattack Ability +40, Maintained.\n[A]: -1 Ki.\n[D]: None.\n\nHarnessing his Ki, the character propels his body, achieving an incredible speed precisely when he would be struck by an attack. In that instant, he projects a mirage of himself while swiftly retaliating from a different vantage point. Employing this Technique generates the distinct sound of ice being sliced. Samui grants the character a counterattack bonus of +40."
+    },
+    "gpZihWP1gBIxvkS4": {
+      "name": "Sanctus",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Energy Shield (400 LP), Predetermined Defense (180).\n[A]: -1 Ki.\n[D]: None.\n\nWhen clasping his hands in a prayer-like gesture, the user summons forth a guardian angel that materializes behind them, spreading its wings to shield against incoming attacks. This celestial being functions as an Energy Shield with 400 Life Points and possesses a Predetermined Defense Ability of Absurd (180)."
+    },
+    "BAuRj3oqePqgdPf8": {
+      "name": "Sattyagraha",
+      "description": null
+    },
+    "dWh2fzfLIyykbDCs": {
+      "name": "Search Protocol SC-02: Eyes of Solomon",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Night Vision, Radial Vision, See Supernatural, Minor Sustenance.\n[A]: None.\n[D]: Night Vision, Radial Vision, See Supernatural, Minor Sustenance.\n\nThe character's eyes are concealed beneath a visor as a collection of technomagical spheres materialize, hovering nearby. They conduct both physical and supernatural scans of the surroundings, transmitting their findings directly to the visor. This grants the character a comprehensive image of their environment. The Search Protocol, a sustained technique lasting five turns, imbues the user with Radial, Night, and Supernatural Vision capabilities."
+    },
+    "fKeljFnyiKqmQ3Qo": {
+      "name": "Selune, Shadow of the Moon",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Long-distance Attack (Single) 150 feet, Area Attack (Single) 150 feet.\n[A]: None.\n[D]: Elemental Requirement (Lesser Intensity).\n\nSelune represents an enhanced iteration of Sirius, enabling the character to unleash a devastating Area Attack. The technique commences similarly to Sirius, with the character dragging their weapon's tip along the ground, igniting a fiery current. However, instead of immediately directing the current towards the enemy, the character repeatedly strikes the same spot, allowing the contained flames to intensify exponentially. As the energy reaches its zenith, the character delivers a final decisive blow, propelling the attack towards its target, where it erupts into a colossal column of flames.\n\nSelune boasts a Long-distance Attack capability with a range spanning 150 feet. Upon reaching its target, it detonates within a 150-foot radius, excluding the user from its effects. Unlike Sirius, which relies on the weapon's damage, Selune's Base Damage is calculated as double the character’s Presence, augmented by their Power bonus.\n\nTo execute Selune, the character must possess access to at least two levels of fire intensity."
+    },
+    "Oqy0yh0eGbXCEQZa": {
+      "name": "Sensus",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Initiative Augmentation +50, Maintained.\n[A]: None.\n[D]: None.\n\nChanneling his energy, the character hones his senses to unprecedented levels, heightening them beyond ordinary perception. The world around him appears to decelerate, as if time itself were sluggish. Through this Technique, the character receives a +50 bonus to his Initiative."
+    },
+    "nLVIq0MCsAbsUrj9": {
+      "name": "Sheraphim Ianua, The Door of the Seraphim",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Dodge Ability (Multiple) +40, Additional Defense +3, Maintained.\n[A]: None.\n[D]: None.\n\nThis Technique envelops the character in four radiant wings, forming a protective barrier that shields them from any form of attack. These wings instinctively intercept incoming strikes, effectively halting any assaults directed towards the character.\n\nThis Technique boosts the character's Dodge Ability by +40 against all attacks each turn the technique is maintained. Furthermore, it grants the character the ability to defend against 4 attacks per turn without any penalties."
+    },
+    "Z6HdSNZ0PtLz6uup": {
+      "name": "Shi Tou",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Armor Augmentation 4 (Unmodifiable).\n[A]: None.\n[D]: Slowness.\n\nThe character concentrates their internal energy, drastically enhancing their endurance and resilience. During this process, their skin takes on a slight darkening, and peculiar glowing red spiral marks emerge along their body. This Technique affords the user an unalterable Armor Type of 4 against all forms of attacks. However, it also significantly diminishes their speed, imposing a -4 penalty to their Movement Value and a -20 penalty to their Initiative.\n"
+    },
+    "p5ik7iGVRTl7ebT5": {
+      "name": "Shitsunen no Sekai",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Supernatural States (Total Paralysis PhR 180, Inhaled, 150 feet).\n[A]: None.\n[D]: Predetermination.\n\nThe Forgetfulness of the World, the pinnacle of Hyousetsu Jigoku Techniques, harnesses the power of forsaken memories, drawing upon all that lies ensnared in the deepest recesses of the mind. Upon activation, the character conjures a glacial realm around themselves, capable of immobilizing and annihilating all within, even halting the passage of time itself. When employed, individuals within 150 feet of the character must pass a Physical Resistance check with a Difficulty of 180 or face complete paralysis, adhering to the rules for states. However, the Technique bears the Disadvantage of Predetermination, necessitating the character to declare its intended purpose as they commence accumulating Ki."
+    },
+    "W9jE7sR27XCiwjrt": {
+      "name": "Shoryuzan",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Intiative Augmentation +75, Combat Maneuvers and Aiming –25.\n[A]: None.\n[D]: None.\n\nThe ancestors of Meizo crafted this Technique as a safeguard against potential attacks before they could draw their weapon. With Shoryuzan, a character cannot be caught off guard, as time halts around them while they unsheathe their weapon. This Technique enhances the character's Initiative by 75 points and eradicates any penalty typically associated with unsheathing their weapon."
+    },
+    "4muxFJzLHylgLiKI": {
+      "name": "Shuryudo, The Path of Currents",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Initiative Augmentation +75, Maintained.\n[A]: None.\n[D]: None.\n\nSurrounded by whirlwinds and air currents, the character's body appears to move at an inhuman speed. This Technique enhances the user's Initiative by +75."
+    },
+    "TqPs9cuebGEyxSVH": {
+      "name": "Sigma Drepranos",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +75, Limited Additional Attack +2.\n[A]: None.\n[D]: None.\n\nThe Lord of Infinity vanishes from sight and reemerges back-to-back with the chosen adversary. With swift precision, it delivers three consecutive strikes using Longinus, each strike unleashing a barrage of 666 chained hits. This technique empowers Omega to execute three attacks in rapid succession, enhancing its Attack Ability by +75 on the initial strike."
+    },
+    "Xeyy2lDQAatrNvI7": {
+      "name": "Sirius, Black Light",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Long-distance Attack (Single) 150 feet, Attack Ability (Single) +40\n[A]: -1 Ki.\n[D]: Elemental Requirement (Lesser Intensity).\n\nThe character drags the tip of their weapon along the ground, igniting a sinister blaze that streaks across the earth with remarkable speed. Upon reaching the character's foe, the fire detonates, erupting into a towering column of dark flames. This technique enables the character to execute a long-range assault spanning up to 150 feet, bolstering their Attack Ability by 50 points. To employ this technique, the character must be near at least two levels of fire intensity.\n"
+    },
+    "ffrlkZNp18xgtrgW": {
+      "name": "Sniper Shot",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Combat Maneuvers and Aiming (Single) –50, Long-distance Attack (Single) 3,000 feet, Damage Multiplier (Single) x2.\n[A]: None.\n[D]: Maintained Technique (Gunslinger), Predetermination.\n\nAs the user gathers Ki to execute this Technique, a supernatural circle forms around the barrel of one of their runic pistols. Once enough power is amassed, the character transfers their sense of sight into this circle, aligning their vision with the pistol's barrel. Upon firing, the bullet streaks through the sky with extraordinary force, leaving a faint trail of energy in its wake.\n\nSniper Shot extends the firing range of one of the user’s runic pistols to 3,000 feet and reduces the penalty for Directed Attacks by 50 points. Additionally, the attack's Base Damage of 100 is doubled due to its immense power. However, this Technique is Predetermined and requires Gunslinger to be maintained."
+    },
+    "oAbebFrfIfTWEjaR": {
+      "name": "Spacial Opening",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Additional Attack, Long-distance Attack (Single) 60 feet, Indirect Attack, Maintained.\n[A]: -1 Ki.\n[D]: Conditions (Certain Terrain).\n\nThe character raises their hand, creating a rupture in space from which small meteors intermittently hurtle. With minimal guidance required, the character directs these meteors towards their enemies.\n\nSpacial Opening enables the character to execute an additional Indirect attack within a distance of up to 60 feet from their current location. The rupture follows the character wherever they move. Instead of relying on the damage corresponding to the user's weapon, this Technique employs a Base Damage equal to double their Presence plus their Power bonus. However, this Technique can only be utilized in open terrain where the sky is visible."
+    },
+    "I0RkEoIkD7CquGpk": {
+      "name": "Spectral Horde",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Mirage 10 (Non-detection Difficulty: Inhuman, Phantasmal Illusions PhR 180), Maintained.\n[A]: None.\n[D]: Elemental Binding (Darkness), +2 Ki.\n\nThe character channels their vital energy and extends their arms in a cross-like fashion, birthing 10 spectral manifestations of themselves, born from their very essence. These spectral doppelgängers serve as an extension of the character's being, functioning as dark puppets that engage in combat utilizing the abilities of the Technique's user.\n\nSpectral Horde generates 10 illusions of the character that operate using the rules of Phantasmal Illusions, with a detection Difficulty of Inhuman (320) for discerning their reality. If these illusions inflict damage, the PhR check to resist the effects of the Illusion is Absurd (180)."
+    },
+    "kTFTjI6mRcbcbAhq": {
+      "name": "Spectral Mark",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Minor Brand, Supernatural Attack, Area Attack (Single) 30 feet.\n[A]: None.\n[D]: Elemental Binding (Darkness).\n\nThe character condenses, gathering a vast reservoir of spectral energy within, which they release moments later, manifesting numerous phantasmal arms around them. These spectral appendages not only inflict harm upon their enemies but also leave a profound mark upon their souls, enabling the character to target them more effectively. It's as if, from that moment onward, their strikes are guided by a supernatural force.\n\nThis Technique permits the character to execute a Supernatural Attack with a 30-foot radius. All affected individuals are automatically subjected to the effects of a Minor Brand for one hour."
+    },
+    "89JcjFSiMHV3MKTd": {
+      "name": "Spiritum",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Magical Resistance Increase +40, Maintained.\n[A]: -1 Ki.\n[D]: None.\n\nBy strengthening the connection between body and soul, the practitioner of this Technique harmonizes their energies and reinforces their essence against a myriad of supernatural effects. While barely perceptible to the eye, an aura envelops them, neutralizing and diminishing the influence of powers attempting to breach their spirit, granting a +40 bonus to their MR."
+    },
+    "x78X6j9s5xhvPbD1": {
+      "name": "Stellar Wind",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Limited Dodge Ability +75, Automatic Transportation 150 feet, Maintained.\n[A]: None.\n[D]: None.\n\nThe character momentarily harnesses the power of the Stellar Wind, gaining the extraordinary capability to transform into stardust and swiftly traverse from one point to another. Without pausing, they shimmer and vanish in rapid succession, rendering it challenging for adversaries to land a blow while this skill is in effect.\n\nWith the Stellar Wind, the user enjoys a substantial +75 bonus to their Dodge Ability against a single attack each turn. Moreover, they can effortlessly teleport themselves to any location within a 150-foot radius. However, due to the nature of this transportation method, seizing the opportunity for a counterattack following a successful dodge is not feasible."
+    },
+    "iAzRm1tAXsWrCjuP": {
+      "name": "Storm Waltz",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +150, Area Attack (Single) 300 feet (Target Selection), Supernatural Attack.\n[A]: -2 Ki.\n[D]: Maintained Technique (Gunslinger), Defenseless, Conditons (Coins).\n\nStorm Waltz showcases both remarkable functionality and visual spectacle. During its execution, the character propels a handful of energetically charged coins into the air. By heightening their sense of sight to nearly divine levels, they calculate the multitude of possible trajectories the coins could follow. Subsequently, a single supernaturally-charged shot is unleashed into the coins, propelling them collectively towards the targeted enemies.\n\nThis Technique bestows upon the character a substantial bonus of 150 points to their Attack Ability, enabling them to launch an energy attack against all chosen targets within a 300-foot radius. However, Storm Waltz comes with notable drawbacks. Firstly, the user must possess and throw enough coins (or similar metallic pieces) into the air for there to be enough for each target they wish to hit. Secondly, executing this Technique demands the user's full attention on the coins, rendering them incapable of defending themselves during that turn."
+    },
+    "MzcL4rYx73aTaV5b": {
+      "name": "Summun",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Additional Attack +8, Initiative Augmentation +175.\n[A]: -2 Ki.\n[D]: None.\n\nThe character extends their arms and momentarily vanishes. In an instant, they begin to materialize around the victim, swiftly traversing through their body repeatedly, utterly annihilating them in the process. The assailant seems to flicker out of sight, only to reappear in a whirlwind of motion that annihilates their target completely. This technique enables the character to execute nine attacks within the same combat turn, typically catching opponents off guard with its lightning-fast reaction speed."
+    },
+    "AVy26nM1OJp5Pxvy": {
+      "name": "Supernova",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +100, Supernatural States (Double Damage PhR 220).\n[A]: -3 Ki.\n[D]: Overload (20 Turns), Vital Sacrifice (25 LP).\n\nAs the pinnacle Technique of Cosmos, this ability empowers the character to conjure a miniature replica of one of the universe's most cataclysmic phenomena: a supernova. By channeling their own soul as a catalyst, the user forms a tiny sun within the palm of their hand, directing it into their foe. Within moments, the minuscule star destabilizes, erupting within the unfortunate target. Veins sear, Ki channels collapse, and the victim's body ignites in flames until reduced to unrecognizable ashes.\n\nSupernova enables the user to execute an attack with a +100 Attack Ability. Upon inflicting damage, the afflicted individual must surpass a PhR against a Difficulty of 220 or endure double the damage based on the severity of their failure. However, utilizing this Technique exacts a toll. To unleash its power, the user must sacrifice 25 Life Points, tapping into a portion of their essence. Additionally, the user's own energy flow is momentarily obstructed, rendering them unable to utilize their Ki abilities for at least a minute."
+    },
+    "tDi3ue9bX6GP1I3J": {
+      "name": "Tatsumakido, The Path of The Tornado",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Energy Shield (500 Life Points, Regeneration 100), Dodge Ability (Multiple) +75, Minor Sustenance.\n[A]: None.\n[D]: Limited Circumstance (Suffers Damage).\n\nThis Technique enables the fighter to harness the centrifugal force generated by receiving a blow, initiating a rapid spin that conjures a potent supernatural whirlwind serving as an Energy Shield. As per the Technique's nature, the user must have sustained a hit causing some form of damage in the preceding turn. The Energy Shield boasts 500 Life Points and augments the character's Dodge Ability by +75. Sustained for 5 turns, the shield regenerates 100 Life Points at the conclusion of each turn."
+    },
+    "tstTC0jvsVyIxxqd": {
+      "name": "Thanathos",
+      "description": null
+    },
+    "rWWNvCzjpaefIqLd": {
+      "name": "The Bite of the Serpent",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Initiative Augmentation +50, Critical Enhancement (Single) +40, Combat Maneuvers and Aiming (Single) –50.\n[A]: -1 Ki.\n[D]: None.\n\nThis Technique bestows upon the user the swiftness and precision akin to that of a serpent. With lightning-fast movements, they can strike preemptively against their enemies, targeting their joints with precise attacks executed solely with the tips of their fingers.\n\nThe Bite of the Serpent elevates the character's Initiative by 50 points, enabling them to execute Directed Attacks while reducing any associated penalties by 50 points. Additionally, in the event of a Critical hit, the Technique further amplifies the final result by an additional 40 points."
+    },
+    "JsgXV0mFzTV41gsA": {
+      "name": "The Claws",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Additional Attack +1, Damage Augmentation (Multiple) +40.\n[A]: -2 Ki.\n[D]: None.\n\nThe lethal prowess of a dragon's claws is unmatched. Employing this technique allows the user to unleash an extra attack, with a bonus of 40 added to the base damage of each attack made during this turn."
+    },
+    "tp7dd0gdArxVqN4p": {
+      "name": "The Claws of The Tiger",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Damage Augmentation (Single) +50, Armor Penetration –3 AT.\n[A]: None.\n[D]: None.\n\nBy channeling power into his muscles, the character tenses and bulks up for a brief moment, possibly tearing his sleeves or clothes in the process, to deliver a single remarkable strike. The sheer force of this \"clawing\" strike enables it to bypass most armors or protections.\n\nThe Claws of the Tiger bestows upon its user the ability to execute an attack that enhances their Base Damage by 50 points, while simultaneously decreasing the Armor Type of the defender by 3 points."
+    },
+    "DI6uOWWZkhI0IyRC": {
+      "name": "The Dark Portal",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Supernatural State (Drain Life PhR 140, Along the Ground, 30 feet).\n[A]: -1 Ki.\n[D]: None.\n\nBy altering the character’s essence, this Technique grants the user the ability to transform the ground surrounding them into a black void capable of draining the life force of all who touch it.\n\nThe Dark Portal manifests a 30-foot radius area around the character. Anyone in contact with the ground within this area must succeed in a PhR check with a Difficulty of 140. Failure results in the loss of Life Points equal to the level of failure. The user absorbs any damage caused by this method to mend their wounds."
+    },
+    "9GZt3xA5C8PctE4a": {
+      "name": "The Dragon's Breath",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Long-Distance Attack (Single) 1 mile, Area Attack (Single) 300-foot radius,energy damage attack, Damage Multiplier (Single) x2.\n[A]: -5 Ki.\n[D]: Predetermination\n\nThe user unleashes a pulse of pure energy, spanning up to one mile in distance. Upon the user's command, the pulse detonates, unleashing total devastation within a 300-foot radius. The damage inflicted by Dragon's Breath is calculated as twice the character's base presence, augmented by their power bonus, and then doubled. This technique, Dragon's Breath, must be predetermined and declared prior to its use."
+    },
+    "YnJMGishtaffLI3h": {
+      "name": "The Dragon",
+      "description": null
+    },
+    "CEA4HyBIkiQnEApg": {
+      "name": "The Esgle's Talon",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Trapping 16, Damage Augmentation (Single) +90, Attack Ability (Single) +50.\n[A]: -1 Ki.\n[D]:  None.\n\nWith his fingers fortified to the hardness of steel, the character ascends into the sky before hurtling down upon his enemy with unrelenting force. Upon striking the foe, the character's hand pierces through them in a single, unstoppable motion, shattering bones, rending flesh, and rendering the enemy immobilized. It's said that when activating this Technique, the character's aura momentarily takes on the form of an enormous eagle.\n\nThe Eagle’s Talon grants the ability to execute a Trapping maneuver using a Strength characteristic of 16, while also enhancing the user's Base Damage by 90 points and boosting their Attack Ability by 50 points."
+    },
+    "RFLTQTAfrc1HYGgk": {
+      "name": "The Fang",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Attack Ability (Single) +50, Combat Manuevers and Aiming (Single) -50, Armor Penetration -6 AT.\n[A]: -4 Ki.\n[D]: None.\n\nDrawing inspiration from the formidable fangs of the dragon, this technique elevates the user's attack prowess by 50 points. Additionally, it mitigates penalties for combat maneuvers, such as aimed attacks, by 50 points and penetrates 6 points of the defender's AT."
+    },
+    "HOxCiLxcBKIDvr6C": {
+      "name": "The Hand of Purgatory",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Long-distance Attack (Single) 60 feet, Trapping 12 (Spirit Trap, Maintained).\n[A]: -1 Ki\n[D]: Reduced Damage (Half Damage).\n\nWith a commanding gesture, the character summons forth an immense spectral claw of pure, condensed malevolence from their back. This sinister appendage ensnares their enemy, immobilizing both body and soul.\n\nThe Hand of Purgatory enables the character to execute a Long-distance Attack with a range of 60 feet. Additionally, it can be utilized to perform a Trapping maneuver with a Strength of 12, countered by the defender's Power Characteristic. This Technique does not rely on the damage inflicted by the user's weapon; instead, it utilizes double their Presence plus their Power bonus, the damage total is then halved. Upon a successful Trap, the character can sustain the effect by expending 8 points of Ki per turn."
+    },
+    "KJR8fbGVQgL2hrys": {
+      "name": "The Hug of the Monkey",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +40, Trapping 12.\n[A]: None.\n[D]: Reduced Damage (No Damage).\n\nWith agility reminiscent of a monkey, the character swiftly charges towards their enemy, swiftly immobilizing them. This Technique enables the character to execute a Trapping maneuver with a Characteristic of 12, and without incurring any penalties, while also bolstering the user's Attack Ability by 40 points. Notably, the attack itself does not inflict any damage."
+    },
+    "RnYbpB4sXU5ZQq1i": {
+      "name": "The Illusion of the Mantis",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Camouflage Attack (Inhuman), Mirage 1 (Non-detection Difficulty: Almost Impossible), Initiative Augmentation +50.\n[A]: -1 Ki.\n[D]: None.\n\nCrafted in the image of the deceptive and ruthless mantis, this attack employs a swift movement that bewilders the enemy, creating the false impression of an impending strike from an alternate direction. Meanwhile, the character hurtles towards their foe at breakneck speed, aiming to deliver a single, fatal blow.\n\nThe Illusion of the Mantis enhances the character's Initiative by 50 points and conjures an illusion (That requires passing a ki detection check of Almost Impossible (240) Difficulty to detect) to initiate an attack on the enemy, prompting their defense. Naturally, even if the enemy retaliates, they cannot inflict any harm upon the \"ghost.\" Subsequently, the character executes a second, genuine Camouflaged Attack, compelling their adversary to pass a Notice check against Inhuman Difficulty to avoid suffering the penalty of being Surprised by it."
+    },
+    "6HgInsaVB4f5qRal": {
+      "name": "The Last Dragon",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +125, Additional Attack +2 (Added Fatigue Bonus, Combo: Up to 2 Additional Attacks).\n[A]: -3 Ki.\n[D]: None.\n\nInspired by the unparalleled power of the mightiest beasts, the Last Dragon stands as a monumental Technique, ensuring the inevitable demise of any adversary when executed with precision. Unleashing torrents of power that coalesce into swirling currents of energy around him, the character propels himself towards his foe, delivering a resounding blow that propels the enemy soaring hundreds of feet into the sky. In a mere fraction of a second, the character materializes mid-air, intercepting the plummeting body of their opponent with a second devastating strike, driving them towards the earth below. Yet, before the foe meets the ground, the character manifests once more, poised to confront them anew, harnessing their remaining power to execute the third and final blow of The Last Dragon.\n\nThe Last Dragon is an offensive marvel granting its user the capacity to unleash three consecutive attacks, each bolstered by a +90 bonus to their Attack Ability. Employing the Added Fatigue Bonus advantage, any investment made by the character to enhance one attack is simultaneously applied to all three. However, the success of each attack is paramount, as failure to hit the enemy halts the entire combination, resulting in the loss of the remaining attacks.The Last Dragon is an offensive marvel granting its user the capacity to unleash three consecutive attacks, each bolstered by a +90 bonus to their Attack Ability. Employing the Added Fatigue Bonus advantage, any investment made by the character to enhance one attack is simultaneously applied to all three. However, the success of each attack is paramount, as failure to hit the enemy halts the entire combination, resulting in the loss of the remaining attacks."
+    },
+    "gGnJEQ7XphS74t9I": {
+      "name": "The Last Nightmare",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Supernatural States (Terror and Extreme Pain PhR 180, Visual Contact (one target), 80 feet).\n[A]: None.\n[D]: Elemental Binding (Darkness), Conditions (Night).\n\nThe character gathers within their body all the anguish, dread, and obscurity present in their surroundings within the Wake, forging a gateway to absolute darkness through their eyes. With a single glance, they project these emotions and sensations, tormenting the body and spirit of their chosen target.\n\nThe character focuses their gaze on a clearly visible target, compelling them to endure two successive PhR checks against a Difficulty of 180. Failure results in the target suffering the debilitating effects of Terror and Extreme Pain. Given its foundation in darkness, this Technique can only be executed during the night, when the darkness within the Wake reaches its zenith."
+    },
+    "h8EcWySRmt2GJhxL": {
+      "name": "The Maws of The Wolf",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Block Ability (Single) +50, Limited Additional Attack +1.\n[A]: None.\n[D]: None.\n\nThe Maws of the Wolf enables the character to intercept the enemy's attack with one of his hands (or weapons), swiftly followed by a barrage of rapid strikes against the enemy's body. This Technique enhances the character's Block Ability by 50 points and, upon successfully executing a counterattack, grants the character the opportunity to unleash an additional attack."
+    },
+    "pHCh6Ia0kKKs0uS0": {
+      "name": "The Passage of the Wake",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Automatic Transportation 60 feet, Maintained.\n[A]: -1 Ki.\n[D]: Elemental Binding (Darkness).\n\nThe character channels their energy to forge minor ruptures in reality, enabling them to transit seamlessly from one breach to another, covering a distance of up to 60 feet per turn."
+    },
+    "GDaypjDlfEfpvc3m": {
+      "name": "The Path of Meizo",
+      "description": null
+    },
+    "HxW15Xr4fVdezPJA": {
+      "name": "The Paw of the Cat",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Limited Additional Attack +4.\n[A]: None.\n[D]: Reduced Damage (Half Damage).\n\nDespite its seemingly playful nature, this adorable and lighthearted movement, mimicking the graceful motions of a cat, conceals a potent and formidable Technique. It dramatically augments the character's speed, enabling them to assail their enemy with a flurry of strikes. However, this agility comes at a cost: the imprecision inherent in the movements diminishes the force behind each blow.\n\nThe Paw of the Cat empowers the character to unleash five attacks within a single turn, albeit at the expense of reducing their damage output by half."
+    },
+    "TE9PfOnvHM8d7kCE": {
+      "name": "The Scales",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Additional Defense +6.\n[A]: -2 Ki.\n[D]: None.\n\nDragons are adept at confronting various adversaries, enabling them to fend off numerous assaults without suffering any drawbacks. This skill enables the user to repel up to seven attacks without compromising their capabilities."
+    },
+    "Nn2EiPmJFVmAfU38": {
+      "name": "The Seed of Evil",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +100, Long-distance Attack (Single) 150 feet (Projection), Supernatural State (Terror PhR 160).\n[A]: -2 Ki.\n[D]: Reduced Damage (Half Damage).\n\nRaising his hand slowly, the character points at his enemy and clenches his fingers into a fist with force. Instantly, dozens of bloody, barbed chains materialize out of thin air, piercing the enemy from all directions. Simultaneously, the attacker hurtles towards the foe, driving his fingers into the enemy's chest, offering them a glimpse of hell itself.\n\nThe Seed of Evil is a Long-distance Attack with a range of 150 feet, enhancing the user's Attack Ability by 100 points. Upon executing the Technique, the character teleports to the enemy's location. Should the Technique inflict damage, the enemy must pass a PhR check of 160 or succumb to the state of Terror. The Seed of Evil does not rely on the damage of the user's weapon; instead, it draws upon double the user's Presence plus their Power bonus, with the total then halved."
+    },
+    "6HwF6lqCFT0uRKpc": {
+      "name": "The Shadow of Death",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Supernatural States (Drain Ki 160 PhR), Indirect Attack.\n[A]: -1 Ki.\n[D]: Elemental Binding (Darkness).\n\nThe character channels their energy into their shadow, birthing a dark portal from which emerges a spectral doppelgänger, a sinister and distorted apparition capable of draining spiritual energy from foes. This spectral entity not only assaults the enemy's physical form but also infiltrates their being, siphoning a portion of their energy and transferring it directly to the character.\n\nThe Shadow of Death empowers the character to assail an adversary utilizing the rules for Indirect Attacks. Should the attack inflict damage, the target must succeed in a PhR (Physical Resistance) check with a Difficulty of 180 or lose an amount of Ki equivalent to the level of their failure. The character then absorbs this drained Ki, replenishing their own energy reserves."
+    },
+    "RAqmhmUIFrFmT5Xv": {
+      "name": "The Tail",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Attack Ability (Single) +40, Area Attack (Single) 80-ft radius, Impact 16\n[A]: -3 Ki.\n[D]: None\n\nThe mighty sweep of a dragon's tail can scatter entire armies. With this technique, a character can execute a forceful attack within an 80-foot radius, utilizing their weapon's base damage while enhancing their attack ability by 40. Those struck by this technique must pass an opposed strength check of 16 or risk being hurled through the air."
+    },
+    "e3myX4whVg3wnswy": {
+      "name": "The White Crane",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Dodge Ability +40 (Single), Counterattack Ability +50.\n[A]: None.\n[D]: None.\n\nWith movements as graceful as a crane, the character deftly evades the enemy's attacks, utilizing his \"wings\" to overpower the foe. This Technique augments the character's Dodge Ability by 40 points, and if the character successfully executes a counterattack, it bolsters his Attack Ability by an additional 50 points."
+    },
+    "PRVj1bolWjPlwz7M": {
+      "name": "Tornado",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 80 feet, Impact 12.\n[A]: -1 Ki.\n[D]: Reduced Damage (Half Damage).\n\nThe character raises his hand skyward, unleashing his Ki in a spiraling motion. In an instant, the air becomes turbulent, giving rise to an immense whirlwind that engulfs all those in the vicinity.\n\nTornado is a Technique enabling the character to execute an attack within an 80-foot radius. While it inflicts only half of its usual damage upon hitting, defenders are subjected to an Impact of Strength 12 that propels them through the air."
+    },
+    "5nfBBlDVVgW6tZYa": {
+      "name": "Tsunami",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 150 feet, Attack Ability (Single) +90.\n[A]: -2 Ki.\n[D]: Elemental Requirement (Lesser Intensity).\n\nInfusing his energy into the surrounding water, the character summons a colossal tsunami, unleashing its devastating force upon everything in its path. The Tsunami Technique enables the character to launch an attack within a 150-foot radius. Its Base Damage is determined by doubling the character's Presence and adding their Power bonus. Additionally, Tsunami augments the character's Attack Ability by 90 points. However, it's important to note that the Technique requires the presence of water within the character's reach in order to be utilized."
+    },
+    "mdIriIpQqhg0mndl": {
+      "name": "Unus Pandemonium",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Attack Ability (Single) +90.\n[A]: None.\n[D]: None.\n\nOmega firmly grasps Longinus with both hands, channeling a fraction of its formidable power into a single devastating strike. Though appearing straightforward, this attack unleashes a trail of seemingly inexorable unholy energy in its wake. Known as Pandemonium, this special attack heightens Omega's Attack Ability by +90, elevating its potency to unprecedented levels."
+    },
+    "YrSHo73klOKNP0dQ": {
+      "name": "Vatra",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Attack Ability (Single) +75, Damage Augmentation (Single) +75, Critical Enhancement (Single) +40.\n[A]: -1 Ki.\n[D]: Maintained Technique: Feuer.\n\nThe attacker, akin to a phoenix, envelops themselves in flames and charges towards their foe with an assault that not only inflicts physical harm but also touches them on a spiritual level. This fiery attack enhances damage, improves their attack ability, and magnifies any subsequent critical effects. However, wielding Vatra necessitates the character already having Feuer maintained."
+    },
+    "WictNv3htgkvjkVu": {
+      "name": "Velocitas Ventus",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Additional Attacks +3, Initiative Augmentation +50.\n[A]: None.\n[D]: None.\n\nBy exceeding human speed limits, a character can move so swiftly that his body appears to fragment. This enables him to launch four attacks in a single combat turn, while also gaining a bonus to his final initiative."
+    },
+    "BSDfpXaECOLb8eAO": {
+      "name": "Volcanic Eruption",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Area Attack (Single) 150 feet, Critical Enhancement (Single) +50, Damage Augmentation (Single) +50, Elemental Attack (Fire), Indirect Attack, Maintained.\n[A]: -3 Ki.\n[D]: Predetermined, Conditions (Certain Terrain: Directly on the Ground).\n\nThe character strikes the ground, triggering a powerful tremor that instantaneously unleashes a multitude of enormous lava plumes erupting in all directions. These fiery torrents burn and consume everything in their path, leaving only the space occupied by the character unscathed.\n\nVolcanic Eruption enables the character to execute an Indirect Fire Attack within a 150-foot radius. The attack's Base Damage is calculated as double the character's Presence plus their Power bonus, with an additional 50 points. If the attack results in a Critical, the level of any critical inflicted is increased by 50 points. Sustaining this Technique requires the expenditure of 15 points of Ki per turn, allowing the character to replicate the attack each subsequent turn with identical characteristics.\n\nIt's important to note that this Technique can only be performed on an earth surface and the inention to use it must be declared when the character begins channeling their ki."
+    },
+    "wly3POgpAiATqK6v": {
+      "name": "Wushu",
+      "description": null
+    },
+    "pCB7MJnKKlGQRcjf": {
+      "name": "Yan",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Damage Resistance (600 LP, Regeneration 250), Maintained.\n[A]: None.\n[D]: Predetermination.\n\nYan is a Technique that envelops its user with floating rocks capable of absorbing incoming attacks. Even when impacts strike the character's body, any damage is promptly transferred to the stones, which shatter in their place. Each turn, new rocks materialize near the character to replenish those that have been broken, continuing until the Technique concludes or all the rocks are destroyed.\n\nIn terms of gameplay mechanics, the character gains the Damage Resistance effect with 600 Life Points, which regenerate at a rate of 250 per turn. However, as a Predetermined Technique, the user must declare beforehand that it is the intended focus of their Ki Accumulation."
+    },
+    "aAV68inpx7XD5ds0": {
+      "name": "Yue",
+      "description": "This technique containts the following effects, advantages and disadvantages.\n[E]: Foretell (Full).\n[A]: None.\n[D]: Conditions (Certain Terrain: In Contact with the Earth).\n\nThe practitioner of this Technique attunes themselves with the earth, granting them the ability to perceive and predict incoming attacks. This heightened sensitivity enables them to evade being caught off guard by a specific opponent's assaults. However, to achieve proper harmony with the earth, the character must maintain direct contact with it; their feet must be in contact with stone, soil, or mud to effectively utilize this Technique."
+    },
+    "TAthyqBJ00XA55v2": {
+      "name": "Yuki",
+      "description": "This technique containts the following effects, advantages and disadvantages\n[E]: Dodge Ability (Single) +75, Maintained.\n[A]: -1 Ki.\n[D]: None.\n\nWhen employing Yuki, the character is shrouded in an icy aura that enhances their agility when under assault. Upon being attacked, they swiftly dart at maximum velocity, leaving behind a frozen path. This ability bestows a +75 bonus to the character's Dodge Ability. However, Yuki necessitates a brief moment to recharge, thus it can only be utilized against a single attack per turn."
+    }
+  }
+}

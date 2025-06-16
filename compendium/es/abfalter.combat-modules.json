@@ -1,0 +1,236 @@
+{
+  "label": "Tablas de Combate",
+  "mapping": {
+    "description": "system.description",
+    "cost": "system.cost"
+  },
+  "entries": {
+    "7DR8FKdPsldz9Pgo": {
+      "name": "[Arma Distinta / Desarmado - A ELEGIR]",
+      "description": "El personaje sabe cómo usar dos armas muy diferentes.<p>\nEfecto:  le otorga al personaje la capacidad de usar un arma de un tipo con la que no está familiarizado.",
+      "cost": 20
+    },
+    "qKW9OzaIiFAhZNmS": {
+      "name": "[Arma Mixta - A ELEGIR]",
+      "description": "El personaje sabe cómo usar dos armas con ciertas similitudes.<p>\nEfecto: le permite al personaje usar un arma adicional que comparta al menos un tipo con un arma que ya domine.",
+      "cost": 15
+    },
+    "AdgJQsSmojRv1mAl": {
+      "name": "[Arma Similar - A ELEGIR]",
+      "description": "El personaje sabe cómo usar dos armas similares.<p>\nEfecto: le permite al personaje usar un arma adicional del mismo tipo que una que ya domine.",
+      "cost": 10
+    },
+    "X6xGe2HAGDW7NNls": {
+      "name": "[Tabla de Tipología- A ELEGIR]",
+      "description": "El personaje ha logrado dominar las técnicas de uso de todas las armas de un determinado tipo, y puede utilizarlas sin penalización.<p>\nEfecto: permite usar cualquier arma de un tipo determinado sin aplicar penalizadores a sus Habilidades de Combate. El jugador debe elegir un tipo específico de arma, ya sea pura o mixto. Por ejemplo, si un personaje está entrenado en el uso de espadas, podrá manejar cualquiera de ellas sin penalización, pero esto no se aplicaría a una espada bastarda, ya que es un arma de tipo mixto.",
+      "cost": 50
+    },
+    "13YydkpoLdFEX7PO": {
+      "name": "Tabla de Ataque Adicional",
+      "description": "Esto permite a un personaje especializarse en encadenar sus ataques, aumentando su ritmo ofensivo.<p>\nEfecto: otorga la capacidad de realizar un ataque adicional, equivalente a cuando un personaje posee 100 puntos en habilidad ofensiva. Es decir, un combatiente con 120 de Ataque Final podría realizar hasta tres ataques (uno por tener más de 100 en su Ataque Final, y otro gracias a la tabla), todos ellos con un valor de 70.\nLimitaciones: Esta tabla puede tomarse tantas veces como desee el personaje.",
+      "cost": 40
+    },
+    "7i3PFSGEKdm0sABR": {
+      "name": "Tabla de Ataque en Área",
+      "description": "El personaje se especializa en maniobras amplias que le permiten eliminar a varios enemigos con mayor facilidad.<p>\nEfecto: reduce a la mitad el penalizador por usar la maniobra de Ataque en Área. Por lo tanto, el personaje aplicaría un –25 a su habilidad de ataque al realizar este tipo de ataque.",
+      "cost": 40
+    },
+    "swz6EXw2P5EB3Grh": {
+      "name": "Tabla de Reducción de Armadura",
+      "description": "Otorga la capacidad de penetrar protecciones y armaduras con gran facilidad, ya sea mediante fuerza bruta o habilidad para encontrar puntos vulnerables.<p>\nEfecto: permite al combatiente restar 1 punto de Armadura TA a cualquier adversario. Este efecto se suma a cualquier otro modificador que el personaje tenga por armas de calidad o Técnicas de Ki.\nLimitaciones: Esta tabla puede tomarse tantas veces como desee el personaje.",
+      "cost": 40
+    },
+    "AOwdDxkOYmsXFkQv": {
+      "name": "Tabla de Asesino",
+      "description": "Estas armas precisas, letales y fáciles de ocultar eran utilizadas con frecuencia por luchadores oscuros.<p>\nEfectos: otorga competencia en el uso de las siguientes armas: Espada Corta, Ballesta de Mano , Garrote, Cerbatana y Estilete.",
+      "cost": 50
+    },
+    "rd51OIaL94yNqzhn": {
+      "name": "Tabla de Bandido",
+      "description": "Estas armas simples pero amenazantes son utilizadas por guerreros especializados en robo y pillaje.<p>\nEfectos: otorga competencia en el uso de las siguientes armas: Daga, Ballesta, Espada Corta, Maza y Garrote.",
+      "cost": 50
+    },
+    "9AvRfvwCXKw2P846": {
+      "name": "Tabla de Bárbaro",
+      "description": "Estas armas grandes y poderosas son utilizadas con frecuencia por individuos de estilo de combate feroz y bárbaro.<p>\nEfecto: otorga competencia en el uso de las siguientes armas: Hacha de Guerra, Hacha a dos Manos, Mandoble, Espada Bastarda y Maza a dos Manos.",
+      "cost": 50
+    },
+    "3lNGCAe2UFdPF6l8": {
+      "name": "Tabla de Batto Jutsu / Iai Jutsu",
+      "description": "Esta habilidad permite al personaje desenvainar su arma con perfecta facilidad.<p>\nEfecto: el personaje puede desenvainar su arma sin aplicar la penalización de –25 a las habilidades de Ataque o Bloqueo. No tiene efecto para armas a dos manos.",
+      "cost": 30
+    },
+    "poKsG8ZhFtxEgUf0": {
+      "name": "Tabla de Combate a Ciegas",
+      "description": "El combatiente se especializa en enfrentar adversarios y peligros que no puede ver, maximizando sus habilidades contra enemigos invisibles o al moverse por entornos de completa oscuridad.<p>\nEfecto: el personaje reduce a la mitad las penalizaciones a las acciones de combate que sufre por Ceguera, ya sea que la visión esté parcialmente o totalmente oscurecida.",
+      "cost": 40
+    },
+    "75rEsptp5lhcswBu": {
+      "name": "Tabla de Guardaespaldas",
+      "description": "El personaje está acostumbrado a proteger a otras personas y puede interponerse con facilidad ante cualquier ataque dirigido a quien está protegiendo.<p>\nEfecto: permite reducir a –10 las penalizaciones aplicables al intentar cubrir o apartar a una persona que está bajo ataque. Esta tabla no otorga ninguna ventaja si el personaje utiliza escudos sobrenaturales.",
+      "cost": 30
+    },
+    "C7luK5VZ54E4eMVG": {
+      "name": "Tabla de Defensa contra Proyectiles",
+      "description": "Concede la capacidad de usar armas de gran tamaño para parar proyectiles de forma efectiva, aprovechando su gran anchura como si se tratara de un escudo.<p>\nEfecto: cuando se utiliza un arma de tipo Mandonle, el personaje puede detener proyectiles como si tuviera un escudo, a la hora de aplicar las penalizaciones correspondientes.",
+      "cost": 40
+    },
+    "dtXF6fJM4b3tOEz6": {
+      "name": "Tabla de Desarme",
+      "description": "Un personaje con esta capacidad se ha especializado en desarmar a sus oponentes.<p>\nEfecto: reduce la penalización por realizar la maniobra Desarmar a –20.",
+      "cost": 40
+    },
+    "rNeZx7hvAvi7kss9": {
+      "name": "Tabla de Esquiva con Escudo",
+      "description": "El personaje está acostumbrado a maximizar los beneficios de combinar el uso de un escudo con su movilidad al defenderse de ataques.<p>\nEfecto: permite que un personaje que esquiva mientras usa un escudo se beneficie del bono que dicho escudo otorga al parar, en lugar del bono por esquivar. Es decir, un combatiente que está esquivando recibe un bono de +20 por usar un escudo mediano, en lugar de solo +10.",
+      "cost": 30
+    },
+    "tgCkQsej3z5bBQCu": {
+      "name": "Tabla de Duelista",
+      "description": "Estas armas son empleadas por espadachines y maestros de esgrima.<p>\nEfecto: otorga competencia en las siguientes armas: Estoque, Florete, Daga de Parada, Sable y Espada Larga.",
+      "cost": 50
+    },
+    "NWbkYSJFUYxWvb4S": {
+      "name": "Tabla de Sujección",
+      "description": "El personaje es especialmente hábil empuñando sus armas, por lo que resulta muy difícil desarmarlo.<p>\nEfecto: otorga al personaje que la posee un bonificador de +3 a su valor de Característica cuando realiza un control para evitar ser desarmado.",
+      "cost": 10
+    },
+    "Mxll9ZcAmG3P35p8": {
+      "name": "Tabla de Gladiador",
+      "description": "Estas son las armas exóticas y llamativas utilizadas por los luchadores en circos y arenas.<p>\nEfecto: otorga competencia con las siguientes armas: Espada Corta, Red de Gladiador, Rodela, Tridente y Látigo.",
+      "cost": 50
+    },
+    "58MwVuGxsQ4HWMvt": {
+      "name": "Tabla de Desvío",
+      "description": "El combatiente está especializado en realizar maniobras evasivas que le permiten minimizar el efecto de que su arma reciba un impacto directo. De este modo, es posible detener ataques de gran fuerza sin que el arma se rompa.<p>\nEfecto: el combatiente puede sumar el valor de su Característica de Destreza a la Entereza del Arma al detener ataques.",
+      "cost": 30
+    },
+    "4O26Y5zY2nlwWHBv": {
+      "name": "Tabla de Cazador",
+      "description": "Estas armas son utilizadas por combatientes expertos en el subterfugio, que hacen uso de armas ligeras, a menudo proyectiles.<p>\nEfecto: otorga competencia con las siguientes armas: Jabalina, Arco, Espada Corta, Lanza y Boleadoras.",
+      "cost": 50
+    },
+    "8FqdYvnoUKvWuLo1": {
+      "name": "Tabla de Armas Improvisadas",
+      "description": "El combatiente en cuestión es muy hábil utilizando cualquier objeto que tenga a su alrededor para luchar.<p>\nEfecto: permite usar cualquier tipo de objeto como un arma improvisada.",
+      "cost": 50
+    },
+    "TReUMLKb89iAnnzf": {
+      "name": "Tabla de Crítico Incrementado",
+      "description": "Esta tabla permite a un personaje aumentar la efectividad de sus Golpes Críticos, permitiéndole maximizar las consecuencias de cualquier Daño que produzca con sus ataques.<p>\nEfecto: el combatiente aplica un +10 a sus tiradas para calcular su Nivel Crítico en sus ataques. Este modificador se suma a cualquier otro que posea debido a Técnicas de Ki, armas sobrenaturales, etc.",
+      "cost": 20
+    },
+    "0veS9wBmPV7e3wXX": {
+      "name": "Tabla de Aborigen",
+      "description": "Este es el equipo de combate tradicionalmente utilizado por tribus indígenas de escasa sofisticación.<p>\nEfecto: otorga competencia en las siguientes armas: Jabalina, Lanza, Escudo Corporal, Arco y Cerbatana.",
+      "cost": 50
+    },
+    "NsfAjci4NAzicoT2": {
+      "name": "Tabla de Caballero",
+      "description": "Estas armas son utilizadas por guerreros ortodoxos que combaten a pie o desde caballo.<p>\nEfecto: otorga competencia en las siguientes armas: Espada Larga, Lanza de Caballería, Maza, Espada Bastarda y Escudo Medio.",
+      "cost": 50
+    },
+    "9NuVkltL7roRchv3": {
+      "name": "Proyección Mágica como Defensa",
+      "description": "El personaje utiliza sus conocimientos defensivos para proyectar sus hechizos pasivos y de escudos como si fueran armas o armaduras que interceptan los ataques de sus enemigos.<p>\nEfecto: permite usar la habilidad de Defensa del personaje como una Proyección Mágica defensiva. Solo se utiliza el valor base de la habilidad, sin contar los puntos de mejora innata otorgados por la Categoria. Esta tabla no puede emplearse para proyectar hechizos ofensivos.",
+      "cost": 75
+    },
+    "W4CZr2ur5lrinrMI": {
+      "name": "Proyección Mágica como Ataque",
+      "description": "Esto representa la unión del conocimiento de combate de un personaje con la habilidad de dirigir hechizos contra un oponente. Para este personaje, los hechizos actúan como armas reales que puede proyectar como una verdadera habilidad marcial.<p>\nEfecto: permite al personaje usar su habilidad de ataque al realizar una Proyección Mágica ofensiva. Solo se utiliza el valor base de la habilidad, sin contar los puntos de mejora innata otorgados por su Categoría. Esta tabla no puede usarse para lanzar hechizos pasivos o defensivos.",
+      "cost": 75
+    },
+    "EWgOTLMZIGHHXxZv": {
+      "name": "Tabla de Movimiento en Espacios Reducidos",
+      "description": "Incluso en los espacios más pequeños, el luchador tiene la habilidad de actuar con naturalidad.<p>\nEfecto: reduce a la mitad las penalizaciones aplicables al ataque o defensa del luchador dentro de un espacio reducido.",
+      "cost": 30
+    },
+    "wHx4R2W7LMErdJDJ": {
+      "name": "Tabla de Blanco en Movimiento",
+      "description": "El personaje puede disparar a objetivos en movimiento, maximizando su posibilidad de impactar.<p>\nEfecto: reduce a la mitad la penalización por disparar a un objetivo en movimiento. Por lo tanto, el personaje solo sufre una penalización de –10 si su objetivo se mueve a una velocidad de 8 o 9, –20 a velocidad 10, y –30 para velocidades mayores.",
+      "cost": 50
+    },
+    "pS9lo7LoR6Z038DM": {
+      "name": "Tabla de Acumulación de Proyectiles",
+      "description": "Esta tabla permite que un personaje se especialice en lanzar varios proyectiles sin reducir su precisión.<p>\nEfecto: un luchador puede usar la maniobra Acumulación de Proyectiles sin sufrir penalizaciones a su Habilidad de Ataque. Por lo tanto, aplica –10 a su Iniciativa por cada proyectil adicional que lance con esa maniobra, pero no un –5 a su Habilidad de Ataque.",
+      "cost": 20
+    },
+    "1CGagwNx2HKTvWol": {
+      "name": "Tabla de Varios Blancos",
+      "description": "Esta tabla otorga la habilidad de disparar a varios objetivos a la vez con total precisión.<p>\nEfecto: el personaje no sufre la penalización de –10 por cambiar de objetivo al realizar disparos o lanzamientos.",
+      "cost": 40
+    },
+    "Sa2bxXMqHplanrFU": {
+      "name": "Tabla de Ninja",
+      "description": "Otorga competencia en las siguientes armas exóticas usadas por asesinos orientales: Katana, Tanto, Garras, Shuriken y Kusari Gama.",
+      "cost": 50
+    },
+    "QsToMr1h1r1NBBy3": {
+      "name": "Tabla de Nómada",
+      "description": "Otorga competencia en las siguientes armas usadas por guerreros criados en el desierto: Daga, Turcus, Arco Largo, Cimitarra y Lanza.",
+      "cost": 50
+    },
+    "ZBSih9rKxw4SlMOA": {
+      "name": "Oficial"
+    },
+    "0hgZATDWXcQkMu11": {
+      "name": "Tabla de Pirata",
+      "description": "Otorga competencia en las siguientes armas más usadas por marineros: Arpón, Red de Gladiador, Garfio, Sable y Hacha de mano.",
+      "cost": 50
+    },
+    "fZsZP5VK8OQ387AI": {
+      "name": "Tabla de Precisión",
+      "description": "El personaje tiene una marcada habilidad para colocar a su adversario en la posición de Engatillar.<p>\nEfecto: reduce a la mitad la penalización para la maniobra de Engatillar. Por lo tanto, un personaje aplica –50 a su habilidad de ataque al usar este ataque.",
+      "cost": 50
+    },
+    "BR0xwjrlAvrJCG7R": {
+      "name": "Tablas Marciales"
+    },
+    "69R5BaVql064zVwl": {
+      "name": "Tabla de Proyectiles",
+      "description": "El personaje es capaz de usar su puntería con todas las armas arrojadizas.<p>\nEfecto: el personaje puede usar cualquier arma Lanzable usando la misma habilidad de Ataque.",
+      "cost": 50
+    },
+    "A13zlCNPDWwjnBcO": {
+      "name": "Tabla de Proyección Psíquica",
+      "description": "El personaje usa sus habilidades de combate para proyectar sus poderes mentales como si fueran armas reales.<p>\nEfecto: le otorga al personaje la capacidad de usar las habilidades de combate como una Proyección Psíquica. La habilidad ofensiva se usa para atacar, y la defensiva para levantar escudos. Solo se usa la habilidad base, no los puntos de mejora innata que provienen de la Categoría.",
+      "cost": 100
+    },
+    "m1yx3KMTL6kcAYqr": {
+      "name": "Tabla de Disparo en Movimiento",
+      "description": "Esta habilidad permite al personaje especializarse en disparar proyectiles con precisión total mientras se mueve.<p>\nEfecto: elimina la penalización de –10 a los ataques con proyectiles por moverse más de una cuarta parte de su Valor de Movimiento y reduce a la mitad las penalizaciones por disparar (es decir, a solo –25) cuando corre a su velocidad máxima.",
+      "cost": 40
+    },
+    "rhLKAC2Mnh9gubA5": {
+      "name": "Tabla de Segunda Arma: Estilo Defensivo",
+      "description": "Esta tabla permite el uso defensivo de armas de mano adicionales, posibilitando que un personaje las emplee para evitar agresiones en lugar de atacar.<p>\nEfecto: un luchador que porta un arma de mano adicional puede usarla para mejorar sus capacidades defensivas en vez de atacar, pudiendo detener un segundo ataque sin aplicar penalización a su Habilidad Defensiva. Así, no sufre penalización al defenderse de un segundo ataque, sufre solo –30 contra un tercero (tratándolo como si fuera el segundo ataque), solo –50 contra un cuarto (como si fuera el tercero), y así sucesivamente. Si un personaje usa su segunda arma de esta forma, no puede realizar un ataque adicional con ella.",
+      "cost": 30
+    },
+    "QtDe9P6lriUjMtNa": {
+      "name": "Tabla de Soldado",
+      "description": "Estas son las armas tradicionalmente enseñadas a los soldados regulares en casi cualquier ejército.<p>\nEfecto: Otorga competencia en las siguientes armas: Ballesta, Espada Larga, Alabarda, Lanza y Escudo Medio.",
+      "cost": 50
+    },
+    "ZYd6aaBFrgxvm58x": {
+      "name": "Tablas de Estilos"
+    },
+    "fqBWSOv0mG80m4Wk": {
+      "name": "Tablas Sobrenaturales"
+    },
+    "RhQOWMUmJy1r6j4O": {
+      "name": "Tabla de Lanzamiento",
+      "description": "El personaje es capaz de usar su puntería al arrojar cualquier objeto o arma.<p>\nEfectos: el personaje adquiere habilidad para arrojar todo tipo de objetos usando la misma Habilidad de Ataque. Hay que tener en cuenta que esto no permite físicamente usar armas que sigan la regla de Lanzables, solo la capacidad para lanzarlas.",
+      "cost": 50
+    },
+    "xYBbdDmyZq9zdR5F": {
+      "name": "Tabla de Ataque Inusual",
+      "description": "El personaje es un verdadero experto en usar sus armas de formas inusuales. Puede blandir cualquier arma de manera poco convencional sin sufrir penalizaciones en su habilidad por hacerlo.<p>\nEfecto: permite al personaje usar el Daño Secundario de las armas que sabe manejar, sin ningún tipo de penalización a su habilidad. Por ejemplo, podría usar el asta de una alabarda para realizar ataques de Impacto (en lugar de Cortantes) manteniendo su habilidad total.",
+      "cost": 20
+    },
+    "6Iztojs531GlDSMB": {
+      "name": "Tabla de Presa Inusual",
+      "description": "El entrenamiento exhaustivo del personaje le permite intentar inmovilizar a sus adversarios usando las armas más improbables, incluso aquellas que no han sido diseñadas para tal fin.<p>\nEfecto: permite al personaje realizar una maniobra de Presa con armas que no tienen esta regla especial, aplicando una penalización de -60 en lugar de la habitual de -40. Si la maniobra tiene éxito, el personaje utiliza su Destreza en el control enfrentado de Características, pero con una penalización de -3 a su valor.",
+      "cost": 40
+    }
+  }
+}

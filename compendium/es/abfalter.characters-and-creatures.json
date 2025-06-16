@@ -1,0 +1,1032 @@
+{
+  "label": "Personajes y Criaturas",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "aa9H8KVPCtYp6ICM": {
+      "name": "Aberración (Maestro en Armas 4)",
+      "description": null
+    },
+    "xtsVxlSlM1CY2Npi": {
+      "name": "Abominación (Guerrero 8)",
+      "description": null
+    },
+    "Q62rcsvTFY67rxDk": {
+      "name": "Agni (Warlock 10)",
+      "description": null
+    },
+    "8O6P5DbLaW9Vm81t": {
+      "name": "Ahriman (Sombra 8)",
+      "description": null
+    },
+    "O1jugJhiMyGCrsn7": {
+      "name": "Aire",
+      "description": null
+    },
+    "yqq579dKWWJv5Ecw": {
+      "name": "Al-Djinn (Hechicero 9)",
+      "description": null
+    },
+    "tkoMRo2EDuHKQe00": {
+      "name": "Alius (Paladín 7)",
+      "description": null
+    },
+    "CDffAPaMj1OwWjMw": {
+      "name": "Allete Percivan",
+      "description": null
+    },
+    "Uw6T1WgVaX7gOZS0": {
+      "name": "Andrew Morpheus",
+      "description": null
+    },
+    "nPR3v8ub2je0HVR7": {
+      "name": "Animal",
+      "description": null
+    },
+    "oqbsKdL50VwjplGo": {
+      "name": "Armadura Animada (Maestro en Armas 4)",
+      "description": null
+    },
+    "HODtyuIu7dkTpSp4": {
+      "name": "Anise Beige",
+      "description": null
+    },
+    "wZq0WyXHOe0NUYNU": {
+      "name": "Anne Aslind Shotterlein",
+      "description": null
+    },
+    "vAuJ9AtDARDXfk4h": {
+      "name": "Aprendiz (Hechicero 1)",
+      "description": null
+    },
+    "GzMr1AeHtsyvpjlB": {
+      "name": "Archiquimera (Guerrero Acróbata 7)",
+      "description": null
+    },
+    "uKOT1HXUzYa6avt4": {
+      "name": "Archimago (Hechicero 8)",
+      "description": null
+    },
+    "14HZm554RJyTWznu": {
+      "name": "Quimera Ártica (Sombra 6)",
+      "description": null
+    },
+    "8RYIXf5EUNSgy9qQ": {
+      "name": "Arias Vayu (Warlock 10)",
+      "description": null
+    },
+    "ybBzYJWnl4nbArdB": {
+      "name": "Asagiri (Asesino 4)",
+      "description": null
+    },
+    "4t9Ah63ZhFfI10i9": {
+      "name": "Oni Ashura Oni, Mayor (Maestro en Armas 8)",
+      "description": null
+    },
+    "t4k49s20MfJEySZl": {
+      "name": "Oni Ashura Oni, Menor (Maestro en Armas 4)",
+      "description": null
+    },
+    "L1XthaoH4rb0DAUW": {
+      "name": "Babelion",
+      "description": null
+    },
+    "kFeHdW4Gq0nOyuPN": {
+      "name": "Balzak",
+      "description": null
+    },
+    "T14OvHbwGQOPBx5h": {
+      "name": "Balzak Sacerdote (Hechicero 2)",
+      "description": null
+    },
+    "sa56T8mc0UfZZCY2": {
+      "name": "Balzak Guerrero (Sombra 2)",
+      "description": null
+    },
+    "30sqjzMrFtiscgD0": {
+      "name": "Bandido (Novel 1)",
+      "description": null
+    },
+    "nZFyLK2DpyFf7mpO": {
+      "name": "Banshee (Guerrero Acróbata 5)",
+      "description": null
+    },
+    "QWQYgJ7sKpWn7BW9": {
+      "name": "Baroque (Guerrero 5)",
+      "description": null
+    },
+    "gBCaEbLfHRdkPFFe": {
+      "name": "Basic Elemental (Hecicero 3)",
+      "description": null
+    },
+    "PZNze6ne0bMCnPYZ": {
+      "name": "Basic Elemental (Hecicero 3)",
+      "description": null
+    },
+    "vKWXmPdGOV9j0OHv": {
+      "name": "Oso (Novel 2)",
+      "description": null
+    },
+    "JUqLUwTzCyYYWAZe": {
+      "name": "Belphe (Hechicero 8)",
+      "description": null
+    },
+    "UYH0QqbqhlKWJWkl": {
+      "name": "Sol Negro",
+      "description": null
+    },
+    "2migHW8Uu6VYHy92": {
+      "name": "Herrero (Novel 0)",
+      "description": null
+    },
+    "XvjRvlRcwKLYLNGw": {
+      "name": "Blatoddea (Guerrero 3)",
+      "description": null
+    },
+    "Vxzz9uyp01iYIrZc": {
+      "name": "Rosa de Sangre (Guerrero 6)",
+      "description": null
+    },
+    "xcS2WIdJEHPQVqGy": {
+      "name": "Recolector de Huesos (Maestro en Armas 7)",
+      "description": null
+    },
+    "VtZUIJHbrK1lRHso": {
+      "name": "Dragón de C'iel (Warlock 13)",
+      "description": null
+    },
+    "eG07LPriWbOzBKz0": {
+      "name": "Captián / Teniente (Guerrero 3)",
+      "description": null
+    },
+    "HnIdrgqsOn5bmIBm": {
+      "name": "Portador Mayor (Guerrero Mentalista 8)",
+      "description": null
+    },
+    "CPzdf3WMUd7OfqCL": {
+      "name": "Portador Menor (Guerrero Mentalista 7)",
+      "description": null
+    },
+    "0WEwXOkacoAuNgrJ": {
+      "name": "Cath Flidais (Guerrero Acróbata 3)",
+      "description": null
+    },
+    "gVmE4jMV1evO9vdK": {
+      "name": "Cerberus (Guerrero Acróbata 7)",
+      "description": null
+    },
+    "3PVytjP1Pu8DrarW": {
+      "name": "Chichusei (Asesino 3)",
+      "description": null
+    },
+    "5JzROuycUlvg08Dm": {
+      "name": "Hijo de Bhaal (Sombra 4)",
+      "description": null
+    },
+    "d3PcO9l9gCo6Bb52": {
+      "name": "Chthon (Warlock 10)",
+      "description": null
+    },
+    "wKRVyz5K26a2blhD": {
+      "name": "Comandante (Guerrero 5)",
+      "description": null
+    },
+    "6uGzztVzmNCpKC54": {
+      "name": "Caballo (Novel 0)",
+      "description": null
+    },
+    "URN7WyvwrcOcq37N": {
+      "name": "Común",
+      "description": null
+    },
+    "NIajPY6PibyTBiA9": {
+      "name": "Constructo",
+      "description": null
+    },
+    "cvnB184l1uzFpeEv": {
+      "name": "Cortesano (Novel 0)",
+      "description": null
+    },
+    "ezPnjdBZDNo5HPkP": {
+      "name": "Creaciones",
+      "description": null
+    },
+    "5vjaIWPjHLXAH5nZ": {
+      "name": "Cortabolsas (Ladrón 1)",
+      "description": null
+    },
+    "S996JEi7ULdYcVPX": {
+      "name": "Oscuridad",
+      "description": null
+    },
+    "1dTItrIu6rFX0XrX": {
+      "name": "Defense Seal (Explorador 2)",
+      "description": null
+    },
+    "FJ4P80BlVNrMxHNH": {
+      "name": "Degenerate Serpent, Greater (Maestro en Armas 7)",
+      "description": null
+    },
+    "XoJgpK9MxTkboxif": {
+      "name": "Degenerate Serpent, Lesser (Maestro en Armas 5)",
+      "description": null
+    },
+    "l6VZFAyUtCi4Md70": {
+      "name": "Degenerate Serpents",
+      "description": null
+    },
+    "Nd4PWu0lEmF41O2t": {
+      "name": "Demonios",
+      "description": null
+    },
+    "uSozrpaWh6VzsTuO": {
+      "name": "Dereck Shezzard",
+      "description": null
+    },
+    "93lfVN6Pzb9xpFcV": {
+      "name": "Djinn",
+      "description": null
+    },
+    "Srliomdlunvx1q3x": {
+      "name": "Dragón Anciano  (Guerrero 11)",
+      "description": null
+    },
+    "NI6nPWC5F9mDfuHV": {
+      "name": "Dragón Mayor (Guerrero 7)",
+      "description": null
+    },
+    "6y7lM9XndHASx3lY": {
+      "name": "Dragón Menor (Guerrero 7)",
+      "description": null
+    },
+    "tjnFtzApIqhuUxsU": {
+      "name": "Dragones",
+      "description": null
+    },
+    "248fzOOqqnOiosPt": {
+      "name": "Drón (Guerrero Acróbata 2)",
+      "description": null
+    },
+    "Z9LE3yapfO9S4k1D": {
+      "name": "Drón (Guerrero Acróbata 2)",
+      "description": null
+    },
+    "GZZ1u6xoBpmrBDie": {
+      "name": "Dullahan (Maestro en Armas 9)",
+      "description": null
+    },
+    "x8A31mZ9IYrgxTY0": {
+      "name": "Tierra",
+      "description": null
+    },
+    "muRGIk2pyBiSBDx4": {
+      "name": "Efreet (Warlock 6)",
+      "description": null
+    },
+    "zUZRIJxnUWjyaoiR": {
+      "name": "Elementales",
+      "description": null
+    },
+    "yfxt76bU218egEcm": {
+      "name": "Elefante (Novel 3)",
+      "description": null
+    },
+    "bdi55u0oEFyAdStR": {
+      "name": "Caballero de Elite (Maestro en Armas 4)",
+      "description": null
+    },
+    "uw7v9ObL3twumRUE": {
+      "name": "Soldado de Elite (Guerrero 4)",
+      "description": null
+    },
+    "j9i7KNcH1zhXqxU5": {
+      "name": "Emeth (Maestro en Armas 6)",
+      "description": null
+    },
+    "7Qnwz08SMv4a99PW": {
+      "name": "Etrien Gnosos (Guerrero 9)",
+      "description": null
+    },
+    "AoJT7h1ZhJ2l1eJd": {
+      "name": "Mago Experto (Hechicero 3)",
+      "description": null
+    },
+    "LpqulFCdrBopEtyC": {
+      "name": "Bardo Célebre (Novel 3)",
+      "description": null
+    },
+    "3RB85LRGTmBGAvf9": {
+      "name": "Campesino (Novel 0)",
+      "description": null
+    },
+    "BGSlaBoZ2cvRZrpF": {
+      "name": "Faust Orbatos",
+      "description": null
+    },
+    "LoMBzcJzXR7iUXqN": {
+      "name": "Salamandra de Fuego (Guerrero 0)",
+      "description": null
+    },
+    "Rdwq06I5zkW3fOME": {
+      "name": "Luchadores y Soldados",
+      "description": null
+    },
+    "fKpVTQyGd5GNpvqT": {
+      "name": "Fuego",
+      "description": null
+    },
+    "rYamWpzZVlf0Jml9": {
+      "name": "Fire Marionette (Guerrero Acróbata 2)",
+      "description": null
+    },
+    "7krK6tCi8TIsqLOE": {
+      "name": "Forester (Explorador 2)",
+      "description": null
+    },
+    "9ikm3CsyBRd8PDQM": {
+      "name": "Dragón de Gaira (Warlock 13)",
+      "description": null
+    },
+    "HuoHwDJEjZP4y69W": {
+      "name": "Cabecilla de Banda (Novel 2)",
+      "description": null
+    },
+    "TscSjxpOmyDmYdYm": {
+      "name": "Ghestal Puppet (Guerrero 4)",
+      "description": null
+    },
+    "2t48DmX6JWKdlcZQ": {
+      "name": "Fantasma Arcano (Novel 9)",
+      "description": null
+    },
+    "Vm1wC0n4VwCNzSip": {
+      "name": "Fantasma Mayor (Novel 4)",
+      "description": null
+    },
+    "G2H5mSLfIs8wp3s2": {
+      "name": "Fantasma Menor (Novel 2)",
+      "description": null
+    },
+    "CzQ0HpvsDAGadcUx": {
+      "name": "Fantasmas",
+      "description": null
+    },
+    "vMKaxL9DZGLLrjNi": {
+      "name": "Ginnungaus (Guerrero 7)",
+      "description": null
+    },
+    "TSk1L9J8TglARU2Y": {
+      "name": "Rana Globo (Guerrero Acróbata 1)",
+      "description": null
+    },
+    "f9X5ftSU25fXW6W1": {
+      "name": "Helleborium Gnidium  (Asesino 1)",
+      "description": null
+    },
+    "WWrgHemQV3aUbpPQ": {
+      "name": "Golden Knight (Maestro en Armas 6)",
+      "description": null
+    },
+    "y5iJdKYu2RaJDQlK": {
+      "name": "Gorila (Novel 2)",
+      "description": null
+    },
+    "9gW8O4DGipq8GHFi": {
+      "name": "Grendel (Explorador 3)",
+      "description": null
+    },
+    "iOXfzCVA7EVPcALj": {
+      "name": "Guardia (Guerrero 1)",
+      "description": null
+    },
+    "oKNrUUpIUE9ohyWI": {
+      "name": "Guardian Totem (Explorador 5)",
+      "description": null
+    },
+    "tVyI2ZibLvSJhQkN": {
+      "name": "Gwyllgi (Asesino 3)",
+      "description": null
+    },
+    "R8NgDyo7t6H571uK": {
+      "name": "Hamadría, Manzano (Hechicero 4)",
+      "description": null
+    },
+    "EH1J6oZAfdxTKGYd": {
+      "name": "Hamadría, Abedul (Hechicero 4)",
+      "description": null
+    },
+    "qh5VKJTtLb0f2tLH": {
+      "name": "Hamadría, Espino Blanco (Hechicero 4)",
+      "description": null
+    },
+    "p3OJC8e5gZZxJnPy": {
+      "name": "Hamadría, Avellano (Hechicero 4)",
+      "description": null
+    },
+    "uu0ek5CT7J09DgLx": {
+      "name": "Hamadría, Acebo (Hechicero 4)",
+      "description": null
+    },
+    "m92YShx0NB5Tbm7y": {
+      "name": "Hamadría, Roble (Hechicero 4)",
+      "description": null
+    },
+    "vh7IKxpmhR6YfRy1": {
+      "name": "Hamadría, Sauce (Hechicero 4)",
+      "description": null
+    },
+    "B5HAWGDtLjVKLZYP": {
+      "name": "Hamadría (Hechicero 4)",
+      "description": null
+    },
+    "5KnsWCkAnRQ26h0M": {
+      "name": "Hamadría, Tejo (Hechicero 4)",
+      "description": null
+    },
+    "ciKTVaf5o0SDo5W0": {
+      "name": "Hamadrías",
+      "description": null
+    },
+    "cRnN1LnuxFSSz4wP": {
+      "name": "Hecatondies (Guerrero 9)",
+      "description": null
+    },
+    "OCZNU76L0dPAXZkh": {
+      "name": "Huldra (Hechicero 6)",
+      "description": null
+    },
+    "34ICkj6h1KgjNp2D": {
+      "name": "Humaniode",
+      "description": null
+    },
+    "pWzajaXgNvlncqub": {
+      "name": "Humbaba (Maestro en Armas 7)",
+      "description": null
+    },
+    "C5Hcw76u5EW4nuWT": {
+      "name": "Cazador (Explorador 0)",
+      "description": null
+    },
+    "aC38ckDDxansAd3S": {
+      "name": "Cazador [Type-012] (Guerrero Acróbata 5)",
+      "description": null
+    },
+    "QE5sIEBJaFpwGGeL": {
+      "name": "Hydra Queen (Guerrero 7)",
+      "description": null
+    },
+    "wGRI9Qi22sSXiaQX": {
+      "name": "Doncella de Hielo (Guerrero 8)",
+      "description": null
+    },
+    "OIAy6LrLZ7RQbuEs": {
+      "name": "Hielo",
+      "description": null
+    },
+    "I3XJm7hpgn3g8VXL": {
+      "name": "Ignis (Guerrero Acróbata 5)",
+      "description": null
+    },
+    "pVUu4zxUgz9cDYhq": {
+      "name": "Noble Ilustre (Novel 3)",
+      "description": null
+    },
+    "Fs9R8Zj2pYtdFnmY": {
+      "name": "Águila Imperial (Novel 1)",
+      "description": null
+    },
+    "zOgagPxaM8L2c6pt": {
+      "name": "Duque Infernal (Warlock 11)",
+      "description": null
+    },
+    "fQb5u1eDP7iZYWWK": {
+      "name": "Jin Chao Lan",
+      "description": null
+    },
+    "1gNvraC3lqnpuEbn": {
+      "name": "Julianne Amaya",
+      "description": null
+    },
+    "8MA2Qpatu3Gg8Dra": {
+      "name": "Kain Rosencreuz",
+      "description": null
+    },
+    "2tE3TF4SpanFWbLg": {
+      "name": "Kamyla Yamazaki",
+      "description": null
+    },
+    "dPE0KRhmYo8ES7OU": {
+      "name": "Katerine Kaela Stratos",
+      "description": null
+    },
+    "DZR0a4jPwiEo6eP4": {
+      "name": "Khaine D'elacreu",
+      "description": null
+    },
+    "0WEVajSpCy45qwdj": {
+      "name": "Caballero (Maestro en Armas 2)",
+      "description": null
+    },
+    "j5hnoTs4TFElkmGW": {
+      "name": "Lagor (Guerrero Mentalista 4)",
+      "description": null
+    },
+    "74X2XjUni33w80fw": {
+      "name": "Lamya Maximov",
+      "description": null
+    },
+    "xqoNgqBwpoU8LVQb": {
+      "name": "Lapsia (Asesino 2)",
+      "description": null
+    },
+    "MGRIVZvCLWUyE7Tm": {
+      "name": "Shinobi Legendario (Sombra 8)",
+      "description": null
+    },
+    "GciTQX7rLJc2mUcd": {
+      "name": "Oni Menor, Aka (Guerrero 5)",
+      "description": null
+    },
+    "OhguQzH3Vcje18Lv": {
+      "name": "Oni Menor, Ao (Guerrero 5)",
+      "description": null
+    },
+    "xWTjqZ5qArOKYfEx": {
+      "name": "Luz",
+      "description": null
+    },
+    "1njeDLeRFjK8ZNOf": {
+      "name": "Living Nightmare (Warlock 6)",
+      "description": null
+    },
+    "jbLjgPeo4x1eSZur": {
+      "name": "Lord of Darkness (Warlock 10)",
+      "description": null
+    },
+    "yONSYjWHuoc396Eb": {
+      "name": "Señor de los muertos (Warlock 10)",
+      "description": null
+    },
+    "ocvedShVSIQRI5hN": {
+      "name": "Lugubrious (Asesino 2)",
+      "description": null
+    },
+    "LrnYlGT8LkAXOU7W": {
+      "name": "Luminaria (Guerrero Acróbata 3)",
+      "description": null
+    },
+    "Hx8fE0chqneKc6TV": {
+      "name": "Bestias Mágicas",
+      "description": null
+    },
+    "8hE6gfeG1bqUdmoY": {
+      "name": "Doncella de la Luz (Warlock 10)",
+      "description": null
+    },
+    "A7ODOC0jfbnBueTA": {
+      "name": "Major Drone (Guerrero Acróbata 4)",
+      "description": null
+    },
+    "0TklWFpFjLCA2vCP": {
+      "name": "Major Procasian (Guerrero 9)",
+      "description": null
+    },
+    "BoKwYzZFT5bcOoGp": {
+      "name": "Malcolm Frost",
+      "description": null
+    },
+    "43WKFKofzu8qC9OH": {
+      "name": "Manfeitor (Sombra 6)",
+      "description": null
+    },
+    "Nz9LZr6hyaxYPnYY": {
+      "name": "Manticora (Sombra 6)",
+      "description": null
+    },
+    "Itgh8S6h1PxGbQrL": {
+      "name": "Marcus Drago",
+      "description": null
+    },
+    "iQoDpJRAB3qOwmia": {
+      "name": "Marioneta, Mayor (Sombra 5)",
+      "description": null
+    },
+    "evt0xMSg9mRG6nys": {
+      "name": "Marioneta, Mayor (Sombra 2)",
+      "description": null
+    },
+    "lTzj29lSNQEHApZw": {
+      "name": "Marionetas",
+      "description": null
+    },
+    "D7ftqazfUocbFXnO": {
+      "name": "Maestro Armero (Novel 3)",
+      "description": null
+    },
+    "vQDGWyHsmgqUakz9": {
+      "name": "Maestro Ejecutor (Asesino 6)",
+      "description": null
+    },
+    "fF5Q8sfGPgb4KjqT": {
+      "name": "Maestro Shinobi (Sombra 5)",
+      "description": null
+    },
+    "DZbunejHb6iNNI98": {
+      "name": "Maestro del Robo (Ladrón 5)",
+      "description": null
+    },
+    "wwHuRW1RInR0LleK": {
+      "name": "Maestro Hechicero (Hechicero 5)",
+      "description": null
+    },
+    "cuLIOF6CNgJ4WFnb": {
+      "name": "Mastín",
+      "description": null
+    },
+    "sh6X3op9F1y0BhnI": {
+      "name": "Maxwell Krauser",
+      "description": null
+    },
+    "Jryhx15XbKdthDQo": {
+      "name": "Medusa (Guerrero Acróbata 5)",
+      "description": null
+    },
+    "xp5BsErbRq3sXz5q": {
+      "name": "Memory Guardian (Guerrero 5)",
+      "description": null
+    },
+    "vBQoOq1qVGm1BVsr": {
+      "name": "Memory Marionette (Warrior 3)",
+      "description": null
+    },
+    "2A15SdmBVs7iEcv7": {
+      "name": "Memory Marionettes",
+      "description": null
+    },
+    "yAv1SiG0Zi7xqOQ4": {
+      "name": "Meragrifo (Explorador 4)",
+      "description": null
+    },
+    "ZzD3DkVHNJWUzufM": {
+      "name": "Milicia / Guardia de Pueblo (Novel 1)",
+      "description": null
+    },
+    "lp8tE4TG7Br7tSn5": {
+      "name": "Minor Procasian (Guerrero 7)",
+      "description": null
+    },
+    "Pf9QlSCvWUvpcv0Z": {
+      "name": "Minotauro (Maestro en Armas 5)",
+      "description": null
+    },
+    "k5DVkfao8db9FPxR": {
+      "name": "Juglar (Novel 1)",
+      "description": null
+    },
+    "sVityVlX0LbUO25o": {
+      "name": "Monje (Novel 1)",
+      "description": null
+    },
+    "yDfRwzGH1FKHVcVF": {
+      "name": "Místicos",
+      "description": null
+    },
+    "WP6FehqfA0Vz5dPe": {
+      "name": "Nascal Prototype (Guerrero Acróbata 7)",
+      "description": null
+    },
+    "FOqJO4PgsTc21IJJ": {
+      "name": "Nascal Puppet (Guerrero 2)",
+      "description": null
+    },
+    "Kadk0kWTOPACFDoh": {
+      "name": "Nascal's Puppets",
+      "description": null
+    },
+    "vPtjzxmu4e7SOYlK": {
+      "name": "Bestias Naturales",
+      "description": null
+    },
+    "w1msaxciDGvfODVr": {
+      "name": "Ira de la Naturaleza (Maestro en Armas 7)",
+      "description": null
+    },
+    "fuTRjUkB3REog045": {
+      "name": "Necrogolem [Type-042] (Guerrero 8)",
+      "description": null
+    },
+    "6Ci4onLeTdSdQzLI": {
+      "name": "Nexus Guardian (Guerrero 10)",
+      "description": null
+    },
+    "uWWvE7eELQ6QgYmo": {
+      "name": "Nezuacuatil (Sombra 5)",
+      "description": null
+    },
+    "bis9BGPzy96DSGVb": {
+      "name": "Ninja (Sombra 3)",
+      "description": null
+    },
+    "F1T5AE8QbPK6Gk8X": {
+      "name": "Noth",
+      "description": null
+    },
+    "CD22PMid2FYCsgWd": {
+      "name": "Nyx (Guerrero 6)",
+      "description": null
+    },
+    "YEHHKcNL6Q30BGe5": {
+      "name": "Oficial",
+      "description": null
+    },
+    "fUYps3MDXNtO1pU5": {
+      "name": "Oni",
+      "description": null
+    },
+    "Trg9fagoLBtmWvkg": {
+      "name": "Ophanim (Sombra 5)",
+      "description": null
+    },
+    "bZxmX02CP46NxMFC": {
+      "name": "Batidor (Explorador 2)",
+      "description": null
+    },
+    "taFAc4i0rMLaOJa3": {
+      "name": "Potestas (Guerrero Acróbata 14)",
+      "description": null
+    },
+    "zcfIAGh44E1QQRzA": {
+      "name": "Pretoriano (Guerrero 5)",
+      "description": null
+    },
+    "W0NBo6Nv2b0iND8t": {
+      "name": "Praetorian (Guerrero Mentalista 9)",
+      "description": null
+    },
+    "wiDQ28DtpvAQ2RU2": {
+      "name": "Pregen PCs",
+      "description": null
+    },
+    "lKETWLQHkfyvfCxI": {
+      "name": "Príncipe de los ladrones (Ladrón 8)",
+      "description": null
+    },
+    "C3w5XszEqu8fZTLx": {
+      "name": "Principalities (Guerrero Acróbata 10)",
+      "description": null
+    },
+    "iyIyRuLQTn4YeIU2": {
+      "name": "Procasians",
+      "description": null
+    },
+    "CvR7sUtAJHd7BUze": {
+      "name": "Asesino Profesional (Asesino 4)",
+      "description": null
+    },
+    "LMLboe2oFpxsb6r6": {
+      "name": "Soldado Profesional (Guerrero 3)",
+      "description": null
+    },
+    "TevdHw5zjNNr9kGO": {
+      "name": "Espía Profesional (Asesino 4)",
+      "description": null
+    },
+    "E6MEp2D4atmLqmqu": {
+      "name": "Raziel Archetypum [Type-100] (Maestro en Armas 7)",
+      "description": null
+    },
+    "IvDN2d6Dbj0s2Xf0": {
+      "name": "Raziel NK-X 1.0 [Type-666] (Maestro en Armas 9)",
+      "description": null
+    },
+    "TGXOdvL41pFxHqLy": {
+      "name": "Hormiga Roja, Soldado (Guerrero Acróbata 3)",
+      "description": null
+    },
+    "Qupw4nZ8xXoJrZl6": {
+      "name": "Hormiga Roja, Obrera (Guerrero Acróbata 1)",
+      "description": null
+    },
+    "hStv1VkV4eQumwAa": {
+      "name": "Hormigas Rojas",
+      "description": null
+    },
+    "pEIvGcTDZGJQU4FV": {
+      "name": "Soldado Regular (Guerrero 2)",
+      "description": null
+    },
+    "fx5zSokbcSgWRtoE": {
+      "name": "Erudito (Novel 3)",
+      "description": null
+    },
+    "jIAilSsNrVp9kNmn": {
+      "name": "Samurai (Guerrero Acróbata 3)",
+      "description": null
+    },
+    "DSzKJge4sqPtMvE8": {
+      "name": " Seraphim Potestas (Maestro en Armas 12)",
+      "description": null
+    },
+    "noLnofBdPcGAynDW": {
+      "name": "Sombra (Sombra 3)",
+      "description": null
+    },
+    "WHQyYY63R4gQSJDS": {
+      "name": "Maestro de las Sombras (Hechicero 9)",
+      "description": null
+    },
+    "OtcgOoRe3yxS2IWm": {
+      "name": "Shinigami, Mayor (Guerrero 10)",
+      "description": null
+    },
+    "UeVLINMyZHOS6bMN": {
+      "name": "Shinigami, Menor (Guerrero 6)",
+      "description": null
+    },
+    "FERnFwP4uspfVqMm": {
+      "name": "Shinigami",
+      "description": null
+    },
+    "Wzfpmu5rMJb4Cfh1": {
+      "name": "Shion Demeter",
+      "description": null
+    },
+    "40qDAmUG64in69up": {
+      "name": "Hecatondies Sigma, Deus",
+      "description": null
+    },
+    "2qgjDI2WsiM5lKLu": {
+      "name": "Hecatondies Sigma, Ein",
+      "description": null
+    },
+    "bSsTkOpyoO3bcdNh": {
+      "name": "Hecatondies Sigma (Guerrero 12)",
+      "description": null
+    },
+    "lSqKRdHTXXvXXZbW": {
+      "name": "Hecatondies Sigma, Zero",
+      "description": null
+    },
+    "luM3mFSA844r7EaY": {
+      "name": "Esqueleto (Guerrero 1)",
+      "description": null
+    },
+    "XAApySsJk1g6I6DT": {
+      "name": "Slayer (Maestro en Armas 5)",
+      "description": null
+    },
+    "npMB1PJlM1ol1pGD": {
+      "name": "Ladrón de Guante Blanco (Ladrón 3)",
+      "description": null
+    },
+    "vshhxHoY9rVNMZ7w": {
+      "name": "Solomon",
+      "description": null
+    },
+    "WzjP26akQLDtZpKj": {
+      "name": "Carroñero de Almas (Asesino 1)",
+      "description": null
+    },
+    "XuMVLORluQJJvrS1": {
+      "name": "Bestia Espectral (Sombra 4)",
+      "description": null
+    },
+    "bGOUWFdjhGZtMmrM": {
+      "name": "Observador Espectral (Hechicero 4)",
+      "description": null
+    },
+    "d701HbsD4Hzj5yXB": {
+      "name": "Esfinge (Guerrero 7)",
+      "description": null
+    },
+    "G2cRKXSYUhG2Aibm": {
+      "name": "Espíritus",
+      "description": null
+    },
+    "Dag9Tf4G5zCPtWS7": {
+      "name": "Stribog (Guerrero 4)",
+      "description": null
+    },
+    "CBtFILyNKUdXlLVZ": {
+      "name": "Stribog (Hechicero 5)",
+      "description": null
+    },
+    "rJgOZNUkecc0JYiN": {
+      "name": "Personajes Secundarios",
+      "description": null
+    },
+    "pEqTnyNiyZ2NIvzO": {
+      "name": "Súcubo Hija de Abrael  (Ilusionista 3)",
+      "description": null
+    },
+    "f8fuonj4GcCPWDN7": {
+      "name": "Súcubo Hija de Lilith (Asesina 3)",
+      "description": null
+    },
+    "6y1JxRoySNGjj7AO": {
+      "name": "Invocador (Conjurador 2)",
+      "description": null
+    },
+    "TEBADHtWgHiFLSw1": {
+      "name": "Silfo (Warlock 6)",
+      "description": null
+    },
+    "Zg4k3JK2DwXQUWTV": {
+      "name": "Simbiosis, Faceta Luminosa (Hechicero 6)",
+      "description": null
+    },
+    "6laaPL2L2iYoADVj": {
+      "name": "Simbiosis, Faceta Oscura (Guerrero 6)",
+      "description": null
+    },
+    "vgvPfzhYedFkKDrC": {
+      "name": "Simbiosis",
+      "description": null
+    },
+    "Wrf2BpvOQ6DnT8L7": {
+      "name": "adeus Griever",
+      "description": null
+    },
+    "6XvReLTszC1yJ04J": {
+      "name": "Tecnócrita (Mentalista 6)",
+      "description": null
+    },
+    "elioAxjSlmEKm0oT": {
+      "name": "La Mçaquina",
+      "description": null
+    },
+    "Mv7Os3QycXilIOll": {
+      "name": "Maleantes",
+      "description": null
+    },
+    "5lKVxeSUlxeoc4Gx": {
+      "name": "Titán (Warlock 6)",
+      "description": null
+    },
+    "vukho9ksC1BBwq7x": {
+      "name": "Type-005 (Guerrero 4)",
+      "description": null
+    },
+    "VaRIdkGPyFzT4lc8": {
+      "name": "No Muertos",
+      "description": null
+    },
+    "g0zP7FYmIEFnFeDM": {
+      "name": "Ondina (Warlock 6)",
+      "description": null
+    },
+    "3r6h8aXy3DgVrbuH": {
+      "name": "Valkyría (Warlock 7)",
+      "description": null
+    },
+    "PxDRd3haET6yXULZ": {
+      "name": "Varuna (Warlock 10)",
+      "description": null
+    },
+    "EsBIt26RxE0Erc7R": {
+      "name": "Vassili Togarini",
+      "description": null
+    },
+    "WN3Z5MUXTXvA2sgL": {
+      "name": "Vassili Togarini",
+      "description": null
+    },
+    "aNZ9ma58wBwQrQgN": {
+      "name": "Caballero del Vacio (Tecnicista 7)",
+      "description": null
+    },
+    "exiANv3V5EOdmWqo": {
+      "name": "Criaturas de la Vigilia",
+      "description": null
+    },
+    "6SDgEgKUFk0hj0iq": {
+      "name": "Agua",
+      "description": null
+    },
+    "btQ90wl3bKLh9Gaz": {
+      "name": "Lobo (Novel 1)",
+      "description": null
+    },
+    "qFUs6a4nzHRCpagi": {
+      "name": "Gusano de las Profundidades (Explorador 3)",
+      "description": null
+    },
+    "AkEA7wN1NFW5qI3k": {
+      "name": "Yinnun (Ilusionista 3)",
+      "description": null
+    },
+    "nT9edJUqkR7ZaZA3": {
+      "name": "Zaqqun (Sombra 4)",
+      "description": null
+    },
+    "Ql5QElXJ9xCtAY3H": {
+      "name": "Zombie (Novel 0)",
+      "description": null
+    },
+    "v0bOoyVLgOJ866RQ": {
+      "name": "Zopo (Asesino 1)",
+      "description": null
+    }
+  }
+}
