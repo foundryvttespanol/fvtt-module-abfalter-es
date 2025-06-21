@@ -1,12 +1,30 @@
 {
   "label": "roll-tablas",
-  "mapping": {
-    "description": "system.description"
-  },
   "entries": {
     "Gtwdocp7jz4SBAz9": {
       "name": "Tabla Localizaciones",
-      "description": null
+      "description": "",
+      "results": {
+        "1-10": "Costillas",
+        "11-20": "Hombro",
+        "21-30": "Estómago",
+        "31-35": "Riñones",
+        "36-48": "Pecho",
+        "49-50": "Corazón",
+        "51-54": "Antebrazo Superior Derecho",
+        "55-58": "Antebrazo Inferior Derecho",
+        "59-60": "Mano Derecha",
+        "61-64": "Antebrazo Superior Izquierdo",
+        "65-68": "Antebrazo Inferior Izquierdo",
+        "69-70": "Mano Izquierda",
+        "71-74": "Muslo Derecho",
+        "75-78": "Pantorrilla Derecha",
+        "79-80": "Pie Derecho",
+        "81-84": "Muslo Izquierdo",
+        "85-88": "Pantorrilla Izquierda",
+        "89-90": "Pie Izquierdo",
+        "91-100": "Cabeza"
+      }
     },
     "wH9k5F5q8rT2bLqB": {
       "name": "Invocaciones",
@@ -14,11 +32,35 @@
     },
     "rVGuDTkkIDozQEC2": {
       "name": "Pandora",
-      "description": null
+      "description": "Tabla 11 del Arcane Exxet para determinar los efectos de la invocación Pandora",
+      "results": {
+        "1-5": "Sana 200 PV",
+        "6-10": "Fascinación",
+        "11-15": "+20 a Toda Acción",
+        "16-20": "Dolor",
+        "21-25": "Daño",
+        "26-30": "Ira",
+        "31-35": "+40 a todas las Resistencias",
+        "36-40": "Ceguera",
+        "41-45": "Sordera",
+        "46-50": "Euforia",
+        "51-55": "Mudez",
+        "56-60": "Inconsciencia",
+        "61-65": "Coma",
+        "66-70": "Éxtasis",
+        "71-75": "Alucionaciones",
+        "76-80": "Debilidad",
+        "81-85": "Parálisis Completa",
+        "86-90": "Miedo",
+        "91-95": "Terror",
+        "96-99": "+50 a Toda Acción",
+        "100-100": "Muerte"
+      }
     },
     "MpQ2sx6wPk5clJnm": {
       "name": "La rueda de la Fortuna",
-      "description": null
+      "description": "<p>Table 64 of the Core Rulebook, for determining which Arcana the Wheel of Fortune summons.</p>",
+      "results": []
     }
   }
 }

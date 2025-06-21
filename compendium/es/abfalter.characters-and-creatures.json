@@ -3,6 +3,52 @@
   "mapping": {
     "description": "system.description"
   },
+  "folders": {
+    "Official": "Oficial",
+    "Animal": "Animales",
+    "Constructs": "Constructos",
+    "Marionettes": "Marionetas",
+    "Memory Marionettes": "Marionetas de la Memoria",
+    "Nascal's Puppets": "Nascal's Puppets",
+    "Creations": "Creaciones",
+    "Demons": "Demonios",
+    "Elementals": "Elementales",
+    "Air": "Aire",
+    "Dark": "Oscuridad",
+    "Earth": "Tierra",
+    "Fire": "Fuego",
+    "Ice": "Hielo",
+    "Light": "Luz",
+    "Symbiosis": "Simbiosis",
+    "Water": "Agua",
+    "Humanoid": "Humanoides",
+    "Common": "Comunes",
+    "Fighters and Soldiers": "Luchadores y Soldados",
+    "Mystics": "Místicos",
+    "Thugs": "Maleantes",
+    "Magical Beasts": "Bestias Mágicas",
+    "Harmadryads": "Hamadría",
+    "Oni": "Oni",
+    "Procasians": "Procasians",
+    "Dragons": "Dragones",
+    "Natural Beasts": "Bestias Naturales",
+    "Balzak": "Balzak",
+    "Red Ants": "Hormigas Rojas",
+    "Degenerate Serpents": "Degenerate Serpents",
+    "Noth": "Noth",
+    "Solomon": "Solomon",
+    "Sigma Hecatondies (Warrior 12)": "Hecatondies Sigma (Guerrero 12)",
+    "Spirits": "Espíritus",
+    "Djinn": "Djinn",
+    "Shinigami": "Shinigami",
+    "The Machine": "La Máquina",
+    "Undead": "No Muertos",
+    "Ghosts": "Fantasmas",
+    "Black Sun": "Sol Negro",
+    "Wake Creatures": "Criaturas de la Vigilia",
+    "Pregen PCs": "Personajes Pregenerados",
+    "Subcharacters": "Personajes Secundarios"
+},
   "entries": {
     "aa9H8KVPCtYp6ICM": {
       "name": "Aberración (Maestro en Armas 4)",
@@ -997,7 +1043,7 @@
       "description": null
     },
     "exiANv3V5EOdmWqo": {
-      "name": "Criaturas de la Vigilia",
+      "name": "Wake Creatures",
       "description": null
     },
     "6SDgEgKUFk0hj0iq": {

@@ -3,6 +3,14 @@
   "mapping": {
     "description": "system.description"
   },
+   "folders": {
+    "Official": "Oficial",
+    "Boxing": "Boxeo",
+    "Muay Thai": "Moai Thai",
+    "Taw Kwon Do": "Tae Kwon Do",
+    "Advanced": "Avanzadas",
+    "Basic": "Básicas"
+  },
   "entries": {
     "GXRtqf16QPwL7SQ6": {
       "name": "Avanzadas",

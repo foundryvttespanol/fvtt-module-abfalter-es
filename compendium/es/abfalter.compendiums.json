@@ -1,11 +1,11 @@
 {
-  "label": "Compendios",
+  "label": "compendios",
   "mapping": {
     "description": "system.description"
   },
   "entries": {
     "TqcHR78J6BPJV4Be": {
-      "name": "Tutorialr",
+      "name": "Tutorial",
       "description": null
     }
   }

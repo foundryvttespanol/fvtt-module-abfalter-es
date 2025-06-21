@@ -14,6 +14,23 @@
     "effect440": "system.effect440",
     "action": "system.action"
   },
+    "folders": {
+    "Causality": "Casualidad",
+    "Cryokinesis": "Crioquinesis",
+    "Energy": "Energía",
+    "Electromagnetism": "Electromagnetismo",
+    "Hypersensitivity": "Hipersensibilidad",
+    "Light": "Luz",
+    "Official": "Oficial",
+    "Matrix Powers": "Poderes Matriciales",
+    "Physical Increase": "Incremento Físico",
+    "Psychokinesis": "Telequinesis",
+    "Pyrokinesis": "Piroquinesis",
+    "Sentience": "Sentiente",
+    "Telemetry": "Telemetría",
+    "Telepathy": "Telepatía",
+    "Teleportation": "Teletransporte"
+},
   "entries": {
     "81WLYVfrycLzY5tL": {
       "name": "Zero Absoluto",
@@ -1338,7 +1355,7 @@
       "effect240": "240 RF / 500 metros de radio",
       "effect280": "280 RF / 1 kilómetro de radio",
       "effect320": "320 RF / 10 kilómetros de radio",
-      "effect440": "400 RF/ 100 kilómetros de radio",
+      "effect440": "400 RF / 100 kilómetros de radio",
       "action": "1"
     },
     "5oOPm6IQ51gPvAJE": {

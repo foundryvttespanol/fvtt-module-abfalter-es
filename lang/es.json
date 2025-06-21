@@ -309,7 +309,7 @@
     "jump": "Saltar",
     "piloting": "Pilotar",
     "ride": "Montar",
-    "swim": "Nadar",    
+    "swim": "Nadar",
     "social": "Social",
     "etiquette": "Etiqueta",
     "intimidate": "Intimidar",
@@ -394,7 +394,7 @@
     "difficulty": "Dificultad",
     "effect": "Efecto",
     "effects": "Efectos",
-    "none": "Nada",
+    "none": "Nada",    
     "attack": "Ataque",
     "block": "Parada",
     "dodge": "Esquiva",
@@ -439,7 +439,7 @@
     "shortDesc": "Desc. Corta",
     "monster": "Criatura",
     "details": "Detalles",
-
+    
     "characteristics": "Características",
     "opposed": "Opuesto",
     "atr": "Atr.",
@@ -538,7 +538,6 @@
     "fav": "Favorito",
     "martialArtTitle": "Arte Marcial",
     "equipped": "Equipado",
-    "postQuality": "Post Quality",
     "item": "Objeto",
 
     "mproj": "Proyección Mágica",
@@ -617,9 +616,6 @@
     "pp": "CV",
     "ppotential": "Potencial",
     "pproj": "Proyeción",
-    "pmodule": "Psychic Module",
-    "pmoduleText": "Usa Ataque y Defensa",
-    "pmoduleText2": "Como Proyección Psíquica",
     "pdisc": "Disciplinas",
     "pDiscOne": "Disciplina",
     "paddDisc": "Añadir Disciplina",
@@ -1040,6 +1036,8 @@
     "mentalHealthMax": "Salud Mental Max.",
     "mentalHealthCurrent": "Salud Mental Perdida",
     "rest": "Descanso",
+    "accuKiReset": "¿Estás seguro de que quieres reiniciar todos los Ki adquiridos?",
+    "multiClassError": "Error: Cálculos multi-clase no soportados.",
 
     "itemNames": {
       "advantage": "Ventaja",
@@ -1070,7 +1068,7 @@
       "weapon": "Arma",
       "ammo": "Munición"
     },
-    "settingsTab": {
+      "settingsTab": {
       "openRoll": "Rango Abiertas",
       "fumbleRoll": "Rangos Pifias",
       "charOptions": "Opciones de Personaje",

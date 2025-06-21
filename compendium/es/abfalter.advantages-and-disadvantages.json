@@ -1,1077 +1,846 @@
 {
   "label": "Ventajas y desventajas",
   "mapping": {
-    "description": "system.description",
-    "cost": "system.cost"
+    "description": "system.description"
   },
+  "folders": {
+    "Official": "Oficial",
+    "Advantages": "Ventajas",
+    "Background": "Trasfondo",
+    "Common": "Comunes",
+    "Disadvantages": "Desventajas",
+    "Magic": "Mágicas",
+    "4gHBYFN9IbpKtyMB": "Oficial",
+    "Psychic": "Psíquicas"
+},
   "entries": {
     "BSMZHkewmAKXXmcE": {
       "name": "Acceso Psíquico a Poderes Naturales (1)",
-      "description": "El personaje tiene una limitada capacidad psíquica que le permite usar un poder de forma inconsciente. No conoce el origen del poder ni posee un control sobre él, pero puede usarlo cuando lo necesite.\n\nEfectos: El personaje puede usar un poder psíquico. No es un verdadero psíquico por lo que no puede usar CV para adquirir nuevos poderes ni fortalecerlo. El potencial del poder no se basa en su voluntad ni requiere tirada para ser lanzado. Se considera automáticamente una dificultad de Difícil (DIF). El poder elegido puede ser de cualquier nivel, pero no puede tener un potencial base superior a Difícil. El poder tiene una duración de un minuto sin que el personaje sufra algún perjuicio, pero cada uso adicional sin esperar el periodo de descanso de un minuto conlleva la pérdida de 1 punto de cansancio.",
-      "cost": 1
+      "description": "El personaje tiene una limitada capacidad psíquica que le permite usar un poder de forma inconsciente. No conoce el origen del poder ni posee un control sobre él, pero puede usarlo cuando lo necesite.\n\nEfectos: El personaje puede usar un poder psíquico. No es un verdadero psíquico por lo que no puede usar CV para adquirir nuevos poderes ni fortalecerlo. El potencial del poder no se basa en su voluntad ni requiere tirada para ser lanzado. Se considera automáticamente una dificultad de Difícil (DIF). El poder elegido puede ser de cualquier nivel, pero no puede tener un potencial base superior a Difícil. El poder tiene una duración de un minuto sin que el personaje sufra algún perjuicio, pero cada uso adicional sin esperar el periodo de descanso de un minuto conlleva la pérdida de 1 punto de cansancio."
     },
     "gUyDG64QSDBAidMi": {
       "name": "Acceso Psíquico a Poderes Naturales (2)r",
-      "description": "El personaje tiene una limitada capacidad psíquica que le permite usar un poder de forma inconsciente. No conoce el origen del poder ni posee un control sobre él, pero puede usarlo cuando lo necesite.\n\nEfectos: El personaje puede usar un poder psíquico. No es un verdadero psíquico por lo que no puede usar CV para adquirir nuevos poderes ni fortalecerlo. El potencial del poder no se basa en su voluntad ni requiere tirada para ser lanzado. Se considera automáticamente una dificultad de Muy Difícil (MDIF). El poder elegido puede ser de cualquier nivel, pero no puede tener un potencial base superior a Muy Difícil. El poder tiene una duración de un minuto sin que el personaje sufra algún perjuicio, pero cada uso adicional sin esperar el periodo de descanso de un minuto conlleva la pérdida de 1 cansancio.",
-      "cost": 2
+      "description": "El personaje tiene una limitada capacidad psíquica que le permite usar un poder de forma inconsciente. No conoce el origen del poder ni posee un control sobre él, pero puede usarlo cuando lo necesite.\n\nEfectos: El personaje puede usar un poder psíquico. No es un verdadero psíquico por lo que no puede usar CV para adquirir nuevos poderes ni fortalecerlo. El potencial del poder no se basa en su voluntad ni requiere tirada para ser lanzado. Se considera automáticamente una dificultad de Muy Difícil (MDIF). El poder elegido puede ser de cualquier nivel, pero no puede tener un potencial base superior a Muy Difícil. El poder tiene una duración de un minuto sin que el personaje sufra algún perjuicio, pero cada uso adicional sin esperar el periodo de descanso de un minuto conlleva la pérdida de 1 cansancio."
     },
     "axLhzc5nO4VVYwgL": {
       "name": "Acceso Psíquico a Poderes Naturales (3)",
-      "description": "El personaje tiene una limitada capacidad psíquica que le permite usar un poder de forma inconsciente. No conoce el origen del poder ni posee un control sobre él, pero puede usarlo cuando lo necesite.\n\nEfectos: El personaje puede usar un poder psíquico. No es un verdadero psíquico por lo que no puede usar CV para adquirir nuevos poderes ni fortalecerlo. El potencial del poder no se basa en su voluntad ni requiere tirada para ser lanzado. Se considera automáticamente una dificultad de Absurdo (ABS). El poder elegido puede ser de cualquier nivel, pero no puede tener un potencial base superior a Absurdo. El poder tiene una duración de un minuto sin que el personaje sufra algún perjuicio, pero cada uso adicional sin esperar el periodo de descanso de un minuto conlleva la pérdida de 1 cansancio. ",
-      "cost": 3
+      "description": "El personaje tiene una limitada capacidad psíquica que le permite usar un poder de forma inconsciente. No conoce el origen del poder ni posee un control sobre él, pero puede usarlo cuando lo necesite.\n\nEfectos: El personaje puede usar un poder psíquico. No es un verdadero psíquico por lo que no puede usar CV para adquirir nuevos poderes ni fortalecerlo. El potencial del poder no se basa en su voluntad ni requiere tirada para ser lanzado. Se considera automáticamente una dificultad de Absurdo (ABS). El poder elegido puede ser de cualquier nivel, pero no puede tener un potencial base superior a Absurdo. El poder tiene una duración de un minuto sin que el personaje sufra algún perjuicio, pero cada uso adicional sin esperar el periodo de descanso de un minuto conlleva la pérdida de 1 cansancio. "
     },
     "7WuXIqpuRgf314YO": {
       "name": "Acceso a una Disciplina Psíquica",
-      "description": "El personaje está dotado con la capacidad de usar los poderes de una única disciplina psíquica. Sus capacidades están limitadas a un único campo y no importa cuanto desarrolle su potencial, no podrá adquirir poderes de otras disciplinas.\n\nEfectos: Esta ventaja permite el uso de CV para adquirir afinidad con una única disciplina psíquica y sus poderes matriciales.",
-      "cost": 1
+      "description": "El personaje está dotado con la capacidad de usar los poderes de una única disciplina psíquica. Sus capacidades están limitadas a un único campo y no importa cuanto desarrolle su potencial, no podrá adquirir poderes de otras disciplinas.\n\nEfectos: Esta ventaja permite el uso de CV para adquirir afinidad con una única disciplina psíquica y sus poderes matriciales."
     },
     "90CjprxQ2A1fRhzj": {
       "name": "Magia Atada a Acción",
-      "description": "El control del personaje sobre los poderes del flujo del alma son inestables y sólo le responden cuando realiza una acción determinada. Si, por ejemplo, su magia está atada a bailar, sus hechizos sólo funcionarán mientras baile. Es posible que los poderes mágicos funcionen únicamente en situaciones o condiciones específicas, como durante el día o con los pies en el suelo.\n\nEfecto: El personaje puede usar la magia solo cuando una determinada acción o condición específica se cumpla. Si la acción es una Habilidad Secundaria, el personaje deberá superar una tirada contra una dificultad de Difícil (DIF) para poder lanzar sus hechizos.",
-      "cost": 1
+      "description": "El control del personaje sobre los poderes del flujo del alma son inestables y sólo le responden cuando realiza una acción determinada. Si, por ejemplo, su magia está atada a bailar, sus hechizos sólo funcionarán mientras baile. Es posible que los poderes mágicos funcionen únicamente en situaciones o condiciones específicas, como durante el día o con los pies en el suelo.\n\nEfecto: El personaje puede usar la magia solo cuando una determinada acción o condición específica se cumpla. Si la acción es una Habilidad Secundaria, el personaje deberá superar una tirada contra una dificultad de Difícil (DIF) para poder lanzar sus hechizos."
     },
     "fqiQxnPtajCN43UA": {
       "name": "Sentidos Agudos",
-      "description": "Los sentidos del personaje están tan desarrollados como los de un animal.\n\nEfectos: Esta ventaja permite añadir un +1 a los controles de percepción. También añade un bono especial de +50 a Advertir y Buscar.\n\nNota: este efecto fue aumentado de +30 a +50 en la revisión de reglas del Core Exxet.",
-      "cost": 1
+      "description": "Los sentidos del personaje están tan desarrollados como los de un animal.\n\nEfectos: Esta ventaja permite añadir un +1 a los controles de percepción. También añade un bono especial de +50 a Advertir y Buscar.\n\nNota: este efecto fue aumentado de +30 a +50 en la revisión de reglas del Core Exxet."
     },
     "xusfeVzSIerdk3iu": {
       "name": "Añadir 1 Punto a una Característica",
-      "description": "Uno de los atributos del personaje es mayor que antes.\n\nEfectos: Añade un punto al valor de una sola Característica. Por defecto está aplicado a FUE; cambia la Característica en la pestaña de Efectos\n\nRestricción: Fuerza, Destreza, Agilidad y Constitución no pueden aumentarse a más de 11 mediante esta Ventaja. Inteligencia, Poder, Voluntad y Percepción no pueden aumentarse a más de 13 mediante esta Ventaja.\n\nEspecial: Puedes adquirir esta Ventaja tantas veces como desees.",
-      "cost": 1
+      "description": "Uno de los atributos del personaje es mayor que antes.\n\nEfectos: Añade un punto al valor de una sola Característica. Por defecto está aplicado a FUE; cambia la Característica en la pestaña de Efectos\n\nRestricción: Fuerza, Destreza, Agilidad y Constitución no pueden aumentarse a más de 11 mediante esta Ventaja. Inteligencia, Poder, Voluntad y Percepción no pueden aumentarse a más de 13 mediante esta Ventaja.\n\nEspecial: Puedes adquirir esta Ventaja tantas veces como desees."
     },
     "n4sBSWtcPkKAUMLr": {
       "name": "Adición vicio grave",
-      "description": "Un personaje con esta Desventaja tiene una necesidad urgente de realizar cierta acción o consumir una sustancia específica a diario, y hará lo que sea necesario para satisfacer su vicio; de lo contrario, comenzará a sentirse muy nervioso y entrará en abstinencia.\n\nEfectos: El personaje aplica una penalización acumulativa de –10 por cada día que pase sin satisfacer su adicción (hasta un máximo de –100).",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja tiene una necesidad urgente de realizar cierta acción o consumir una sustancia específica a diario, y hará lo que sea necesario para satisfacer su vicio; de lo contrario, comenzará a sentirse muy nervioso y entrará en abstinencia.\n\nEfectos: El personaje aplica una penalización acumulativa de –10 por cada día que pase sin satisfacer su adicción (hasta un máximo de –100)."
     },
-    "SuPm2zKo8PN8KWNK": {
-      "name": "Ventajas"
-    },
-    "0009JQEISAOB0MHF": {
+     "0009JQEISAOB0MHF": {
       "name": "Ambidiestro",
-      "description": "Un personaje ambidiestro puede realizar maniobras con cualquiera de las dos manos. En combate, solo sufre –10 a los ataques con un arma adicional.",
-      "cost": 1
+      "description": "Un personaje ambidiestro puede realizar maniobras con cualquiera de las dos manos. En combate, solo sufre –10 a los ataques con un arma adicional."
     },
     "fY4Ertlr4JggubdI": {
       "name": "Mantenimiento Añadido",
-      "description": "Un personaje con esta Ventaja puede mantener sus poderes psíquicos con mayor fuerza.\n\nEfectos: Cualquier poder mantenido de esta forma tiene un nivel de dificultad más alto que el que el psíquico podría alcanzar normalmente.",
-      "cost": 2
+      "description": "Un personaje con esta Ventaja puede mantener sus poderes psíquicos con mayor fuerza.\n\nEfectos: Cualquier poder mantenido de esta forma tiene un nivel de dificultad más alto que el que el psíquico podría alcanzar normalmente."
     },
     "mHbvSjLsFOoSswU3": {
       "name": "Afinidad Animal",
-      "description": "Un personaje con esta Ventaja tiene un vínculo especial con los animales que le permite obtener una reacción positiva. También puede comunicarse de forma limitada con ellos, entendiendo sus intenciones generales y viceversa.\n\nEfectos: Los límites de esta Ventaja deben ser decididos por el DJ. En cualquier caso, un animal entrenado para atacar seguirá haciéndolo a pesar de esta Ventaja, pero probablemente tras advertir y ofrecer al personaje la oportunidad de escapar. Cuando el combate contra un animal es inevitable, un personaje con esta Ventaja siempre será el último atacado si está en grupo.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja tiene un vínculo especial con los animales que le permite obtener una reacción positiva. También puede comunicarse de forma limitada con ellos, entendiendo sus intenciones generales y viceversa.\n\nEfectos: Los límites de esta Ventaja deben ser decididos por el DJ. En cualquier caso, un animal entrenado para atacar seguirá haciéndolo a pesar de esta Ventaja, pero probablemente tras advertir y ofrecer al personaje la oportunidad de escapar. Cuando el combate contra un animal es inevitable, un personaje con esta Ventaja siempre será el último atacado si está en grupo."
     },
     "iVieb4ZRlfJRSv9x": {
       "name": "Apto para el Desarrollo de la Magia",
-      "description": "Un personaje con esta Ventaja tiene la capacidad de entender y alcanzar niveles de poder con sus hechizos mucho mayores que los que su Inteligencia normalmente permitiría.\n\nEfectos: Un jugador puede añadir 3 puntos a la Inteligencia de su personaje para determinar el potencial máximo del hechizo. Este bono no se aplica a ninguna otra habilidad, ni siquiera para calcular el nivel mágico del personaje.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja tiene la capacidad de entender y alcanzar niveles de poder con sus hechizos mucho mayores que los que su Inteligencia normalmente permitiría.\n\nEfectos: Un jugador puede añadir 3 puntos a la Inteligencia de su personaje para determinar el potencial máximo del hechizo. Este bono no se aplica a ninguna otra habilidad, ni siquiera para calcular el nivel mágico del personaje."
     },
     "tMCKt5lZO4dUQzXT": {
       "name": "Apto en un Campo",
-      "description": "Como Aptitud en una Materia, excepto que en este caso el personaje tiene una gran capacidad para aprender un área completa de Habilidades Secundarias.\n\nEfectos: El Costo de Desarrollo para un campo de Habilidades Secundarias se reduce en 1 punto. Si la Categoria del personaje ofrece una Habilidad Secundaria dentro de este campo a un costo reducido, los beneficios de esta Ventaja se aplican además del beneficio de la Categoria. Por ejemplo, si un Explorador decide reducir el costo de las habilidades del campo Intelectual, estas costarán 2 en lugar de 3. La habilidad Medicina, que normalmente cuesta 2, ahora costará solo 1.\n\nRestricciones: Los Costos de Desarrollo no pueden reducirse por debajo de 1. Esta Ventaja funciona solo para Habilidades Secundarias.",
-      "cost": 2
+      "description": "Como Aptitud en una Materia, excepto que en este caso el personaje tiene una gran capacidad para aprender un área completa de Habilidades Secundarias.\n\nEfectos: El Costo de Desarrollo para un campo de Habilidades Secundarias se reduce en 1 punto. Si la Categoria del personaje ofrece una Habilidad Secundaria dentro de este campo a un costo reducido, los beneficios de esta Ventaja se aplican además del beneficio de la Categoria. Por ejemplo, si un Explorador decide reducir el costo de las habilidades del campo Intelectual, estas costarán 2 en lugar de 3. La habilidad Medicina, que normalmente cuesta 2, ahora costará solo 1.\n\nRestricciones: Los Costos de Desarrollo no pueden reducirse por debajo de 1. Esta Ventaja funciona solo para Habilidades Secundarias."
     },
     "iB22hbE68EzDM36F": {
       "name": "Apto en una Materia (1)",
-      "description": "Un personaje con esta Ventaja tiene una enorme capacidad para aprender una única Habilidad Secundaria, lo que le permite desarrollarla con muy poco esfuerzo.\n\nEfectos: Esta Ventaja reduce el Costo de Desarrollo de una sola Habilidad Secundaria por cada Punto de Creación gastado. Por ejemplo, el jugador de un Mago podría reducir el costo de la habilidad Frialdad de 3 a 2 si gastara 1 punto en esta Ventaja, o incluso a 1 si gastara 2 puntos\n\nRestricciones: Los Costos de Desarrollo no pueden reducirse por debajo de 1. Esta Ventaja funciona solo para Habilidades Secundarias.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja tiene una enorme capacidad para aprender una única Habilidad Secundaria, lo que le permite desarrollarla con muy poco esfuerzo.\n\nEfectos: Esta Ventaja reduce el Costo de Desarrollo de una sola Habilidad Secundaria por cada Punto de Creación gastado. Por ejemplo, el jugador de un Mago podría reducir el costo de la habilidad Frialdad de 3 a 2 si gastara 1 punto en esta Ventaja, o incluso a 1 si gastara 2 puntos\n\nRestricciones: Los Costos de Desarrollo no pueden reducirse por debajo de 1. Esta Ventaja funciona solo para Habilidades Secundarias."
     },
     "Cs8tdXWAtS4F7r3z": {
       "name": "Apto en una Materia (2)",
-      "description": "Un personaje con esta Ventaja tiene una enorme capacidad para aprender una única Habilidad Secundaria, lo que le permite desarrollarla con muy poco esfuerzo.\n\nEfectos: Esta Ventaja reduce el Costo de Desarrollo de una sola Habilidad Secundaria por cada Punto de Creación gastado. Por ejemplo, el jugador de un Mago podría reducir el costo de la habilidad Frialdad de 3 a 2 si gastara 1 punto en esta Ventaja, o incluso a 1 si gastara 2 puntos.\n\nRestricciones: Los Costos de Desarrollo no pueden reducirse por debajo de 1. Esta Ventaja funciona solo para Habilidades Secundarias.",
-      "cost": 2
+      "description": "Un personaje con esta Ventaja tiene una enorme capacidad para aprender una única Habilidad Secundaria, lo que le permite desarrollarla con muy poco esfuerzo.\n\nEfectos: Esta Ventaja reduce el Costo de Desarrollo de una sola Habilidad Secundaria por cada Punto de Creación gastado. Por ejemplo, el jugador de un Mago podría reducir el costo de la habilidad Frialdad de 3 a 2 si gastara 1 punto en esta Ventaja, o incluso a 1 si gastara 2 puntos.\n\nRestricciones: Los Costos de Desarrollo no pueden reducirse por debajo de 1. Esta Ventaja funciona solo para Habilidades Secundarias."
     },
     "Daod83kXNZr1BjVW": {
       "name": "Artifacto (1)",
-      "description": "El personaje posee un dispositivo místico de enorme poder.\n\nEfectos: El jugador y el Director de Juego deben ponerse de acuerdo sobre las habilidades del dispositivo. Gastar puntos adicionales incrementa las capacidades del objeto.",
-      "cost": 1
+      "description": "El personaje posee un dispositivo místico de enorme poder.\n\nEfectos: El jugador y el Director de Juego deben ponerse de acuerdo sobre las habilidades del dispositivo. Gastar puntos adicionales incrementa las capacidades del objeto."
     },
     "5HMGVAT3J3s9ymfX": {
       "name": "Artifacto (2)",
-      "description": "El personaje posee un dispositivo místico de enorme poder.\n\nEfectos: El jugador y el Director de Juego deben ponerse de acuerdo sobre las habilidades del dispositivo. Gastar puntos adicionales incrementa las capacidades del objeto.",
-      "cost": 2
+      "description": "El personaje posee un dispositivo místico de enorme poder.\n\nEfectos: El jugador y el Director de Juego deben ponerse de acuerdo sobre las habilidades del dispositivo. Gastar puntos adicionales incrementa las capacidades del objeto."
     },
     "vXIsi5hZXmUa44Vf": {
       "name": "Artifacto (3)",
-      "description": "El personaje posee un dispositivo místico de enorme poder.\n\nEfectos: El jugador y el Director de Juego deben ponerse de acuerdo sobre las habilidades del dispositivo. Gastar puntos adicionales incrementa las capacidades del objeto.",
-      "cost": 3
+      "description": "El personaje posee un dispositivo místico de enorme poder.\n\nEfectos: El jugador y el Director de Juego deben ponerse de acuerdo sobre las habilidades del dispositivo. Gastar puntos adicionales incrementa las capacidades del objeto."
     },
     "RQGOvL8Cb7vHH6VN": {
       "name": "Extremidad Atrofiada",
-      "description": "Un personaje con esta Desventaja tiene un grave problema en uno de sus miembros. Este miembro puede temblar constantemente o puede no responder cuando más se necesita.\n\nEfectos: El personaje aplica una penalización de –80 a todas las acciones físicas que requieran el uso del miembro atrofiado.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja tiene un grave problema en uno de sus miembros. Este miembro puede temblar constantemente o puede no responder cuando más se necesita.\n\nEfectos: El personaje aplica una penalización de –80 a todas las acciones físicas que requieran el uso del miembro atrofiado."
     },
-    "kmpo5oDcdqNmmDQR": {
-      "name": "Trasfondo"
-    },
-    "lcHIJyxXjwCfFusi": {
-      "name": "Trasfondo"
-    },
-    "D0F2e5B2O7blWXFN": {
+     "D0F2e5B2O7blWXFN": {
       "name": "Mala Suerte",
-      "description": "Los personajes con esta Desventaja tienen muy mala suerte al intentar lo que se proponen; fallan mucho más de lo que quisieran.\n\nEfectos: El número requerido para un fallo crítico aumenta en 2 puntos. Por lo tanto, las habilidades normales fallan con un resultado de 5 (4 si el personaje posee maestría en esa habilidad).",
-      "cost": 1
+      "description": "Los personajes con esta Desventaja tienen muy mala suerte al intentar lo que se proponen; fallan mucho más de lo que quisieran.\n\nEfectos: El número requerido para un fallo crítico aumenta en 2 puntos. Por lo tanto, las habilidades normales fallan con un resultado de 5 (4 si el personaje posee maestría en esa habilidad)."
     },
     "8zcgsb84UGEsZlZG": {
       "name": "Curtido (1)",
-      "description": "El personaje comienza el juego con 50 Puntos de Experiencia adicionales. Este aumento permite un ascenso convencional de nivel si se alcanza el total de puntos necesario.",
-      "cost": 1
+      "description": "El personaje comienza el juego con 50 Puntos de Experiencia adicionales. Este aumento permite un ascenso convencional de nivel si se alcanza el total de puntos necesario."
     },
     "IhSM31qY7Mby0ZOu": {
       "name": "Curtido (2)",
-      "description": "El personaje comienza el juego con 100 Puntos de Experiencia adicionales. Este aumento permite un ascenso convencional de nivel si se alcanza el total de puntos necesario.",
-      "cost": 2
+      "description": "El personaje comienza el juego con 100 Puntos de Experiencia adicionales. Este aumento permite un ascenso convencional de nivel si se alcanza el total de puntos necesario."
     },
     "VLwtubaPhfNGnQ8a": {
       "name": "Curtido (3)",
-      "description": "El personaje comienza el juego con 150 Puntos de Experiencia adicionales. Este aumento permite un ascenso convencional de nivel si se alcanza el total de puntos necesario.",
-      "cost": 3
+      "description": "El personaje comienza el juego con 150 Puntos de Experiencia adicionales. Este aumento permite un ascenso convencional de nivel si se alcanza el total de puntos necesario."
     },
     "i20Vr7k1VZPsVzXD": {
       "name": "Ciego",
-      "description": "Un personaje con esta desventaja es completamente ciego.\n\nEfectos: El personaje no puede usar ninguna habilidad que requiera la vista. Aplica la penalización por ceguera en todo momento.",
-      "cost": 2
+      "description": "Un personaje con esta desventaja es completamente ciego.\n\nEfectos: El personaje no puede usar ninguna habilidad que requiera la vista. Aplica la penalización por ceguera en todo momento."
     },
     "87J3wpUHAzYZgKwv": {
       "name": "Hechicero Nato",
-      "description": "Aprender fórmulas místicas y desarrollar conjuros le resulta natural al personaje, quien es capaz de aprender incluso hechizos complejos con facilidad.\n\nEfectos: El mago aumenta su nivel de aprendizaje en la tabla de Aprendizaje de Hechizos en dos niveles.\n\nRequisito: Requiere el Don.",
-      "cost": 1
+      "description": "Aprender fórmulas místicas y desarrollar conjuros le resulta natural al personaje, quien es capaz de aprender incluso hechizos complejos con facilidad.\n\nEfectos: El mago aumenta su nivel de aprendizaje en la tabla de Aprendizaje de Hechizos en dos niveles.\n\nRequisito: Requiere el Don."
     },
     "vz05vUm7Pa25XtI4": {
       "name": "Encanto",
-      "description": "El personaje posee un magnetismo personal que hace que los demás reaccionen positivamente hacia él. Siempre recibe una reacción favorable de personas que no lo conocen, y algunos individuos pueden ser incluso un poco más permisivos con él.\n\nEfectos: Los límites de esta Ventaja deben ser decididos por el Director del Juego.",
-      "cost": 1
+      "description": "El personaje posee un magnetismo personal que hace que los demás reaccionen positivamente hacia él. Siempre recibe una reacción favorable de personas que no lo conocen, y algunos individuos pueden ser incluso un poco más permisivos con él.\n\nEfectos: Los límites de esta Ventaja deben ser decididos por el Director del Juego."
     },
     "vnB5xOTOJywanfZZ": {
       "name": "Código de Conducta",
-      "description": "En el lugar donde fue criado, el personaje se adhirió a un estricto código de conducta que aún pesa sobre él. No puede desobedecerlo, por lo que está obligado a seguirlo en cualquier circunstancia. Simplemente no sabe vivir de otra manera.\n\nEfectos: El personaje debe seguir un código de conducta estricto, de alguna manera relacionado con su país de origen.",
-      "cost": 1
+      "description": "En el lugar donde fue criado, el personaje se adhirió a un estricto código de conducta que aún pesa sobre él. No puede desobedecerlo, por lo que está obligado a seguirlo en cualquier circunstancia. Simplemente no sabe vivir de otra manera.\n\nEfectos: El personaje debe seguir un código de conducta estricto, de alguna manera relacionado con su país de origen."
     },
     "c52sBNKob9Z0ifUQ": {
       "name": "Sentido del Combate",
-      "description": "El personaje posee una capacidad especial para el combate, independientemente de su Categoria, que incrementa una de sus habilidades primarias de combate.\n\nEfecto: Cada vez que el personaje sube de nivel, recibe un bono innato de +5 a una de las siguientes habilidades primarias de combate: Ataque, Parada o Esquiva, que se acumula con su bono innato de Categoria. El personaje debe elegir la habilidad primaria de combate al tomar la ventaja Sentidos de Combate, y no podrá cambiarla después.\n\nLimitaciones: El modificador obtenido por esta ventaja se considera un bono innato por Categoria y no puede superar +50, incluso si se combina con otros bonos innatos como artes marciales.",
-      "cost": 3
+      "description": "El personaje posee una capacidad especial para el combate, independientemente de su Categoria, que incrementa una de sus habilidades primarias de combate.\n\nEfecto: Cada vez que el personaje sube de nivel, recibe un bono innato de +5 a una de las siguientes habilidades primarias de combate: Ataque, Parada o Esquiva, que se acumula con su bono innato de Categoria. El personaje debe elegir la habilidad primaria de combate al tomar la ventaja Sentidos de Combate, y no podrá cambiarla después.\n\nLimitaciones: El modificador obtenido por esta ventaja se considera un bono innato por Categoria y no puede superar +50, incluso si se combina con otros bonos innatos como artes marciales."
     },
-    "c0dEwvdY0ERPjLQm": {
-      "name": "Comunes"
-    },
-    "PSGZd12oGziYh88n": {
-      "name": "Comunes"
-    },
-    "vGAJNGxzgV6lBQQX": {
+      "vGAJNGxzgV6lBQQX": {
       "name": "Contactos (1)",
-      "description": "El personaje conoce personas que pueden ofrecerle información o incluso ayuda limitada en los momentos que más lo necesita. Dependiendo del nivel de esta ventaja, los contactos tendrán distintos grados de utilidad o poder. Si así lo desea, el personaje también puede tener vínculos organizativos en Gaïa.\n\nEfectos: Siempre que lo necesite, alguien con esta ventaja puede usar sus contactos para obtener información o asistencia limitada dentro de su esfera de influencia. Por ejemplo, si tiene contactos en la Orden de Magus, estos pueden mantenerlo informado sobre asuntos sobrenaturales, pero hacen muy poco por la política o los rumores callejeros. En la Tabla 33 de Gaia I: Más Allá de los Sueños hay una pequeña lista que indica los valores recomendados para contactos de diferentes poderes en Gaïa. Estos están establecidos en sus valores mínimos, pero los jugadores pueden invertir más puntos de creación para aumentarlos. Por ejemplo, si alguien gasta 3 Puntos de Creación en la Orden de Magus, significaría que sus contactos conocidos están en los niveles más altos de la organización y, por tanto, podrán ofrecerle más ayuda e información de lo normal.",
-      "cost": 1
+      "description": "El personaje conoce personas que pueden ofrecerle información o incluso ayuda limitada en los momentos que más lo necesita. Dependiendo del nivel de esta ventaja, los contactos tendrán distintos grados de utilidad o poder. Si así lo desea, el personaje también puede tener vínculos organizativos en Gaïa.\n\nEfectos: Siempre que lo necesite, alguien con esta ventaja puede usar sus contactos para obtener información o asistencia limitada dentro de su esfera de influencia. Por ejemplo, si tiene contactos en la Orden de Magus, estos pueden mantenerlo informado sobre asuntos sobrenaturales, pero hacen muy poco por la política o los rumores callejeros. En la Tabla 33 de Gaia I: Más Allá de los Sueños hay una pequeña lista que indica los valores recomendados para contactos de diferentes poderes en Gaïa. Estos están establecidos en sus valores mínimos, pero los jugadores pueden invertir más puntos de creación para aumentarlos. Por ejemplo, si alguien gasta 3 Puntos de Creación en la Orden de Magus, significaría que sus contactos conocidos están en los niveles más altos de la organización y, por tanto, podrán ofrecerle más ayuda e información de lo normal."
     },
     "GZwDvD0LoCkawq6Y": {
       "name": "Contactos (2)",
-      "description": "El personaje conoce personas que pueden ofrecerle información o incluso ayuda limitada en los momentos que más lo necesita. Dependiendo del nivel de esta ventaja, los contactos tendrán distintos grados de utilidad o poder. Si así lo desea, el personaje también puede tener vínculos organizativos en Gaïa.\n\nEfectos: Siempre que lo necesite, alguien con esta ventaja puede usar sus contactos para obtener información o asistencia limitada dentro de su esfera de influencia. Por ejemplo, si tiene contactos en la Orden de Magus, estos pueden mantenerlo informado sobre asuntos sobrenaturales, pero hacen muy poco por la política o los rumores callejeros. En la Tabla 33 de Gaia I: Más Allá de los Sueños hay una pequeña lista que indica los valores recomendados para contactos de diferentes poderes en Gaïa. Estos están establecidos en sus valores mínimos, pero los jugadores pueden invertir más puntos de creación para aumentarlos. Por ejemplo, si alguien gasta 3 Puntos de Creación en la Orden de Magus, significaría que sus contactos conocidos están en los niveles más altos de la organización y, por tanto, podrán ofrecerle más ayuda e información de lo normal.",
-      "cost": 2
+      "description": "El personaje conoce personas que pueden ofrecerle información o incluso ayuda limitada en los momentos que más lo necesita. Dependiendo del nivel de esta ventaja, los contactos tendrán distintos grados de utilidad o poder. Si así lo desea, el personaje también puede tener vínculos organizativos en Gaïa.\n\nEfectos: Siempre que lo necesite, alguien con esta ventaja puede usar sus contactos para obtener información o asistencia limitada dentro de su esfera de influencia. Por ejemplo, si tiene contactos en la Orden de Magus, estos pueden mantenerlo informado sobre asuntos sobrenaturales, pero hacen muy poco por la política o los rumores callejeros. En la Tabla 33 de Gaia I: Más Allá de los Sueños hay una pequeña lista que indica los valores recomendados para contactos de diferentes poderes en Gaïa. Estos están establecidos en sus valores mínimos, pero los jugadores pueden invertir más puntos de creación para aumentarlos. Por ejemplo, si alguien gasta 3 Puntos de Creación en la Orden de Magus, significaría que sus contactos conocidos están en los niveles más altos de la organización y, por tanto, podrán ofrecerle más ayuda e información de lo normal."
     },
     "wmLmhx8WnAg3IP4A": {
       "name": "Contactos (3)",
-      "description": "El personaje conoce personas que pueden ofrecerle información o incluso ayuda limitada en los momentos que más lo necesita. Dependiendo del nivel de esta ventaja, los contactos tendrán distintos grados de utilidad o poder. Si así lo desea, el personaje también puede tener vínculos organizativos en Gaïa.\n\nEfectos: Siempre que lo necesite, alguien con esta ventaja puede usar sus contactos para obtener información o asistencia limitada dentro de su esfera de influencia. Por ejemplo, si tiene contactos en la Orden de Magus, estos pueden mantenerlo informado sobre asuntos sobrenaturales, pero hacen muy poco por la política o los rumores callejeros. En la Tabla 33 de Gaia I: Más Allá de los Sueños hay una pequeña lista que indica los valores recomendados para contactos de diferentes poderes en Gaïa. Estos están establecidos en sus valores mínimos, pero los jugadores pueden invertir más puntos de creación para aumentarlos. Por ejemplo, si alguien gasta 3 Puntos de Creación en la Orden de Magus, significaría que sus contactos conocidos están en los niveles más altos de la organización y, por tanto, podrán ofrecerle más ayuda e información de lo normal.",
-      "cost": 3
+      "description": "El personaje conoce personas que pueden ofrecerle información o incluso ayuda limitada en los momentos que más lo necesita. Dependiendo del nivel de esta ventaja, los contactos tendrán distintos grados de utilidad o poder. Si así lo desea, el personaje también puede tener vínculos organizativos en Gaïa.\n\nEfectos: Siempre que lo necesite, alguien con esta ventaja puede usar sus contactos para obtener información o asistencia limitada dentro de su esfera de influencia. Por ejemplo, si tiene contactos en la Orden de Magus, estos pueden mantenerlo informado sobre asuntos sobrenaturales, pero hacen muy poco por la política o los rumores callejeros. En la Tabla 33 de Gaia I: Más Allá de los Sueños hay una pequeña lista que indica los valores recomendados para contactos de diferentes poderes en Gaïa. Estos están establecidos en sus valores mínimos, pero los jugadores pueden invertir más puntos de creación para aumentarlos. Por ejemplo, si alguien gasta 3 Puntos de Creación en la Orden de Magus, significaría que sus contactos conocidos están en los niveles más altos de la organización y, por tanto, podrán ofrecerle más ayuda e información de lo normal."
     },
     "HCzeinTf8Y7y9y9X": {
       "name": "Potencial Enfrentado",
-      "description": "Los hechizos de ataque de un personaje con esta Ventaja son mayores cuando chocan contra otro Rayo Sobrenatural.\n\nEfectos: El personaje aplica un bono de +50 a su tirada para calcular el resultado de un Choque de Conjuros.",
-      "cost": 1
+      "description": "Los hechizos de ataque de un personaje con esta Ventaja son mayores cuando chocan contra otro Rayo Sobrenatural.\n\nEfectos: El personaje aplica un bono de +50 a su tirada para calcular el resultado de un Choque de Conjuros."
     },
     "snpyxcSfqggK9CuI": {
       "name": "Cobardía",
-      "description": "El personaje es por naturaleza un cobarde, hasta el punto de que le resulta muy difícil controlar su miedo. Cada vez que se encuentre en una situación que alcance cierto nivel de peligro, aunque su vida no esté amenazada directamente, intentará evitar el daño de cualquier forma posible.\n\nEfectos: En Anima, aspectos como la cobardía de un personaje se dejan preferentemente a la interpretación del jugador. No obstante, alguien con esta desventaja es incapaz de controlar el miedo al peligro que corre por sus venas. Por lo tanto, cada vez que el personaje se encuentre en verdadero peligro, se someterá al estado de Miedo. Si supera una tirada de Frialdad contra Muy Difícil, podrá reducir la Penalización a Todas las Acciones causada por el miedo a un mero –20 (en lugar de los habituales –60).",
-      "cost": 1
+      "description": "El personaje es por naturaleza un cobarde, hasta el punto de que le resulta muy difícil controlar su miedo. Cada vez que se encuentre en una situación que alcance cierto nivel de peligro, aunque su vida no esté amenazada directamente, intentará evitar el daño de cualquier forma posible.\n\nEfectos: En Anima, aspectos como la cobardía de un personaje se dejan preferentemente a la interpretación del jugador. No obstante, alguien con esta desventaja es incapaz de controlar el miedo al peligro que corre por sus venas. Por lo tanto, cada vez que el personaje se encuentre en verdadero peligro, se someterá al estado de Miedo. Si supera una tirada de Frialdad contra Muy Difícil, podrá reducir la Penalización a Todas las Acciones causada por el miedo a un mero –20 (en lugar de los habituales –60)."
     },
     "b77501zW9GK0ro7E": {
       "name": "Raices Culturales",
-      "description": "El personaje está muy arraigado en la cultura de su país, poseyendo un amplio conocimiento de las tradiciones y costumbres de su tierra.\n\nEfectos: Esta ventaja concede un bono especial a varias habilidades secundarias, según el estatus social del personaje y su país de origen. En cada una de las naciones de Gaïa se muestra una lista de los diferentes modificadores que concede Raíces Culturales.",
-      "cost": 1
+      "description": "El personaje está muy arraigado en la cultura de su país, poseyendo un amplio conocimiento de las tradiciones y costumbres de su tierra.\n\nEfectos: Esta ventaja concede un bono especial a varias habilidades secundarias, según el estatus social del personaje y su país de origen. En cada una de las naciones de Gaïa se muestra una lista de los diferentes modificadores que concede Raíces Culturales."
     },
     "0v0dBmbgp17yTb9n": {
       "name": "Maldito (1)",
-      "description": "Una fuerza oscura pesa sobre el personaje, una anomalía de naturaleza sobrenatural entrelazada en su destino que lo arrastra hacia la desgracia y el sufrimiento. La gravedad de los efectos por estar maldito puede variar según si el jugador desea obtener uno o dos Puntos de Creación para su personaje.\n\nEfecto: La opción de un Punto de Creación indica que el personaje sufre un efecto negativo serio, aunque no necesariamente constante. Los detalles quedan a discreción del DJ, pero ejemplos incluyen un guerrero que pierde o deja caer sus armas con frecuencia, o un personaje que siempre pierde dinero con el tiempo, sin importar cuánto intente protegerlo.\n\nLa opción de dos Puntos de Creación es una maldición de naturaleza superior que conlleva efectos terribles y persistentes. Los detalles quedan a discreción del DJ, pero ejemplos incluyen un personaje que siempre sufre algún tipo de daño sobrenatural cada vez que hiere a un oponente, o un personaje que muere inmediatamente el día que mata innecesariamente.",
-      "cost": 1
+      "description": "Una fuerza oscura pesa sobre el personaje, una anomalía de naturaleza sobrenatural entrelazada en su destino que lo arrastra hacia la desgracia y el sufrimiento. La gravedad de los efectos por estar maldito puede variar según si el jugador desea obtener uno o dos Puntos de Creación para su personaje.\n\nEfecto: La opción de un Punto de Creación indica que el personaje sufre un efecto negativo serio, aunque no necesariamente constante. Los detalles quedan a discreción del DJ, pero ejemplos incluyen un guerrero que pierde o deja caer sus armas con frecuencia, o un personaje que siempre pierde dinero con el tiempo, sin importar cuánto intente protegerlo.\n\nLa opción de dos Puntos de Creación es una maldición de naturaleza superior que conlleva efectos terribles y persistentes. Los detalles quedan a discreción del DJ, pero ejemplos incluyen un personaje que siempre sufre algún tipo de daño sobrenatural cada vez que hiere a un oponente, o un personaje que muere inmediatamente el día que mata innecesariamente."
     },
     "oGkfVCXSxxycdmRH": {
       "name": "Maldito (2)",
-      "description": "Una fuerza oscura pesa sobre el personaje, una anomalía de naturaleza sobrenatural entrelazada en su destino que lo arrastra hacia la desgracia y el sufrimiento. La gravedad de los efectos por estar maldito puede variar según si el jugador desea obtener uno o dos Puntos de Creación para su personaje.\n\nEfecto: La opción de un Punto de Creación indica que el personaje sufre un efecto negativo serio, aunque no necesariamente constante. Los detalles quedan a discreción del DJ, pero ejemplos incluyen un guerrero que pierde o deja caer sus armas con frecuencia, o un personaje que siempre pierde dinero con el tiempo, sin importar cuánto intente protegerlo.\n\nLa opción de dos Puntos de Creación es una maldición de naturaleza superior que conlleva efectos terribles y persistentes. Los detalles quedan a discreción del DJ, pero ejemplos incluyen un personaje que siempre sufre algún tipo de daño sobrenatural cada vez que hiere a un oponente, o un personaje que muere inmediatamente el día que mata innecesariamente.",
-      "cost": 2
+      "description": "Una fuerza oscura pesa sobre el personaje, una anomalía de naturaleza sobrenatural entrelazada en su destino que lo arrastra hacia la desgracia y el sufrimiento. La gravedad de los efectos por estar maldito puede variar según si el jugador desea obtener uno o dos Puntos de Creación para su personaje.\n\nEfecto: La opción de un Punto de Creación indica que el personaje sufre un efecto negativo serio, aunque no necesariamente constante. Los detalles quedan a discreción del DJ, pero ejemplos incluyen un guerrero que pierde o deja caer sus armas con frecuencia, o un personaje que siempre pierde dinero con el tiempo, sin importar cuánto intente protegerlo.\n\nLa opción de dos Puntos de Creación es una maldición de naturaleza superior que conlleva efectos terribles y persistentes. Los detalles quedan a discreción del DJ, pero ejemplos incluyen un personaje que siempre sufre algún tipo de daño sobrenatural cada vez que hiere a un oponente, o un personaje que muere inmediatamente el día que mata innecesariamente."
     },
     "sK2dhMdKA03Iog9D": {
       "name": "Sentido del Peligro",
-      "description": "Los personajes con esta Ventaja tienen un sexto sentido que les permite detectar cuando algo peligroso se acerca o los amenaza, aunque no podrán detectar el origen o la naturaleza del peligro hasta que lo vean.\n\nEfectos: El personaje no puede ser sorprendido, a menos que la Iniciativa de su oponente sea 150 puntos o más superior a la suya.",
-      "cost": 2
+      "description": "Los personajes con esta Ventaja tienen un sexto sentido que les permite detectar cuando algo peligroso se acerca o los amenaza, aunque no podrán detectar el origen o la naturaleza del peligro hasta que lo vean.\n\nEfectos: El personaje no puede ser sorprendido, a menos que la Iniciativa de su oponente sea 150 puntos o más superior a la suya."
     },
     "5ghEinZg3koSJAS4": {
       "name": "Sordo",
-      "description": "Un personaje con esta Desventaja no puede oír nada.\n\nEfectos: El personaje no puede usar ninguna habilidad que requiera oído.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja no puede oír nada.\n\nEfectos: El personaje no puede usar ninguna habilidad que requiera oído."
     },
     "18MC59bhswq3ToQF": {
       "name": "Deudas",
-      "description": "Desafortunadamente para él, el personaje ha contraído una gran deuda que no puede pagar. Ya le ha costado todo lo que tiene, pero aún está obligado a pagar mucho más. Depende del jugador y del Director de Juego determinar la naturaleza exacta de la deuda; quizás deba hacer un pago mensual al hospital de su madre por impuestos, o tal vez su familia fue arruinada y él heredó su deuda.\n\nEfectos: Independientemente de su estatus social, el personaje comienza con no más de lo que lleva consigo y está obligado a pagar una deuda valorada en no menos de 10,000 escudos de oro. Otra posibilidad es que esté obligado a pagar 500 escudos de oro cada mes.",
-      "cost": 1
+      "description": "Desafortunadamente para él, el personaje ha contraído una gran deuda que no puede pagar. Ya le ha costado todo lo que tiene, pero aún está obligado a pagar mucho más. Depende del jugador y del Director de Juego determinar la naturaleza exacta de la deuda; quizás deba hacer un pago mensual al hospital de su madre por impuestos, o tal vez su familia fue arruinada y él heredó su deuda.\n\nEfectos: Independientemente de su estatus social, el personaje comienza con no más de lo que lleva consigo y está obligado a pagar una deuda valorada en no menos de 10,000 escudos de oro. Otra posibilidad es que esté obligado a pagar 500 escudos de oro cada mes."
     },
     "VJgKd5wKvYoZEiOY": {
       "name": "Reducir Dos Puntos a una Característica",
-      "description": "Una de las Características de un personaje con esta Desventaja está menos desarrollada de lo que debería estar.\n\nEfectos: Se deben restar 2 puntos a una de las Características Primarias del personaje.\n\nRestricciones: Los personajes solo pueden adquirir esta Desventaja una vez. No se puede reducir una Característica por debajo de 3.",
-      "cost": 1
+      "description": "Una de las Características de un personaje con esta Desventaja está menos desarrollada de lo que debería estar.\n\nEfectos: Se deben restar 2 puntos a una de las Características Primarias del personaje.\n\nRestricciones: Los personajes solo pueden adquirir esta Desventaja una vez. No se puede reducir una Característica por debajo de 3."
     },
     "gQN8bkqFGbbXAlJG": {
       "name": "Sueño Profundo",
-      "description": "Un personaje con esta Desventaja duerme muy profundamente y tiene dificultad para despertarse. Permanecerá dormido incluso con un contacto físico ligero, y cuando finalmente despierte, estará aturdido durante varios minutos.\n\nEfectos: El personaje aplica una penalización de –200 a cualquier tirada de Percepción mientras duerme. Durante los primeros diez turnos después de despertar, tiene una penalización de –40 a todas las acciones.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja duerme muy profundamente y tiene dificultad para despertarse. Permanecerá dormido incluso con un contacto físico ligero, y cuando finalmente despierte, estará aturdido durante varios minutos.\n\nEfectos: El personaje aplica una penalización de –200 a cualquier tirada de Percepción mientras duerme. Durante los primeros diez turnos después de despertar, tiene una penalización de –40 a todas las acciones."
     },
     "Ci5fgrrqdgk8U4ae": {
       "name": "Secreto Inconfesable",
-      "description": "El personaje oculta un secreto oscuro y horrible, algo que significaría su ruina y la caída de quienes más le importan si se revelara. Es posible que sea culpable de un crimen espantoso, o que de niño pequeño realizara rituales terribles que causaron la muerte de miles de personas, desencadenando una maldición sobre él si los cultistas descubrieran que está vivo.\n\nEfectos: El jugador y el Director de Juego deben determinar juntos la naturaleza del secreto y las consecuencias que de él se derivan",
-      "cost": 1
-    },
-    "gqLYKErXLgock0Hu": {
-      "name": "Desventajas"
+      "description": "El personaje oculta un secreto oscuro y horrible, algo que significaría su ruina y la caída de quienes más le importan si se revelara. Es posible que sea culpable de un crimen espantoso, o que de niño pequeño realizara rituales terribles que causaron la muerte de miles de personas, desencadenando una maldición sobre él si los cultistas descubrieran que está vivo.\n\nEfectos: El jugador y el Director de Juego deben determinar juntos la naturaleza del secreto y las consecuencias que de él se derivan"
     },
     "kvrP4ShYT1yJcdGj": {
       "name": "Inquietante",
-      "description": "Un personaje con esta Ventaja puede poner nerviosas a las personas cuando quiera. También puede disuadir la violencia contra sí mismo o forzar a personas intimidantes a estar de acuerdo con él.\n\nEfectos: Los límites de esta Ventaja deben ser decididos por el Director de Juego.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja puede poner nerviosas a las personas cuando quiera. También puede disuadir la violencia contra sí mismo o forzar a personas intimidantes a estar de acuerdo con él.\n\nEfectos: Los límites de esta Ventaja deben ser decididos por el Director de Juego."
     },
     "hkdFuaeKlXlJ2OKC": {
       "name": "Límite Dual",
-      "description": "El personaje tiene un potencial dual que le permite vincular su esencia a dos Límites.\n\nEfectos: El personaje puede elegir hasta dos Límites en lugar de uno.",
-      "cost": 1
+      "description": "El personaje tiene un potencial dual que le permite vincular su esencia a dos Límites.\n\nEfectos: El personaje puede elegir hasta dos Límites en lugar de uno."
     },
     "owd6EbIHVnTelRo0": {
       "name": "Fácil Posesión",
-      "description": "Un personaje con esta desventaja es fácilmente controlado por cualquier ser con la capacidad de afectar su mente o alterar su personalidad, incluso si su voluntad es fuerte.\n\nEfectos: El personaje recibe –50 a cualquier Resistencia Física o Resistencia Mágica contra cualquier tipo de dominación o posesión capaz de modificar su conducta.",
-      "cost": 1
+      "description": "Un personaje con esta desventaja es fácilmente controlado por cualquier ser con la capacidad de afectar su mente o alterar su personalidad, incluso si su voluntad es fuerte.\n\nEfectos: El personaje recibe –50 a cualquier Resistencia Física o Resistencia Mágica contra cualquier tipo de dominación o posesión capaz de modificar su conducta."
     },
     "dGIEpVQxc6EQQsmc": {
       "name": "Elan (1)",
-      "description": "Un personaje con esta ventaja ha llamado la atención de un Shajad o un Beryl. Generalmente, esto significa que un ancestro del personaje estuvo vinculado al ser y aún mantiene algún tipo de lazo con todos los miembros de la familia. También es posible que esta atención se deba a algunas acciones del personaje. Por el momento, goza de su favor – aunque tras comenzar a jugar, la relación dependerá de su comportamiento.\n\nEfectos: El personaje tiene Elan 20 para la entidad que elija.\n\nNota: Este valor fue reducido de 25 en la revisión de las reglas Core Exxet.",
-      "cost": 1
+      "description": "Un personaje con esta ventaja ha llamado la atención de un Shajad o un Beryl. Generalmente, esto significa que un ancestro del personaje estuvo vinculado al ser y aún mantiene algún tipo de lazo con todos los miembros de la familia. También es posible que esta atención se deba a algunas acciones del personaje. Por el momento, goza de su favor – aunque tras comenzar a jugar, la relación dependerá de su comportamiento.\n\nEfectos: El personaje tiene Elan 20 para la entidad que elija.\n\nNota: Este valor fue reducido de 25 en la revisión de las reglas Core Exxet."
     },
     "JbDO4kDK3eTeVsFI": {
       "name": "Elan (2)",
-      "description": "Un personaje con esta ventaja ha llamado la atención de un Shajad o un Beryl. Generalmente, esto significa que un ancestro del personaje estuvo vinculado al ser y aún mantiene algún tipo de lazo con todos los miembros de la familia. También es posible que esta atención se deba a algunas acciones del personaje. Por el momento, goza de su favor – aunque tras comenzar a jugar, la relación dependerá de su comportamiento.\n\nEfectos: El personaje tiene Elan 40 para la entidad que elija.\n\nNota: Este valor fue reducido de 45 en la revisión de las reglas Core Exxet.",
-      "cost": 2
+      "description": "Un personaje con esta ventaja ha llamado la atención de un Shajad o un Beryl. Generalmente, esto significa que un ancestro del personaje estuvo vinculado al ser y aún mantiene algún tipo de lazo con todos los miembros de la familia. También es posible que esta atención se deba a algunas acciones del personaje. Por el momento, goza de su favor – aunque tras comenzar a jugar, la relación dependerá de su comportamiento.\n\nEfectos: El personaje tiene Elan 40 para la entidad que elija.\n\nNota: Este valor fue reducido de 45 en la revisión de las reglas Core Exxet."
     },
     "3dFtaILJWaXLkpmD": {
       "name": "Elan (3)",
-      "description": "Un personaje con esta ventaja ha llamado la atención de un Shajad o un Beryl. Generalmente, esto significa que un ancestro del personaje estuvo vinculado al ser y aún mantiene algún tipo de lazo con todos los miembros de la familia. También es posible que esta atención se deba a algunas acciones del personaje. Por el momento, goza de su favor – aunque tras comenzar a jugar, la relación dependerá de su comportamiento.\n\nEfectos: El personaje tiene Elan 50 para la entidad que elija.\n\nNota: Este valor fue reducido de 60 en la revisión de las reglas Core Exxet.",
-      "cost": 3
+      "description": "Un personaje con esta ventaja ha llamado la atención de un Shajad o un Beryl. Generalmente, esto significa que un ancestro del personaje estuvo vinculado al ser y aún mantiene algún tipo de lazo con todos los miembros de la familia. También es posible que esta atención se deba a algunas acciones del personaje. Por el momento, goza de su favor – aunque tras comenzar a jugar, la relación dependerá de su comportamiento.\n\nEfectos: El personaje tiene Elan 50 para la entidad que elija.\n\nNota: Este valor fue reducido de 60 en la revisión de las reglas Core Exxet."
     },
     "O0vFdG0P1ejhlaCS": {
       "name": "Desequilibrio Elemental",
-      "description": "Un personaje con esta Ventaja es naturalmente compatible con los poderes de una vía mágica específica, siendo simultáneamente más débil frente a su opuesta. Su esencia está fuertemente vinculada a este elemento, y su magia se vuelve más poderosa al usar hechizos de esa vía.\n\nEfectos: El personaje obtiene un bono especial de +20 a su ACT y RM en la vía mágica que elija. Cuando utiliza hechizos de la vía opuesta, sufre una penalización de –20 a su ACT y RM. Si la vía elegida es la nigromancia, aplica la penalización a todas las demás vías.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja es naturalmente compatible con los poderes de una vía mágica específica, siendo simultáneamente más débil frente a su opuesta. Su esencia está fuertemente vinculada a este elemento, y su magia se vuelve más poderosa al usar hechizos de esa vía.\n\nEfectos: El personaje obtiene un bono especial de +20 a su ACT y RM en la vía mágica que elija. Cuando utiliza hechizos de la vía opuesta, sufre una penalización de –20 a su ACT y RM. Si la vía elegida es la nigromancia, aplica la penalización a todas las demás vías."
     },
     "QKPQVIq1gKHIHsL2": {
       "name": "Resistencia Mágica Excepcional (1)",
-      "description": "Los personajes con esta Ventaja poseen una resistencia aumentada frente a ataques y efectos mágicos.\n\nEfectos: Añade un bono especial de +25 a la Resistencia Mágica (RM).",
-      "cost": 1
+      "description": "Los personajes con esta Ventaja poseen una resistencia aumentada frente a ataques y efectos mágicos.\n\nEfectos: Añade un bono especial de +25 a la Resistencia Mágica (RM)."
     },
     "15026M7jlzYTSjds": {
       "name": "Resistencia Mágica Excepcional (2)",
-      "description": "Los personajes con esta Ventaja poseen una resistencia aumentada frente a ataques y efectos mágicos.\n\nEfectos: Añade un bono especial de +50 a la Resistencia Mágica (RM).",
-      "cost": 2
+      "description": "Los personajes con esta Ventaja poseen una resistencia aumentada frente a ataques y efectos mágicos.\n\nEfectos: Añade un bono especial de +50 a la Resistencia Mágica (RM)."
     },
     "lTFKwKUuNsj9E4HF": {
       "name": "Resistencia Física Excepcional (1)",
-      "description": "Los personajes con esta Ventaja poseen una resistencia aumentada frente a ataques y efectos físicos. El daño, los venenos y las enfermedades no les afectan del mismo modo que al resto de las personas.\n\nEfectos: Añade un bono especial de +25 a la Resistencia Física (RF), la Resistencia al Veneno (RV) y la Resistencia a las Enfermedades (RV).",
-      "cost": 1
+      "description": "Los personajes con esta Ventaja poseen una resistencia aumentada frente a ataques y efectos físicos. El daño, los venenos y las enfermedades no les afectan del mismo modo que al resto de las personas.\n\nEfectos: Añade un bono especial de +25 a la Resistencia Física (RF), la Resistencia al Veneno (RV) y la Resistencia a las Enfermedades (RV)."
     },
     "8WrbJHOX1u9dBtHC": {
       "name": "Resistencia Física Excepcional (2)",
-      "description": "Los personajes con esta Ventaja poseen una resistencia aumentada frente a ataques y efectos físicos. El daño, los venenos y las enfermedades no les afectan del mismo modo que al resto de las personas.\n\nEfectos: Añade un bono especial de +50 a la Resistencia Física (RF), la Resistencia al Veneno (RV) y la Resistencia a las Enfermedades (RV).",
-      "cost": 2
+      "description": "Los personajes con esta Ventaja poseen una resistencia aumentada frente a ataques y efectos físicos. El daño, los venenos y las enfermedades no les afectan del mismo modo que al resto de las personas.\n\nEfectos: Añade un bono especial de +50 a la Resistencia Física (RF), la Resistencia al Veneno (RV) y la Resistencia a las Enfermedades (RV)."
     },
     "Ft6h0s1qEXL2KQjJ": {
       "name": "Resistencia Psíquica Excepcional (1)",
-      "description": "La mente de un personaje con esta Ventaja posee barreras mentales muy fuertes que lo protegen de ataques psíquicos y otros efectos negativos de origen mental.\n\nEfectos: Esta Ventaja añade un bono especial de +25 a la Resistencia Psíquica (RP) del personaje.",
-      "cost": 1
+      "description": "La mente de un personaje con esta Ventaja posee barreras mentales muy fuertes que lo protegen de ataques psíquicos y otros efectos negativos de origen mental.\n\nEfectos: Esta Ventaja añade un bono especial de +25 a la Resistencia Psíquica (RP) del personaje."
     },
     "0xcOm8GWX67Mo8CN": {
       "name": "Resistencia Psíquica Excepcional (2)",
-      "description": "La mente de un personaje con esta Ventaja posee barreras mentales muy fuertes que lo protegen de ataques psíquicos y otros efectos negativos de origen mental.\n\nEfectos: Esta Ventaja añade un bono especial de +50 a la Resistencia Psíquica (RP) del personaje.",
-      "cost": 2
+      "description": "La mente de un personaje con esta Ventaja posee barreras mentales muy fuertes que lo protegen de ataques psíquicos y otros efectos negativos de origen mental.\n\nEfectos: Esta Ventaja añade un bono especial de +50 a la Resistencia Psíquica (RP) del personaje."
     },
     "00VchrKfxN51g9AQ": {
       "name": "Arma Exclusiva",
-      "description": "Un personaje con esta Desventaja está acostumbrado a luchar exclusivamente con un arma específica, por lo que le resulta más difícil combatir con otras armas.\n\nEfectos: El personaje aplica una penalización de –30 a su habilidad de combate con cualquier arma que no sea su arma preferida.\n\nRestricción: Solo las Categorias de los arquetipos Domine, Guerrero, Acechador y Novel pueden adquirir esta Desventaja",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja está acostumbrado a luchar exclusivamente con un arma específica, por lo que le resulta más difícil combatir con otras armas.\n\nEfectos: El personaje aplica una penalización de –30 a su habilidad de combate con cualquier arma que no sea su arma preferida.\n\nRestricción: Solo las Categorias de los arquetipos Domine, Guerrero, Acechador y Novel pueden adquirir esta Desventaja"
     },
     "4Cb0GW6fKaJY5G6s": {
       "name": "Exhausto",
-      "description": "Un personaje con esta Desventaja es vulnerable al Cansancio. No solo se fatiga con mayor facilidad que los demás, sino que sufre especialmente los efectos del agotamiento.\n\nEfectos: Duplica las penalizaciones del Cansancio a las acciones y reduce en 1 punto el Cansancio base del personaje.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja es vulnerable al Cansancio. No solo se fatiga con mayor facilidad que los demás, sino que sufre especialmente los efectos del agotamiento.\n\nEfectos: Duplica las penalizaciones del Cansancio a las acciones y reduce en 1 punto el Cansancio base del personaje."
     },
     "DJMt2gfj8yZYT8Fa": {
       "name": "Concentración Extrema",
-      "description": "Un personaje con esta Ventaja puede concentrarse mucho más que la mayoría de los psíquicos, obteniendo así mayores beneficios de sus habilidades.\n\nEfectos: El psíquico duplica el bono que obtiene normalmente por concentración. Por ejemplo, si se concentra durante un asalto completo, recibe un +20 en lugar de +10.",
-      "cost": 2
+      "description": "Un personaje con esta Ventaja puede concentrarse mucho más que la mayoría de los psíquicos, obteniendo así mayores beneficios de sus habilidades.\n\nEfectos: El psíquico duplica el bono que obtiene normalmente por concentración. Por ejemplo, si se concentra durante un asalto completo, recibe un +20 en lugar de +10."
     },
     "W3Q0qHRWhXXalIXq": {
       "name": "Fama (1)",
-      "description": "Por una razón u otra, el personaje es excepcionalmente conocido en todas partes. Puede ser un actor famoso, un jugador de Eden, o tener unas supuestas habilidades marciales legendarias (sean ciertas o no). En cualquier caso, es una verdadera celebridad.\n\nEfectos: Los efectos de esta Ventaja se aplican únicamente a la interpretación. El jugador debe determinar la fuente de la fama de su personaje durante la creación. Si se utilizan las reglas opcionales de Fama, esta Ventaja otorga 40 puntos de Fama.",
-      "cost": 1
+      "description": "Por una razón u otra, el personaje es excepcionalmente conocido en todas partes. Puede ser un actor famoso, un jugador de Eden, o tener unas supuestas habilidades marciales legendarias (sean ciertas o no). En cualquier caso, es una verdadera celebridad.\n\nEfectos: Los efectos de esta Ventaja se aplican únicamente a la interpretación. El jugador debe determinar la fuente de la fama de su personaje durante la creación. Si se utilizan las reglas opcionales de Fama, esta Ventaja otorga 40 puntos de Fama."
     },
     "9H2Cr7EWoztu9i3B": {
       "name": "Fama (2)",
-      "description": "Por una razón u otra, el personaje es excepcionalmente conocido en todas partes. Puede ser un actor famoso, un jugador de Eden, o tener unas supuestas habilidades marciales legendarias (sean ciertas o no). En cualquier caso, es una verdadera celebridad.\n\nEfectos: Los efectos de esta Ventaja se aplican únicamente a la interpretación. El jugador debe determinar la fuente de la fama de su personaje durante la creación. Si se utilizan las reglas opcionales de Fama, esta Ventaja otorga 65 puntos de Fama.",
-      "cost": 2
+      "description": "Por una razón u otra, el personaje es excepcionalmente conocido en todas partes. Puede ser un actor famoso, un jugador de Eden, o tener unas supuestas habilidades marciales legendarias (sean ciertas o no). En cualquier caso, es una verdadera celebridad.\n\nEfectos: Los efectos de esta Ventaja se aplican únicamente a la interpretación. El jugador debe determinar la fuente de la fama de su personaje durante la creación. Si se utilizan las reglas opcionales de Fama, esta Ventaja otorga 65 puntos de Fama."
     },
     "HWFOgDsSSR0jnCzG": {
       "name": "Familiar (2)",
-      "description": "n algún momento de su vida, el personaje logró llegar a un acuerdo con una criatura para que se convirtiera en su Familiar.\n\nEfectos: El personaje comienza el juego con una criatura de su mismo nivel como Familiar.",
-      "cost": 2
+      "description": "n algún momento de su vida, el personaje logró llegar a un acuerdo con una criatura para que se convirtiera en su Familiar.\n\nEfectos: El personaje comienza el juego con una criatura de su mismo nivel como Familiar."
     },
     "yc4fuRUfBZcEzGdl": {
       "name": "Familiar (3)",
-      "description": "En algún momento de su vida, el personaje logró llegar a un acuerdo con una criatura para que se convirtiera en su Familiar.\n\nEfectos: El personaje comienza el juego con una criatura de un nivel superior al suyo como Familiar.",
-      "cost": 3
+      "description": "En algún momento de su vida, el personaje logró llegar a un acuerdo con una criatura para que se convirtiera en su Familiar.\n\nEfectos: El personaje comienza el juego con una criatura de un nivel superior al suyo como Familiar."
     },
     "eoNwkkEc1Jx9HEbJ": {
       "name": "Endeble",
-      "description": "Cuando el personaje recibe daño, sufre una reducción drástica de sus capacidades que le impide rendir a su máximo potencial, incluso si no ha recibido heridas críticas.\n\nEfecto: Cuando los Puntos de Vida del personaje caen por debajo de un tercio de su total, sufre una penalización de –30 a todas las acciones hasta que logre recuperarse.",
-      "cost": 1
+      "description": "Cuando el personaje recibe daño, sufre una reducción drástica de sus capacidades que le impide rendir a su máximo potencial, incluso si no ha recibido heridas críticas.\n\nEfecto: Cuando los Puntos de Vida del personaje caen por debajo de un tercio de su total, sufre una penalización de –30 a todas las acciones hasta que logre recuperarse."
     },
     "8qm1d1Gqsvqda9IL": {
       "name": "Calibre",
-      "description": "Los personajes con esta Ventaja pueden aprovechar su habilidad más de lo normal y enfocar sus poderes en un objetivo concreto.\n\nEfectos: Los CV gastados para mejorar la Proyección Psíquica aumentan la habilidad en +20 en lugar de +10.",
-      "cost": 1
+      "description": "Los personajes con esta Ventaja pueden aprovechar su habilidad más de lo normal y enfocar sus poderes en un objetivo concreto.\n\nEfectos: Los CV gastados para mejorar la Proyección Psíquica aumentan la habilidad en +20 en lugar de +10."
     },
     "BefqAhYPZQYXQurY": {
       "name": "Afortunado",
-      "description": "Un personaje Afortunado goza de una auténtica suerte. A menudo puede escapar de situaciones difíciles gracias a su estrella de la suerte.\n\nEfectos: Los límites de esta Ventaja deben ser decididos por el Director de Juego. En cualquier caso, el personaje nunca sufrirá los efectos negativos de una trampa o un ataque determinados únicamente por el azar.",
-      "cost": 1
+      "description": "Un personaje Afortunado goza de una auténtica suerte. A menudo puede escapar de situaciones difíciles gracias a su estrella de la suerte.\n\nEfectos: Los límites de esta Ventaja deben ser decididos por el Director de Juego. En cualquier caso, el personaje nunca sufrirá los efectos negativos de una trampa o un ataque determinados únicamente por el azar."
     },
     "RzTCnTEE483qcy30": {
       "name": "Acceso Libre a Cualquier Disciplina Psíquica",
-      "description": "Los personajes con esta Ventaja pueden usar cualquier tipo de disciplina psíquica y sus habilidades.\n\nEfectos: Esta Ventaja permite al personaje adquirir tantas disciplinas psíquicas como desee utilizando sus CV.",
-      "cost": 2
+      "description": "Los personajes con esta Ventaja pueden usar cualquier tipo de disciplina psíquica y sus habilidades.\n\nEfectos: Esta Ventaja permite al personaje adquirir tantas disciplinas psíquicas como desee utilizando sus CV."
     },
     "ORUF7w4DndOrIbyO": {
       "name": "Inutilidad Somática",
-      "description": "Un personaje con esta Ventaja no necesita hacer gestos físicos para usar su magia; puede realizar cualquier tipo de acción física sin que esto afecte a sus poderes.\n\nEfectos: El personaje no reduce su ACT si es incapaz de gesticular.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja no necesita hacer gestos físicos para usar su magia; puede realizar cualquier tipo de acción física sin que esto afecte a sus poderes.\n\nEfectos: El personaje no reduce su ACT si es incapaz de gesticular."
     },
     "7xDP797dWfmW61wh": {
       "name": "Buena Suerte",
-      "description": "Personajes con esta Ventaja son excepcionalmente afortunados en todo lo que hacen y muy rara vez cometen un error grave.\n\nEfectos: El número requerido para pifiar se reduce en 1 punto. En circunstancias normales, por lo tanto, el personaje solo pifiará con una tirada de 2. Si un personaje con esta Ventaja alcanza la maestría en cualquier habilidad, solo pifiará con un 1 al usarla.",
-      "cost": 1
+      "description": "Personajes con esta Ventaja son excepcionalmente afortunados en todo lo que hacen y muy rara vez cometen un error grave.\n\nEfectos: El número requerido para pifiar se reduce en 1 punto. En circunstancias normales, por lo tanto, el personaje solo pifiará con una tirada de 2. Si un personaje con esta Ventaja alcanza la maestría en cualquier habilidad, solo pifiará con un 1 al usarla."
     },
     "67UscOlNApoD456P": {
       "name": "Aprendizaje Mágico Gradual",
-      "description": "A medida que el personaje adquiere habilidades y poderes adicionales, su conocimiento mágico innato también aumenta.\n\nEfectos: Cada vez que sube de nivel, el personaje gana +5 a su Nivel de Magia total.\n\nRequisito: Requiere el Don.",
-      "cost": 2
+      "description": "A medida que el personaje adquiere habilidades y poderes adicionales, su conocimiento mágico innato también aumenta.\n\nEfectos: Cada vez que sube de nivel, el personaje gana +5 a su Nivel de Magia total.\n\nRequisito: Requiere el Don."
     },
     "IVnlLGrn9lv1bdGH": {
       "name": "Desequilibrio Sephirótico",
-      "description": "Como en Compatibilidad Elemental, pero en este caso el personaje es naturalmente compatible con la magia de la mitad del Árbol Místico.\n\nEfectos: El mago tiene un bono especial de +20 a su ACT y su rM en los cinco Caminos mágicos de un segmento del Árbol. En el resto, sufre una penalización de –20 a su ACT y su RM.\n\nRestricción: La Nigromancia no está incluida en esta Ventaja pues está fuera del árbol.",
-      "cost": 2
+      "description": "Como en Compatibilidad Elemental, pero en este caso el personaje es naturalmente compatible con la magia de la mitad del Árbol Místico.\n\nEfectos: El mago tiene un bono especial de +20 a su ACT y su rM en los cinco Caminos mágicos de un segmento del Árbol. En el resto, sufre una penalización de –20 a su ACT y su RM.\n\nRestricción: La Nigromancia no está incluida en esta Ventaja pues está fuera del árbol."
     },
     "2s2AEWZuSk3ELQBP": {
       "name": "Difícil de Matar (1)",
-      "description": "Independientemente de su valor de Constitución, el personaje posee una vitalidad muy superior que lo hace especialmente difícil de matar.\n\nEfecto: Otorga un bono especial de +10 Puntos de Vida por nivel, que se suman a los Puntos de Vida que el personaje gana normalmente por su Categoria. Por ejemplo, un guerrero que haya escogido esta ventaja ganaría 25 Puntos de Vida por nivel (15 por su Categoria, más 10 por Difícil de Matar). Si se utilizan las reglas opcionales de Entre la Vida y la Muerte, esta ventaja también otorga un bono especial de +10 al realizar Chequeos de Resistencia",
-      "cost": 1
+      "description": "Independientemente de su valor de Constitución, el personaje posee una vitalidad muy superior que lo hace especialmente difícil de matar.\n\nEfecto: Otorga un bono especial de +10 Puntos de Vida por nivel, que se suman a los Puntos de Vida que el personaje gana normalmente por su Categoria. Por ejemplo, un guerrero que haya escogido esta ventaja ganaría 25 Puntos de Vida por nivel (15 por su Categoria, más 10 por Difícil de Matar). Si se utilizan las reglas opcionales de Entre la Vida y la Muerte, esta ventaja también otorga un bono especial de +10 al realizar Chequeos de Resistencia"
     },
     "efPGuLf8B8OVoi7a": {
       "name": "Difícil de Matar (2)",
-      "description": "Independientemente de su valor de Constitución, el personaje posee una vitalidad muy superior que lo hace especialmente difícil de matar.\n\nEfecto: Otorga un bono especial de +20 Puntos de Vida por nivel, que se suman a los Puntos de Vida que el personaje gana normalmente por su Categoria. Por ejemplo, un guerrero que haya escogido esta ventaja ganaría 35 Puntos de Vida por nivel (15 por su Categoria, más 20 por Difícil de Matar). Si se utilizan las reglas opcionales de Entre la Vida y la Muerte, esta ventaja también otorga un bono especial de +20 al realizar Chequeos de Resistencia",
-      "cost": 2
+      "description": "Independientemente de su valor de Constitución, el personaje posee una vitalidad muy superior que lo hace especialmente difícil de matar.\n\nEfecto: Otorga un bono especial de +20 Puntos de Vida por nivel, que se suman a los Puntos de Vida que el personaje gana normalmente por su Categoria. Por ejemplo, un guerrero que haya escogido esta ventaja ganaría 35 Puntos de Vida por nivel (15 por su Categoria, más 20 por Difícil de Matar). Si se utilizan las reglas opcionales de Entre la Vida y la Muerte, esta ventaja también otorga un bono especial de +20 al realizar Chequeos de Resistencia"
     },
     "NXCY34evX7LVDo3P": {
       "name": "Difícil de Matar (3)",
-      "description": "Independientemente de su valor de Constitución, el personaje posee una vitalidad muy superior que lo hace especialmente difícil de matar.\n\nEfecto: Otorga un bono especial de +30 Puntos de Vida por nivel, que se suman a los Puntos de Vida que el personaje gana normalmente por su Categoria. Por ejemplo, un guerrero que haya escogido esta ventaja ganaría 45 Puntos de Vida por nivel (15 por su Categoria, más 30 por Difícil de Matar). Si se utilizan las reglas opcionales de Entre la Vida y la Muerte, esta ventaja también otorga un bono especial de +30 al realizar Chequeos de Resistencia",
-      "cost": 3
+      "description": "Independientemente de su valor de Constitución, el personaje posee una vitalidad muy superior que lo hace especialmente difícil de matar.\n\nEfecto: Otorga un bono especial de +30 Puntos de Vida por nivel, que se suman a los Puntos de Vida que el personaje gana normalmente por su Categoria. Por ejemplo, un guerrero que haya escogido esta ventaja ganaría 45 Puntos de Vida por nivel (15 por su Categoria, más 30 por Difícil de Matar). Si se utilizan las reglas opcionales de Entre la Vida y la Muerte, esta ventaja también otorga un bono especial de +30 al realizar Chequeos de Resistencia"
     },
     "XjB5q32MiDlKIP68": {
       "name": "Inminidad al Dolor y al Cansancio",
-      "description": "Un personaje con esta Ventaja es especialmente resistente a los efectos del dolor y la fatiga.\n\nEfectos: Las penalizaciones causadas por el dolor y la Fatiga se reducen a la mitad.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja es especialmente resistente a los efectos del dolor y la fatiga.\n\nEfectos: Las penalizaciones causadas por el dolor y la Fatiga se reducen a la mitad."
     },
     "NKzuT57WikpE2E9W": {
       "name": "Ki Imperceptible",
-      "description": "La energía física del personaje es excepcionalmente difícil de detectar, porque desaparece sin dejar rastro.\n\nEfectos: Esta Ventaja otorga un bono especial de +10 a Ocultación del Ki  por nivel.\n\nLímites: Esta Ventaja no concede ningún beneficio si el personaje no desarrolla la Habilidad  Ocultación del KI",
-      "cost": 1
+      "description": "La energía física del personaje es excepcionalmente difícil de detectar, porque desaparece sin dejar rastro.\n\nEfectos: Esta Ventaja otorga un bono especial de +10 a Ocultación del Ki  por nivel.\n\nLímites: Esta Ventaja no concede ningún beneficio si el personaje no desarrolla la Habilidad  Ocultación del KI"
     },
     "kDYCcgGFXrwSMVtu": {
       "name": "Magia Innata Mejorada (1)",
-      "description": "Un personaje con esta Ventaja puede ejecutar sus hechizos innatos con un potencial mayor al normal.\n\nEfectos: Los hechizos innatos del mago suman +10 a su potencial según lo indicado por su ACT.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja puede ejecutar sus hechizos innatos con un potencial mayor al normal.\n\nEfectos: Los hechizos innatos del mago suman +10 a su potencial según lo indicado por su ACT."
     },
     "abwiwC2nasoqs21G": {
       "name": "Magia Innata Mejorada (2)",
-      "description": "Un personaje con esta Ventaja puede ejecutar sus hechizos innatos con un potencial mayor al normal.\n\nEfectos: Los hechizos innatos del mago suman +20 a su potencial según lo indicado por su ACT.",
-      "cost": 2
+      "description": "Un personaje con esta Ventaja puede ejecutar sus hechizos innatos con un potencial mayor al normal.\n\nEfectos: Los hechizos innatos del mago suman +20 a su potencial según lo indicado por su ACT."
     },
     "JjF7sXuu5Zxn53uw": {
       "name": "Magia Innata Mejorada (3)",
-      "description": "Un personaje con esta Ventaja puede ejecutar sus hechizos innatos con un potencial mayor al normal.\n\nEfectos: Los hechizos innatos del mago suman +30 a su potencial según lo indicado por su ACT.",
-      "cost": 3
+      "description": "Un personaje con esta Ventaja puede ejecutar sus hechizos innatos con un potencial mayor al normal.\n\nEfectos: Los hechizos innatos del mago suman +30 a su potencial según lo indicado por su ACT."
     },
     "5sb7hdhBz77zJwpN": {
       "name": "Don Incompleto",
-      "description": "Un personaje con esta Ventaja nace con ciertas capacidades para la magia y a veces puede usar hechizos menores de forma similar a las personas verdaderamente Dotadas.\n\nEfectos: El personaje no puede ver la magia, pero es capaz de lanzar hechizos de forma limitada. Cada vez que usa un hechizo, debe pasar una tirada de Poder contra una dificultad de 10 más 1 por cada 10 niveles del hechizo. Si falla, gasta Zeón como si hubiera lanzado el hechizo, pero este no tiene efecto.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja nace con ciertas capacidades para la magia y a veces puede usar hechizos menores de forma similar a las personas verdaderamente Dotadas.\n\nEfectos: El personaje no puede ver la magia, pero es capaz de lanzar hechizos de forma limitada. Cada vez que usa un hechizo, debe pasar una tirada de Poder contra una dificultad de 10 más 1 por cada 10 niveles del hechizo. Si falla, gasta Zeón como si hubiera lanzado el hechizo, pero este no tiene efecto."
     },
     "lpMnO8sN86SK0zsO": {
       "name": "Sustituir una característica por un 9",
-      "description": "Esta Ventaja permite a un jugador aumentar el valor de una de las Características Primarias de su personaje.\n\nEfectos: Sustituye el valor de una Característica por un 9, sin importar cuál fuera su valor original.\n\nEspecial: Puedes elegir esta Ventaja tantas veces como desees.",
-      "cost": 2
+      "description": "Esta Ventaja permite a un jugador aumentar el valor de una de las Características Primarias de su personaje.\n\nEfectos: Sustituye el valor de una Característica por un 9, sin importar cuál fuera su valor original.\n\nEspecial: Puedes elegir esta Ventaja tantas veces como desees."
     },
     "YW4B4gTp6M1DQjRT": {
       "name": "Acumulación de Ki Incrementada (1)",
-      "description": "Al concentrarse para acumular Ki, el personaje es capaz de aumentar enormemente su habilidad para reunir energías a gran velocidad.\n\nEfectos: Si el personaje no realiza ninguna otra acción durante el turno, activa o pasiva, aparte de Acumulación de Ki, puede añadir un +1 al valor de todas sus Acumulaciones de Ki durante ese Asalto.\n\nLímites: Los beneficios de esta Ventaja no pueden combinarse en el mismo turno con los de la Ventaja Acumulación Plena, que incrementa la Acumulación mientras el personaje realiza otras acciones.",
-      "cost": 1
+      "description": "Al concentrarse para acumular Ki, el personaje es capaz de aumentar enormemente su habilidad para reunir energías a gran velocidad.\n\nEfectos: Si el personaje no realiza ninguna otra acción durante el turno, activa o pasiva, aparte de Acumulación de Ki, puede añadir un +1 al valor de todas sus Acumulaciones de Ki durante ese Asalto.\n\nLímites: Los beneficios de esta Ventaja no pueden combinarse en el mismo turno con los de la Ventaja Acumulación Plena, que incrementa la Acumulación mientras el personaje realiza otras acciones."
     },
     "BI7hSC0IkERy5jJo": {
       "name": "Acumulación de Ki Incrementada (2)",
-      "description": "Al concentrarse para acumular Ki, el personaje es capaz de aumentar enormemente su habilidad para reunir energías a gran velocidad.\n\nEfectos: Si el personaje no realiza ninguna otra acción durante el turno, activa o pasiva, aparte de Acumulación de Ki, puede añadir un +2 al valor de todas sus Acumulaciones de Ki durante ese Asalto.\n\nLímites: Los beneficios de esta Ventaja no pueden combinarse en el mismo turno con los de la Ventaja Acumulación Plena, que incrementa la Acumulación mientras el personaje realiza otras acciones.",
-      "cost": 2
+      "description": "Al concentrarse para acumular Ki, el personaje es capaz de aumentar enormemente su habilidad para reunir energías a gran velocidad.\n\nEfectos: Si el personaje no realiza ninguna otra acción durante el turno, activa o pasiva, aparte de Acumulación de Ki, puede añadir un +2 al valor de todas sus Acumulaciones de Ki durante ese Asalto.\n\nLímites: Los beneficios de esta Ventaja no pueden combinarse en el mismo turno con los de la Ventaja Acumulación Plena, que incrementa la Acumulación mientras el personaje realiza otras acciones."
     },
     "0kReJWAw7z7loEBu": {
       "name": "Bonificador natural incrementado",
-      "description": "La progresión natural de las características del personaje es mucho mayor que la común en otros individuos. Sus características pueden aumentar mucho más allá de sus valores normales.\n\nEfecto: Cada vez que el personaje sube de nivel, puede sumar dos veces el Bono Natural de su Característica a  cualquiera de sus Habilidades Secundarias.",
-      "cost": 2
+      "description": "La progresión natural de las características del personaje es mucho mayor que la común en otros individuos. Sus características pueden aumentar mucho más allá de sus valores normales.\n\nEfecto: Cada vez que el personaje sube de nivel, puede sumar dos veces el Bono Natural de su Característica a  cualquiera de sus Habilidades Secundarias."
     },
     "rpoGQI46p8i9Pp5x": {
       "name": "Modificador psíquico incrementado",
-      "description": "El personaje tiene una capacidad especial para aprovechar las posibles condiciones ambientales que influyen en sus poderes.\n\nEfecto: El psíquico dobla cualquier modificador natural que utilice su disciplina psíquica. Por ejemplo, un telepático aplicaría +40 por estar en contacto con el objetivo de su poder (en lugar de los +20 normales), y un piroquinético aplicaría +60 por encontrarse dentro de un volcán (en lugar de los +30 normales). Cualquier modificador negativo también se incrementa.",
-      "cost": 1
+      "description": "El personaje tiene una capacidad especial para aprovechar las posibles condiciones ambientales que influyen en sus poderes.\n\nEfecto: El psíquico dobla cualquier modificador natural que utilice su disciplina psíquica. Por ejemplo, un telepático aplicaría +40 por estar en contacto con el objetivo de su poder (en lugar de los +20 normales), y un piroquinético aplicaría +60 por encontrarse dentro de un volcán (en lugar de los +30 normales). Cualquier modificador negativo también se incrementa."
     },
     "dP3s9JZWeCjdoRZy": {
       "name": "Poder Innato",
-      "description": "Toda la energía física del personaje proviene de su alma, que alimenta el poder de sus Técnicas y Habilidades de Ki.\n\nEfectos: Al calcular sus puntos iniciales de Ki, en lugar de usar el valor básico de sus Características, el personaje utiliza únicamente su atributo de Poder y multiplica por seis la cantidad que este le otorga. Los puntos adicionales por tener un valor de Característica superior a 10 también se multiplican.\n\nLímites: Este Ventaja solo puede ser elegida si se utilizan las reglas opcionales de Unificación de Puntos de Ki.",
-      "cost": 1
+      "description": "Toda la energía física del personaje proviene de su alma, que alimenta el poder de sus Técnicas y Habilidades de Ki.\n\nEfectos: Al calcular sus puntos iniciales de Ki, en lugar de usar el valor básico de sus Características, el personaje utiliza únicamente su atributo de Poder y multiplica por seis la cantidad que este le otorga. Los puntos adicionales por tener un valor de Característica superior a 10 también se multiplican.\n\nLímites: Este Ventaja solo puede ser elegida si se utilizan las reglas opcionales de Unificación de Puntos de Ki."
     },
     "D44fiw0yHYh0e4qG": {
       "name": "Insufrible",
-      "description": "El personaje posee una cierta habilidad intrínseca para ser desagradable a los demás. No importa cuánto esfuerzo ponga, siempre provoca una reacción negativa en quienes no le conocen, e incluso su simple presencia puede causar una leve irritación en algunas personas.\n\nEfecto: La magnitud de esta desventaja debe ser interpretada por el Director del Juego.",
-      "cost": 1
+      "description": "El personaje posee una cierta habilidad intrínseca para ser desagradable a los demás. No importa cuánto esfuerzo ponga, siempre provoca una reacción negativa en quienes no le conocen, e incluso su simple presencia puede causar una leve irritación en algunas personas.\n\nEfecto: La magnitud de esta desventaja debe ser interpretada por el Director del Juego."
     },
     "IzSxRKRf8YLuhMQO": {
       "name": "Conocimiento de Todas las Materias",
-      "description": "Los personajes con esta Ventaja pueden adaptarse a cualquier necesidad que surja y desarrollar conocimientos en todos los campos y materias. No importa cuán rara o inusual sea la Habilidad Secundaria necesaria, siempre tendrán algún conocimiento o habilidad útil en esa situación.\n\nEfectos: El personaje nunca aplica la penalización de –30 por no gastar PD en una Habilidad Secundaria, y además recibe un bono natural especial de +10 en todas sus Habilidades Secundarias.",
-      "cost": 2
+      "description": "Los personajes con esta Ventaja pueden adaptarse a cualquier necesidad que surja y desarrollar conocimientos en todos los campos y materias. No importa cuán rara o inusual sea la Habilidad Secundaria necesaria, siempre tendrán algún conocimiento o habilidad útil en esa situación.\n\nEfectos: El personaje nunca aplica la penalización de –30 por no gastar PD en una Habilidad Secundaria, y además recibe un bono natural especial de +10 en todas sus Habilidades Secundarias."
     },
     "LOrYhtIjGuP3NbsF": {
       "name": "Ki Perceptible",
-      "description": "Los sentidos del personaje tienen la capacidad natural de percibir el Ki, lo que aumenta enormemente sus habilidades de detección.\n\nEfectos: Esta Ventaja otorga un bono especial de +10 a la Detección del Ki por nivel.\n\nLímites: Esta Ventaja no otorga ningún beneficio si el personaje no desarrolla la Habilidad Detección del Ki.",
-      "cost": 1
+      "description": "Los sentidos del personaje tienen la capacidad natural de percibir el Ki, lo que aumenta enormemente sus habilidades de detección.\n\nEfectos: Esta Ventaja otorga un bono especial de +10 a la Detección del Ki por nivel.\n\nLímites: Esta Ventaja no otorga ningún beneficio si el personaje no desarrolla la Habilidad Detección del Ki."
     },
     "E78q8LvjhhcgD8IG": {
       "name": "Recuperación de KI (1)",
-      "description": "Esta Ventaja permite que la energía espiritual del personaje se recupere más rápido de lo normal.\nEfectos: El personaje recupera 1 punto de Ki por característica cada diez minutos, en lugar de cada hora.",
-      "cost": 1
+      "description": "Esta Ventaja permite que la energía espiritual del personaje se recupere más rápido de lo normal.\nEfectos: El personaje recupera 1 punto de Ki por característica cada diez minutos, en lugar de cada hora."
     },
     "tjTfULDDKvZ4KQfl": {
       "name": "Recuperación de KI (2)",
-      "description": "Esta Ventaja permite que la energía espiritual del personaje se recupere más rápido de lo normal.\nEfectos: El personaje recupera 1 punto de Ki por característica cada cinco minutos, en lugar de cada hora.",
-      "cost": 2
+      "description": "Esta Ventaja permite que la energía espiritual del personaje se recupere más rápido de lo normal.\nEfectos: El personaje recupera 1 punto de Ki por característica cada cinco minutos, en lugar de cada hora."
     },
     "0CIJIyyZsoshWlQJ": {
       "name": "Recuperación de KI (3)",
-      "description": "Esta Ventaja permite que la energía espiritual del personaje se recupere más rápido de lo normal.\nEfectos: El personaje recupera 1 punto de Ki por característica cada minuto, en lugar de cada hora.",
-      "cost": 3
+      "description": "Esta Ventaja permite que la energía espiritual del personaje se recupere más rápido de lo normal.\nEfectos: El personaje recupera 1 punto de Ki por característica cada minuto, en lugar de cada hora."
     },
     "ORs3869EQeFuijqt": {
       "name": "Patoso",
-      "description": "No importa cuán alta sea la Destreza del personaje, tiene cierto grado de torpeza debido a descuidos o falta de coordinación.\n\nEfecto: Esta desventaja impone una penalización de –30 a cualquier habilidad manual que requiera coordinación y –3 a todas los controles de Destreza enfrentados.",
-      "cost": 1
+      "description": "No importa cuán alta sea la Destreza del personaje, tiene cierto grado de torpeza debido a descuidos o falta de coordinación.\n\nEfecto: Esta desventaja impone una penalización de –30 a cualquier habilidad manual que requiera coordinación y –3 a todas los controles de Destreza enfrentados."
     },
     "4zX9EH30EaiJ5ju2": {
       "name": "Aprendizaje (1)",
-      "description": "Los personajes con esta Ventaja poseen una enorme capacidad para aprender y desarrollar su potencial, siempre obteniendo el máximo beneficio de lo que han visto o hecho.\n\nEfectos: Los personajes ganan 3 Puntos de Experiencia adicionales cuando el Director concede puntos al final de cada sesión de juego.",
-      "cost": 1
+      "description": "Los personajes con esta Ventaja poseen una enorme capacidad para aprender y desarrollar su potencial, siempre obteniendo el máximo beneficio de lo que han visto o hecho.\n\nEfectos: Los personajes ganan 3 Puntos de Experiencia adicionales cuando el Director concede puntos al final de cada sesión de juego."
     },
     "ieaKjjhMmyRFj17y": {
       "name": "Aprendizaje (2)",
-      "description": "Los personajes con esta Ventaja poseen una enorme capacidad para aprender y desarrollar su potencial, siempre obteniendo el máximo beneficio de lo que han visto o hecho.\n\nEfectos: Los personajes ganan 6 Puntos de Experiencia adicionales cuando el Director concede puntos al final de cada sesión de juego.",
-      "cost": 2
+      "description": "Los personajes con esta Ventaja poseen una enorme capacidad para aprender y desarrollar su potencial, siempre obteniendo el máximo beneficio de lo que han visto o hecho.\n\nEfectos: Los personajes ganan 6 Puntos de Experiencia adicionales cuando el Director concede puntos al final de cada sesión de juego."
     },
     "GHbD2gjxLzakGt2A": {
       "name": "Aprendizaje (3)",
-      "description": "Los personajes con esta Ventaja poseen una enorme capacidad para aprender y desarrollar su potencial, siempre obteniendo el máximo beneficio de lo que han visto o hecho.\n\nEfectos: Los personajes ganan 9 Puntos de Experiencia adicionales cuando el Director concede puntos al final de cada sesión de juego.",
-      "cost": 3
+      "description": "Los personajes con esta Ventaja poseen una enorme capacidad para aprender y desarrollar su potencial, siempre obteniendo el máximo beneficio de lo que han visto o hecho.\n\nEfectos: Los personajes ganan 9 Puntos de Experiencia adicionales cuando el Director concede puntos al final de cada sesión de juego."
     },
     "PZo5mSvYPnuppx73": {
       "name": "Sueño Ligero",
-      "description": "Un personaje con esta Ventaja permanece parcialmente consciente mientras duerme y es capaz de despertarse con el más mínimo ruido o movimiento.\n\nEfectos: El personaje aplica una penalización de solo –20 a su habilidad de Alerta mientras duerme.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja permanece parcialmente consciente mientras duerme y es capaz de despertarse con el más mínimo ruido o movimiento.\n\nEfectos: El personaje aplica una penalización de solo –20 a su habilidad de Alerta mientras duerme."
     },
     "o3r4V5uDgZdF0jys": {
       "name": "Magia Estanca",
-      "description": "La magia no fluye naturalmente a través del cuerpo y alma de un personaje con esta Desventaja. Algún tipo de bloqueo le impide canalizar los poderes del entorno, y su propia alma tampoco regenera magia. Cuando usa su poder, el personaje nunca lo recupera por sí mismo. La única forma de hacerlo es alimentándose de las energías místicas de otros seres u objetos mágicos.\n\nEfectos: El personaje carece de regeneración de Zeón y no recupera naturalmente los puntos de Zeón que consume. Solo recupera magia al drenar objetos que lo permitan o seres vivos con el Don.\n\nRestricción: Esta Desventaja no puede combinarse con Recuperación Lenta de Magia.",
-      "cost": 2
+      "description": "La magia no fluye naturalmente a través del cuerpo y alma de un personaje con esta Desventaja. Algún tipo de bloqueo le impide canalizar los poderes del entorno, y su propia alma tampoco regenera magia. Cuando usa su poder, el personaje nunca lo recupera por sí mismo. La única forma de hacerlo es alimentándose de las energías místicas de otros seres u objetos mágicos.\n\nEfectos: El personaje carece de regeneración de Zeón y no recupera naturalmente los puntos de Zeón que consume. Solo recupera magia al drenar objetos que lo permitan o seres vivos con el Don.\n\nRestricción: Esta Desventaja no puede combinarse con Recuperación Lenta de Magia."
     },
-    "m3SYrp3Ci72hIzt1": {
-      "name": "Mágicas"
-    },
-    "UaW5eXaA5Z8OjqnY": {
+      "UaW5eXaA5Z8OjqnY": {
       "name": "Naturaleza Mágica (1)",
-      "description": "La esencia del usuario de magia desborda una cantidad extraordinaria de magia pura, lo que incrementa su reserva innata de energía de forma sobrenatural.\n\nEfecto: El personaje gana un bono innato de +50 puntos de Zeón por nivel, que se suma a cualquier otro bono obtenido a través de su clase.",
-      "cost": 1
+      "description": "La esencia del usuario de magia desborda una cantidad extraordinaria de magia pura, lo que incrementa su reserva innata de energía de forma sobrenatural.\n\nEfecto: El personaje gana un bono innato de +50 puntos de Zeón por nivel, que se suma a cualquier otro bono obtenido a través de su clase."
     },
     "iyy52vVy20yQiug8": {
       "name": "Naturaleza Mágica (2)",
-      "description": "La esencia del usuario de magia desborda una cantidad extraordinaria de magia pura, lo que incrementa su reserva innata de energía de forma sobrenatural.\n\nEfecto: El personaje gana un bono innato de +100 puntos de Zeón por nivel, que se suma a cualquier otro bono obtenido a través de su Categoria.",
-      "cost": 2
+      "description": "La esencia del usuario de magia desborda una cantidad extraordinaria de magia pura, lo que incrementa su reserva innata de energía de forma sobrenatural.\n\nEfecto: El personaje gana un bono innato de +100 puntos de Zeón por nivel, que se suma a cualquier otro bono obtenido a través de su Categoria."
     },
     "t6PyRcWXRtY0I4xf": {
       "name": "Naturaleza Mágica (3)",
-      "description": "La esencia del usuario de magia desborda una cantidad extraordinaria de magia pura, lo que incrementa su reserva innata de energía de forma sobrenatural.\n\nEfecto: El personaje gana un bono innato de +150 puntos de Zeón por nivel, que se suma a cualquier otro bono obtenido a través de su Categoria.",
-      "cost": 3
+      "description": "La esencia del usuario de magia desborda una cantidad extraordinaria de magia pura, lo que incrementa su reserva innata de energía de forma sobrenatural.\n\nEfecto: El personaje gana un bono innato de +150 puntos de Zeón por nivel, que se suma a cualquier otro bono obtenido a través de su Categoria."
     },
-    "yzO1H9Co5948Ofy8": {
-      "name": "Mágicas"
-    },
-    "uiMxuc7mRI6RyyIf": {
+     "uiMxuc7mRI6RyyIf": {
       "name": "Dicción Mágica",
-      "description": "El lanzador de hechizos tiene un talento especial para interpretar y lanzar hechizos a partir de grimorios y libros.\n\nEfecto: El personaje no reduce su Acumulación Mágica al lanzar hechizos que estén escritos en grimorios, pergaminos o libros.",
-      "cost": 1
+      "description": "El lanzador de hechizos tiene un talento especial para interpretar y lanzar hechizos a partir de grimorios y libros.\n\nEfecto: El personaje no reduce su Acumulación Mágica al lanzar hechizos que estén escritos en grimorios, pergaminos o libros."
     },
     "fd6VLnwbe8oIine8": {
       "name": "Extenuación Mágica",
-      "description": "Un personaje con esta Desventaja sufre fatiga intensa cada vez que usa magia. El mago se agotará si lanza hechizos de gran poder, debilitándose si usa demasiado sus habilidades.\n\nEfectos: El mago pierde 1 punto de Cansancio al lanzar un hechizo con potencial mayor a 100, 2 puntos si es mayor a 200, y 3 puntos si es mayor a 300.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja sufre fatiga intensa cada vez que usa magia. El mago se agotará si lanza hechizos de gran poder, debilitándose si usa demasiado sus habilidades.\n\nEfectos: El mago pierde 1 punto de Cansancio al lanzar un hechizo con potencial mayor a 100, 2 puntos si es mayor a 200, y 3 puntos si es mayor a 300."
     },
     "kfrFIB83n9oMYDDH": {
       "name": "Lazo Existencial",
-      "description": "Los poderes de un personaje con esta Desventaja están ligados a las mismas raíces que las vías mágicas, por lo que su capacidad para desarrollar o especificar sus propios hechizos es prácticamente imposible. El personaje solo obtiene conocimiento de sus vías y no puede investigar sus propios hechizos.\n\nEfectos: El mago no puede elegir hechizos libres de sus vías mágicas ni acceder libremente a hechizos seleccionados.",
-      "cost": 1
+      "description": "Los poderes de un personaje con esta Desventaja están ligados a las mismas raíces que las vías mágicas, por lo que su capacidad para desarrollar o especificar sus propios hechizos es prácticamente imposible. El personaje solo obtiene conocimiento de sus vías y no puede investigar sus propios hechizos.\n\nEfectos: El mago no puede elegir hechizos libres de sus vías mágicas ni acceder libremente a hechizos seleccionados."
     },
     "c7mSGlOTHhU3Y98Z": {
       "name": "Aprendizaje Marcial",
-      "description": "El personaje tiene una increíble facilidad para dominar Técnicas y Habilidades del Ki en muy poco tiempo, incluso aquellas que son increíblemente difíciles de aprender.\n\nEfectos: Alguien con esta Ventaja aumenta en dos niveles el nivel de aprendizaje que su CM le otorga. De esta forma, un personaje con 120 puntos de CM (2º nivel) aprendería como si estuviera en el 4º nivel de aprendizaje.",
-      "cost": 1
+      "description": "El personaje tiene una increíble facilidad para dominar Técnicas y Habilidades del Ki en muy poco tiempo, incluso aquellas que son increíblemente difíciles de aprender.\n\nEfectos: Alguien con esta Ventaja aumenta en dos niveles el nivel de aprendizaje que su CM le otorga. De esta forma, un personaje con 120 puntos de CM (2º nivel) aprendería como si estuviera en el 4º nivel de aprendizaje."
     },
     "R5zkX77uFl3T7jeD": {
       "name": "Maestro Marcial (1)",
-      "description": "El Conocimiento Marcial de un personaje con esta Ventaja es superior al de otros de su nivel. Usualmente, el personaje ha recibido entrenamiento especial que le ha permitido explorar sus habilidades de Ki, aunque también es posible que haya nacido con una enorme habilidad natural.\n\nEfectos: Añade 40 puntos al Conocimiento Marcial (CM) de un personaje.",
-      "cost": 1
+      "description": "El Conocimiento Marcial de un personaje con esta Ventaja es superior al de otros de su nivel. Usualmente, el personaje ha recibido entrenamiento especial que le ha permitido explorar sus habilidades de Ki, aunque también es posible que haya nacido con una enorme habilidad natural.\n\nEfectos: Añade 40 puntos al Conocimiento Marcial (CM) de un personaje."
     },
     "yeTh0NfBbDKl8ZFK": {
       "name": "Maestro Marcial (2)",
-      "description": "El Conocimiento Marcial de un personaje con esta Ventaja es superior al de otros de su nivel. Usualmente, el personaje ha recibido entrenamiento especial que le ha permitido explorar sus habilidades de Ki, aunque también es posible que haya nacido con una enorme habilidad natural.\n\nEfectos: Añade 80 puntos al Conocimiento Marcial (CM) de un personaje.",
-      "cost": 2
+      "description": "El Conocimiento Marcial de un personaje con esta Ventaja es superior al de otros de su nivel. Usualmente, el personaje ha recibido entrenamiento especial que le ha permitido explorar sus habilidades de Ki, aunque también es posible que haya nacido con una enorme habilidad natural.\n\nEfectos: Añade 80 puntos al Conocimiento Marcial (CM) de un personaje."
     },
     "LhyeYCg0AdjUbXxr": {
       "name": "Maestro Marcial (3)",
-      "description": "El Conocimiento Marcial de un personaje con esta Ventaja es superior al de otros de su nivel. Usualmente, el personaje ha recibido entrenamiento especial que le ha permitido explorar sus habilidades de Ki, aunque también es posible que haya nacido con una enorme habilidad natural.\n\nEfectos: Añade 120 puntos al Conocimiento Marcial (CM) de un personaje.",
-      "cost": 3
+      "description": "El Conocimiento Marcial de un personaje con esta Ventaja es superior al de otros de su nivel. Usualmente, el personaje ha recibido entrenamiento especial que le ha permitido explorar sus habilidades de Ki, aunque también es posible que haya nacido con una enorme habilidad natural.\n\nEfectos: Añade 120 puntos al Conocimiento Marcial (CM) de un personaje."
     },
     "jeflOQgeZArnCt6D": {
       "name": "Convocador de Masas (1)",
-      "description": "Alguien con esta Ventaja es experto en invocar grandes cantidades de criaturas.\n\nEfectos: El personaje se considera que tiene un nivel adicional para invocar múltiples criaturas.",
-      "cost": 1
+      "description": "Alguien con esta Ventaja es experto en invocar grandes cantidades de criaturas.\n\nEfectos: El personaje se considera que tiene un nivel adicional para invocar múltiples criaturas."
     },
     "cm6c6D4kwo84Ah8F": {
       "name": "Convocador de Masas (2)",
-      "description": "Alguien con esta Ventaja es experto en invocar grandes cantidades de criaturas.\n\nEfectos: El personaje se considera que tiene dos niveles adicionales para invocar múltiples criaturas.",
-      "cost": 2
+      "description": "Alguien con esta Ventaja es experto en invocar grandes cantidades de criaturas.\n\nEfectos: El personaje se considera que tiene dos niveles adicionales para invocar múltiples criaturas."
     },
     "yp0strqduP0ZtRdi": {
       "name": "Convocador de Masas (3)",
-      "description": "Alguien con esta Ventaja es experto en invocar grandes cantidades de criaturas.\n\nEfectos: El personaje se considera que tiene tres niveles adicionales para invocar múltiples criaturas.",
-      "cost": 3
+      "description": "Alguien con esta Ventaja es experto en invocar grandes cantidades de criaturas.\n\nEfectos: El personaje se considera que tiene tres niveles adicionales para invocar múltiples criaturas."
     },
     "uwoLyABzQOkWua9n": {
       "name": "Sellos Magistrales",
-      "description": "Los Sellos de Invocación realizados por el personaje disfrutan de un poder inusual, ya que su alma refuerza enormemente sus efectos.\n\nEfectos: Al establecer la dificultad de una tirada de Invocación usando Sellos, el personaje se considera como dos niveles más. Así, un personaje de nivel 2 podría invocar criaturas como si fuera de nivel 4.",
-      "cost": 1
+      "description": "Los Sellos de Invocación realizados por el personaje disfrutan de un poder inusual, ya que su alma refuerza enormemente sus efectos.\n\nEfectos: Al establecer la dificultad de una tirada de Invocación usando Sellos, el personaje se considera como dos niveles más. Así, un personaje de nivel 2 podría invocar criaturas como si fuera de nivel 4."
     },
     "eJxkOGkfrbMPtAKj": {
       "name": "Mudo",
-      "description": "Un personaje con esta Desventaja es incapaz de hablar.\n\nEfectos: El personaje no puede hablar.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja es incapaz de hablar.\n\nEfectos: El personaje no puede hablar."
     },
     "oXTi9lSIevm0Klav": {
       "name": "Armadura Mística",
-      "description": "El aura del personaje forma una capa de energía mística que lo protege contra ataques sobrenaturales.\n\nEfectos: Otorga al personaje una armadura natural de 4 contra ataques basados en energía. Aunque cuenta como armadura, no se aplican penalizaciones por usar capas adicionales de armadura.",
-      "cost": 1
+      "description": "El aura del personaje forma una capa de energía mística que lo protege contra ataques sobrenaturales.\n\nEfectos: Otorga al personaje una armadura natural de 4 contra ataques basados en energía. Aunque cuenta como armadura, no se aplican penalizaciones por usar capas adicionales de armadura."
     },
     "ZPKxPU2Ced0xvR7P": {
       "name": "Armadura Natural",
-      "description": "El personaje tiene la piel extremadamente resistente y músculos muy duros, lo que hace que sea muy difícil penetrarlos.\n\nEfectos: Otorga armadura natural de 2 contra todas las clases de ataques excepto los basados en energía. Aunque cuenta como armadura, no se aplican penalizaciones por usar capas adicionales de armadura.",
-      "cost": 1
+      "description": "El personaje tiene la piel extremadamente resistente y músculos muy duros, lo que hace que sea muy difícil penetrarlos.\n\nEfectos: Otorga armadura natural de 2 contra todas las clases de ataques excepto los basados en energía. Aunque cuenta como armadura, no se aplican penalizaciones por usar capas adicionales de armadura."
     },
     "GBeYYXeApKcPdIiQ": {
       "name": "Conocimiento Natural de una Vía",
-      "description": "Un personaje con esta Ventaja posee la capacidad de lanzar ciertos hechizos de forma natural, sin necesidad de estudiarlos. Puede tejer inconscientemente los poderes del Flujo del Alma para una Vía, como si la Vía simplemente respondiera a sus habilidades. El personaje sabe usar los hechizos a la perfección, pero no comprende la teoría detrás de ellos ni puede explicarla a otros.\n\nEfectos: Esta Ventaja otorga conocimiento innato de una Vía al nivel 40 sin invertir puntos de Nivel Mágico. Al ser un conocimiento innato, el mago puede seguir desarrollándolo más allá del nivel 40 gastando nuevos puntos de Nivel de Vía.\n\nEspecial: Esta Ventaja puede adquirirse para diferentes Vías.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja posee la capacidad de lanzar ciertos hechizos de forma natural, sin necesidad de estudiarlos. Puede tejer inconscientemente los poderes del Flujo del Alma para una Vía, como si la Vía simplemente respondiera a sus habilidades. El personaje sabe usar los hechizos a la perfección, pero no comprende la teoría detrás de ellos ni puede explicarla a otros.\n\nEfectos: Esta Ventaja otorga conocimiento innato de una Vía al nivel 40 sin invertir puntos de Nivel Mágico. Al ser un conocimiento innato, el mago puede seguir desarrollándolo más allá del nivel 40 gastando nuevos puntos de Nivel de Vía.\n\nEspecial: Esta Ventaja puede adquirirse para diferentes Vías."
     },
     "OqNCc3r918Hi2uCZ": {
       "name": "Aprendizaje Innato (1)",
-      "description": "Los personajes con esta Ventaja mejoran de forma natural en una Habilidad Secundaria específica.\n\nEfectos: Otorga al personaje un modificador especial innato de +10 por nivel en una sola Habilidad Secundaria. Este modificador se suma a cualquier otro bono innato que el personaje reciba por su Categoria.",
-      "cost": 1
+      "description": "Los personajes con esta Ventaja mejoran de forma natural en una Habilidad Secundaria específica.\n\nEfectos: Otorga al personaje un modificador especial innato de +10 por nivel en una sola Habilidad Secundaria. Este modificador se suma a cualquier otro bono innato que el personaje reciba por su Categoria."
     },
     "p2BDo6hgBQ5E3OdW": {
       "name": "Aprendizaje Innato (2)",
-      "description": "Los personajes con esta Ventaja mejoran de forma natural en una Habilidad Secundaria específica.\n\nEfectos: Otorga al personaje un modificador especial innato de +20 por nivel en una sola Habilidad Secundaria. Este modificador se suma a cualquier otro bono innato que el personaje reciba por su Categoria.",
-      "cost": 2
+      "description": "Los personajes con esta Ventaja mejoran de forma natural en una Habilidad Secundaria específica.\n\nEfectos: Otorga al personaje un modificador especial innato de +20 por nivel en una sola Habilidad Secundaria. Este modificador se suma a cualquier otro bono innato que el personaje reciba por su Categoria."
     },
     "1GHIcMfO3VntuVCM": {
       "name": "Aprendizaje Innato (3)",
-      "description": "Characters with this Advantage naturally improve in a specific Secondary Ability.\n\nEffects: Grants a character an innate special modifier of +30 per level in a single Secondary Ability. Add this modifier to any other innate class-based bonus the character receives.",
-      "cost": 3
+      "description": "Characters with this Advantage naturally improve in a specific Secondary Ability.\n\nEffects: Grants a character an innate special modifier of +30 per level in a single Secondary Ability. Add this modifier to any other innate class-based bonus the character receives."
     },
     "wCPXcD2y9B6NoDik": {
       "name": "Aprendizaje Innato en un Campo (2)",
-      "description": "Como Aprendizaje Innato pero en este caso el personaje mejora en todas las Habilidades Secundarias que pertenecen a un determinado campo.\n\nEfectos: Otorga un bono especial de +5 por nivel a todas las Habilidades Secundarias de un campo. Este bono se suma a cualquier otro bono innato que el personaje reciba por su Categoria.",
-      "cost": 2
+      "description": "Como Aprendizaje Innato pero en este caso el personaje mejora en todas las Habilidades Secundarias que pertenecen a un determinado campo.\n\nEfectos: Otorga un bono especial de +5 por nivel a todas las Habilidades Secundarias de un campo. Este bono se suma a cualquier otro bono innato que el personaje reciba por su Categoria."
     },
     "STXEmTNwDwGU7aj4": {
       "name": "Aprendizaje Innato en un Campo (3)",
-      "description": "Como Aprendizaje Innato pero en este caso el personaje mejora en todas las Habilidades Secundarias que pertenecen a un determinado campo.\n\nEfectos: Otorga un bono especial de +10 por nivel a todas las Habilidades Secundarias de un campo. Este bono se suma a cualquier otro bono innato que el personaje reciba por su Categoria.",
-      "cost": 3
+      "description": "Como Aprendizaje Innato pero en este caso el personaje mejora en todas las Habilidades Secundarias que pertenecen a un determinado campo.\n\nEfectos: Otorga un bono especial de +10 por nivel a todas las Habilidades Secundarias de un campo. Este bono se suma a cualquier otro bono innato que el personaje reciba por su Categoria."
     },
     "1YKPwxa5vFjJZYzw": {
       "name": "Poder Natural",
-      "description": "El lanzador de hechizos realiza sus conjuros usando su poder espiritual, potenciándolo con su esencia en lugar de su conocimiento.\n\nEfecto: Para calcular su potencial máximo en los hechizos, el personaje usa su Característica de Poder en lugar de su Inteligencia. Esta ventaja no influye en el nivel de Vía, que continúa usando Inteligencia de la manera habitual.",
-      "cost": 1
+      "description": "El lanzador de hechizos realiza sus conjuros usando su poder espiritual, potenciándolo con su esencia en lugar de su conocimiento.\n\nEfecto: Para calcular su potencial máximo en los hechizos, el personaje usa su Característica de Poder en lugar de su Inteligencia. Esta ventaja no influye en el nivel de Vía, que continúa usando Inteligencia de la manera habitual."
     },
     "sbtp33uwjqTV0W7v": {
       "name": "Miopía",
-      "description": "Un personaje con esta Desventaja no puede ver bien. Muchas cosas las ve borrosas y tiene dificultad incluso para leer.\n\nEfectos: Aplica una penalización de –50 a cualquier tirada de Advertir y Buscar que use la vista, y un  –3 a cualquier control de Percepción que la requiera. Esta penalización también se aplica al apuntar. Un personaje puede reducir esta penalización en cierta medida (según lo determine el Director de Juego) al obtener gafas.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja no puede ver bien. Muchas cosas las ve borrosas y tiene dificultad incluso para leer.\n\nEfectos: Aplica una penalización de –50 a cualquier tirada de Advertir y Buscar que use la vista, y un  –3 a cualquier control de Percepción que la requiera. Esta penalización también se aplica al apuntar. Un personaje puede reducir esta penalización en cierta medida (según lo determine el Director de Juego) al obtener gafas."
     },
     "Mg4vdHGWNCExIoNs": {
       "name": "Visión Nocturna",
-      "description": "Esta Ventaja permite que un personaje vea en la oscuridad y se adapte rápidamente a cualquier cambio en la intensidad de la luz.\n\nEfectos: El personaje puede ignorar cualquier penalización causada por la oscuridad, excepto en el caso de oscuridad inducida mágicamente o ausencia total de luz, donde la penalización se reduce a la mitad.",
-      "cost": 1
+      "description": "Esta Ventaja permite que un personaje vea en la oscuridad y se adapte rápidamente a cualquier cambio en la intensidad de la luz.\n\nEfectos: El personaje puede ignorar cualquier penalización causada por la oscuridad, excepto en el caso de oscuridad inducida mágicamente o ausencia total de luz, donde la penalización se reduce a la mitad."
     },
     "ugpJVicdXe4FUwsU": {
       "name": "Sin Concentración",
-      "description": "Los poderes psíquicos de un personaje con esta Desventaja son demasiado poco confiables para que pueda planificar su uso con antelación.\n\nEfectos: Un psíquico con esta Desventaja no aplica bonificaciones a su potencial psíquico al concentrarse.",
-      "cost": 1
+      "description": "Los poderes psíquicos de un personaje con esta Desventaja son demasiado poco confiables para que pueda planificar su uso con antelación.\n\nEfectos: Un psíquico con esta Desventaja no aplica bonificaciones a su potencial psíquico al concentrarse."
     },
     "ZtiUnaageE59E95u": {
       "name": "Inutilidad Gestual",
-      "description": "El personaje no necesita hacer gestos para realizar Sellos de Invocación, ya que la esencia de estos está ligada directamente a su alma.\n\nEfectos: El personaje no reduce su Acumulación de Ki, incluso si no puede usar sus manos.",
-      "cost": 1
+      "description": "El personaje no necesita hacer gestos para realizar Sellos de Invocación, ya que la esencia de estos está ligada directamente a su alma.\n\nEfectos: El personaje no reduce su Acumulación de Ki, incluso si no puede usar sus manos."
     },
-    "4gHBYFN9IbpKtyMB": {
-      "name": "Oficial"
-    },
-    "Y01Z4C9CeXwGEhhc": {
+     "Y01Z4C9CeXwGEhhc": {
       "name": "Poder Único",
-      "description": "Los poderes psíquicos del personaje no le permiten usar varias habilidades a la vez. Si el personaje usa un poder, su concentración permanece tan intensa que no puede proyectar otros, excepto aquellos que se mantienen de forma inconsciente.\n\nEfectos: El personaje solo puede usar un poder psíquico por asalto. Esto no le impide continuar usando otros que estén activos, siempre que hayan comenzado en asaltos anteriores.",
-      "cost": 1
+      "description": "Los poderes psíquicos del personaje no le permiten usar varias habilidades a la vez. Si el personaje usa un poder, su concentración permanece tan intensa que no puede proyectar otros, excepto aquellos que se mantienen de forma inconsciente.\n\nEfectos: El personaje solo puede usar un poder psíquico por asalto. Esto no le impide continuar usando otros que estén activos, siempre que hayan comenzado en asaltos anteriores."
     },
     "JCwcUcJfG38AUD3O": {
       "name": "Magia Opuesta",
-      "description": "A diferencia de otros hechiceros, la naturaleza mágica del personaje se sostiene por poderes opuestos y antagónicos. Por lo tanto, puede usar con total naturalidad hechizos de Vías opuestas.\n\nEfectos: El personaje no duplica el coste de Nivel de Vía para aprender hechizos de Vías opuestas. Por ejemplo, podría aprender fácilmente hechizos de Luz y Oscuridad sin necesidad de duplicar los puntos invertidos.",
-      "cost": 1
+      "description": "A diferencia de otros hechiceros, la naturaleza mágica del personaje se sostiene por poderes opuestos y antagónicos. Por lo tanto, puede usar con total naturalidad hechizos de Vías opuestas.\n\nEfectos: El personaje no duplica el coste de Nivel de Vía para aprender hechizos de Vías opuestas. Por ejemplo, podría aprender fácilmente hechizos de Luz y Oscuridad sin necesidad de duplicar los puntos invertidos."
     },
     "Pwb2ODqwLsGYVSxZ": {
       "name": "Obligación Oral",
-      "description": "Un personaje con esta Desventaja solo puede lanzar hechizos si puede hablar.\n\nEfectos: El personaje debe poder hablar para acumular magia y para lanzar sus hechizos.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja solo puede lanzar hechizos si puede hablar.\n\nEfectos: El personaje debe poder hablar para acumular magia y para lanzar sus hechizos."
     },
     "c70aIgcIpbVyWQ7R": {
       "name": "Paria",
-      "description": "Por alguna razón, el personaje es completamente rechazado por la sociedad. La gente lo desprecia dondequiera que vaya y siempre evita su compañía.\n\nPuede pertenecer a una familia conocida por alta traición, haber sido acusado de múltiples crímenes atroces u otra razón que cause rechazo.\n\nEfectos: El personaje es considerado automáticamente un paria en todos los círculos sociales.",
-      "cost": 1
+      "description": "Por alguna razón, el personaje es completamente rechazado por la sociedad. La gente lo desprecia dondequiera que vaya y siempre evita su compañía.\n\nPuede pertenecer a una familia conocida por alta traición, haber sido acusado de múltiples crímenes atroces u otra razón que cause rechazo.\n\nEfectos: El personaje es considerado automáticamente un paria en todos los círculos sociales."
     },
     "OP3de5FpALsTYaqS": {
       "name": "Concentración Pasiva",
-      "description": "Un personaje con esta Ventaja puede concentrarse en cualquier situación, sin importar la dificultad o las complicaciones.\n\nEfectos: El psíquico puede concentrarse para canalizar un poder incluso mientras realiza acciones activas.",
-      "cost": 2
+      "description": "Un personaje con esta Ventaja puede concentrarse en cualquier situación, sin importar la dificultad o las complicaciones.\n\nEfectos: El psíquico puede concentrarse para canalizar un poder incluso mientras realiza acciones activas."
     },
     "m4YKQwNMBxiGPSTK": {
       "name": "Debilidad Física",
-      "description": "Un personaje con esta Desventaja es excepcionalmente débil físicamente; cada vez que recibe una herida crítica, tiene una alta probabilidad de morir o de sufrir daños irreversibles.\n\nEfectos: Reduce la Resistencia Física (RF) del personaje a la mitad.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja es excepcionalmente débil físicamente; cada vez que recibe una herida crítica, tiene una alta probabilidad de morir o de sufrir daños irreversibles.\n\nEfectos: Reduce la Resistencia Física (RF) del personaje a la mitad."
     },
     "qfCohZR8WT7C8aiO": {
       "name": "Aliado Poderoso (1)",
-      "description": "Hay alguien con un poder o influencia significativa que está dispuesto a ayudar al personaje en todo momento. Puede ser un noble importante, un gran señor del crimen o un poderoso mago, que no escatimará esfuerzos en apoyar al personaje cuando este necesite asistencia.\n\nEfectos: Los efectos de esta Ventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. El poder, la influencia y la fiabilidad del aliado dependen de la cantidad de Puntos de Creación PC invertidos en esta Ventaja. Como referencia, la Tabla 33 del suplemento Gaia I: Más allá de los Sueños proporciona una guía sobre el nivel de poder del aliado.",
-      "cost": 1
+      "description": "Hay alguien con un poder o influencia significativa que está dispuesto a ayudar al personaje en todo momento. Puede ser un noble importante, un gran señor del crimen o un poderoso mago, que no escatimará esfuerzos en apoyar al personaje cuando este necesite asistencia.\n\nEfectos: Los efectos de esta Ventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. El poder, la influencia y la fiabilidad del aliado dependen de la cantidad de Puntos de Creación PC invertidos en esta Ventaja. Como referencia, la Tabla 33 del suplemento Gaia I: Más allá de los Sueños proporciona una guía sobre el nivel de poder del aliado."
     },
     "Cj9fqBVwwRXpSH3s": {
       "name": "Aliado Poderoso (2)",
-      "description": "Hay alguien con un poder o influencia significativa que está dispuesto a ayudar al personaje en todo momento. Puede ser un noble importante, un gran señor del crimen o un poderoso mago, que no escatimará esfuerzos en apoyar al personaje cuando este necesite asistencia.\n\nEfectos: Los efectos de esta Ventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. El poder, la influencia y la fiabilidad del aliado dependen de la cantidad de Puntos de Creación PC invertidos en esta Ventaja. Como referencia, la Tabla 33 del suplemento Gaia I: Más allá de los Sueños proporciona una guía sobre el nivel de poder del aliado.",
-      "cost": 2
+      "description": "Hay alguien con un poder o influencia significativa que está dispuesto a ayudar al personaje en todo momento. Puede ser un noble importante, un gran señor del crimen o un poderoso mago, que no escatimará esfuerzos en apoyar al personaje cuando este necesite asistencia.\n\nEfectos: Los efectos de esta Ventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. El poder, la influencia y la fiabilidad del aliado dependen de la cantidad de Puntos de Creación PC invertidos en esta Ventaja. Como referencia, la Tabla 33 del suplemento Gaia I: Más allá de los Sueños proporciona una guía sobre el nivel de poder del aliado."
     },
     "t5q23SlVLjFMKw7L": {
       "name": "Aliado Poderoso (3)",
-      "description": "Hay alguien con un poder o influencia significativa que está dispuesto a ayudar al personaje en todo momento. Puede ser un noble importante, un gran señor del crimen o un poderoso mago, que no escatimará esfuerzos en apoyar al personaje cuando este necesite asistencia.\n\nEfectos: Los efectos de esta Ventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. El poder, la influencia y la fiabilidad del aliado dependen de la cantidad de Puntos de Creación PC invertidos en esta Ventaja. Como referencia, la Tabla 33 del suplemento Gaia I: Más allá de los Sueños proporciona una guía sobre el nivel de poder del aliado.",
-      "cost": 3
+      "description": "Hay alguien con un poder o influencia significativa que está dispuesto a ayudar al personaje en todo momento. Puede ser un noble importante, un gran señor del crimen o un poderoso mago, que no escatimará esfuerzos en apoyar al personaje cuando este necesite asistencia.\n\nEfectos: Los efectos de esta Ventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. El poder, la influencia y la fiabilidad del aliado dependen de la cantidad de Puntos de Creación PC invertidos en esta Ventaja. Como referencia, la Tabla 33 del suplemento Gaia I: Más allá de los Sueños proporciona una guía sobre el nivel de poder del aliado."
     },
     "TsDRxnQTIQyBsGcM": {
       "name": "Enemigo Poderoso (1)",
-      "description": "El personaje ha hecho un enemigo peligroso en el pasado que lo persigue implacablemente con la intención de matarlo algún día. Podría tratarse de un importante señor del crimen, o de la propia Inquisición, que lo considera un hereje o brujo y lo caza para eliminarlo.\n\nEfectos: Los efectos de esta Desventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. Naturalmente, cuanto mayor sea el beneficio obtenido al escogerla, más poderoso será el enemigo u organización que persigue al personaje. Como referencia, puede utilizarse la Tabla 33 del suplemento Gaia I: Más allá de los Sueños para determinar el nivel de poder del enemigo.",
-      "cost": 1
+      "description": "El personaje ha hecho un enemigo peligroso en el pasado que lo persigue implacablemente con la intención de matarlo algún día. Podría tratarse de un importante señor del crimen, o de la propia Inquisición, que lo considera un hereje o brujo y lo caza para eliminarlo.\n\nEfectos: Los efectos de esta Desventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. Naturalmente, cuanto mayor sea el beneficio obtenido al escogerla, más poderoso será el enemigo u organización que persigue al personaje. Como referencia, puede utilizarse la Tabla 33 del suplemento Gaia I: Más allá de los Sueños para determinar el nivel de poder del enemigo."
     },
     "DyxWF4XF8H01Pc8u": {
       "name": "Enemigo Poderoso (2)",
-      "description": "El personaje ha hecho un enemigo peligroso en el pasado que lo persigue implacablemente con la intención de matarlo algún día. Podría tratarse de un importante señor del crimen, o de la propia Inquisición, que lo considera un hereje o brujo y lo caza para eliminarlo.\n\nEfectos: Los efectos de esta Desventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. Naturalmente, cuanto mayor sea el beneficio obtenido al escogerla, más poderoso será el enemigo u organización que persigue al personaje. Como referencia, puede utilizarse la Tabla 33 del suplemento Gaia I: Más allá de los Sueños para determinar el nivel de poder del enemigo.",
-      "cost": 2
+      "description": "El personaje ha hecho un enemigo peligroso en el pasado que lo persigue implacablemente con la intención de matarlo algún día. Podría tratarse de un importante señor del crimen, o de la propia Inquisición, que lo considera un hereje o brujo y lo caza para eliminarlo.\n\nEfectos: Los efectos de esta Desventaja son exclusivamente narrativos y aplican solo en el ámbito del rol. Naturalmente, cuanto mayor sea el beneficio obtenido al escogerla, más poderoso será el enemigo u organización que persigue al personaje. Como referencia, puede utilizarse la Tabla 33 del suplemento Gaia I: Más allá de los Sueños para determinar el nivel de poder del enemigo."
     },
-    "7tQDEMXjanQAyuMe": {
-      "name": "Psíquicas"
-    },
-    "IEZCwLMi752dGz5j": {
+     "IEZCwLMi752dGz5j": {
       "name": "Ambivalencia Psíquica",
-      "description": "A través de sus capacidades psíquicas, el personaje se encuentra especialmente potenciado al utilizar más de un poder al mismo tiempo, obteniendo bonificaciones superiores a las de otros individuos con habilidades mentales.\n\nEfecto: Cuando el personaje divide su Potencial Psíquico para usar más de un poder por asalto, obtiene una bonificación acumulativa de +5 por cada poder que declare.",
-      "cost": 1
+      "description": "A través de sus capacidades psíquicas, el personaje se encuentra especialmente potenciado al utilizar más de un poder al mismo tiempo, obteniendo bonificaciones superiores a las de otros individuos con habilidades mentales.\n\nEfecto: Cuando el personaje divide su Potencial Psíquico para usar más de un poder por asalto, obtiene una bonificación acumulativa de +5 por cada poder que declare."
     },
-    "bVtMoPY9eqNFbIMI": {
-      "name": "Psíquicas"
-    },
-    "R9MJgkRsKdmZ96la": {
+     "R9MJgkRsKdmZ96la": {
       "name": "Consumición Psíquica",
-      "description": "Los poderes psíquicos de un personaje con esta Desventaja generan un fuerte retroceso en su cuerpo, provocando daños internos.\n\nEfectos: Si el personaje sufre un fallo psíquico, pierde automáticamente una cantidad de Puntos de Vida igual a la cantidad por la que falló.",
-      "cost": 2
+      "description": "Los poderes psíquicos de un personaje con esta Desventaja generan un fuerte retroceso en su cuerpo, provocando daños internos.\n\nEfectos: Si el personaje sufre un fallo psíquico, pierde automáticamente una cantidad de Puntos de Vida igual a la cantidad por la que falló."
     },
     "pwePcVAdfnTEOT2X": {
       "name": "Extenuación Psíquica",
-      "description": "Los poderes psíquicos de un personaje con esta Desventaja causan un gran esfuerzo físico sobre su cuerpo, dejándolo terriblemente exhausto incluso al utilizar habilidades psíquicas de bajo nivel.\n\nEfectos: El personaje pierde el doble de los puntos de Fatiga indicados cada vez que utiliza poderes psíquicos.",
-      "cost": 1
+      "description": "Los poderes psíquicos de un personaje con esta Desventaja causan un gran esfuerzo físico sobre su cuerpo, dejándolo terriblemente exhausto incluso al utilizar habilidades psíquicas de bajo nivel.\n\nEfectos: El personaje pierde el doble de los puntos de Fatiga indicados cada vez que utiliza poderes psíquicos."
     },
     "Jx3TRGmT0AseNUS2": {
       "name": "Resistencia a la Fatiga Psíquica",
-      "description": "Un personaje con esta Ventaja nunca experimenta fatiga al utilizar sus poderes psíquicos.\n\nEfectos: Si el personaje falla al usar uno de sus poderes, no pierde Puntos de Fatiga cuando ya ha consumido todos sus CV. Los poderes de nivel tres no se ven afectados por esta Ventaja.",
-      "cost": 2
+      "description": "Un personaje con esta Ventaja nunca experimenta fatiga al utilizar sus poderes psíquicos.\n\nEfectos: Si el personaje falla al usar uno de sus poderes, no pierde Puntos de Fatiga cuando ya ha consumido todos sus CV. Los poderes de nivel tres no se ven afectados por esta Ventaja."
     },
     "rnvoS2Bjm8kDOLVt": {
       "name": "Inmunidad Psíquica",
-      "description": "Un individuo con esta Ventaja es excepcionalmente resistente a las emociones y, por lo general, no se ve influenciado por miedos o deseos comunes.\n\nEfecto: El personaje recibe un bono de +60 a cualquier Chequeo de Frialdad relacionado con el control de su estado emocional.\n\nLimitaciones: Esta Ventaja no puede combinarse con las siguientes Desventajas: Adicción o Vicio Grave, Cobardía o Fobia Grave",
-      "cost": 1
+      "description": "Un individuo con esta Ventaja es excepcionalmente resistente a las emociones y, por lo general, no se ve influenciado por miedos o deseos comunes.\n\nEfecto: El personaje recibe un bono de +60 a cualquier Chequeo de Frialdad relacionado con el control de su estado emocional.\n\nLimitaciones: Esta Ventaja no puede combinarse con las siguientes Desventajas: Adicción o Vicio Grave, Cobardía o Fobia Grave"
     },
     "jSYCIudwTVs49n5h": {
       "name": "Desequilibrio Psíquico",
-      "description": "Un personaje con esta Ventaja ha desarrollado una de sus Disciplinas Psíquicas por encima del resto de sus habilidades.\n\nEfectos: El personaje obtiene automáticamente un nivel de dificultad adicional superior al normal al utilizar los poderes de una disciplina específica.",
-      "cost": 2
+      "description": "Un personaje con esta Ventaja ha desarrollado una de sus Disciplinas Psíquicas por encima del resto de sus habilidades.\n\nEfectos: El personaje obtiene automáticamente un nivel de dificultad adicional superior al normal al utilizar los poderes de una disciplina específica."
     },
     "5icihoKfJ0rsPNXR": {
       "name": "Recuperación de CV (1)",
-      "description": "Un personaje con esta Ventaja puede recuperarse fácilmente tras usar sus poderes psíquicos.\n\nEfectos: La tasa de recuperación de CV del personaje es de 1 punto cada 10 minutos.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja puede recuperarse fácilmente tras usar sus poderes psíquicos.\n\nEfectos: La tasa de recuperación de CV del personaje es de 1 punto cada 10 minutos."
     },
     "mXRgUhwnGnhBdU2N": {
       "name": "Recuperación de CV (2)",
-      "description": "Un personaje con esta Ventaja puede recuperarse fácilmente tras usar sus poderes psíquicos.\n\nEfectos: La tasa de recuperación de CV del personaje es de 1 punto cada 5 minutos.",
-      "cost": 2
+      "description": "Un personaje con esta Ventaja puede recuperarse fácilmente tras usar sus poderes psíquicos.\n\nEfectos: La tasa de recuperación de CV del personaje es de 1 punto cada 5 minutos."
     },
     "TePBW8Nf1OGIaCU9": {
       "name": "Recuperación de CV (3)",
-      "description": "Un personaje con esta Ventaja puede recuperarse fácilmente tras usar sus poderes psíquicos.\n\nEfectos: La tasa de recuperación de CV del personaje es de 1 punto cada minuto.",
-      "cost": 3
+      "description": "Un personaje con esta Ventaja puede recuperarse fácilmente tras usar sus poderes psíquicos.\n\nEfectos: La tasa de recuperación de CV del personaje es de 1 punto cada minuto."
     },
     "B1SFZqd0dCwIr1uX": {
       "name": "Reflejos Rápidos (1)",
-      "description": "El personaje tiene reflejos excepcionales que le permiten reaccionar rápidamente a cualquier situación.\n\nEfectos: Otorga un bono especial de +25 a la puntuación de Iniciativa del personaje.",
-      "cost": 1
+      "description": "El personaje tiene reflejos excepcionales que le permiten reaccionar rápidamente a cualquier situación.\n\nEfectos: Otorga un bono especial de +25 a la puntuación de Iniciativa del personaje."
     },
     "4UIPw7Q2Q2xom6GK": {
       "name": "Reflejos Rápidos (2)",
-      "description": "El personaje tiene reflejos excepcionales que le permiten reaccionar rápidamente a cualquier situación.\n\nEfectos: Otorga un bono especial de +45 a la puntuación de Iniciativa del personaje.",
-      "cost": 2
+      "description": "El personaje tiene reflejos excepcionales que le permiten reaccionar rápidamente a cualquier situación.\n\nEfectos: Otorga un bono especial de +45 a la puntuación de Iniciativa del personaje."
     },
     "8ueuPi4cwItKkvm4": {
       "name": "Reflejos Rápidos (3)",
-      "description": "El personaje tiene reflejos excepcionales que le permiten reaccionar rápidamente a cualquier situación.\n\nEfectos: Otorga un bono especial de +60 a la puntuación de Iniciativa del personaje.",
-      "cost": 3
+      "description": "El personaje tiene reflejos excepcionales que le permiten reaccionar rápidamente a cualquier situación.\n\nEfectos: Otorga un bono especial de +60 a la puntuación de Iniciativa del personaje."
     },
     "UM4FhNn2p2EZzth3": {
       "name": "Regeneración (Avanzada)",
-      "description": "Esta Ventaja aumenta la Regeneración del personaje en cuatro niveles",
-      "cost": 2
+      "description": "Esta Ventaja aumenta la Regeneración del personaje en cuatro niveles"
     },
     "XW1fEIgbg6ldMjwP": {
       "name": "Regeneración (Básica)",
-      "description": "Esta Ventaja aumenta la Regeneración del personaje en dos niveles",
-      "cost": 1
+      "description": "Esta Ventaja aumenta la Regeneración del personaje en dos niveles"
     },
     "LAQAIaKgmhUsmiSB": {
       "name": "Regeneración (Mayor)",
-      "description": "Esta Ventaja aumenta la Regeneración del personaje en seis niveles",
-      "cost": 3
+      "description": "Esta Ventaja aumenta la Regeneración del personaje en seis niveles"
     },
     "h07TC9WDZsr52ILS": {
       "name": "Repetir una Tirada de Característica",
-      "description": "Esta Ventaja permite a un jugador modificar una de las Características Primarias de su personaje.\n\nEfectos: El jugador puede tirar un dado adicional una vez haya generado las Características, y usar ese resultado en lugar de una de las tiradas anteriores. El nuevo número no puede ser inferior al resultado más bajo obtenido previamente por el personaje. en esa característica\n\nRestricción: Esta Ventaja no es compatible con el cuarto método de generación de Características.\n\nEspecial: Puedes adquirir esta Ventaja tantas veces como desees.",
-      "cost": 1
+      "description": "Esta Ventaja permite a un jugador modificar una de las Características Primarias de su personaje.\n\nEfectos: El jugador puede tirar un dado adicional una vez haya generado las Características, y usar ese resultado en lugar de una de las tiradas anteriores. El nuevo número no puede ser inferior al resultado más bajo obtenido previamente por el personaje. en esa característica\n\nRestricción: Esta Ventaja no es compatible con el cuarto método de generación de Características.\n\nEspecial: Puedes adquirir esta Ventaja tantas veces como desees."
     },
     "6FChrWT8aku08IwI": {
       "name": "Obligación Somática",
-      "description": "Un personaje con esta Desventaja debe tener libertad total de movimiento para poder controlar o utilizar sus hechizos.\n\nEfectos: El personaje debe poder gesticular libremente para acumular magia y lanzar hechizos.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja debe tener libertad total de movimiento para poder controlar o utilizar sus hechizos.\n\nEfectos: El personaje debe poder gesticular libremente para acumular magia y lanzar hechizos."
     },
     "V0DXA1NvoCH0BHQO": {
       "name": "Novato",
-      "description": "A diferencia de sus compañeros, el personaje cuenta con una cantidad muy limitada de experiencia. Por ello, sus habilidades en general son inferiores a las del resto.\n\nEfecto: El personaje comienza con 100 puntos de experiencia menos que los demás personajes del grupo. En el caso de que todos sean de nivel 1, quienes tengan esta Desventaja comenzarán en nivel 0, requiriendo un mínimo de tres sesiones de juego para alcanzar el nivel 1.\n\nLimitación: Esta Desventaja depende de la cantidad de personajes en el grupo. Solo un jugador (o dos, si hay cinco o más participantes) puede tomar esta Desventaja.",
-      "cost": 1
+      "description": "A diferencia de sus compañeros, el personaje cuenta con una cantidad muy limitada de experiencia. Por ello, sus habilidades en general son inferiores a las del resto.\n\nEfecto: El personaje comienza con 100 puntos de experiencia menos que los demás personajes del grupo. En el caso de que todos sean de nivel 1, quienes tengan esta Desventaja comenzarán en nivel 0, requiriendo un mínimo de tres sesiones de juego para alcanzar el nivel 1.\n\nLimitación: Esta Desventaja depende de la cantidad de personajes en el grupo. Solo un jugador (o dos, si hay cinco o más participantes) puede tomar esta Desventaja."
     },
     "8Z8nh5QWiBJOEMKj": {
       "name": "Santo",
-      "description": "El personaje ha recibido el título de Santo en nombre de la Iglesia, lo que significa que sus poderes son oficialmente un don divino y no una emanación demoníaca. Por lo tanto, está libre para usar sus habilidades sobrenaturales de manera limitada, sin temor a ser perseguido por la Inquisición o sufrir otras consecuencias. Es importante notar que, aunque la Iglesia suele mostrarse muy reacia a admitir que cometió un error con un nombramiento, esto no otorga al personaje un permiso absoluto. No solo está obligado a usar sus habilidades en público lo menos posible, sino que cualquier acción que la Iglesia pueda considerar malvada le quitaría inmediatamente este privilegio.\n\nEfectos: Los efectos de esta ventaja solo aplican para el juego de roles.\n\nLimitación: El personaje debe poseer algún tipo de Habilidad Sobrenatural o haber desarrollado Habilidades de Ki para poder tomar esta ventaja.",
-      "cost": 2
+      "description": "El personaje ha recibido el título de Santo en nombre de la Iglesia, lo que significa que sus poderes son oficialmente un don divino y no una emanación demoníaca. Por lo tanto, está libre para usar sus habilidades sobrenaturales de manera limitada, sin temor a ser perseguido por la Inquisición o sufrir otras consecuencias. Es importante notar que, aunque la Iglesia suele mostrarse muy reacia a admitir que cometió un error con un nombramiento, esto no otorga al personaje un permiso absoluto. No solo está obligado a usar sus habilidades en público lo menos posible, sino que cualquier acción que la Iglesia pueda considerar malvada le quitaría inmediatamente este privilegio.\n\nEfectos: Los efectos de esta ventaja solo aplican para el juego de roles.\n\nLimitación: El personaje debe poseer algún tipo de Habilidad Sobrenatural o haber desarrollado Habilidades de Ki para poder tomar esta ventaja."
     },
     "VmOL6M2eIWdqZnzh": {
       "name": "Seductor",
-      "description": "Un personaje con esta Ventaja irradia un magnetismo especial hacia los miembros del sexo opuesto, quienes normalmente lo encuentran atractivo de algún modo.\n\nEfecto: El personaje recibe un bonificador de +60 a las tiradas de Persuasión en todos los ámbitos relacionados con la seducción cuando interactúa con individuos del sexo opuesto. Cabe destacar que esta Ventaja no otorga ninguna capacidad mística o sobrenatural; simplemente proporciona un bonificador en situaciones donde la persuasión o la seducción ya sean posibles.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja irradia un magnetismo especial hacia los miembros del sexo opuesto, quienes normalmente lo encuentran atractivo de algún modo.\n\nEfecto: El personaje recibe un bonificador de +60 a las tiradas de Persuasión en todos los ámbitos relacionados con la seducción cuando interactúa con individuos del sexo opuesto. Cabe destacar que esta Ventaja no otorga ninguna capacidad mística o sobrenatural; simplemente proporciona un bonificador en situaciones donde la persuasión o la seducción ya sean posibles."
     },
     "BCiWmYWXNK0Qtud2": {
       "name": "Ver lo Sobrenatural",
-      "description": "Un personaje con esta Ventaja puede percibir el Flujo del Alma y, al mismo tiempo, la energía de las matrices psíquicas.\n\nEfectos: El personaje puede ver lo sobrenatural, incluyendo la magia, las matrices psíquicas y las criaturas espirituales. No aplica penalización por ceguera en ninguna de estas situaciones.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja puede percibir el Flujo del Alma y, al mismo tiempo, la energía de las matrices psíquicas.\n\nEfectos: El personaje puede ver lo sobrenatural, incluyendo la magia, las matrices psíquicas y las criaturas espirituales. No aplica penalización por ceguera en ninguna de estas situaciones."
     },
     "PXU3eHwMCemTyZzM": {
       "name": "Enfermedad Grave",
-      "description": "Un personaje con esta Desventaja sufre algún tipo de enfermedad degenerativa que acabará matándolo. Por lo general, le queda poco más de medio año de vida al comenzar la partida. Sin embargo, este período puede ser mayor o menor, según lo que el DJ necesite para que encaje en el marco temporal de su campaña. Un personaje con esta Desventaja no solo es perfectamente jugable, sino que también puede tener como objetivo adicional encontrar una cura para sí mismo.\n\nEfectos: El personaje aplica una penalización acumulativa de –10 a todas sus acciones por cada mes de tiempo de juego que transcurra. El DJ determina en secreto la fecha en la que el personaje morirá.",
-      "cost": 2
+      "description": "Un personaje con esta Desventaja sufre algún tipo de enfermedad degenerativa que acabará matándolo. Por lo general, le queda poco más de medio año de vida al comenzar la partida. Sin embargo, este período puede ser mayor o menor, según lo que el DJ necesite para que encaje en el marco temporal de su campaña. Un personaje con esta Desventaja no solo es perfectamente jugable, sino que también puede tener como objetivo adicional encontrar una cura para sí mismo.\n\nEfectos: El personaje aplica una penalización acumulativa de –10 a todas sus acciones por cada mes de tiempo de juego que transcurra. El DJ determina en secreto la fecha en la que el personaje morirá."
     },
     "3k4QHXk1BijO4Zti": {
       "name": "Alergia Grave",
-      "description": "Un personaje con esta Desventaja sufre algún tipo de alergia tan grave que, con solo entrar en contacto o inhalar el alérgeno, sufre una reacción alérgica severa que puede durar horas. Algunos ejemplos comunes de alergias incluyen al metal, al polen o incluso a la luz solar.\n\nEfectos: Al entrar en contacto con el alérgeno, el personaje sufre penalizaciones de entre –40 y –80 a todas sus acciones, dependiendo de la gravedad de la alergia o del tiempo de exposición al alérgeno.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja sufre algún tipo de alergia tan grave que, con solo entrar en contacto o inhalar el alérgeno, sufre una reacción alérgica severa que puede durar horas. Algunos ejemplos comunes de alergias incluyen al metal, al polen o incluso a la luz solar.\n\nEfectos: Al entrar en contacto con el alérgeno, el personaje sufre penalizaciones de entre –40 y –80 a todas sus acciones, dependiendo de la gravedad de la alergia o del tiempo de exposición al alérgeno."
     },
     "FGIbs3ZUPIQKGMKi": {
       "name": "Fobia Grave",
-      "description": "Un personaje con esta Desventaja experimenta un miedo terrible hacia algo específico, lo que lo obliga a comportarse de manera irracional en su presencia. La naturaleza exacta de la fobia queda a discreción del Director de Juego DJ.\n\nEfectos: El personaje sufre el Estado de Miedo cada vez que se encuentra con el objeto de su fobia.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja experimenta un miedo terrible hacia algo específico, lo que lo obliga a comportarse de manera irracional en su presencia. La naturaleza exacta de la fobia queda a discreción del Director de Juego DJ.\n\nEfectos: El personaje sufre el Estado de Miedo cada vez que se encuentra con el objeto de su fobia."
     },
     "cWrM4yt2ozeNXFOH": {
       "name": "Brujería",
-      "description": "La magia practicada por este personaje tiene un carácter tribal y chamánico. Sus poderes sobrenaturales están ligados al mundo material, y necesita ciertos componentes para canalizarlos y lanzar hechizos.\n\nEfectos: El personaje requiere componentes materiales para lanzar hechizos. Cada hechizo necesita un componente distinto, según lo determine el Director de Juego DJ, de acuerdo con su origen y el conocimiento del personaje.",
-      "cost": 2
+      "description": "La magia practicada por este personaje tiene un carácter tribal y chamánico. Sus poderes sobrenaturales están ligados al mundo material, y necesita ciertos componentes para canalizarlos y lanzar hechizos.\n\nEfectos: El personaje requiere componentes materiales para lanzar hechizos. Cada hechizo necesita un componente distinto, según lo determine el Director de Juego DJ, de acuerdo con su origen y el conocimiento del personaje."
     },
     "QZcKuRg2JZAXpmrV": {
       "name": "Esencia Sheele",
-      "description": "El personaje está espiritualmente ligado a las esencias Sheele, por lo que, si una queda vinculada a él, se vuelve mucho más poderosa de lo normal.\n\nEfectos: Si el personaje vincula una Sheele a sí mismo, puede otorgarle dos mejoras adicionales al sellar el vínculo.",
-      "cost": 1
+      "description": "El personaje está espiritualmente ligado a las esencias Sheele, por lo que, si una queda vinculada a él, se vuelve mucho más poderosa de lo normal.\n\nEfectos: Si el personaje vincula una Sheele a sí mismo, puede otorgarle dos mejoras adicionales al sellar el vínculo."
     },
     "SD0FWwMvWth90B5k": {
       "name": "Salud Enfermiza",
-      "description": "Un personaje con esta Desventaja sufre de mala salud y se enferma con facilidad.\n\nEfectos: Reduce la Resistencia a Enfermedades (RE) del personaje a la mitad.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja sufre de mala salud y se enferma con facilidad.\n\nEfectos: Reduce la Resistencia a Enfermedades (RE) del personaje a la mitad."
     },
     "HocXa61FNUrlLDBX": {
       "name": "Lenta Curación",
-      "description": "Un personaje con esta Desventaja posee una capacidad de recuperación muy baja y se recupera de las heridas con gran dificultad, incluso con ayuda sobrenatural.\n\nEfectos: El personaje recupera solo la mitad de los Puntos de Vida que debería, ya sea por medios normales o mágicos.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja posee una capacidad de recuperación muy baja y se recupera de las heridas con gran dificultad, incluso con ayuda sobrenatural.\n\nEfectos: El personaje recupera solo la mitad de los Puntos de Vida que debería, ya sea por medios normales o mágicos."
     },
     "Q8XJhM5AkKq08UWc": {
       "name": "Aprendizaje Lento (1)",
-      "description": "Un personaje con esta Desventaja no puede aprender tan rápido como un individuo normal.\n\nEfectos: El personaje sufre una penalización de –4 Puntos de Experiencia sobre los que le otorgue el GM al final de cada sesión.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja no puede aprender tan rápido como un individuo normal.\n\nEfectos: El personaje sufre una penalización de –4 Puntos de Experiencia sobre los que le otorgue el GM al final de cada sesión."
     },
     "BTNn0EeTnRD0CjHk": {
       "name": "Aprendizaje Lento (2)",
-      "description": "Un personaje con esta Desventaja no puede aprender tan rápido como un individuo normal.\n\nEfectos: El personaje sufre una penalización de –8 Puntos de Experiencia sobre los que le otorgue el GM al final de cada sesión.",
-      "cost": 2
+      "description": "Un personaje con esta Desventaja no puede aprender tan rápido como un individuo normal.\n\nEfectos: El personaje sufre una penalización de –8 Puntos de Experiencia sobre los que le otorgue el GM al final de cada sesión."
     },
     "K8Ph6g9t543RcR63": {
       "name": "Reacción Lenta (1)",
-      "description": "Los reflejos del personaje lo dejan poco preparado para responder rápidamente a los eventos.\n\nEfectos: El personaje aplica una penalización especial de –30 a su Iniciativa.",
-      "cost": 1
+      "description": "Los reflejos del personaje lo dejan poco preparado para responder rápidamente a los eventos.\n\nEfectos: El personaje aplica una penalización especial de –30 a su Iniciativa."
     },
     "lakj0NesfiVlaZdq": {
       "name": "Reacción Lenta (2)",
-      "description": "Los reflejos del personaje lo dejan poco preparado para responder rápidamente a los eventos.\n\nEfectos: El personaje aplica una penalización especial de –60 a su Iniciativa.",
-      "cost": 2
+      "description": "Los reflejos del personaje lo dejan poco preparado para responder rápidamente a los eventos.\n\nEfectos: El personaje aplica una penalización especial de –60 a su Iniciativa."
     },
     "CzydAijypjBO1JKT": {
       "name": "Lenta Recuperación de Magia",
-      "description": "La magia tiene problemas para atravesar la esencia del mago; experimenta dificultades para recuperar el poder que ha utilizado.\n\nEfectos: Reduce a la mitad la regeneración de Zeón del personaje.",
-      "cost": 1
+      "description": "La magia tiene problemas para atravesar la esencia del mago; experimenta dificultades para recuperar el poder que ha utilizado.\n\nEfectos: Reduce a la mitad la regeneración de Zeón del personaje."
     },
     "sv847xyo2MRDwduH": {
       "name": "Posición Social (1)",
-      "description": "Esto representa que el personaje pertenece a la clase más alta de la sociedad, un estatus superior de nobleza. Por lo tanto, comenzará con un título prestigioso y una considerable fortuna personal. Es importante señalar que no necesita ser el jefe de una casa real; puede ser uno de los herederos.\n\nEfectos: Además de sus evidentes efectos para la interpretación, esta ventaja otorga al personaje acceso a las clases “privilegiadas” de cada principado, sin necesidad de tirar dados. En consecuencia, su valor en Puntos de Creación dependerá del valor de la clase en cuestión.",
-      "cost": 1
+      "description": "Esto representa que el personaje pertenece a la clase más alta de la sociedad, un estatus superior de nobleza. Por lo tanto, comenzará con un título prestigioso y una considerable fortuna personal. Es importante señalar que no necesita ser el jefe de una casa real; puede ser uno de los herederos.\n\nEfectos: Además de sus evidentes efectos para la interpretación, esta ventaja otorga al personaje acceso a las clases “privilegiadas” de cada principado, sin necesidad de tirar dados. En consecuencia, su valor en Puntos de Creación dependerá del valor de la clase en cuestión."
     },
     "ocYfqganzaotAi7W": {
       "name": "Posición Social (2)",
-      "description": "Esto representa que el personaje pertenece a la clase más alta de la sociedad, un estatus superior de nobleza. Por lo tanto, comenzará con un título prestigioso y una considerable fortuna personal. Es importante señalar que no necesita ser el jefe de una casa real; puede ser uno de los herederos.\n\nEfectos: Además de sus evidentes efectos para la interpretación, esta ventaja otorga al personaje acceso a las clases “privilegiadas” de cada principado, sin necesidad de tirar dados. En consecuencia, su valor en Puntos de Creación dependerá del valor de la clase en cuestión.",
-      "cost": 2
+      "description": "Esto representa que el personaje pertenece a la clase más alta de la sociedad, un estatus superior de nobleza. Por lo tanto, comenzará con un título prestigioso y una considerable fortuna personal. Es importante señalar que no necesita ser el jefe de una casa real; puede ser uno de los herederos.\n\nEfectos: Además de sus evidentes efectos para la interpretación, esta ventaja otorga al personaje acceso a las clases “privilegiadas” de cada principado, sin necesidad de tirar dados. En consecuencia, su valor en Puntos de Creación dependerá del valor de la clase en cuestión."
     },
     "3ev40Qjq02wsKWO7": {
       "name": "Fondos Iniciales (1)",
-      "description": "Efectos: Esta Ventaja proporciona dinero inicial o equipo valorado en 2,000 coronas de oro (MO).\n\nRestricción: El Director de Juego puede preferir otorgar una cantidad diferente de dinero, adaptada a su partida. En este caso, tanto el DJ como el jugador deberán decidir la cantidad.",
-      "cost": 1
+      "description": "Efectos: Esta Ventaja proporciona dinero inicial o equipo valorado en 2,000 coronas de oro (MO).\n\nRestricción: El Director de Juego puede preferir otorgar una cantidad diferente de dinero, adaptada a su partida. En este caso, tanto el DJ como el jugador deberán decidir la cantidad."
     },
     "g1qeRaUCffdwPJXR": {
       "name": "Fondos Iniciales (2)",
-      "description": "Efectos: Esta Ventaja proporciona dinero inicial o equipo valorado en 5,000 coronas de oro (MO).\n\nRestricción: El Director de Juego puede preferir otorgar una cantidad diferente de dinero, adaptada a su partida. En este caso, tanto el DJ como el jugador deberán decidir la cantidad.",
-      "cost": 2
+      "description": "Efectos: Esta Ventaja proporciona dinero inicial o equipo valorado en 5,000 coronas de oro (MO).\n\nRestricción: El Director de Juego puede preferir otorgar una cantidad diferente de dinero, adaptada a su partida. En este caso, tanto el DJ como el jugador deberán decidir la cantidad."
     },
     "rADsaYwhSlDIXxel": {
       "name": "Fondos Iniciales (3)",
-      "description": "Efectos: Esta Ventaja proporciona dinero inicial o equipo valorado en 10,000 coronas de oro (MO).\n\nRestricción: El Director de Juego puede preferir otorgar una cantidad diferente de dinero, adaptada a su partida. En este caso, tanto el DJ como el jugador deberán decidir la cantidad.",
-      "cost": 3
+      "description": "Efectos: Esta Ventaja proporciona dinero inicial o equipo valorado en 10,000 coronas de oro (MO).\n\nRestricción: El Director de Juego puede preferir otorgar una cantidad diferente de dinero, adaptada a su partida. En este caso, tanto el DJ como el jugador deberán decidir la cantidad."
     },
     "h87oHfpjlu1OK6YS": {
       "name": "Recuperación Superior de Magia (1)",
-      "description": "La esencia de un personaje con esta Ventaja actúa como un imán para la magia, y es capaz de regenerar su poder a un ritmo más rápido que otros individuos místicos.\n\nEfectos: El personaje recupera su Zeon al doble de su tasa normal de regeneración Zeónica.",
-      "cost": 1
+      "description": "La esencia de un personaje con esta Ventaja actúa como un imán para la magia, y es capaz de regenerar su poder a un ritmo más rápido que otros individuos místicos.\n\nEfectos: El personaje recupera su Zeon al doble de su tasa normal de regeneración Zeónica."
     },
     "j6H8Ekkgo5O6mjgo": {
       "name": "Recuperación Superior de Magia (2)",
-      "description": "La esencia de un personaje con esta Ventaja actúa como un imán para la magia, y es capaz de regenerar su poder a un ritmo más rápido que otros individuos místicos.\n\nEfectos: El personaje recupera su Zeon al triple de su tasa normal de regeneración Zeónica.",
-      "cost": 1
+      "description": "La esencia de un personaje con esta Ventaja actúa como un imán para la magia, y es capaz de regenerar su poder a un ritmo más rápido que otros individuos místicos.\n\nEfectos: El personaje recupera su Zeon al triple de su tasa normal de regeneración Zeónica."
     },
     "zslN71O3fP2c5FxL": {
       "name": "Recuperación Superior de Magia (3)",
-      "description": "La esencia de un personaje con esta Ventaja actúa como un imán para la magia, y es capaz de regenerar su poder a un ritmo más rápido que otros individuos místicos.\n\nEfectos: El personaje recupera su Zeon al cuadruple de su tasa normal de regeneración Zeónica.",
-      "cost": 3
+      "description": "La esencia de un personaje con esta Ventaja actúa como un imán para la magia, y es capaz de regenerar su poder a un ritmo más rápido que otros individuos místicos.\n\nEfectos: El personaje recupera su Zeon al cuadruple de su tasa normal de regeneración Zeónica."
     },
     "4mSrS0j4giPH8LNt": {
       "name": "Inmunidad Sobrenatural (1)",
-      "description": "Debido a la propia naturaleza de este personaje, la magia le es anatematizada. Por lo tanto, ignora muchos hechizos y efectos sobrenaturales, como si lo místico quedara completamente anulado en su presencia. Según el nivel de esta ventaja, el personaje puede ignorar efectos cada vez más poderosos.\n\nEfecto: Un personaje con esta ventaja ignora automáticamente cualquier hechizo lanzado sobre él con un valor zeónico de 60 o menos. De igual forma, es inmune a cualquier efecto místico que le obligue a realizar una tirada contra una Resistencia Mágica de 80 o menos. Sin embargo, esto solo le permite evitar los efectos directos de la magia, no los efectos derivados de ella. Por ejemplo, si una Descarga de Luz provoca que un techo se derrumbe sobre el personaje, este seguirá siendo sepultado normalmente.",
-      "cost": 1
+      "description": "Debido a la propia naturaleza de este personaje, la magia le es anatematizada. Por lo tanto, ignora muchos hechizos y efectos sobrenaturales, como si lo místico quedara completamente anulado en su presencia. Según el nivel de esta ventaja, el personaje puede ignorar efectos cada vez más poderosos.\n\nEfecto: Un personaje con esta ventaja ignora automáticamente cualquier hechizo lanzado sobre él con un valor zeónico de 60 o menos. De igual forma, es inmune a cualquier efecto místico que le obligue a realizar una tirada contra una Resistencia Mágica de 80 o menos. Sin embargo, esto solo le permite evitar los efectos directos de la magia, no los efectos derivados de ella. Por ejemplo, si una Descarga de Luz provoca que un techo se derrumbe sobre el personaje, este seguirá siendo sepultado normalmente."
     },
     "KobVsct5tyKM7OZs": {
       "name": "Inmunidad Sobrenatural (2)",
-      "description": "Debido a la propia naturaleza de este personaje, la magia le es anatematizada. Por lo tanto, ignora muchos hechizos y efectos sobrenaturales, como si lo místico quedara completamente anulado en su presencia. Según el nivel de esta ventaja, el personaje puede ignorar efectos cada vez más poderosos.\n\nEfecto: Un personaje con esta ventaja ignora automáticamente cualquier hechizo lanzado sobre él con un valor zeónico de 90 o menos. De igual forma, es inmune a cualquier efecto místico que le obligue a realizar una tirada contra una Resistencia Mágica de 100 o menos. Sin embargo, esto solo le permite evitar los efectos directos de la magia, no los efectos derivados de ella. Por ejemplo, si una Descarga de Luz provoca que un techo se derrumbe sobre el personaje, este seguirá siendo sepultado normalmente.",
-      "cost": 2
+      "description": "Debido a la propia naturaleza de este personaje, la magia le es anatematizada. Por lo tanto, ignora muchos hechizos y efectos sobrenaturales, como si lo místico quedara completamente anulado en su presencia. Según el nivel de esta ventaja, el personaje puede ignorar efectos cada vez más poderosos.\n\nEfecto: Un personaje con esta ventaja ignora automáticamente cualquier hechizo lanzado sobre él con un valor zeónico de 90 o menos. De igual forma, es inmune a cualquier efecto místico que le obligue a realizar una tirada contra una Resistencia Mágica de 100 o menos. Sin embargo, esto solo le permite evitar los efectos directos de la magia, no los efectos derivados de ella. Por ejemplo, si una Descarga de Luz provoca que un techo se derrumbe sobre el personaje, este seguirá siendo sepultado normalmente."
     },
     "7LlFRcIRnCQ0kwpM": {
       "name": "Inmunidad Sobrenatural (3)",
-      "description": "Debido a la propia naturaleza de este personaje, la magia le es anatematizada. Por lo tanto, ignora muchos hechizos y efectos sobrenaturales, como si lo místico quedara completamente anulado en su presencia. Según el nivel de esta ventaja, el personaje puede ignorar efectos cada vez más poderosos.\n\nEfecto: Un personaje con esta ventaja ignora automáticamente cualquier hechizo lanzado sobre él con un valor zeónico de 100 o menos. De igual forma, es inmune a cualquier efecto místico que le obligue a realizar una tirada contra una Resistencia Mágica de 120 o menos. Sin embargo, esto solo le permite evitar los efectos directos de la magia, no los efectos derivados de ella. Por ejemplo, si una Descarga de Luz provoca que un techo se derrumbe sobre el personaje, este seguirá siendo sepultado normalmente.",
-      "cost": 3
+      "description": "Debido a la propia naturaleza de este personaje, la magia le es anatematizada. Por lo tanto, ignora muchos hechizos y efectos sobrenaturales, como si lo místico quedara completamente anulado en su presencia. Según el nivel de esta ventaja, el personaje puede ignorar efectos cada vez más poderosos.\n\nEfecto: Un personaje con esta ventaja ignora automáticamente cualquier hechizo lanzado sobre él con un valor zeónico de 100 o menos. De igual forma, es inmune a cualquier efecto místico que le obligue a realizar una tirada contra una Resistencia Mágica de 120 o menos. Sin embargo, esto solo le permite evitar los efectos directos de la magia, no los efectos derivados de ella. Por ejemplo, si una Descarga de Luz provoca que un techo se derrumbe sobre el personaje, este seguirá siendo sepultado normalmente."
     },
     "T4PtFiq8jNqQVIWh": {
       "name": "Superviviente",
-      "description": "Sin importar lo peligrosa que sea la situación, un personaje con esta ventaja posee una habilidad especial para sobrevivir cuando está al borde de la muerte.\n\nEfecto: El personaje puede soportar Puntos de Vida negativos hasta diez veces su valor de Constitución, en lugar de cinco. Además, aplica un bono de +40 a su Tirada de Resistencia Física para intentar estabilizarse. Una vez fuera de la delgada línea entre la vida y la muerte, su Penalización en Todas las Acciones es sólo –30, en lugar de –60. Si se aplican las reglas opcionales de Puntos de Vida negativos, el +40 se añade a los controles de Resistencia Física para resistir.",
-      "cost": 1
+      "description": "Sin importar lo peligrosa que sea la situación, un personaje con esta ventaja posee una habilidad especial para sobrevivir cuando está al borde de la muerte.\n\nEfecto: El personaje puede soportar Puntos de Vida negativos hasta diez veces su valor de Constitución, en lugar de cinco. Además, aplica un bono de +40 a su Tirada de Resistencia Física para intentar estabilizarse. Una vez fuera de la delgada línea entre la vida y la muerte, su Penalización en Todas las Acciones es sólo –30, en lugar de –60. Si se aplican las reglas opcionales de Puntos de Vida negativos, el +40 se añade a los controles de Resistencia Física para resistir."
     },
     "vT5P9Dtz86bh6jrQ": {
       "name": "Vulnerable a la Magia",
-      "description": "Un personaje con esta Desventaja es fácilmente afectado por energías mágicas.\n\nEfectos: Reduce a la mitad la Resistencia Mágica RM del personaje.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja es fácilmente afectado por energías mágicas.\n\nEfectos: Reduce a la mitad la Resistencia Mágica RM del personaje."
     },
     "eiuO4hHASxVXGsTR": {
       "name": "Vulnerabilidad a los Venenos",
-      "description": "Un personaje con esta Desventaja no puede combatir los efectos negativos de ningún tipo de sustancia dañina.\n\nEfectos: Reduce a la mitad la Resistencia a Venenos (RV) del personaje.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja no puede combatir los efectos negativos de ningún tipo de sustancia dañina.\n\nEfectos: Reduce a la mitad la Resistencia a Venenos (RV) del personaje."
     },
     "5hTZoewbn3o0Wd9F": {
       "name": "Habilidoso",
-      "description": "Esta habilidad muestra que el personaje siempre ha tenido ciertas destrezas manuales muy superiores a su Destreza natural.\n\nEfecto: El personaje obtiene un bono especial de +30 a la habilidad de Truco de Manos y puede aplicar un +3 a cualquier control de Destreza.",
-      "cost": 1
+      "description": "Esta habilidad muestra que el personaje siempre ha tenido ciertas destrezas manuales muy superiores a su Destreza natural.\n\nEfecto: El personaje obtiene un bono especial de +30 a la habilidad de Truco de Manos y puede aplicar un +3 a cualquier control de Destreza."
     },
     "i1YAOA6UkwDnLSC4": {
       "name": "Don",
-      "description": "El personaje puede sentir y controlar las energías sobrenaturales inherentes a su propia alma. La magia fluye a través de su espíritu, y con el conocimiento adecuado, el personaje con esta Ventaja podrá lanzar hechizos.\n\nEfectos: El personaje puede ver y usar magia. Además, recibe un bono especial de +10 a su Resistencia Mágica RM, ya que su naturaleza sobrenatural le permite resistir mejor los efectos místicos.",
-      "cost": 2
+      "description": "El personaje puede sentir y controlar las energías sobrenaturales inherentes a su propia alma. La magia fluye a través de su espíritu, y con el conocimiento adecuado, el personaje con esta Ventaja podrá lanzar hechizos.\n\nEfectos: El personaje puede ver y usar magia. Además, recibe un bono especial de +10 a su Resistencia Mágica RM, ya que su naturaleza sobrenatural le permite resistir mejor los efectos místicos."
     },
     "IcPXwsDDdeFatWRq": {
       "name": "Al límite",
-      "description": "Cuando se encuentra al borde de la muerte, el personaje entra en un estado de desesperación que lo impulsa a superar sus capacidades normales.\n\nEfecto: Cuando los Puntos de Vida del personaje se reducen por debajo de un cuarto de su total, recibe un bono de +20 a Todas las Acciones. Este modificador solo se aplica en situaciones donde el personaje pone en riesgo su vida o la de otros.",
-      "cost": 1
+      "description": "Cuando se encuentra al borde de la muerte, el personaje entra en un estado de desesperación que lo impulsa a superar sus capacidades normales.\n\nEfecto: Cuando los Puntos de Vida del personaje se reducen por debajo de un cuarto de su total, recibe un bono de +20 a Todas las Acciones. Este modificador solo se aplica en situaciones donde el personaje pone en riesgo su vida o la de otros."
     },
     "IOCAOZ2knT7gZY9d": {
       "name": "Acumulación Plena",
-      "description": "El personaje está dotado con la habilidad de acumular su energía física de forma innata, sin necesidad de concentrarse para ello. En consecuencia, puede utilizar su Ki con total libertad, sin que sus poderes se vean reducidos por ninguna circunstancia.\n\nEfectos: El personaje no reduce sus Acumulaciones de Ki por realizar acciones pasivas o activas. A efectos de juego, siempre se considera que disfruta de su Acumulación completa, sin importar lo que haga durante su turno.",
-      "cost": 2
+      "description": "El personaje está dotado con la habilidad de acumular su energía física de forma innata, sin necesidad de concentrarse para ello. En consecuencia, puede utilizar su Ki con total libertad, sin que sus poderes se vean reducidos por ninguna circunstancia.\n\nEfectos: El personaje no reduce sus Acumulaciones de Ki por realizar acciones pasivas o activas. A efectos de juego, siempre se considera que disfruta de su Acumulación completa, sin importar lo que haga durante su turno."
     },
     "nBvPxE4BXe4VkCch": {
       "name": "Tocado por el Destino",
-      "description": "Hay algo especial en el personaje que le permite influir de forma inusual en los resultados de algunas de sus acciones —un toque de suerte o de genialidad que le permite aprovechar oportunidades en momentos de gran importancia.\n\nEfecto: Una vez por sesión de juego, al realizar cualquier tipo de chequeo o prueba, el jugador puede repetir una de sus tiradas de dado y quedarse con el mejor resultado.\n\nLimitación: Esta ventaja puede adquirirse tantas veces como se desee. Por cada vez que el personaje la adquiera, obtiene un uso adicional por sesión de juego; por lo tanto, un personaje que tenga “Tocado por el Destino” dos veces podrá usar la habilidad dos veces por sesión.",
-      "cost": 1
+      "description": "Hay algo especial en el personaje que le permite influir de forma inusual en los resultados de algunas de sus acciones —un toque de suerte o de genialidad que le permite aprovechar oportunidades en momentos de gran importancia.\n\nEfecto: Una vez por sesión de juego, al realizar cualquier tipo de chequeo o prueba, el jugador puede repetir una de sus tiradas de dado y quedarse con el mejor resultado.\n\nLimitación: Esta ventaja puede adquirirse tantas veces como se desee. Por cada vez que el personaje la adquiera, obtiene un uso adicional por sesión de juego; por lo tanto, un personaje que tenga “Tocado por el Destino” dos veces podrá usar la habilidad dos veces por sesión."
     },
     "uHAFTSth0HsoNxnN": {
       "name": "Aspecto Desagradable",
-      "description": "Un personaje con esta Desventaja sufre deformidades terribles que lo hacen extremadamente desagradable a la vista.\n\nEfectos: Esta Desventaja reduce la Apariencia del personaje a 2.\n\nRestricciones: El personaje debe tener una Apariencia mínima de 7 antes de aplicar esta desventaja. y esta característica debe haber sido generada mediante una tirada de dado, no elegida libremente por el jugador.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja sufre deformidades terribles que lo hacen extremadamente desagradable a la vista.\n\nEfectos: Esta Desventaja reduce la Apariencia del personaje a 2.\n\nRestricciones: El personaje debe tener una Apariencia mínima de 7 antes de aplicar esta desventaja. y esta característica debe haber sido generada mediante una tirada de dado, no elegida libremente por el jugador."
     },
     "wUcvduJRaFY1HPBn": {
       "name": "Tamaño Innatural",
-      "description": "Un personaje con esta Ventaja posee un Tamaño inusual en relación con su Fuerza y Constitución, lo que permite que alguien que debería ser una masa colosal de músculos sea de pequeña estatura… o al revés.\n\nEfectos: El jugador puede aumentar o disminuir el Tamaño de su personaje hasta 5 puntos durante la creación del personaje.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja posee un Tamaño inusual en relación con su Fuerza y Constitución, lo que permite que alguien que debería ser una masa colosal de músculos sea de pequeña estatura… o al revés.\n\nEfectos: El jugador puede aumentar o disminuir el Tamaño de su personaje hasta 5 puntos durante la creación del personaje."
     },
     "bTed714nFvqOeXKe": {
       "name": "Ténicas Desvinculadas",
-      "description": "Las Técnicas del personaje están completamente desconectadas entre sí, sin necesidad de mantener una estructura correlacionada entre ellas.\n\nEfectos: El personaje puede desarrollar o aprender Técnicas de Dominio libremente, sin necesidad de seguir las reglas del Árbol. Es decir, no necesita Técnicas de nivel inferior para poder aprender otras de nivel superior.",
-      "cost": 1
+      "description": "Las Técnicas del personaje están completamente desconectadas entre sí, sin necesidad de mantener una estructura correlacionada entre ellas.\n\nEfectos: El personaje puede desarrollar o aprender Técnicas de Dominio libremente, sin necesidad de seguir las reglas del Árbol. Es decir, no necesita Técnicas de nivel inferior para poder aprender otras de nivel superior."
     },
     "y14Oi16nuiioLmT1": {
       "name": "Desafortunado",
-      "description": "La desgracia persigue al personaje dondequiera que vaya. Le suceden cosas terribles sin importar cuánto intente evitarlas.\n\nEfectos: El Director de Juego deberá interpretar los límites de esta Desventaja. En un grupo, un personaje Desafortunado será siempre aquel que “aleatoriamente” caiga en la trampa, y será el primero en ser atacado cuando el azar decida quién recibe el primer golpe.",
-      "cost": 1
+      "description": "La desgracia persigue al personaje dondequiera que vaya. Le suceden cosas terribles sin importar cuánto intente evitarlas.\n\nEfectos: El Director de Juego deberá interpretar los límites de esta Desventaja. En un grupo, un personaje Desafortunado será siempre aquel que “aleatoriamente” caiga en la trampa, y será el primero en ser atacado cuando el azar decida quién recibe el primer golpe."
     },
     "2TQMJQh8N9J0Ywie": {
       "name": "Sin Límite de Familiares",
-      "description": "La esencia del personaje se comparte con todas las criaturas que convoca a su servicio, permitiéndole establecer un vínculo de familiaridad con cualquiera de ellas en lugar de estar limitado a una sola entidad. De algún modo, el personaje se convierte en uno con todos los seres que lo acompañan, volviéndolos una parte indispensable de su ser.\n\nEfecto: El personaje ya no está limitado a tener un solo familiar. Puede crear un Lazo de unidad con tantas criaturas como desee.",
-      "cost": 2
+      "description": "La esencia del personaje se comparte con todas las criaturas que convoca a su servicio, permitiéndole establecer un vínculo de familiaridad con cualquiera de ellas en lugar de estar limitado a una sola entidad. De algún modo, el personaje se convierte en uno con todos los seres que lo acompañan, volviéndolos una parte indispensable de su ser.\n\nEfecto: El personaje ya no está limitado a tener un solo familiar. Puede crear un Lazo de unidad con tantas criaturas como desee."
     },
     "SsIuDpt2HzEzYyvA": {
       "name": "Destino Aciago",
-      "description": "La fatalidad ha extendido su sombra sobre el personaje. No importa cuánto se esfuerce, sus acciones nunca se ven favorecidas por la suerte excepcional ni por un momento de brillantez. Parece que el propio destino le ha dado la espalda.\n\nEfecto: El personaje es incapaz de obtener una Tirada Abierta, sin importar lo que haya sacado en los dados.",
-      "cost": 2
+      "description": "La fatalidad ha extendido su sombra sobre el personaje. No importa cuánto se esfuerce, sus acciones nunca se ven favorecidas por la suerte excepcional ni por un momento de brillantez. Parece que el propio destino le ha dado la espalda.\n\nEfecto: El personaje es incapaz de obtener una Tirada Abierta, sin importar lo que haya sacado en los dados."
     },
     "40jo3M07TmBzT33r": {
       "name": "Inutilidad Oral",
-      "description": "Un personaje con esta Ventaja no necesita hablar para controlar los poderes del Flujo de Almas.\n\nEfectos: El personaje puede lanzar hechizos en completo silencio sin reducir su ACT a la mitad.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja no necesita hablar para controlar los poderes del Flujo de Almas.\n\nEfectos: El personaje puede lanzar hechizos en completo silencio sin reducir su ACT a la mitad."
     },
     "qyl7ui2YPQwRLLFv": {
       "name": "Infatigable (1)",
-      "description": "Un personaje con esta Ventaja posee una resistencia superior en relación con lo que indicaría su Constitución.\n\nEfectos: El jugador puede añadir 3 puntos al Cansancio de su personaje.",
-      "cost": 1
+      "description": "Un personaje con esta Ventaja posee una resistencia superior en relación con lo que indicaría su Constitución.\n\nEfectos: El jugador puede añadir 3 puntos al Cansancio de su personaje."
     },
     "rrJPBLAtHMbmljAi": {
       "name": "Infatigable (2)",
-      "description": "Un personaje con esta Ventaja posee una resistencia superior en relación con lo que indicaría su Constitución.\n\nEfectos: El jugador puede añadir 6 puntos al Cansancio de su personaje.",
-      "cost": 2
+      "description": "Un personaje con esta Ventaja posee una resistencia superior en relación con lo que indicaría su Constitución.\n\nEfectos: El jugador puede añadir 6 puntos al Cansancio de su personaje."
     },
     "rNKjvIH6vbnbPxld": {
       "name": "Infatigable (3)",
-      "description": "Un personaje con esta Ventaja posee una resistencia superior en relación con lo que indicaría su Constitución.\n\nEfectos: El jugador puede añadir 9 puntos al Cansancio de su personaje.",
-      "cost": 3
+      "description": "Un personaje con esta Ventaja posee una resistencia superior en relación con lo que indicaría su Constitución.\n\nEfectos: El jugador puede añadir 9 puntos al Cansancio de su personaje."
     },
     "vZhRowhvn8gpuI9l": {
       "name": "Uso de Armadura (1)",
-      "description": "El personaje tiene una competencia natural para aprender a usar y llevar armadura, sin importar su Categoría.\n\nEfecto: Cada vez que el personaje sube de nivel, recibe un bono innato de +5 a la Habilidad Primaria de Combate Llevar Armadura, que se suma a cualquier otro bono que el personaje pueda obtener por su Categoría.",
-      "cost": 1
+      "description": "El personaje tiene una competencia natural para aprender a usar y llevar armadura, sin importar su Categoría.\n\nEfecto: Cada vez que el personaje sube de nivel, recibe un bono innato de +5 a la Habilidad Primaria de Combate Llevar Armadura, que se suma a cualquier otro bono que el personaje pueda obtener por su Categoría."
     },
     "7IIg7N7SaQigzGmt": {
       "name": "Uso de Armadura (2)",
-      "description": "El personaje tiene una competencia natural para aprender a usar y llevar armadura, sin importar su Categoría.\n\nEfecto: Cada vez que el personaje sube de nivel, recibe un bono innato de +10 a la Habilidad Primaria de Combate Llevar Armadura, que se suma a cualquier otro bono que el personaje pueda obtener por su Categoría.",
-      "cost": 2
+      "description": "El personaje tiene una competencia natural para aprender a usar y llevar armadura, sin importar su Categoría.\n\nEfecto: Cada vez que el personaje sube de nivel, recibe un bono innato de +10 a la Habilidad Primaria de Combate Llevar Armadura, que se suma a cualquier otro bono que el personaje pueda obtener por su Categoría."
     },
     "IbF4ZF7I3QxZGYrz": {
       "name": "Uso de Armadura (3)",
-      "description": "El personaje tiene una competencia natural para aprender a usar y llevar armadura, sin importar su Categoría.\n\nEfecto: Cada vez que el personaje sube de nivel, recibe un bono innato de +15 a la Habilidad Primaria de Combate Llevar Armadura, que se suma a cualquier otro bono que el personaje pueda obtener por su Categoría.",
-      "cost": 3
+      "description": "El personaje tiene una competencia natural para aprender a usar y llevar armadura, sin importar su Categoría.\n\nEfecto: Cada vez que el personaje sube de nivel, recibe un bono innato de +15 a la Habilidad Primaria de Combate Llevar Armadura, que se suma a cualquier otro bono que el personaje pueda obtener por su Categoría."
     },
     "0vVJ1InaCotoZBoB": {
       "name": "Versátil",
-      "description": "El personaje puede adaptarse fácilmente al cambio y sabe cómo enfocar su vida de una manera diferente. Por lo tanto, le resulta más fácil cambiar de Categoría.\n\nEfecto: Cuando el personaje desea cambiar a una nueva Categoría, el coste en Puntos de Desarrollo se reduce a la mitad, y no tiene que esperar dos niveles para realizar el cambio. En otras palabras, un personaje con esta ventaja solo necesita gastar 10 Puntos de Desarrollo para cambiar a una Categoría diferente dentro del mismo Arquetipo, o 20 Puntos de Desarrollo si una o ambas Categorías son mixtas y comparten al menos un Arquetipo común, o 30 Puntos de Desarrollo para cambiar a una nueva Categoría en un Arquetipo diferente al de la Categoría original.",
-      "cost": 1
+      "description": "El personaje puede adaptarse fácilmente al cambio y sabe cómo enfocar su vida de una manera diferente. Por lo tanto, le resulta más fácil cambiar de Categoría.\n\nEfecto: Cuando el personaje desea cambiar a una nueva Categoría, el coste en Puntos de Desarrollo se reduce a la mitad, y no tiene que esperar dos niveles para realizar el cambio. En otras palabras, un personaje con esta ventaja solo necesita gastar 10 Puntos de Desarrollo para cambiar a una Categoría diferente dentro del mismo Arquetipo, o 20 Puntos de Desarrollo si una o ambas Categorías son mixtas y comparten al menos un Arquetipo común, o 30 Puntos de Desarrollo para cambiar a una nueva Categoría en un Arquetipo diferente al de la Categoría original."
     },
     "XBgzTrOCLSYDgIda": {
       "name": "Versatilidad Metamágica",
-      "description": "El personaje tiene facilidad para desarrollar muchas ventajas diferentes de Metamagia.\n\nEfectos: El personaje puede elegir dos puntos de partida diferentes en la Arcana Shephirah.",
-      "cost": 1
+      "description": "El personaje tiene facilidad para desarrollar muchas ventajas diferentes de Metamagia.\n\nEfectos: El personaje puede elegir dos puntos de partida diferentes en la Arcana Shephirah."
     },
     "LRHp19kywjoKWTjQ": {
       "name": "Vulnerable al Frío",
-      "description": "Un personaje con esta Desventaja es particularmente vulnerable al calor o al frío (a elección del jugador).\n\nEfectos: El personaje sufre una penalización de –80 a cualquier Resistencia contra el elemento elegido y –30 a todas las acciones en climas extremos.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja es particularmente vulnerable al calor o al frío (a elección del jugador).\n\nEfectos: El personaje sufre una penalización de –80 a cualquier Resistencia contra el elemento elegido y –30 a todas las acciones en climas extremos."
     },
     "pW9YOfQbDop9F1ZK": {
       "name": "Vulnerable al Calor",
-      "description": "Un personaje con esta Desventaja es particularmente vulnerable al calor o al frío (a elección del jugador).\n\nEfectos: El personaje sufre una penalización de –80 a cualquier Resistencia contra el elemento elegido y –30 a todas las acciones en climas extremos.",
-      "cost": 1
+      "description": "Un personaje con esta Desventaja es particularmente vulnerable al calor o al frío (a elección del jugador).\n\nEfectos: El personaje sufre una penalización de –80 a cualquier Resistencia contra el elemento elegido y –30 a todas las acciones en climas extremos."
     },
     "4sf7DF2bPaAQbwVc": {
       "name": "Vulnerable al Dolor",
-      "description": "El personaje no tiene resistencia al dolor físico, lo que le provoca terror.\n\nEfectos: Duplica cualquier penalización causada por el dolor, incluyendo las producidas por efectos críticos o sobrenaturales.",
-      "cost": 1
+      "description": "El personaje no tiene resistencia al dolor físico, lo que le provoca terror.\n\nEfectos: Duplica cualquier penalización causada por el dolor, incluyendo las producidas por efectos críticos o sobrenaturales."
     },
     "ErwnC4Gh0Hg5USsI": {
       "name": "Sin Bonificador Natural",
-      "description": "El personaje no tiene un talento especial para aprovechar sus Características y, en cambio, depende de sus capacidades aprendidas.\n\nEfecto: Esta desventaja hace que el personaje nunca aplique sus bonificaciones naturales al subir de nivel.",
-      "cost": 1
+      "description": "El personaje no tiene un talento especial para aprovechar sus Características y, en cambio, depende de sus capacidades aprendidas.\n\nEfecto: Esta desventaja hace que el personaje nunca aplique sus bonificaciones naturales al subir de nivel."
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "label": "Referencias",
+  "label": "references",
   "mapping": {
     "description": "system.description"
   },
   "entries": {
     "UM2pxtVK3EP6Rl4Y": {
-      "name": "Diario de reglas de Referencia",
+      "name": "Rules Reference Journal",
       "description": null
     }
   }
