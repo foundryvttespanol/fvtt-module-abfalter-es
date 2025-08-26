@@ -35,14 +35,17 @@
   "entries": {
     "Omin2NdZdS9SJfFw": {
       "name": "Inmunidad Absoluta",
+      "description": null,
       "shortDesc": "Los Noth ignoran automáticamente cualquier chequeo de Resistencia, sin importar su naturaleza u origen. Para todos los efectos, se considera que lo han superado."
     },
     "UKXYDuBgIbFA9kx3": {
       "name": "Acceso a una Disciplina Psíquica",
+      "description": null,
       "shortDesc": "El ser puede usar sus CV para adquirir afinidad con una única disciplina psíquica y utilizar sus poderes. Los elementales de fuego no pueden usar poderes de crioquinesis, y viceversa."
     },
     "BnMWEV7Q4UJOiuI8": {
       "name": "Acceso a Disciplinas Psíquicas",
+      "description": null,
       "shortDesc": "El ser puede usar sus CV para adquirir afinidad con varias disciplinas psíquicas y utilizar sus poderes. Los elementales de fuego no pueden usar poderes de crioquinesis, y viceversa."
     },
     "zuZ2Ay0du3Ce62LI": {
@@ -52,21 +55,22 @@
     },
     "Hcv2iERSHw0XqSI6": {
       "name": "Sentidos Agudos: [Sentido]",
+      "description": null,
       "shortDesc": "Uno de sus cinco sentidos está especialmente desarrollado. Por lo tanto, aplica un bono de +30 a cualquier tirada de Habilidad Secundaria basada en Percepción que implique su uso."
     },
     "NDfVFzoR2xCRYNBN": {
       "name": "Punto Vulnerable Adicional",
+      "description": null,
       "shortDesc": "El ser tiene un punto vulnerable adicional (aparte de la cabeza y el corazón) que es fácilmente accesible para los atacantes."
-    },
-    "MIPHnb3Fbg0aLjps": {
-      "name": "Ventajas"
     },
     "17ndleWB9e3uFh4D": {
       "name": "Seres Extraplanares",
+      "description": null,
       "shortDesc": "Los Noth no están basados ni siguen ninguna de las reglas de la existencia. Por lo tanto, tienen ciertas características únicas que todos poseen. En primer lugar, los Noth pueden dañar a cualquier criatura, sin importar ninguna inmunidad especial que esta pueda tener. Esto afecta tanto a poderes innatos, hechizos o incluso capacidades gnósticas, sin importar su valor o grado."
     },
     "A555ma8GBSWz25vv": {
       "name": "Ambidiestro",
+      "description": null,
       "shortDesc": "El ser puede realizar maniobras con cualquiera de las dos manos. En combate, solo sufre –10 a los ataques con un arma adicional."
     },
     "T1fWMRsOVZL1kxRX": {
@@ -76,10 +80,12 @@
     },
     "GdWl3Pi5jPN5aRAh": {
       "name": "Respiración Acuática",
+      "description": null,
       "shortDesc": "El ser puede respirar bajo el agua sin ninguna dificultad."
     },
     "r9nrancnylpj0NjM": {
       "name": "Miembros Atrofiados",
+      "description": null,
       "shortDesc": "El ser carece de extremidades utilizables o las que posee no pueden usarse correctamente, aplicando una penalización de –60 a cualquier chequeo físico que las requiera. Si las extremidades afectadas son las piernas, se aplica una penalización de –6 a su Valor de Movimiento. \n\nNo puede ser seleccionada por ánimas."
     },
     "hdgKKrCd4jwbSL4P": {
@@ -104,18 +110,22 @@
     },
     "ikYSaW7MsRtiaYvn": {
       "name": "Metamorfismo Básico",
+      "description": null,
       "shortDesc": "Permite la modificación de ciertos rasgos corporales de forma limitada, como los rasgos faciales o el color de la piel."
     },
     "QiK1KjFuJ84NkBkN": {
       "name": "Ciego",
+      "description": null,
       "shortDesc": "No posee el sentido de la vista ni cuenta con algún método sobrenatural para ver. Siempre aplicará la penalización por Ceguera."
     },
     "QwSacCPNe4TztlqP": {
       "name": "Pautas de Combate",
+      "description": null,
       "shortDesc": "La Máquina puede adaptarse a las tácticas de combate de un individuo tras enfrentarlo durante un periodo prolongado. Así, si alguien lucha durante más de tres asaltos consecutivos contra componentes de la Máquina, estos reciben un +10 a cualquier tirada de combate contra ese oponente a partir del inicio del cuarto asalto. Este bono aumenta gradualmente con el tiempo, hasta +20 si el enfrentamiento dura más de 10 asaltos, y hasta +30 si continúa durante más de un minuto. Este bono finaliza una vez concluido el combate."
     },
     "YPRpmsoIVFpWhokO": {
       "name": "Visión Nocturna Completa",
+      "description": null,
       "shortDesc": "La oscuridad no afecta en absoluto su capacidad para ver, ni siquiera la oscuridad sobrenatural."
     },
     "XuCvAFPv1pHZegUP": {
@@ -123,30 +133,29 @@
       "description": "Los hechizos de ataque de un personaje con esta ventaja se vuelven más poderosos cuando colisionan contra otra descarga sobrenatural.\n",
       "shortDesc": "El ser aplica un bono de +50 a su tirada para calcular el resultado de un Choque de conjuros contra otra descarga."
     },
-    "CvCmAFXdJXNdpf2j": {
-      "name": "Poderes de Criatura"
-    },
     "4o2yaL05T7oCt5Lb": {
       "name": "Barrera de Daño [100]",
+      "description": null,
       "shortDesc": "Por alguna razón, el ser es inmune a las armas físicas que producen un daño base inferior a 100. En términos de juego, aplican las reglas de barrera de daño descritas en el Capítulo 14. Esta ventaja no funciona contra ataques capaces de afectar energía."
     },
     "lkLlwjVgLU94ySg8": {
       "name": "Barrera de Daño [120]",
+      "description": null,
       "shortDesc": "Por alguna razón, el ser es inmune a las armas físicas que producen un daño base inferior a 120. En términos de juego, aplican las reglas de barrera de daño descritas en el Capítulo 14. Esta ventaja no funciona contra ataques capaces de afectar energía."
     },
     "kDudOauZrErYRjwQ": {
       "name": "Barrera de Daño [160]",
+      "description": null,
       "shortDesc": "Por alguna razón, el ser es inmune a las armas físicas que producen un daño base inferior a 160. En términos de juego, aplican las reglas de barrera de daño descritas en el Capítulo 14. Esta ventaja no funciona contra ataques capaces de afectar energía."
     },
     "ZumNlY4Kyg1zHApL": {
       "name": "Barrera de Daño [80]",
+      "description": null,
       "shortDesc": "Por alguna razón, el ser es inmune a las armas físicas que producen un daño base inferior a 80. En términos de juego, aplican las reglas de barrera de daño descritas en el Capítulo 14. Esta ventaja no funciona contra ataques capaces de afectar energía."
-    },
-    "zBan51or3SjHnDCk": {
-      "name": "Barrera de Daño"
     },
     "JrZHx8iJd7NmYzk0": {
       "name": "Dañar Energía",
+      "description": null,
       "shortDesc": "Este poder permite dañar a seres basados en energía de la misma forma que la habilidad Ki Extrusión de Presencia. Afecta a todos los ataques que realiza."
     },
     "aesVnURVf5DqktpF": {
@@ -156,43 +165,54 @@
     },
     "AH8f9xM4SFSFV3sc": {
       "name": "Destrucción",
+      "description": null,
       "shortDesc": "Un Noth no soporta daño más allá de su resistencia natural. Si en algún momento sus Puntos de Vida llegan a cero, es destruido automáticamente y desaparece sin dejar rastro."
     },
     "j2Cm1pzCrsCw5BjC": {
-      "name": "Desventajas"
+      "name": "Desventajas",
+      "description": ""
     },
     "fgf58Qw2FMPzzT3h": {
       "name": "Características Físicas Divinas",
+      "description": null,
       "shortDesc": "El DJ puede asignar cualquier valor a las Características físicas (FUE, DES, AGI, CON)."
     },
     "4f70PjB1vnhzw97X": {
       "name": "Características Anímicas Divinas",
+      "description": null,
       "shortDesc": "El DJ puede asignar cualquier valor a las Características espirituales (INT, POD, VOL, PER)."
     },
     "FNzMOcczki4fOX0F": {
       "name": "No Respira",
+      "description": null,
       "shortDesc": "El ser no necesita respirar para vivir."
     },
     "yhuof6zfixP80Xqk": {
       "name": "No se Alimenta",
+      "description": null,
       "shortDesc": "El ser no necesita comer para vivir."
     },
     "6z2uuIq76kmLCf5y": {
       "name": "No Duerme",
+      "description": null,
       "shortDesc": "El ser no tiene la necesidad de dormir. Puede quedar inconsciente de manera normal."
     },
     "P4YaTUytDo5QKcX8": {
       "name": "Forma Elemental",
+      "description": null,
       "shortDesc": "El ser posee las habilidades descritas en los hechizos forma elemental de su respectiva Vía."
     },
     "x9Ei1rr6sVv8nAFV": {
-      "name": "Forma Inmaterial"
+      "name": "Forma Elemental o Inmaterial",
+      "description": ""
     },
     "8QhDj9RUqTvcCit3": {
-      "name": "Habilidades Esenciales"
+      "name": "Habilidades Esenciales",
+      "description": ""
     },
     "iIEwkLQwwlX7HZbX": {
       "name": "Visión Extrasensorial",
+      "description": null,
       "shortDesc": "El ser no necesita ojos para percibir lo que lo rodea. Para todos los efectos, “siente” su entorno como si pudiera ver normalmente, por lo que no se aplican penalizaciones a sus tiradas que usen la visión, como condiciones de oscuridad o ángulo de visión. No obstante, sigue sin poder ver a través de paredes u objetos físicos similares."
     },
     "MydOpL4H5BRwzj5A": {
@@ -202,10 +222,12 @@
     },
     "knWm0whxCeFNKpP3": {
       "name": "Necesidad Extrema",
+      "description": null,
       "shortDesc": "El ser tiene una necesidad de índole física para sobrevivir. Por ejemplo, requiere algo específico, como consumir hierro; si no lo hace en un período determinado, muere automáticamente."
     },
     "Pn6h9dSsE4BKqEb3": {
       "name": "Resistencia al Cansancio",
+      "description": null,
       "shortDesc": "Esta Ventaja otorga dos puntos adicionales de Cansancio.\n\nPuede adquirirse varias veces para obtener mayores beneficios."
     },
     "I4kWdlyHCDZxweIJ": {
@@ -215,10 +237,12 @@
     },
     "aMaBwl7s1KcLmr8d": {
       "name": "Movimiento Libre",
+      "description": null,
       "shortDesc": "El ser es capaz de moverse sin respetar ninguna de las reglas de la gravedad, siempre que haya un punto de apoyo. Otorga la habilidad de caminar por paredes o incluso por el techo."
     },
     "N90k7TbB0BQtgsTL": {
       "name": "Movimiento Libre por la Naturaleza",
+      "description": null,
       "shortDesc": "El ser es capaz de avanzar por áreas de jungla y bosque sin penalizaciones al movimiento."
     },
     "wU3FaAgiVTQOZfJj": {
@@ -233,22 +257,27 @@
     },
     "2nr7DogeSFNpZYRv": {
       "name": "Inmune a Fenómenos Climáticos",
+      "description": null,
       "shortDesc": "Por muy extremo que sea el clima, el ser no sufre ningún tipo de problema por estar expuesto a él."
     },
     "qW44z89HBuO0R2wL": {
       "name": "Inmune a Enfermedades Naturales",
+      "description": null,
       "shortDesc": "Ninguna enfermedad natural puede afectar al ser. Sin embargo, cualquier patógeno dañino que provenga de un ser con Gnosis mayor a 10, o que haya sido creado por medios místicos, continuará afectándolo normalmente."
     },
     "c4EwzKY6pnRtmfua": {
       "name": "Inmune a Venenos Naturales",
+      "description": null,
       "shortDesc": "Ningún veneno natural puede afectar al ser. Sin embargo, cualquier sustancia dañina que provenga de un ser con Gnosis mayor a 10, o que haya sido creada por medios místicos, continuará afectándola normalmente."
     },
     "VQbv0p2xvV5JX8w0": {
       "name": "Inmune al Dolor",
+      "description": null,
       "shortDesc": "El ser es completamente insensible al dolor. Ignora cualquier penalización a todas acción que normalmente sufriría como resultado de Críticos (excepto aquellas causadas por la pérdida o destrucción de un miembro), así como condiciones similares provocadas por efectos sobrenaturales."
     },
     "Qa1UhybTNweSWWEg": {
       "name": "Inmunidad",
+      "description": null,
       "shortDesc": "Del mismo modo, es extremadamente difícil dañar o incluso afectar a los Noth, ya que solo entidades o artefactos con un poder existencial superior pueden “tocarlos”. Los seres que no pueden verlos no pueden hacerles daño de ninguna forma, y aquellos cuya Gnosis sea al menos 10 puntos superior a su Natura o tengan una Gnosis natural de 30 solo infligirán la mitad del daño con sus ataques. Solo quienes tengan una Gnosis 15 puntos superior a su Natura o una Gnosis natural de 35 o más podrán dañar a los Noth normalmente. Esto también se aplica a las armas con un poder extremadamente alto; sin importar si pueden o no afectar a seres sobrenaturales, solo las armas con un poder existencial superior pueden dañar a los Noth, ya sea parcialmente o en su totalidad."
     },
     "57oQMqBkMMdxJpIs": {
@@ -258,26 +287,32 @@
     },
     "aIJ8VBa3FSIlQyRW": {
       "name": "Resistencia Física Excepcional [+10]",
+      "description": null,
       "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE)."
     },
     "1yUTSRLveyZmDuHw": {
       "name": "Resistencia Física Excepcional [+20]",
+      "description": null,
       "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE)."
     },
     "Ynd9vmaXmnVQib3m": {
       "name": "Resistencia Física Excepcional [+30]",
+      "description": null,
       "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE)."
     },
     "B4kjc4pBmU2okw3J": {
       "name": "Resistencia Física Excepcional [+40]",
+      "description": null,
       "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE)."
     },
     "oy3zBnNiafdK53kK": {
       "name": "Resistencia Física Excepcional [+50]",
+      "description": null,
       "shortDesc": "El ser está especialmente preparado para resistir efectos físicos. Por lo tanto, aplica un bono a sus tres resistencias físicas (RF, RV o RE)."
     },
     "KecpNx9KS90cZGWY": {
-      "name": "Resistencia Física Excepcional"
+      "name": "Resistencia Física Excepcional",
+      "description": ""
     },
     "FQcjzg4fnfAsEgEB": {
       "name": "Modificador psíquico incrementado",
@@ -286,13 +321,16 @@
     },
     "fHoJft4ijk2OafJs": {
       "name": "Reacción Incrementada [+30]",
+      "description": null,
       "shortDesc": "Indica el bono que se suma a la iniciativa del ser en combate, ya sea al usar sus armas físicas, hechizos u otras habilidades especiales."
     },
     "8HWhiZvw5thvxp4E": {
-      "name": "Reacción Incrementada"
+      "name": "Reacción Incrementada",
+      "description": ""
     },
     "JhaDiEHkHMNt0StV": {
       "name": "Inhumanidad",
+      "description": null,
       "shortDesc": "Esta habilidad permite al ser realizar tareas físicas que serían imposibles para un ser humano. La Inhumanidad le permite al ser contar cualquier resultado de nivel Inhumano que logre en la Tabla de Dificultad y aprovechar al máximo las capacidades que le otorgan sus Características."
     },
     "Z314MyRYrAwgmhET": {
@@ -301,14 +339,17 @@
       "shortDesc": "Al calcular sus puntos iniciales de Ki, en lugar de usar el valor básico de sus Características, el ser utiliza únicamente su atributo de Poder y multiplica por seis la cantidad que este le otorga. Los puntos adicionales por tener un valor de Característica superior a 10 también se multiplican.\n\nLímites: Este Ventaja solo puede ser elegida si se utilizan las reglas opcionales de Unificación de Puntos de Ki."
     },
     "yNIrcDWczIeTduD8": {
-      "name": "Poderes Sobrenaturales Innatos"
+      "name": "Poderes Sobrenaturales Innatos",
+      "description": ""
     },
     "5dmKIBIswjtaNebK": {
       "name": "Interacción con el Mundo",
+      "description": null,
       "shortDesc": "A pesar de ser inmaterial, si lo desea puede tocar objetos en el mundo físico. Incluso es capaz de atacar, ya sea usando sus armas naturales o empleando objetos materiales."
     },
     "agZipYCHASkwfBAo": {
-      "name": "Invisibilidad e Indetecciones"
+      "name": "Invisibilidad e Indetecciones",
+      "description": ""
     },
     "YGFqVHJbPRWtspoh": {
       "name": "Recuperación de KI",
@@ -317,10 +358,12 @@
     },
     "JohTITufNNIV3jzX": {
       "name": "Carencia de un Sentido",
+      "description": null,
       "shortDesc": "El ser carece de un sentido distinto a la vista y no puede realizar tiradas de percepción que lo requieran."
     },
     "UIejSdGrDoX6KyVs": {
-      "name": "Seres de la Máquina"
+      "name": "Poderes de la Máquina",
+      "description": ""
     },
     "aAWydEU6LAohRJOJ": {
       "name": "Magia Estanca",
@@ -328,10 +371,12 @@
       "shortDesc": "El ser carece de regeneración Zeónica y no recupera de forma natural los puntos de Zeón que consume. Solo recupera magia drenando objetos que lo permitan o seres vivos que posean el Don."
     },
     "nzvmyb1otpBWVhkJ": {
-      "name": "Ventajas Mágicas/Psíquicas"
+      "name": "Ventajas Mágicas/Psíquicas",
+      "description": ""
     },
     "W04761hPtK3izNdj": {
-      "name": "Desventajas Mágicas/Psíquicas"
+      "name": "Desventajas Mágicas/Psíquicas",
+      "description": ""
     },
     "fHTF6Ama4oGr70qJ": {
       "name": "Extenuación Mágica",
@@ -339,59 +384,74 @@
       "shortDesc": "El ser pierde un punto de Cansancio cuando lanza un Hechizo con un coste superior a 100, 2 puntos si supera 200 y 3 puntos si supera 300."
     },
     "moaLCSN9Ab0UtSLT": {
-      "name": "Metamorfofosis"
+      "name": "Metamorfosis",
+      "description": ""
     },
     "zQYEFfG8jpcuEQkK": {
-      "name": "Desplazamientos y Transportes"
+      "name": "Desplazamientos y Transportes",
+      "description": ""
     },
     "1NojbQiLTyfQWsH6": {
       "name": "Movimiento sin Peso",
+      "description": null,
       "shortDesc": "El ser se desplaza sin dificultad por lugares donde ninguna criatura física podría pasar, como permanecer de pie sobre una rama, caminar sobre el agua o incluso sobre las nubes."
     },
     "yLgZnBSxUWAl9USM": {
-      "name": "Resistencias Místicas y Psíquicas"
+      "name": "Resistencias Místicas y Psíquicas",
+      "description": ""
     },
     "N54zLSsZwF3IAT1L": {
       "name": "Vuelo Místico [12]",
+      "description": null,
       "shortDesc": "El ser es capaz de volar de forma sobrenatural. Por lo tanto, puede elevarse en cualquier condición y no es derribado, incluso si sufre un crítico."
     },
     "wLszltfuCyWtl9o0": {
       "name": "Vuelo Místico [2]",
+      "description": null,
       "shortDesc": "El ser es capaz de volar de forma sobrenatural. Por lo tanto, puede elevarse en cualquier condición y no es derribado, incluso si sufre un crítico."
     },
     "OYdt8yJi5dhXtXOJ": {
       "name": "Vuelo Místico [8]",
+      "description": null,
       "shortDesc": "El ser es capaz de volar de forma sobrenatural. Por lo tanto, puede elevarse en cualquier condición y no es derribado, incluso si sufre un crítico."
     },
     "iiZMfPwd7aFlxHxp": {
-      "name": "Vuelo M´stico"
+      "name": "Vuelo Místico",
+      "description": null
     },
     "06uGd0FCL8nrAcUI": {
       "name": "Resistencia Mísica Excepcional [+20]",
+      "description": null,
       "shortDesc": "El ser resiste bastante bien los efectos psíquicos y sobrenaturales."
     },
     "ogRK6g4vm7gln2ue": {
       "name": "Resistencia Mísica Excepcional [+30]",
+      "description": null,
       "shortDesc": "El ser resiste bastante bien los efectos psíquicos y sobrenaturales."
     },
     "Hkg0X1pSoZcYjnR8": {
       "name": "Resistencia Mísica Excepcional [+40]",
+      "description": null,
       "shortDesc": "El ser resiste bastante bien los efectos psíquicos y sobrenaturales."
     },
     "KZaWF48UfR2Or3xw": {
       "name": "Resistencia Mísica Excepcional [+10]",
+      "description": null,
       "shortDesc": "El ser resiste bastante bien los efectos psíquicos y sobrenaturales."
     },
     "PIZyhc9KkOcUC3zY": {
       "name": "Vuelo Natural [10]",
+      "description": null,
       "shortDesc": "El ser posee extremidades que funcionan como alas y le permiten volar. Debe mantenerlas en buen estado, así como contar con suficiente espacio para batirlas y poder despegar. Si recibe un crítico que le cause alguna consecuencia negativa, cae al suelo de inmediato."
     },
     "MermWVEVRO5uOsya": {
       "name": "Vuelo Natural [12]",
+      "description": null,
       "shortDesc": "El ser posee extremidades que funcionan como alas y le permiten volar. Debe mantenerlas en buen estado, así como contar con suficiente espacio para batirlas y poder despegar. Si recibe un crítico que le cause alguna consecuencia negativa, cae al suelo de inmediato."
     },
     "udSqgK7c6T4Ell8n": {
-      "name": "Vuelo Natural"
+      "name": "Vuelo Natural",
+      "description": ""
     },
     "LcIvJn5d6JvxdxFi": {
       "name": "Inmunidad Natural a un Elemento (Completa)",
@@ -435,14 +495,17 @@
     },
     "rNhcnbQi7KVj6A3Q": {
       "name": "Vulnerabilidad Elemental (50% Daño)",
+      "description": null,
       "shortDesc": "El ser es vulnerable de forma natural al daño producido por un elemento, el cual incrementa el daño recibido en un 50 %. En el caso de los seres elementales, el elemento elegido debe ser el opuesto al de su afinidad."
     },
     "JAvnzpPYoeIfJa9J": {
       "name": "Vulnerabilidad Elemental (Doble Daño)",
+      "description": null,
       "shortDesc": "El ser es vulnerable de forma natural al daño producido por un elemento, el cual dobla  el daño recibido. En el caso de los seres elementales, el elemento elegido debe ser el opuesto al de su afinidad."
     },
     "SjV4H2xPKqeN8hGs": {
       "name": "Visión Nocturna",
+      "description": null,
       "shortDesc": "Permite reducir a la mitad cualquier penalización que se aplique debido a la oscuridad natural."
     },
     "vaiUl8lhExB6dsyr": {
@@ -451,14 +514,17 @@
       "shortDesc": "Un ser con esta Desventaja no aplica bonificaciones a su potencial psíquico al concentrarse."
     },
     "EK84Oz2RgF282wpR": {
-      "name": "Seres Noth"
+      "name": "Poderes de los Noth",
+      "description": null
     },
     "Awsd1q8C5RMPIfqV": {
       "name": "Percepción Noth",
+      "description": null,
       "shortDesc": "Los Noth no pueden ser percibidos por individuos normales ni por seres sobrenaturales; existen en un plano distinto, y solo aquellos con una percepción única pueden verlos o sentirlos. Solo los seres naturales cuya Gnosis sea al menos 10 puntos superior a su Natura o criaturas con una Gnosis natural de 30 o más pueden percibirlos. Ningún otro método, incluidos hechizos de percepción o habilidades especiales, puede alterar este hecho; esto incluye también la ventaja Ver lo Sobrenatural."
     },
     "9wCsOjNBVG81Y0LT": {
-      "name": "Poderes Ofensivos"
+      "name": "Poderes Ofensivos",
+      "description": ""
     },
     "oVbuOv39bxrJnXVU": {
       "name": "Magia Opuesta",
@@ -482,19 +548,22 @@
     },
     "TvBa0IoiW2lJ2Enc": {
       "name": "Forma Física a Voluntad.",
+      "description": null,
       "shortDesc": "A pesar de que el estado natural del ser es el descrito, si así lo desea puede asumir una forma física."
     },
     "OKYkjkoEp1Iv6mNZ": {
       "name": "Invulnerabilidad Física",
+      "description": null,
       "shortDesc": "Cuando los miembros de la Máquina reciben daño continuo de una clase particular de arma, modifican sus cuerpos para volverse resistentes a esos ataques. Cuando tres o más componentes de la Máquina han sido destruidos por una clase determinada de arma, después de un minuto los demás componentes reducen el Daño Base de cualquier ataque de esa clase en 10 puntos. Este beneficio aumenta gradualmente según cuántos componentes hayan sido destruidos por tales armas. Si se han destruido más de 10, el daño se reduce en 20 puntos; si más de 25, se reduce en 30 puntos. Cuando se han destruido cien o más, la reducción alcanza –40. Se puede proteger contra múltiples clases de armas a la vez. Por razones desconocidas, algo en la naturaleza de la Máquina impide que esta habilidad funcione contra ataques mágicos, por lo que el daño de los hechizos no se reduce. Este beneficio termina una vez finalizado el combate."
     },
     "p1iaJf4EqNH31e5l": {
       "name": "Necesidad Física",
+      "description": null,
       "shortDesc": "El ser tiene una necesidad de tipo físico para sobrevivir. Por ejemplo, requiere algo específico, como consumir hierro, dentro de un período de tiempo determinado o sufre una Penalización acumulativa de –10 a Todas las Acciones. Si la necesidad no se satisface durante un largo período, incluso puede morir."
     },
     "SULecrTRnSmkKRjL": {
       "name": "Ambivalencia Psíquica",
-      "description": "A través de sus capacidades psíquicas, el ser se encuentra especialmente potenciada al utilizar más de un poder al mismo tiempo, obteniendo bonificaciones superiores a las de otros individuos con habilidades mentales.",
+      "description": "A través de sus capacidades psíquicas, el ser se encuentra especialmente potenciado al utilizar más de un poder al mismo tiempo, obteniendo bonificaciones superiores a las de otros individuos con habilidades mentales.",
       "shortDesc": "Cuando el ser divide su potencial psíquico para usar más de un poder por turno, obtiene un bono acumulativo de +5 por cada poder que declare."
     },
     "ub4czBZe4OBfxmT5": {
@@ -524,18 +593,22 @@
     },
     "aZc8hET3RHHRHha2": {
       "name": "Inmunidad Psicológica",
+      "description": null,
       "shortDesc": "La mente del ser no es capaz de sentir ningún tipo de estado psicológico. Por lo tanto, es completamente inmune a efectos psíquicos, como Dolor, Miedo, Terror o Ira."
     },
     "4K6tBJIESeglSLMu": {
       "name": "Miedo Racial",
+      "description": null,
       "shortDesc": "El ser tiene un miedo insuperable a algo específico, por lo que sufre dicho estado cuando se encuentra en su presencia."
     },
     "MHuAPpBMIP1GfAQA": {
       "name": "Terror Racial",
+      "description": null,
       "shortDesc": "El ser tiene un terror insuperable a algo específico, por lo que sufre dicho estado cuando se encuentra en su presencia."
     },
     "75WcmuHNUXaGkFUD": {
       "name": "Vicio Racial",
+      "description": null,
       "shortDesc": "El ser tiene algún tipo de vicio natural que no puede superar por ningún medio. Cada vez que tiene la oportunidad de satisfacerlo y no lo hace, causa que el ser sufra una penalización de –20 a toda acción."
     },
     "QwLs21H7N4bTE5h7": {
@@ -544,10 +617,12 @@
       "shortDesc": "El ser debe poder gesticular para acumular magia y lanzar hechizos."
     },
     "29b5kXaScYA4q2MM": {
-      "name": "Resistencias y Regeneraciones"
+      "name": "Resistencias y Regeneraciones",
+      "description": ""
     },
     "Tc0ElXkRk5kKMbP7": {
       "name": "Ver Espíritus",
+      "description": null,
       "shortDesc": "Permite al ser ver espíritus."
     },
     "1FfezoD57eyayCU2": {
@@ -561,30 +636,38 @@
       "shortDesc": "El ser reduce su regeneración zeónica a la mitad."
     },
     "USkEp8HbaDonnrep": {
-      "name": "Ánimas"
+      "name": "Ánimas",
+      "description": ""
     },
     "12noA8r0ficP0haw": {
-      "name": "Inmunidades Especiales"
+      "name": "Inmunidades Especiales",
+      "description": ""
     },
     "IVoV8A70FAkSFdpQ": {
-      "name": "Medios de Visión Especiales"
+      "name": "Medios de Visión Especiales",
+      "description": ""
     },
     "KhchF23HBTPMW35F": {
-      "name": "Desplazamientos Especiales"
+      "name": "Desplazamientos Especiales",
+      "description": ""
     },
     "SWNDCS9kWnA2DNV2": {
-      "name": "Percepciones Especiales"
+      "name": "Percepciones Especiales",
+      "description": ""
     },
     "8g9mEnqE4WZogdaJ": {
       "name": "Invisibilidad Espiritual",
+      "description": null,
       "shortDesc": "Es ser es completamente invisible, excepto para aquellos seres que posean la habilidad de ver espíritus o que alcancen una dificultad de Inhumano en su una tirada de Buscar, o Zen en Advertir."
     },
     "WImyXLmHnrtQYNcj": {
       "name": "Características Físicas Sobrehumanas",
+      "description": null,
       "shortDesc": "Extiende el límite máximo que puedes elegir para las Características físicas (FUE, DES, AGI, CON) hasta un máximo de 13."
     },
     "twCsczplm3Tqgs7Z": {
       "name": "Características Anímicas Sobrehumanas",
+      "description": null,
       "shortDesc": "Extiende el límite máximo que puedes elegir para las Características anímicas (INT, POD, VOL, PER) hasta un máximo de 13."
     },
     "GTBnVegpaHLqLlpS": {
@@ -594,14 +677,17 @@
     },
     "RfHmcbbjSDesArOj": {
       "name": "Movimiento Subterráneo Superior",
+      "description": null,
       "shortDesc": "El ser excava con facilidad y se mueve naturalmente bajo tierra blanda, como un topo o un gusano. Además, puede atravesar piedra sólida y alcanzar zonas más difíciles."
     },
     "CU4aCIe6lbG1Iq4a": {
       "name": "Características Físicas Sobrenaturales",
+      "description": null,
       "shortDesc": "Extiende el límite máximo que puedes elegir para las Características físicas (FUE, DES, AGI, CON) hasta un máximo de 15."
     },
     "WduYD2ehTUZzcHAf": {
       "name": "Características Anímicas Sobrenaturales",
+      "description": null,
       "shortDesc": "Extiende el límite máximo que puedes elegir para las Características anímicas (INT, POD, VOL, PER) hasta un máximo de 15."
     },
     "ZC5BUFxjs9gXuMf8": {
@@ -611,6 +697,7 @@
     },
     "9hAPlN7n1RfEbn9D": {
       "name": "Incansable",
+      "description": null,
       "shortDesc": "El ser no se cansa sin importar la cantidad de esfuerzo físico o mental que realice. Sin embargo, debido a eso, el ser no puede usar puntos de Cansancio para aumentar sus habilidades físicas."
     },
     "kYQ3fXYHKLQS3eOQ": {
@@ -620,6 +707,7 @@
     },
     "GZTTX93xsUIAQ9O2": {
       "name": "Tamaño Innatural",
+      "description": null,
       "shortDesc": "El DJ puede aumentar o disminuir el Tamaño base del ser hasta un máximo de 5 puntos."
     },
     "Wm7MhOUG6WlaqHuy": {
@@ -629,18 +717,22 @@
     },
     "08y2Dvap89ee2tzY": {
       "name": "Vulnerable a un Tipo de Ataque",
+      "description": null,
       "shortDesc": "Esto significa que un tipo específico de ataque produce el doble de daño al ser, como por ejemplo, armas de proyectil o contundentes."
     },
     "W87PLRdLtJqRfsdu": {
       "name": "Vulnerable al Daño",
+      "description": null,
       "shortDesc": "El ser es excepcionalmente vulnerable a daños masivos de cualquier tipo. Si sufre un Crítico, es destruido automáticamente."
     },
     "EaczmtAFu77Y4DpQ": {
       "name": "Sin Inconsciencia",
+      "description": null,
       "shortDesc": "El ser no puede quedarse inconsciente, sin importar los resultados críticos o efectos sobrenaturales que lo indiquen."
     },
     "GBfAK2HKNc1xkddA": {
       "name": "Zen",
+      "description": null,
       "shortDesc": "Zen es el estado de perfección absoluta en cuerpo y alma. Funciona exactamente como la Inhumanidad, excepto que permite a los personajes alcanzar la Dificultad Zen en sus controles y habilidades."
     }
   }

@@ -5,100 +5,103 @@
   },
   "folders": {
     "Artorian Rebalance 2024": "Artorian Rebalance 2024",
+    "Artorian Rebalance 2025": "Artorian Rebalance 2025",
     "Official": "Oficial"
   },
   "entries": {
     "yPNz5AI1bFklLU7K": {
       "name": "Guerrero Acróbata",
-      "description": "Puede elegir entre +10 Montar o +10 Trco de Manos por nivel.\n+10 Resistencia Física RF\n\nHabilidad Secundaria con coste 1: Acrobacias."
+      "description":"Puede elegir entre +10 Montar o +10 Trco de Manos por nivel.\n+10 Resistencia Física RF\n\nHabilidad Secundaria con coste 1: Acrobacias."
     },
     "z72NnwcIbN69F6kD": {
       "name": "Guerrero Acróbata",
       "description": "Ningún campo o Habilidad con coste reducido."
     },
+    
     "ClqDP36911HYAfop": {
       "name": "Asesino",
-      "description": "+10 a Resistencia a Venenos RV\n\nCampo con coste 1: Perceptivas.\nHabilidad Secundaria con coste 1: Trepar, Frialdad, Memorizar, Sigilo, Ocultarse y Venenos."
+      "description":"+10 a Resistencia a Venenos RV\n\nCampo con coste 1: Perceptivas.\nHabilidad Secundaria con coste 1: Trepar, Frialdad, Memorizar, Sigilo, Ocultarse y Venenos."
     },
     "hSA4B1vPtCdhxwf5": {
       "name": "Asesino",
-      "description": "Campo con coste 1: Perceptivas.\nHabilidades Secundarias con coste 1: Sigilo.\nHabilidades Secundarias con Coste 2: Frialdad y Memorizar."
+      "description":"Campo con coste 1: Perceptivas.\nHabilidades Secundarias con coste 1: Sigilo.\nHabilidades Secundarias con Coste 2: Frialdad y Memorizar."
     },
     "tvAxKWBE7XMxGaxs": {
       "name": "Paladin Oscuro",
-      "description": "Especial. Puede cambiar su +10 a Control y +20 a Zeon por +10 a Resistir el Dolor.\nCampo Sociales con coste 1.\nHabilidad Frialdad con coste 1 "
+      "description":"Especial. Puede cambiar su +10 a Control y +20 a Zeon por +10 a Resistir el Dolor.\nCampo Sociales con coste 1.\nHabilidad Frialdad con coste 1 "
     },
     "F46nCw9P5CCgdJT3": {
       "name": "Novel",
-      "description": "Sole le cuesta 20 PD cambiar a cualquier otra Categoría.\nEspecial: +10 a 5 Habilidades diferentes cada nivel."
+      "description":"Sole le cuesta 20 PD cambiar a cualquier otra Categoría.\nEspecial: +10 a 5 Habilidades diferentes cada nivel."
     },
     "QawMbrS9yyOqmqjc": {
       "name": "Novel",
-      "description": "Cambiar de Categoría Hacia o desde Novel sólo cuesta 20 PD independientemente de su Arquetipo y puede realizarlo tras subir de nivel sin necesidad de haberlo declarado previamente.\n+10 a cinco Habilidades Secundarias por nivel.\n+5 a cinco Habilidades Secundarias por nivel.\n+10 a una Resistencia o bien +5 a dos Resistencias diferentes."
+      "description":"Cambiar de Categoría Hacia o desde Novel sólo cuesta 20 PD independientemente de su Arquetipo y puede realizarlo tras subir de nivel sin necesidad de haberlo declarado previamente.\n+10 a cinco Habilidades Secundarias por nivel.\n+5 a cinco Habilidades Secundarias por nivel.\n+10 a una Resistencia o bien +5 a dos Resistencias diferentes."
     },
     "rrLrRVeOJh4dveHc": {
       "name": "Ilusionista",
-      "description": "Habilidades Secundarias con coste 1: Truco de Manos y Persuasión."
+      "description":"Habilidades Secundarias con coste 1: Truco de Manos y Persuasión."
     },
     "v5hOtq4q3Y4QWPZ8": {
       "name": "Ilusionista",
-      "description": "La ventada Don le cuesta 1 punto, El Don incompleto es gratis.\n+10 a Resistencia Mágica.\nCampo con coste 1: Sociales.\nHabilidad Secundaria con coste 1: Truco de Manos."
+      "description":"La ventaja Don le cuesta 1 punto, El Don incompleto es gratis.\n+10 a Resistencia Mágica.\nCampo con coste 1: Sociales.\nHabilidad Secundaria con coste 1: Truco de Manos."
     },
     "7rt4yoEtg3wiXJJ0": {
       "name": "Mentalista",
-      "description": "La ventaja Acceso Libre a Cualquier Disciplina Psíquica reduce su coste a 1, la ventaja Acceso a una Disciplina Psíquica es gratis.\n+5 a dos Habilidades Secundarias del Campo Creativas por nivel.\n+10 a Resistencia Psíquica\nCampo con coste 1: Creaticas.\nHabilidades Secundarias con coste 1: Frialdad y Ciencia"
+      "description":"La ventaja Acceso Libre a Cualquier Disciplina Psíquica reduce su coste a 1, la ventaja Acceso a una Disciplina Psíquica es gratis.\n+5 a dos Habilidades Secundarias del Campo Creativas por nivel.\n+10 a Resistencia Psíquica\nCampo con coste 1: Creaticas.\nHabilidades Secundarias con coste 1: Frialdad y Ciencia"
     },
     "LJY3JA7grszyGcuS": {
       "name": "Mentalista",
-      "description": "Ningún campo o Habilidad con coste reducido."
+      "description":"Ningún campo o Habilidad con coste reducido."
     },
+    
     "AnTzrHNhlVa88vzr": {
       "name": "Paladín",
-      "description": "Fusión de Paladines.\n+10 a Resistencia Mágica RM\nConvocatoria a coste 1: Controlar y Desconvocar.\nCampo con coste 1: Sociales.\nHabilidades Secundarias con coste 1: Resistir el Dolor y Frialdad."
+      "description":"Fusión de Paladines.\n+10 a Resistencia Mágica RM\nConvocatoria a coste 1: Controlar y Desconvocar.\nCampo con coste 1: Sociales.\nHabilidades Secundarias con coste 1: Resistir el Dolor y Frialdad."
     },
     "gi8tw7qMlbiU428i": {
       "name": "Paladín",
-      "description": "Especial. Puede cambiar su +10 a Desconvocar y +20 a Zeon por +10 a Frialdad.\nCampo con coste 1: Sociales..\nHabilidad Secundaria con coste 1: Resistir el Dolor."
+      "description":"Especial. Puede cambiar su +10 a Desconvocar y +20 a Zeon por +10 a Frialdad.\nCampo con coste 1: Sociales..\nHabilidad Secundaria con coste 1: Resistir el Dolor."
     },
     "9NeicrRN8IPl2ZXK": {
       "name": "Explorador",
-      "description": "Campo con coste 1: Perceptivas.\nHabilidad Secundaria con coste 2: Herbolaria y Medicina.\nHabilidad Secundaria con coste 1: Trampería y Animales."
+      "description":"Campo con coste 1: Perceptivas.\nHabilidad Secundaria con coste 2: Herbolaria y Medicina.\nHabilidad Secundaria con coste 1: Trampería y Animales."
     },
     "9tAB8nfYYCNdFP5f": {
       "name": "Explorador",
-      "description": "+10 a Resistencia a Enfermedades RE\nCampos con coste 1: Atléticas y Perceptivas.\nHabilidades Secundarias con coste 1: Trampería, Animales y Herbolaria."
+      "description":"+10 a Resistencia a Enfermedades RE\nCampos con coste 1: Atléticas y Perceptivas.\nHabilidades Secundarias con coste 1: Trampería, Animales y Herbolaria."
     },
     "InIImN8U4ldaZrKU": {
       "name": "Sombra",
-      "description": "Puede elegir entre +10 a Truco de Manos o +10 a Robo por nivel.\n+10 a Resistencia Física RF.\nHabilidad Secundaria con coste 1: Sigilo"
+      "description":"Puede elegir entre +10 a Truco de Manos o +10 a Robo por nivel.\n+10 a Resistencia Física RF.\nHabilidad Secundaria con coste 1: Sigilo"
     },
     "X759QzXOOf6WpP43": {
       "name": "Sombra",
-      "description": "Ningún campo o Habilidad con coste reducido."
+      "description":"Ningún campo o Habilidad con coste reducido."
     },
     "BVnOw8LLLp2HJRfi": {
       "name": "Conjurador",
-      "description": "Habilidad Secundaria con coste 1: Ocultismo"
+      "description":"Habilidad Secundaria con coste 1: Ocultismo"
     },
     "e2CiAyGdVncIsYNG": {
       "name": "Conjurador",
-      "description": "Puede comprar la ventaja Recuperación Superior de Magia sin el requisito de Don.\n+5 a dos Habilidades del Campo Intelectuales que no sean Valoración Mágica ni Ocultismo.\nElegir entre +10 a Intimidar o +10 Persuasión por nivel.\n+10 a Resistencia Mágica RM\nCampo con coste 1: Intelectuales.\nHabilidades Secundarias con coste 1: Alquimia y la que se haya elegido entre Intimidar y Persuasión."
+      "description":"Puede comprar la ventaja Recuperación Superior de Magia sin el requisito de Don.\n+5 a dos Habilidades del Campo Intelectuales que no sean Valoración Mágica ni Ocultismo.\nElegir entre +10 a Intimidar o +10 Persuasión por nivel.\n+10 a Resistencia Mágica RM\nCampo con coste 1: Intelectuales.\nHabilidades Secundarias con coste 1: Alquimia y la que se haya elegido entre Intimidar y Persuasión."
     },
     "HXgn2QfRBYLZUhBi": {
       "name": "Tao",
-      "description": "Especial: las artes marciales reducen su coste.\n\nNingún campo o Habilidad con coste reducido."
+      "description":"Especial: las artes marciales reducen su coste.\n\nNingún campo o Habilidad con coste reducido."
     },
     "OtS33O9HVkxBMh9d": {
       "name": "Tao",
-      "description": "Las artes marciales reducen su coste.\n+10 a Resistencia Física RF.\nReserva de Ki a coste 1.\nHabilidades Secundarias con coste 1: Proezas de Fuerza, Estilo, Baile y Truco de Manos."
+      "description":"Las artes marciales reducen su coste.\n+10 a Resistencia Física RF.\nReserva de Ki a coste 1.\nHabilidades Secundarias con coste 1: Proezas de Fuerza, Estilo, Baile y Truco de Manos."
     },
     "Gnvb6MPCp2YNP20V": {
       "name": "Tecnicista",
-      "description": "Ningún campo o Habilidad con coste reducido."
+      "description":"Ningún campo o Habilidad con coste reducido."
     },
     "VRx3kVPzPf9X6aRZ": {
       "name": "Tecnicista",
-      "description": "+10 a Resistecia Física RF.\nReserva de Ki a coste 1.\nHabilidades Secundarias con coste 1: Atletismo y Estilo."
+      "description":"+10 a Resistecia Física RF.\nReserva de Ki a coste 1.\nHabilidades Secundarias con coste 1: Atletismo y Estilo."
     },
     "qiFOsZMRkpZBOZ6u": {
       "name": "Ladrón",
@@ -111,6 +114,10 @@
     "6clZ2GC6XEdwSHme": {
       "name": "Warlock",
       "description": "Ningún campo o Habilidad con coste reducido."
+    },
+    "bEoCcK960qNcr92V": {
+      "name": "Warlock",
+      "description": "La ventaja Don reduce su coste a 1, el Don Incompleto es gratis.\n+5 por nivel a una Habilidad Secundaria del Campo Intelectuales.\n+5 a Resistencia Física RF y Resistencia Mágica RM\nHabilidades Secundarias con coste 1: Resistir el Dolor, Valoración Mágica, Ocultismo y Caligrafía Ritual"
     },
     "fCJRCOyiCFeAaMAy": {
       "name": "Warlock",
@@ -132,6 +139,10 @@
       "name": "Guerrero Mentalista",
       "description": "Ningún campo o Habilidad con coste reducido."
     },
+    "pJ4lE4r2fSErLNk1": {
+      "name": "Guerrero",
+      "description": "Puede elegir entre +5 a Intimidar o +5 a Liderazgo.\nPuede elegir entre +5 a Atletismo o +5 a Montar\nCampos con coste 1:  Atléticas, Vigor\nHabilidad Secundaria con coste 1: Táctica\nHabilidad Primaria con coste 1: Llevar Armadura\n+10 RF\nPuede adquirir una tabla de arma arquetípica o de Estilo gratis.\nSi desarrolla Extrusión de presencia obtiene gratis Extensión del Aura al Arma."
+    },
     "gqS4BheJSIQTkJo2": {
       "name": "Guerrero Conjurador",
       "description": "Ningún campo o Habilidad con coste reducido."
@@ -147,6 +158,14 @@
     "DEjFXw95TS5MmcBe": {
       "name": "Maestro en Armas",
       "description": "Comienza el juego con una Tabla de Tipologia y una Tabla de estilo gratuitas.\nLas tablas de Armas Generales, las Tablas de Arquetipo y las Tablas de Estilo le cuestán la mitad de PD.\nIncluye la errata en la que los Maestros en Armas reducen a la mitad el coste en PD de los Tablas de Ars Magnus y Tablas de Combate Sobrenatural.\n+10 a Resistencia Física RF.\nLlevar armadura reduce coste a 1\nCampos con coste 1: Vigor y Atléticas."
+    },
+    "WmGIbZgUSrkvXchR": {
+      "name": "Maestro en Armas",
+      "description": "Puede elegir entre +5 a Atletismo o +5 a Montar por nivel.\nPuede elegir entre +5 a Intimidar o +5 a Liderazgo por nivel.\nCampos con coste 1: Vigor\nHabilidad Primaria con coste 1: Llevar armadura.\nHabilidad  Secundaria con coste 1: Táctica y las dos elegidas anteriormente.\nPuede elegir gratis entre una tabla de arma arquetípica o de Tipología.\nObtiene una tabla de estilo gratis.\nReduce a la mitad el coste en PD de las tablas de Armas, Ars Magni y Tablas de Combate Sobrenatural.\nObtiene una Tabla de Arma gratuita adicional cada 3 niveles.\n+10 a la Resistencia Física."
+    },
+    "g5Jcnmqr3wYA6c3E": {
+      "name": "Hechicero",
+      "description": "El coste de la Ventaja Don baja a 1, Don Incompleto es gratis.\n+10 a una intelectual por Nivel\n+5 a una intelectual por Nivel\n+10 a RM\nCampos con coste 1: Intelectuales.\nHabilidades con coste 1: Frialdad, Resistir el Dolor, Caligrafia Ritual\nNota: No puedes aumentar habilidades intelectuales más de +10 por Nivel"
     },
     "6hWA5zIWGseLj8aT": {
       "name": "Hechicero Mentalista",

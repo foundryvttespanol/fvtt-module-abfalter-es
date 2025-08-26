@@ -1,0 +1,870 @@
+{
+  "label": "Raices Culturales",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders":{
+    "Azur Alliance": "Alianza Azur",
+    "Barren Icylands": "Yermos Gélidos",
+    "Coast of Commerce": "Costa del Comercio",
+    "Dark Lands": "Tierras oscuras",
+    "Eastern Lands": "Tierras Orientales",
+    "Episcopal States": "Estados Episcopales",
+    "Independent States": "Estados Independientes",
+    "Lands of Al-Enneth": "Tierras de Al-Enneth",
+    "Sacred Holy Empire of Abel": "Sacro Santo Imperio de Abel",
+    "Gaia 1 (Doubled)": "Gaia 1 (Doble)",
+    "Dominion": "El Dominio",
+    "Gaia 1 (Official)": "Gaia 1 (Oficial)"    
+  },
+  "entries": {
+    "AYNn2M5R5wJXkf6Y": {
+      "name": "Abel - Burgués",
+      "description": null
+    },
+    "Mmhk1W7LYODP8ab4": {
+      "name": "Abel - Burgués",
+      "description": null
+    },
+    "7zYJzECUUT2wgHgv": {
+      "name": "Abel - Clase Media/Clase Baja",
+      "description": null
+    },
+    "n6zGKl5eenyDHlpZ": {
+      "name": "Abel - Clase Media/Clase Baja",
+      "description": null
+    },
+    "bnzgvegCdOe4oCKf": {
+      "name": "Abel - Nobleza/Alta Nobleza",
+      "description": null,
+      "description.1": "<p> Elige entre Arte o Música para el +20 </p>"
+    },
+    "VSCaGgnnLTGy8NH2": {
+      "name": "Abel - Nobleza/Alta Nobleza",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +10</p>"
+    },
+    "gWTZp3lhSs1FCjuf": {
+      "name": "Abel",
+      "description": ""
+    },
+    "R2h5kB1vNpMw9yBW": {
+      "name": "Abel",
+      "description": ""
+    },
+    "lPk6QeHmjYOPFoi3": {
+      "name": "Alberia - Clase Media/Clase Baja",
+      "description": null
+    },
+    "UreBfNDdpBNRK9T1": {
+      "name": "Alberia - Clase Media/Clase Baja",
+      "description": null
+    },
+    "ARCnK92EHJZqfGuf": {
+      "name": "Alberia - Nobleza",
+      "description": null
+    },
+    "vZwCxjSNvlwTqNDD": {
+      "name": "Alberia - Nobleza",
+      "description": null
+    },
+    "HoqGaGFfwLQzeO3z": {
+      "name": "Alberia",
+      "description": ""
+    },
+    "NNMrkrzo7uG7lnvh": {
+      "name": "Alberia",
+      "description": ""
+    },
+    "jATBSdYhqrVRAPv9": {
+      "name": "Argos - Clase Media/Clase Baja",
+      "description": null
+    },
+    "VtOTFhj7aKrx5d8R": {
+      "name": "Argos - Clase Media/Clase Baja",
+      "description": null
+    },
+    "A4qI58jVTf6SvURn": {
+      "name": "Argos - Nobleza",
+      "description": null
+    },
+    "X2jhkfyhkYM3LTTE": {
+      "name": "Argos - Nobleza",
+      "description": null
+    },
+    "1PYIZL7RSu8W5EAw": {
+      "name": "Argos",
+      "description": ""
+    },
+    "gvNwjbLMSXkkwVTz": {
+      "name": "Argos",
+      "description": ""
+    },
+    "bq2EEsuw1ksx5kGD": {
+      "name": "Arlan - Burgués/Alta Burguesía",
+      "description": null
+    },
+    "OGpXVF0POD7GzUPJ": {
+      "name": "Arlan - Burgués/Alta Burguesía",
+      "description": null
+    },
+    "1dlQGaJMhTxnUAfs": {
+      "name": "Arlan - Clase Media/Clase Baja",
+      "description": null
+    },
+    "hulWdYjC1eMoY0fy": {
+      "name": "Arlan - Clase Media/Clase Baja",
+      "description": null
+    },
+    "Amq0bCC93RDDO0BJ": {
+      "name": "Arlan",
+      "description": ""
+    },
+    "oiwiut4PpFYWDWCe": {
+      "name": "Arlan",
+      "description": ""
+    },
+    "I0epboSF4VsuPUOA": {
+      "name": "Alianza Azur",
+      "description": ""
+    },
+    "RjaENtWBUAUuZNNV": {
+      "name": "Alianza Azur",
+      "description": ""
+    },
+    "ec7vSeRgXC48mYEp": {
+      "name": "Baho - Casta de los Sabios",
+      "description": null
+    },
+    "Khrc6yQa64lxSqS2": {
+      "name": "Baho - Casta de los Sabios",
+      "description": null
+    },
+    "BHTULkoZyxt7F08K": {
+      "name": "Baho - Casta de los Guerreros",
+      "description": null
+    },
+    "sukd3EqltpoJ4B2U": {
+      "name": "Baho - Casta de los Guerreros",
+      "description": null
+    },
+    "CfqDYp8Fvc4gw2lC": {
+      "name": "Baho",
+      "description": ""
+    },
+    "ZZH2E9H3mpx6AInO": {
+      "name": "Baho",
+      "description": ""
+    },
+    "nqwtmrKkpQJHlzeF": {
+      "name": "Yermos Gélidos",
+      "description": ""
+    },
+    "RslOewPHRsRVViWO": {
+      "name": "Yermos Gélidos",
+      "description": ""
+    },
+    "KpUd4LfJzZr2cz0M": {
+      "name": "Bellafonte - Clase Media/Clase Baja",
+      "description": null
+    },
+    "xauRzmTjI64ddwGv": {
+      "name": "Bellafonte - Clase Media/Clase Baja",
+      "description": null
+    },
+    "iw1d0ospUBo14Noi": {
+      "name": "Bellafonte - Nobleza/Alta Nobleza",
+      "description": null
+    },
+    "qyHT3NPnRC0Gyrwn": {
+      "name": "Bellafonte - Nobleza/Alta Nobleza",
+      "description": null
+    },
+    "4kRCfR4FSOIwimYn": {
+      "name": "Bellafonte",
+      "description": ""
+    },
+    "SWjnrF7OYdwmyAG9": {
+      "name": "Bellafonte",
+      "description": ""
+    },
+    "oG8Igf03eqWhCrh2": {
+      "name": "Costa del Comercio",
+      "description": ""
+    },
+    "oPEkwATitDVnADGz": {
+      "name": "Costa del Comercio",
+      "description": ""
+    },
+    "9EKviVF8IMZOPETz": {
+      "name": "Dalaborn - Clase Media/Clase Baja",
+      "description": null
+    },
+    "w1sz42U5XESbxIuY": {
+      "name": "Dalaborn - Clase Media/Clase Baja",
+      "description": null
+    },
+    "hNZNkV39Ef0AoWTY": {
+      "name": "Dalaborn - Nobleza/Alta Nobleza",
+      "description": null
+    },
+    "S1BfawRZ6BJQTfBu": {
+      "name": "Dalaborn - Nobleza/Alta Nobleza",
+      "description": null
+    },
+    "2QkSBK4TyOtQSvHk": {
+      "name": "Dalaborn",
+      "description": ""
+    },
+    "mtEXFFmDAwnjVj2q": {
+      "name": "Dalaborn",
+      "description": ""
+    },
+    "0ey4MlrbevmUvUcX": {
+      "name": "Tierras Oscuras",
+      "description": ""
+    },
+    "0xrb8GGtiwXrN6n2": {
+      "name": "Tierras Oscuras",
+      "description": ""
+    },
+    "HcF0uQZRnunwqY3Y": {
+      "name": "El Dominio - Clase Media/Clase Baja",
+      "description": null
+    },
+    "qroEqbgfmIAm18fJ": {
+      "name": "El Dominio - Clase Media/Clase Baja",
+      "description": null
+    },
+    "QlsRL3bumLoGCN3X": {
+      "name": "El Dominio - Nobleza/Sacerdote/Cardenal",
+      "description": null
+    },
+    "Xovfdx1MpUc2FrWJ": {
+      "name": "El Dominio - Nobleza/Sacerdote/Cardenal",
+      "description": null
+    },
+    "xjyMK789us2ydJaS": {
+      "name": "El Dominio",
+      "description": ""
+    },
+    "YDXCnRBhdTx6swO6": {
+      "name": "El Dominio",
+      "description": ""
+    },
+    "oIl8uIcta3jm6exX": {
+      "name": "Dwänholf - Clase Media/Clase Baja",
+      "description": null
+    },
+    "UefeRFuUDGxXHDpH": {
+      "name": "Dwänholf - Clase Media/Clase Baja",
+      "description": null
+    },
+    "fMJZdlMMbUDNnIYi": {
+      "name": "Dwänholf - Clase Adinerada",
+      "description": null
+    },
+    "SBEIwYHaW1c27wVD": {
+      "name": "Dwänholf - Clase Adinerada",
+      "description": null
+    },
+    "4qDKeQRJVxACIN0C": {
+      "name": "Dwänholf",
+      "description": ""
+    },
+    "8xsIOztRZiNmnmy4": {
+      "name": "Dwänholf",
+      "description": ""
+    },
+    "08bF5rYMVh2nwNwk": {
+      "name": "Tierras Orientales",
+      "description": ""
+    },
+    "5FFtytmED9417bd4": {
+      "name": "Tierras Orientales",
+      "description": ""
+    },
+    "pEOnm0cYFCjBXb00": {
+      "name": "Estados Episcopales",
+      "description": ""
+    },
+    "WwGrq4UdFztt4Lxm": {
+      "name": "Estados Episcopales",
+      "description": ""
+    },
+    "qgY4UbwxVF3LDx5I": {
+      "name": "Estigia - Burgués/Burócrata/Nobleza",
+      "description": null
+    },
+    "sNYP6W4Iqibu5yJu": {
+      "name": "Estigia - Burgués/Burócrata/Nobleza",
+      "description": null
+    },
+    "fcZJ9AhhehJwWjIu": {
+      "name": "Estigia - Clase Media/Clase Baja",
+      "description": null
+    },
+    "Icq8bQipnpYeYIwc": {
+      "name": "Estigia - Clase Media/Clase Baja",
+      "description": null
+    },
+    "FFz5QCzOF4LXNIL2": {
+      "name": "Estigia",
+      "description": ""
+    },
+    "IlIAGczvKNTSNRGs": {
+      "name": "Estigia",
+      "description": ""
+    },
+    "0VVqx75MdGJ3FiPC": {
+      "name": "Gabriel - Burgués",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +10</p>"
+    },
+    "DxumuTHbXgCYsjyc": {
+      "name": "Gabriel - Burgués",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +5</p>"
+    },
+    "ehlKMVNxISqDD2wM": {
+      "name": "Gabriel - Clase Media/Indigente",
+      "description": null
+    },
+    "MTFehoGeVV6UrPJf": {
+      "name": "Gabriel - Clase Media/Indigente",
+      "description": null
+    },
+    "jOFtP7Lz2LxZ7WUV": {
+      "name": "Gabriel - Nobleza/Alta Nobleza",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +5</p>"
+    },
+    "mrWUNaDuA7LbxHqu": {
+      "name": "Gabriel - Nobleza/Alta Nobleza",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +10</p>"
+    },
+    "bcB3k3oEs7yQV5MT": {
+      "name": "Gabriel",
+      "description": ""
+    },
+    "jkaTVqYkAZrFU5S1": {
+      "name": "Gabriel",
+      "description": ""
+    },
+    "1KEIKs1EMdPInFcd": {
+      "name": "Gaia 1 (Doble)",
+      "description": ""
+    },
+    "ouT1k0UTNRDyCsnf": {
+      "name": "Gaia 1 (Oficial)",
+      "description": ""
+    },
+    "CHUIsmh2S5aNIoL0": {
+      "name": "Galgados - Clase Baja/Clase Media/Nobleza",
+      "description": null
+    },
+    "e69aBe5tEeD2pzox": {
+      "name": "Galgados - Clase Baja/Clase Media/Nobleza",
+      "description": null
+    },
+    "BQfbYfacp70iWvsw": {
+      "name": "Galgados",
+      "description": ""
+    },
+    "RC3KwyYUnhwTEivG": {
+      "name": "Galgados",
+      "description": ""
+    },
+    "f0DkqqhPCJETS32Y": {
+      "name": "Goldar - Eling/Sklamo/Escaldo",
+      "description": null,
+      "description.1": "<p>Elige entre Rastrear o Historia para el +20</p>\n<p>Elige entre Intimidar o Música para el +20</p>"
+    },
+    "LlxuEIN8y1OgmStK": {
+      "name": "Goldar - Eling/Sklamo/Escaldo",
+      "description": null,
+      "description.1": "<p>Elige entre Rastrear o Historia para el +10</p>\n<p>Elige entre Intimidar o Música para el +10</p>"
+    },
+    "hv6y9wPbkK3bqXod": {
+      "name": "Goldar - Campesino/Desterrado",
+      "description": null
+    },
+    "t7GXGflmK8aiPVYU": {
+      "name": "Goldar - Campesino/Desterrado",
+      "description": null
+    },
+    "6O5PmJXddpvlwlVd": {
+      "name": "Goldar - Norteño",
+      "description": null
+    },
+    "zR8b2RQITTWDeuHQ": {
+      "name": "Goldar - Norteño",
+      "description": null
+    },
+    "2YojHcBIs6ZwCucr": {
+      "name": "Goldar",
+      "description": ""
+    },
+    "w2EESLhlj65DGd1S": {
+      "name": "Goldar",
+      "description": ""
+    },
+    "27UXw0PmECpYEZqN": {
+      "name": "Haufman - Noble",
+      "description": null
+    },
+    "2EggWz16Xd8PRIdk": {
+      "name": "Haufman - Noble",
+      "description": null
+    },
+    "PN8Vw9QL32MKwvzq": {
+      "name": "Haufman - Norteño/Norteño Pobre",
+      "description": null
+    },
+    "yV417An8nxlYt0vI": {
+      "name": "Haufman - Norteño/Norteño Pobre",
+      "description": null
+    },
+    "9IXTkTy78HTprZwS": {
+      "name": "Haufman - Saerinmir",
+      "description": null
+    },
+    "Rk3eSM7LdIEbLGxc": {
+      "name": "Haufman - Saerinmir",
+      "description": null
+    },
+    "4lnaBBaf2ZXI8hR5": {
+      "name": "Haufman",
+      "description": ""
+    },
+    "vXVpmzVlHjmxz19g": {
+      "name": "Haufman",
+      "description": ""
+    },
+    "8CBD4jNdoruzKajS": {
+      "name": "Helenia - Clase Media/Clase Baja",
+      "description": null
+    },
+    "wk9WnYJtGEoxXdHT": {
+      "name": "Helenia - Clase Media/Clase Baja",
+      "description": null
+    },
+    "oScj9MmCICZoSZF1": {
+      "name": "Helenia - Nobleza",
+      "description": null
+    },
+    "xUE4o7G9D5twLpDy": {
+      "name": "Helenia - Nobleza",
+      "description": null
+    },
+    "FAWFP04sE76NvbOi": {
+      "name": "Helenia - Nómada",
+      "description": null
+    },
+    "oQnw49auS3BwsI6I": {
+      "name": "Helenia - Nómada",
+      "description": null
+    },
+    "eNoz7Gdl4NOhyd88": {
+      "name": "Helenia",
+      "description": ""
+    },
+    "Ybk1tGwovyj4BflO": {
+      "name": "Helenia",
+      "description": ""
+    },
+    "gxtbuBs0kno1GyEz": {
+      "name": "Hendell - Primera Casta",
+      "description": null
+    },
+    "WwjXITZeK00YImDl": {
+      "name": "Hendell - Primera Casta",
+      "description": null
+    },
+    "bzqqSiyT49sz56Ia": {
+      "name": "Hendell - Lochgjest",
+      "description": null
+    },
+    "NFDlKqqQR8lW6bmo": {
+      "name": "Hendell - Lochgjest",
+      "description": null
+    },
+    "pTDApeRfNOEgOe3W": {
+      "name": "Hendell - Norteño",
+      "description": null
+    },
+    "X5nAZEiIxUgmC0ey": {
+      "name": "Hendell - Norteño",
+      "description": null
+    },
+    "Cu4jj4gB1k01nhGR": {
+      "name": "Hendell - Campesino",
+      "description": null
+    },
+    "KGw8B5IBkgYK8Rzc": {
+      "name": "Hendell - Campesino",
+      "description": null
+    },
+    "d7Pv3ViSKkL9DGtI": {
+      "name": "Hendell",
+      "description": ""
+    },
+    "TU3TAsxzSGznoRCg": {
+      "name": "Hendell",
+      "description": ""
+    },
+    "7rBTR3ezkVxRxPDS": {
+      "name": "Ilmora - Clase Media/Clase Baja",
+      "description": null
+    },
+    "GwOyHWn9TwjWU5AL": {
+      "name": "Ilmora - Clase Media/Clase Baja",
+      "description": null
+    },
+    "22zRilDJUMt6NMB6": {
+      "name": "Ilmora - Nobleza/Alta Nobleza",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +20</p>"
+    },
+    "4M3Wmbkh42ai3YkD": {
+      "name": "Ilmora - Nobleza/Alta Nobleza",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +10</p>"
+    },
+    "BJIKtKXMVUZvFiLe": {
+      "name": "Ilmora",
+      "description": ""
+    },
+    "NBietwxm0BoGdWJU": {
+      "name": "Ilmora",
+      "description": ""
+    },
+    "f9pZOteqwS1iE4A3": {
+      "name": "Estados Independientes",
+      "description": ""
+    },
+    "zm5aZJvsaqigwmHG": {
+      "name": "Estados Independientes",
+      "description": ""
+    },
+    "PCmTCVXv6vGhADdx": {
+      "name": "Kanon - Clase Media/Clase Baja",
+      "description": null
+    },
+    "sIS5JTZa2NY5hx4G": {
+      "name": "Kanon - Clase Media/Clase Baja",
+      "description": null
+    },
+    "U8Y8domfYMqdNpDa": {
+      "name": "Kanon - Nobleza",
+      "description": null
+    },
+    "XsObCsJhOYmN4Yq1": {
+      "name": "Kanon - Nobleza",
+      "description": null
+    },
+    "SFoaFBQw0iVrQPk9": {
+      "name": "Kanon",
+      "description": ""
+    },
+    "uDrhQcxPPCpE96qV": {
+      "name": "Kanon",
+      "description": ""
+    },
+    "QLTZrXflDfUmnt6K": {
+      "name": "Kashmir - Habitante de la Sabana",
+      "description": null
+    },
+    "xinnNQ2JN4Xgv6qL": {
+      "name": "Kashmir - Habitante de la Sabana",
+      "description": null
+    },
+    "0gsK8ShMSBJoUkSg": {
+      "name": "Kashmir",
+      "description": ""
+    },
+    "yNQ8NHCZu2dk3nv2": {
+      "name": "Kashmir",
+      "description": ""
+    },
+    "edzGCBOETFwviYe1": {
+      "name": "Kushistan - Burgués/Nobleza",
+      "description": null
+    },
+    "WjyPbYrt7hgxF0Ty": {
+      "name": "Kushistan - Burgués/Nobleza",
+      "description": null
+    },
+    "3rWg4vbYlv5gThPg": {
+      "name": "Kushistan - Clase Media/Clase Baja",
+      "description": null
+    },
+    "bELt53U0xKBd9gvt": {
+      "name": "Kushistan - Clase Media/Clase Baja",
+      "description": null
+    },
+    "8hGeWXKEGqJmJyEo": {
+      "name": "Kushistan",
+      "description": ""
+    },
+    "bLTAWkUv2OM5KZbk": {
+      "name": "Kushistan",
+      "description": ""
+    },
+    "48TP3PoJBvo0grRp": {
+      "name": "Tierras de Al-Enneth",
+      "description": ""
+    },
+    "aH05RiZHxZxC5RK6": {
+      "name": "Tierras de Al-Enneth",
+      "description": ""
+    },
+    "L34gGdQkMP1Cga2L": {
+      "name": "Lannet - Burgués/Samurai (Cortesano)",
+      "description": null
+    },
+    "T4R2rrfxW5WOpM1Q": {
+      "name": "Lannet - Burgués/Samurai (Cortesano)",
+      "description": null
+    },
+    "6KNIYw9eliD7WTUw": {
+      "name": "Lannet - Clase Baja",
+      "description": null
+    },
+    "Pn31xNnJDm45ml3N": {
+      "name": "Lannet - Clase Baja",
+      "description": null
+    },
+    "dKVJYFuuDSZx6lvg": {
+      "name": "Lannet -Guerrero Samurai",
+      "description": null
+    },
+    "rWPi5P7eBpXtdi5J": {
+      "name": "Lannet -Guerrero Samurai",
+      "description": null
+    },
+    "BODMeX2d4lbIeVQW": {
+      "name": "Lannet",
+      "description": ""
+    },
+    "HK2ksVfBNzNtlbu4": {
+      "name": "Lannet",
+      "description": ""
+    },
+    "MHtSVFqewtyUXFg8": {
+      "name": "Lucrecio - Clase Alta/Alta Burguesía",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +10</p>"
+    },
+    "ogs0zPxgLVHYuPWe": {
+      "name": "Lucrecio - Clase Alta/Alta Burguesía",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +20</p>"
+    },
+    "FOtdeLRlJAEqhgtg": {
+      "name": "Lucrecio - Clase Media/Clase Baja",
+      "description": null
+    },
+    "gpGeWqchsQVn41PZ": {
+      "name": "Lucrecio - Clase Media/Clase Baja",
+      "description": null
+    },
+    "6JdtIdvD5tmzBNwl": {
+      "name": "Lucrecio",
+      "description": ""
+    },
+    "dJhH8bIfymqzCpcY": {
+      "name": "Lucrecio",
+      "description": ""
+    },
+    "BBPORWWwUo2aO3Jg": {
+      "name": "Moth - Clase Media/Clase Baja",
+      "description": null
+    },
+    "T6JgUwL7a1iZc0bS": {
+      "name": "Moth - Clase Media/Clase Baja",
+      "description": null
+    },
+    "PADM88isA4GC2Hq9": {
+      "name": "Moth - Nobleza",
+      "description": null
+    },
+    "toRXTAkkb7BeTd2U": {
+      "name": "Moth - Nobleza",
+      "description": null
+    },
+    "gQdGjc8YOkEjZDKn": {
+      "name": "Moth - Zigeuner",
+      "description": null
+    },
+    "ZLt7OGa6IIJYnQ4o": {
+      "name": "Moth - Zigeuner",
+      "description": null
+    },
+    "DeA6xXsH23co90F4": {
+      "name": "Moth",
+      "description": ""
+    },
+    "FwA2tJQAV6JYD5jK": {
+      "name": "Moth",
+      "description": ""
+    },
+    "g2edtwRf65thtl5X": {
+      "name": "Nanwe - Ciudadano/Burgués",
+      "description": null
+    },
+    "lTx798zPSuYae4i2": {
+      "name": "Nanwe - Ciudadano/Burgués",
+      "description": null
+    },
+    "Oehx6AGNDZ8l8Qbq": {
+      "name": "Nanwe - Tribal",
+      "description": null
+    },
+    "oQfSITVpXQU1HMCI": {
+      "name": "Nanwe - Tribal",
+      "description": null
+    },
+    "8xvbJdlvB9xjhnTB": {
+      "name": "Nanwe",
+      "description": ""
+    },
+    "GVJsOUhtJOIdFkSg": {
+      "name": "Nanwe",
+      "description": ""
+    },
+    "EnKz6IbM51i8WdWd": {
+      "name": "Phaion Eien Seimon - Burgués/Nobleza",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +5</p>"
+    },
+    "tMrHROLJMjwNGarc": {
+      "name": "Phaion Eien Seimon - Burgués/Nobleza",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +10</p>"
+    },
+    "PRhGK6hnRQhu6l2h": {
+      "name": "Phaion Eien Seimon - Clase Media/Clase Baja",
+      "description": null
+    },
+    "xEN3KiWGKD56R1Yp": {
+      "name": "Phaion Eien Seimon - Clase Media/Clase Baja",
+      "description": null
+    },
+    "oBtr5ahyFiyEzKdR": {
+      "name": "Phaion Eien Seimon",
+      "description": ""
+    },
+    "STMd95Abz1H2ebcN": {
+      "name": "Phaion Eien Seimon",
+      "description": ""
+    },
+    "aWtfOgajgbeAcpYy": {
+      "name": "Remo - Burgués/Nobleza",
+      "description": null
+    },
+    "D9G0iABHDMSO8V5Z": {
+      "name": "Remo - Burgués/Nobleza",
+      "description": null
+    },
+    "hlaBSIoTKDqkfjYT": {
+      "name": "Remo - Clase Media/Clase Baja",
+      "description": null
+    },
+    "YENcX1drxz7F4T8F": {
+      "name": "Remo - Clase Media/Clase Baja",
+      "description": null
+    },
+    "aYb3iklIFbrtmvYg": {
+      "name": "Remo",
+      "description": ""
+    },
+    "yAhwUse6bTAbfANH": {
+      "name": "Remo",
+      "description": ""
+    },
+    "I9MMOvjppeI3HQ2A": {
+      "name": "Sacro Santo Imperio de Abel",
+      "description": ""
+    },
+    "mAWyovCYq7xlqOYb": {
+      "name": "Sacro Santo Imperio de Abel",
+      "description": ""
+    },
+    "hT0AeWW9ud79x1tU": {
+      "name": "Salazar - Nómada",
+      "description": null
+    },
+    "r8rn8JW5SY4obnGL": {
+      "name": "Salazar - Nómada",
+      "description": null
+    },
+    "bBjjv7Y55eKW4tcF": {
+      "name": "Salazar",
+      "description": ""
+    },
+    "WDaZqycFuUe4CDqc": {
+      "name": "Salazar",
+      "description": ""
+    },
+    "almbAeBeYn3tKEnZ": {
+      "name": "Shivat - Clase Media/Clase Baja",
+      "description": null
+    },
+    "Jsa40tItscg5WyNU": {
+      "name": "Shivat - Clase Media/Clase Baja",
+      "description": null
+    },
+    "3E4QCb6ICEDNxLph": {
+      "name": "Shivat - Nobleza/Burgués/Burócrata",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +10</p>"
+    },
+    "CxjZZ6dBpf4RJlIM": {
+      "name": "Shivat - Nobleza/Burgués/Burócrata",
+      "description": null,
+      "description.1": "<p>Elige entre Arte o Música para el +5</p>"
+    },
+    "q0gOiKEbH1MzglBX": {
+      "name": "Shivat",
+      "description": ""
+    },
+    "qHd7V7pStQWPxU3S": {
+      "name": "Shivat",
+      "description": ""
+    },
+    "j4oYzdcCM1LDNzLd": {
+      "name": "Togarini - Burgués",
+      "description": null
+    },
+    "LXYLpzeGPMrvwkj0": {
+      "name": "Togarini - Burgués",
+      "description": null
+    },
+    "5q5tnabn9hS7fkUI": {
+      "name": "Togarini - Clase Media/Clase Baja",
+      "description": null
+    },
+    "ykMMsDtnip48saXL": {
+      "name": "Togarini - Clase Media/Clase Baja",
+      "description": null
+    },
+    "GpA10Cw7Lx0WYaOD": {
+      "name": "Togarini - Nobleza/Alta Nobleza",
+      "description": null
+    },
+    "VyYB6TV45jaAD2rG": {
+      "name": "Togarini - Nobleza/Alta Nobleza",
+      "description": null
+    },
+    "lxpmnMYMhXthm9rW": {
+      "name": "Togarini",
+      "description": ""
+    },
+    "MzoyysEa3aW1Ztoi": {
+      "name": "Togarini",
+      "description": ""
+    }
+  }
+}

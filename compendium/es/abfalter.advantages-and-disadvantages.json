@@ -12,7 +12,7 @@
     "Magic": "Mágicas",
     "4gHBYFN9IbpKtyMB": "Oficial",
     "Psychic": "Psíquicas"
-},
+  },
   "entries": {
     "BSMZHkewmAKXXmcE": {
       "name": "Acceso Psíquico a Poderes Naturales (1)",
@@ -68,7 +68,7 @@
     },
     "iB22hbE68EzDM36F": {
       "name": "Apto en una Materia (1)",
-      "description": "Un personaje con esta Ventaja tiene una enorme capacidad para aprender una única Habilidad Secundaria, lo que le permite desarrollarla con muy poco esfuerzo.\n\nEfectos: Esta Ventaja reduce el Costo de Desarrollo de una sola Habilidad Secundaria por cada Punto de Creación gastado. Por ejemplo, el jugador de un Mago podría reducir el costo de la habilidad Frialdad de 3 a 2 si gastara 1 punto en esta Ventaja, o incluso a 1 si gastara 2 puntos\n\nRestricciones: Los Costos de Desarrollo no pueden reducirse por debajo de 1. Esta Ventaja funciona solo para Habilidades Secundarias."
+      "description": "Un personaje con esta Ventaja tiene una enorme capacidad para aprender una única Habilidad Secundaria, lo que le permite desarrollarla con muy poco esfuerzo.\n\nEfectos: Esta Ventaja reduce el Costo de Desarrollo de una sola Habilidad Secundaria por cada Punto de Creación gastado. Por ejemplo, el jugador de un Mago podría reducir el costo de la habilidad Frialdad de 3 a 2 si gastara 1 punto en esta Ventaja, o incluso a 1 si gastara 2 puntos.\n\nRestricciones: Los Costos de Desarrollo no pueden reducirse por debajo de 1. Esta Ventaja funciona solo para Habilidades Secundarias."
     },
     "Cs8tdXWAtS4F7r3z": {
       "name": "Apto en una Materia (2)",

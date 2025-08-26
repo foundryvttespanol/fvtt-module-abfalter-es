@@ -1,23 +1,25 @@
 {
   "label": "macros",
-  "mapping": {
-    "description": "system.description"
-  },
+  "mapping": [],
   "entries": {
     "1RVDjwrl13GdPPqr": {
       "name": "Activate Energy Shield",
       "description": null
     },
     "HmIpGUF5h2Fj3pgs": {
-      "name": "Combat Helpers",
+      "name": "Ayudas al Combate",
+      "description": ""
+    },
+    "FlBBTFBwEysBLJRG": {
+      "name": "Calculadora de Costes de DP",
       "description": null
     },
-    "08SKQKpiEnOJLqlL": {
-      "name": "Damage Calculator v1",
+    "nejYU8jwr3BfIViQ": {
+      "name": "Damage Calculator",
       "description": null
     },
-    "6stw7TPDeQOB9vJV": {
-      "name": "Elemental Damage Resolution v4",
+    "D8LaaJxQyPaXEorG": {
+      "name": "Elemental Damage Resolution",
       "description": null
     },
     "bW0WZQWT1bjpWkWa": {
@@ -28,24 +30,24 @@
       "name": "Full Restore",
       "description": null
     },
-    "YQ4RJ4Cvu63M9gRC": {
-      "name": "Impact Resolution v3",
+    "rQAxUDf4h6l47rnY": {
+      "name": "Impact Resolution",
       "description": null
     },
     "QFGxIuU3A24tEgB1": {
       "name": "LP Damage and Crit Macro",
       "description": null
     },
-    "KBJ8t2sfSUdkORSl": {
-      "name": "Programmatic Psychics v7",
+    "JYgVGAUjX790LX0M": {
+      "name": "Programatic Psychics",
       "description": null
     },
-    "RdP5K4gEYYxHORXx": {
-      "name": "Programmatic Spells v4",
+    "LfSwfDaISas0XR8k": {
+      "name": "Programatic Spells",
       "description": null
     },
-    "QCsIwPjzgk84zCAu": {
-      "name": "Programmatic Weapons v5",
+    "AmzAx1iNjFa9jpPu": {
+      "name": "Programatic Weapons",
       "description": null
     },
     "kduh6JFaychYYyng": {

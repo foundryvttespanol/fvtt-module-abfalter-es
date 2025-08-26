@@ -94,7 +94,7 @@
     },
     "FgJjFuBioDrJCueH": {
       "name": "Botella Rota",
-      "description": ""
+      "description": null
     },
     "CIrqa03uBC5lciVA": {
       "name": "Rodela",
@@ -282,7 +282,7 @@
     },
     "IVieSrBlpY51h3cp": {
       "name": "Martillo",
-      "description": ""
+      "description": null
     },
     "UNu1nKdbZBtQOsbJ": {
       "name": "Hacha de Mano",
@@ -322,7 +322,7 @@
     },
     "B8TtiXCyOI5Zn3xW": {
       "name": "Azada",
-      "description": ""
+      "description": null
     },
     "0yjfPtzcKFxWd3ZM": {
       "name": "Garfio",
@@ -374,7 +374,7 @@
     },
     "vrW1LxUEeNaidG0Z": {
       "name": "Cuchillo de Cocina",
-      "description": ""
+      "description": null
     },
     "JzK2mM9k84FW2y63": {
       "name": "Koncerz",
@@ -486,7 +486,7 @@
     },
     "yVNU7wEIoDUc9MDu": {
       "name": "Barra Metálica",
-      "description": ""
+      "description": null
     },
     "kEZl7unJeRdg3F7g": {
       "name": "Saeta ligera",
@@ -550,7 +550,7 @@
     },
     "7VQhblBVXD4hProW": {
       "name": "Pico",
-      "description": ""
+      "description": null
     },
     "GEtxyl5thwgWoZP9": {
       "name": "Pika (Distancia)",
@@ -630,7 +630,7 @@
     },
     "5OCJxqVNiDmQNx58": {
       "name": "Arco Corto",
-      "description": "A dos manos.<hr>\n"
+      "description": null
     },
     "a9D15WPlLpDiMsPd": {
       "name": "Shuko",
@@ -642,7 +642,7 @@
     },
     "fRvp14wZjDLf9EXI": {
       "name": "Hoz",
-      "description": ""
+      "description": null
     },
     "gB6HEsMnryNWwAJG": {
       "name": "Honda",
@@ -706,7 +706,7 @@
     },
     "Yh3lfbkHtSjz2dr4": {
       "name": "Antorcha",
-      "description": ""
+      "description": null
     },
     "Yj81eq65JofJqUlG": {
       "name": "Tridente",
@@ -754,7 +754,7 @@
     },
     "c3nR13L3I4GfVbfN": {
       "name": "Palo de Madera",
-      "description": ""
+      "description": null
     },
     "PCZKdNISw7WNlgQi": {
       "name": "Hacha de Leñador",

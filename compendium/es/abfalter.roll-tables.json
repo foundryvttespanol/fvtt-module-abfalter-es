@@ -1,5 +1,8 @@
 {
   "label": "roll-tablas",
+  "folders": {
+    "Invocations": "Invocaciones"
+  },
   "entries": {
     "Gtwdocp7jz4SBAz9": {
       "name": "Tabla Localizaciones",

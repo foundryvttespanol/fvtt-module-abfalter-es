@@ -181,12 +181,9 @@
       "arcanerollDesc": "+120 Daño base",
       "cost": 4
     },
-    "aeJnCXfMU7OQc79F": {
-      "name": "Aire"
-    },
     "Ex9bzSfa6faxeXfK": {
       "name": "Golpe de Aire",
-      "description": "Ataque Impacto a un objetivo único o área. Causa daño equivalente al doble del bono de FUE del ataque (los ataques a un sólo objetivo suman un +2 a FUE). Los objetivos deben superar una tirada de Advertir con dificultad 180, o poder ver la magia, para percibir este ataque.",
+      "description": "Ataque Impacta a un objetivo único o área. Causa daño equivalente al doble del bono de FUE del ataque (los ataques a un sólo objetivo suman un +2 a FUE). Los objetivos deben superar una tirada de Advertir con dificultad 180, o poder ver la magia, para percibir este ataque.",
       "action": "Activa",
       "basicrollDesc": "5 metros de anchura / Fuerza 6",
       "intermediaterollDesc": "20 metros de anchura / Fuerza 9",
@@ -366,7 +363,7 @@
     },
     "cVSNmTVU5zVM1Njp": {
       "name": "Ascensión",
-      "description": "Mientras se mantenga el hechizo, el objetivo ve incrementada su Gnosis",
+      "description": "Mientras se mantenga el hechizo, el objetivo ve incrementada su Gnosis.",
       "action": "Activa",
       "basicrollDesc": "Gnosis máximo 30",
       "intermediaterollDesc": "Gnosis máximo 35",
@@ -564,12 +561,9 @@
       "arcanerollDesc": "240 RM",
       "cost": 12
     },
-    "bbhg6pG50B2GSNhH": {
-      "name": "Sangre"
-    },
     "kDNHGctUUijz3gVK": {
       "name": "Creación de Sangre",
-      "description": "Crea un objeto físico o arma a partir de la sangre del lanzador.",
+      "description": "Crea un objeto físico o arma a partir de la sangre del lanzador. La sangre invertida se recupera a ritmo de Sacrificio.",
       "action": "Activa",
       "basicrollDesc": "Pérdida de -10 PV / Calidad +0 / Objetos de hasta 2 kilos",
       "intermediaterollDesc": "Pérdida de -20 PV / Calidad +5 / Objetos de hasta 5 kilos.",
@@ -746,9 +740,6 @@
       "advancedrollDesc": "10.000 kilómetros de radio / Afecta hasta Gnosis 30",
       "arcanerollDesc": "Afecta toda la creación / Afecta hasta Gnosis 40.",
       "cost": 20
-    },
-    "X88vBHZ5gjYqk3N4": {
-      "name": "Caos"
     },
     "kAOvNJHPoN3KQIqM": {
       "name": "Aberración Caótica",
@@ -952,7 +943,7 @@
     },
     "YIZXgtU94dqObivj": {
       "name": "Consumir Vida por Magia",
-      "description": "El lanzador puede (como Acción pasiva) sacrificar PV para obtener Zeon en una proporción de 5 a 100. Las criaturas de acumulación de Daño multiplican la pérdida de PV por su múltiplo de acumulación. Los PV perdidos de esta forma se recuperan al ritmo de un Sacrificio. Un personaje solo puede tener un hechizo, de este tipo, activo a la vez.",
+      "description": "El lanzador puede (como Acción pasiva) sacrificar PV para obtener Zeon en una proporción de 5 a 100. Las criaturas de acumulación de Daño multiplican la pérdida de PV por su múltiplo de acumulación. Los PV perdidos de esta forma se recuperan al ritmo de Sacrificio. Un personaje solo puede tener un hechizo, de este tipo, activo a la vez.",
       "action": "Activa",
       "basicrollDesc": "20 puntos de vida asalto",
       "intermediaterollDesc": "80 puntos de vida asalto",
@@ -1062,7 +1053,7 @@
     },
     "sL38kXDYayY1yo0A": {
       "name": "Creación Oscura",
-      "description": "Crea un Ser Entre Mundos de Oscuridad al nivel especificado, bajo el control del hechicero.",
+      "description": "Crea un Ser Entre Mundos de Oscuridad del nivel especificado, bajo el control del hechicero.",
       "action": "Activa",
       "basicrollDesc": "Nivel 1",
       "intermediaterollDesc": "Nivel 3",
@@ -1072,7 +1063,7 @@
     },
     "hiHRAsH38kpmzAc1": {
       "name": "Creación de Luz",
-      "description": "Crea un Ser Entre Mundos de Luz al nivel especificado, bajo el control del hechicero.",
+      "description": "Crea un Ser Entre Mundos de Luz del nivel especificado, bajo el control del hechicero.",
       "action": "Activa",
       "basicrollDesc": "Nivel 1",
       "intermediaterollDesc": "Nivel 3",
@@ -1102,7 +1093,7 @@
     },
     "fr9COQGmdnkwSs8Z": {
       "name": "Crear Emociones",
-      "description": "Vía Cerrada: Ilusión\n\nCrea una emoción o sentimiento elegido por el lanzador. El objetivo afectado pueden realizar un nuevo chequeo cada día, o cuando tenga motivos fundados para sospechar que está siendo influenciado sobrenaturalmente.",
+      "description": "Vía Cerrada: Ilusión\n\nCrea una emoción o sentimiento elegido por el lanzador en un área. Los objetivos afectados pueden realizar un nuevo chequeo cada día, o cuando tengan motivos fundados para sospechar que están siendo influenciados sobrenaturalmente.",
       "action": "Activa",
       "basicrollDesc": "120 RM o RP",
       "intermediaterollDesc": "140 RM o RP",
@@ -1290,9 +1281,6 @@
       "arcanerollDesc": "100.000 Puntos de presencia / Presencia máxima 320 / Cualquier número de reglas existenciales",
       "cost": 20
     },
-    "1GOn1vSq7DJZp01q": {
-      "name": "Creación"
-    },
     "6Ywerzhoiq1QYURq": {
       "name": "Cristalización",
       "description": "El objetivo debe superar un chequeo de resistencia o entrar en un estado inmediato de Parálisis Menor. Además, todo el daño recibido mientras está bajo este efecto cuenta como un crítico automático, independientemente del valor real del daño. En el caso de criaturas de acumulación, todo su cuerpo se considera un punto vulnerable.",
@@ -1393,9 +1381,6 @@
       "arcanerollDesc": "Daño Base 200 / Proyección Mágica 240",
       "cost": 10
     },
-    "dWF4xNfwZPRmSj9p": {
-      "name": "Oscuridad"
-    },
     "dKhsYquempfzLqTW": {
       "name": "Oscuridad Ambiental",
       "description": "El área afectada aumenta la dificultad de los chequeos perceptivos en dos grados, y también interfiere con la Detección de Ki, así como con las habilidades de Detección Mágica y Psíquica. Es una zona estática y no se pueden seleccionar blancos.",
@@ -1455,9 +1440,6 @@
       "advancedrollDesc": "160 RM o RF",
       "arcanerollDesc": "180 RM o RF",
       "cost": 16
-    },
-    "RQp9EeQMFJ0Zov2Q": {
-      "name": "Muerte"
     },
     "xWW9Hzg6x1Unr6vi": {
       "name": "La Muerte",
@@ -1611,7 +1593,7 @@
     },
     "NEuHhoo3PHA8sbzI": {
       "name": "Destruir No Muertos",
-      "description": "Los no muertos afectados deben superar un chequeo de RM o recibir daño igual al doble de su nivel de fallo. Las criaturas con acumulación multiplican este daño por diez.",
+      "description": "Los no muertos afectados deben superar un chequeo de RM o recibir daño igual al doble de su nivel de fallo. Las criaturas con acumulación multiplican este daño por su múltiplo.",
       "action": "Activa",
       "basicrollDesc": "140 RM",
       "intermediaterollDesc": "180 RM",
@@ -1629,12 +1611,9 @@
       "arcanerollDesc": "180 RM / 100 metros de Radio ",
       "cost": 14
     },
-    "12oEJKbIrB3NWg4v": {
-      "name": "Destrucción"
-    },
     "y1p6L1aTMEP1lLws": {
       "name": "Destrucción de Matrices",
-      "description": "Destruye una matriz activa de nivel de dificultad especificado o inferior. Esto puede cancelar un poder mientras se manifiesta, antes de que surta efecto.",
+      "description": "Destruye una matriz activa del nivel de dificultad especificado o inferior. Esto puede cancelar un poder mientras se manifiesta, antes de que surta efecto.",
       "action": "Pasiva",
       "basicrollDesc": " Dificultad Media (80)",
       "intermediaterollDesc": "Dificultad Muy Difícil (140)",
@@ -1684,7 +1663,7 @@
     },
     "2DoHawFR2XFgXrm2": {
       "name": "Sentir el Calor",
-      "description": "Detecta fuentes de calor en el área, aprendiendo la intensidad y tamaño precisos de cualquier fuente de calor. Incluye criaturas de sangre caliente. Para sistirse deben pasar un chequeo de RM.",
+      "description": "Detecta fuentes de calor en el área, aprendiendo la intensidad y tamaño precisos de cualquier fuente de calor. Incluye criaturas de sangre caliente. Para resistirse deben superar un chequeo de RM.",
       "action": "Activa",
       "basicrollDesc": "25 metros de radio / 120 RM",
       "intermediaterollDesc": "50 metros de radio / 150 RM",
@@ -1704,7 +1683,7 @@
     },
     "uPupZc0sua175hdW": {
       "name": "Detectar Mentira",
-      "description": "El lanzador detecta cualquier mentira dicha en su presencia, siempre que el objetivo falle un chequeo de resistencia. Si no son conscientes de que mienten no se verán afectadas.",
+      "description": "El lanzador detecta cualquier mentira dicha en su presencia, siempre que el objetivo falle un chequeo de resistencia. Si no son conscientes de que mienten no se verán afectados.",
       "action": "Activa",
       "basicrollDesc": "120 RM o RP",
       "intermediaterollDesc": "140 RM o RP",
@@ -1952,9 +1931,6 @@
       "arcanerollDesc": "240 MR o RP",
       "cost": 10
     },
-    "nTHejSiwhSnJrvQJ": {
-      "name": "Sueños"
-    },
     "rYWlJy58j59q3bW3": {
       "name": "Secar",
       "description": "Seca el cuerpo u objeto objetivo. Cualquier ser elemental de agua debe superar un chequeo de Resistencia o perder PV igual al doble de su nivel de fallo. Contra seres vivos con organismos basados en agua (como los humanos), el daño es igual a la mitad del nivel de fallo.",
@@ -1964,9 +1940,6 @@
       "advancedrollDesc": "25 metros de radio / 140 RM o RF",
       "arcanerollDesc": "35 metros de radio / 160 RM o RF",
       "cost": 10
-    },
-    "4bvscx0ZbdEeafZO": {
-      "name": "Tierra"
     },
     "ctu7iHLz7nOkHzF9": {
       "name": "Espina de la Tierra",
@@ -2110,7 +2083,7 @@
     },
     "zHyMFYSknzWXBBCE": {
       "name": "Eliminar Residuos",
-      "description": "Borra toda evidencia de haber estado en un lugar o área determinada, ya sean rastros mundanos o sobrenaturales.",
+      "description": "Borra toda evidencia de haber estado en un lugar o área determinada, ya sean rastros mundanos o sobrenaturales. Tiene como excepción un rastrear a nivel de Zen o que se vea el pasado anterior al periodo del conjuro.",
       "action": "Activa",
       "basicrollDesc": "50 metros de radio",
       "intermediaterollDesc": "250 metros de radio",
@@ -2118,12 +2091,9 @@
       "arcanerollDesc": "5 kilómetros de radio / Como en grado Avanzado, salvo que el hechicero puede borrar todo rastro de cuanto aconteció en el pasado en la zona afectada",
       "cost": 12
     },
-    "5fRWaHN6wujs70BS": {
-      "name": "Esencia"
-    },
     "eaAol6T1j5Uo5YCy": {
       "name": "Esencia de Destrucción",
-      "description": "El objeto se convierte en pura energía, inmune a ataques que no puedan afectar a la energía. Cualquiera que entre en contacto con el objeto debe realizar un chequeo de RM con una dificultad igual al doble de la Presencia del objeto. Las consecuencias por el fallo dependen del nivel del hechizo.",
+      "description": "El objeto se convierte en pura energía, volviéndose inmune a ataques que no puedan afectar a la energía. Cualquiera que entre en contacto con el objeto debe realizar un chequeo de RM con una dificultad igual al doble de la Presencia del objeto. Las consecuencias por el fallo dependen del nivel del hechizo.",
       "action": "Activa",
       "basicrollDesc": "Daño equivalente al nivel de fracaso",
       "intermediaterollDesc": "Daño y negativo a toda acción equivalente al nivel de fracaso",
@@ -2251,9 +2221,6 @@
       "arcanerollDesc": "260 RM",
       "cost": 14
     },
-    "aj6FjFkH24elVd3r": {
-      "name": "Fuego"
-    },
     "hGC2AJ3TI1PxfMBZ": {
       "name": "Bola de Fuego",
       "description": "Átaque en área basado en calor en el que no se puede seleccionar blancos.",
@@ -2376,7 +2343,7 @@
     },
     "3RBS9eKosKdZHikM": {
       "name": "Negar",
-      "description": "Veta una acción específica a objetivo, la cual no puede siquiera realizarse si falla el chequeo de resistencia. Restricciones muy generales, como “Atacar” o “Moverse”, pueden otorgar un bono de +10 a +30 para resistir, a discreción del Director de Juego.",
+      "description": "Veta una acción específica al objetivo, la cual no puede siquiera realizarse si falla el chequeo de resistencia. Restricciones muy generales, como “Atacar” o “Moverse”, pueden otorgar un bono de +10 a +30 para resistir, a discreción del Director de Juego.",
       "action": "Activa",
       "basicrollDesc": "120 RM",
       "intermediaterollDesc": "160 RM",
@@ -2423,9 +2390,6 @@
       "advancedrollDesc": "-8 Entereza / Presencia máxima 90",
       "arcanerollDesc": "-12 Entereza / Presencia máxima 120",
       "cost": 2
-    },
-    "0Zh4QKhbupu2A8Aw": {
-      "name": "Libre Acceso"
     },
     "eRW5oC0eCtivjBhg": {
       "name": "Movimiento Libre",
@@ -2847,9 +2811,6 @@
       "arcanerollDesc": "220 RM o RP",
       "cost": 18
     },
-    "XuRpXE66arGaF03R": {
-      "name": "Ilusión"
-    },
     "YZ9kalxfZ6mewYtU": {
       "name": "Invisibilidad Ilusoria",
       "description": "El hechizo hace que el objetivo desaparezca de la vista de cualquier persona que no supere un chequeo de RM.",
@@ -3210,9 +3171,6 @@
       "arcanerollDesc": "180 RM",
       "cost": 6
     },
-    "2XDeo5LpPXA1LzPR": {
-      "name": "Conocimiento"
-    },
     "P7Ee26baq7qn31d1": {
       "name": "Conocimiento",
       "description": "El hechizo otorga al lanzador un conocimiento temporal sobre una habilidad secundaria específica, reemplazando su valor base. Esta habilidad se pierde al finalizar el conjuro. El lanzador puede estar bajo múltiples efectos de este tipo de hechizo, siempre que cada uno afecte una habilidad secundaria distinta.",
@@ -3252,36 +3210,6 @@
       "advancedrollDesc": "-6 a la TA / 180 RM",
       "arcanerollDesc": "-8 a la TA / 200 RM",
       "cost": 12
-    },
-    "3zv8ztVwQQU0dXe9": {
-      "name": "Nivel 1 - 10"
-    },
-    "TeYsBkOMfZTBFqhM": {
-      "name": "Nivel 11 - 20"
-    },
-    "2du4MxT1Ot3UY3YV": {
-      "name": "Nivel 21 - 30"
-    },
-    "G9ZuDPz4GJapQr4k": {
-      "name": "Nivel 31 - 40"
-    },
-    "zSqdTbqEPn7uyawY": {
-      "name": "Nivel 41 - 50"
-    },
-    "WpSWCCdPS4eP9dbj": {
-      "name": "Nivel 51 - 60"
-    },
-    "1l3mZ098RqbJ0UCE": {
-      "name": "Nivel 61 - 70"
-    },
-    "bNSeYg7aeuVDY7G0": {
-      "name": "Nivel 71 - 80"
-    },
-    "IqHnmjdjKmtSRq5w": {
-      "name": "Nivel 81 - 90"
-    },
-    "6aOBabGxlarN2Jaj": {
-      "name": "Nivel 91 - 100"
     },
     "BbIq27pw5HUjwMR4": {
       "name": "Esfera de Levitación",
@@ -3373,9 +3301,6 @@
       "arcanerollDesc": "Como el Avanzado, pero no sufre doble daño por recibir ataques basados en oscuridad",
       "cost": 12
     },
-    "nzRfZMD8ns5Cg3ko": {
-      "name": "Luz"
-    },
     "r9AbYbfLE07IRy2z": {
       "name": "Rayo",
       "description": "Lanza un rayo eléctrico con 100 de daño base. Antes del impacto, el hechicero decide si concentra el daño en un solo objetivo o permite que la descarga rebote una vez en el cuerpo más cercano, causando el mismo efecto. El rayo no puede afectar dos veces al mismo objetivo, ni volver contra el lanzador.",
@@ -3415,9 +3340,6 @@
       "advancedrollDesc": " 140 RM o RF / 500 litros",
       "arcanerollDesc": " 180 RM o RF / 5.000 litros",
       "cost": 6
-    },
-    "7amXbdjIepYeOvLj": {
-      "name": "Literae"
     },
     "dWdvirCblanYpvwp": {
       "name": "Localización",
@@ -3648,9 +3570,6 @@
       "advancedrollDesc": "900 Puntos de vida",
       "arcanerollDesc": "1.200 Puntos de vida",
       "cost": 6
-    },
-    "NWbYYmJ3qSBGu0sJ": {
-      "name": "Vías"
     },
     "AaOhpQA7bGAw3Rj7": {
       "name": "Mantenimiento",
@@ -3922,9 +3841,6 @@
       "arcanerollDesc": "280 de habilidad",
       "cost": 6
     },
-    "u4T9ZyiwJjwgnpc9": {
-      "name": "Musical"
-    },
     "86bL8TVmt6jdxWkr": {
       "name": "Descarga",
       "description": "Proyecta una descarga mística. El ataque se realiza en la TA de energía",
@@ -3984,9 +3900,6 @@
       "advancedrollDesc": "Zeón máximo 180",
       "arcanerollDesc": "Zeón máximo 220",
       "cost": 18
-    },
-    "SNXeM57UfP484i7j": {
-      "name": "Nigromancia"
     },
     "VzrZZkrE4CUIHwjp": {
       "name": "Quimera Nigromántica",
@@ -4078,9 +3991,6 @@
       "arcanerollDesc": "1 kilómetro de radio / Se considera oscuridad sobenatural",
       "cost": 10
     },
-    "qFy5xMDWl6EMJ6OF": {
-      "name": "Nobleza"
-    },
     "T1wk05ZqARcoTeKH": {
       "name": "Inexistencia",
       "description": "El objetivo se vuelve imperceptible para los sentidos naturales, sin ser visible, audible, ni dejar rastros físicos, aunque sigue siendo material. Solo puede ser detectado mediante magia, Ki o poderes psíquicos.\nQuienes puedan percibirlo deben superar automáticamente un chequeo de RM, o no podrán detectarlo. Si fallan, pueden repetir el chequeo al tener motivos para sospechar que alguien está cerca.",
@@ -4110,9 +4020,6 @@
       "advancedrollDesc": "+40 a la Proyección mágica ofensiva",
       "arcanerollDesc": "+50 a la Proyección mágica ofensiva",
       "cost": 16
-    },
-    "K970IpsK20wtXcuj": {
-      "name": "Oficial"
     },
     "36FSrugDSQiorrcv": {
       "name": "Esencia Oscura",
@@ -4213,9 +4120,6 @@
       "advancedrollDesc": "Tres tiradas por asalto",
       "arcanerollDesc": "Cuatro tiradas por asalto o una que sea un resultado de pifia",
       "cost": 10
-    },
-    "bLuiyVJbgnk6t9km": {
-      "name": "Paz"
     },
     "YdDwIpmnZz1fMWxy": {
       "name": "Pax in Terra",
@@ -4449,7 +4353,7 @@
     },
     "iaIWaEJ8rXpAAXro": {
       "name": "Prisión de Luz",
-      "description": "El objetivo queda encerrado en un dominio de luminosidad absoluta, donde la visión se anula por el exceso de resplandor y la realidad se vuelve inalcanzable. Envuelto en un fulgor cegador, pierde toda noción del entorno y es incapaz de percibir el mundo exterior.\nPara escapar, debe romper la prisión, que posee AT 10 y PV según el nivel del hechizo. El daño externo se duplica, pero la prisión cuenta con Regeneración 19. Si el objetivo falla su chequeo de RM, queda encarcelado sin opción de volver a intentarlo y solo podrá destruir la prisión para salir. Este hechizo no puede lanzarse sobre el propio lanzador.",
+      "description": "El objetivo queda atrapado en una cámara de sombras, donde la luz no existe y la percepción sensorial se desvanece. No puede interactuar con la realidad, quedando completamente aislado en un espacio donde el tiempo y la orientación pierden significado.\nPara escapar, debe romper la prisión, que posee AT 10 y PV según el nivel del hechizo. El daño externo se duplica, pero la prisión cuenta con Regeneración 19. Si el objetivo falla su chequeo de RM, queda encarcelado sin opción de volver a intentarlo y solo podrá destruir la prisión para salir. Este hechizo no puede lanzarse sobre el propio lanzador.",
       "action": "Activa",
       "basicrollDesc": "140 RM / 10.000 Puntos de vida",
       "intermediaterollDesc": "180 RM / 250.000 Puntos de vida",
@@ -5119,7 +5023,7 @@
     },
     "SeEPadb5FK3WVi4V": {
       "name": "Sombra",
-      "description": "Mejora las habilidades de Sigilo y Ocultación, además de la Evaluación Mágica para ocultar el potencia mágico.",
+      "description": "Mejora las habilidades de Sigilo y Ocultación, además de la Valoración Mágica para ocultar el potencia mágico.",
       "action": "Activa",
       "basicrollDesc": "+50 en Sigilo, Ocultarse y Valoración Mágica",
       "intermediaterollDesc": "+150 en Sigilo, Ocultarse y Valoración Mágica",
@@ -5276,9 +5180,6 @@
       "advancedrollDesc": "Nivel 7",
       "arcanerollDesc": "Nivel 10",
       "cost": 18
-    },
-    "bT3NMfx76UpzyyS3": {
-      "name": "Pecado"
     },
     "fWZaN5wX7vxEw3Ry": {
       "name": "Dormir",
@@ -5660,9 +5561,6 @@
       "arcanerollDesc": "+250 Zeon",
       "cost": 20
     },
-    "ro4hVjJWgrsp5oUY": {
-      "name": "Sub-vías"
-    },
     "kn4NvS5lZSZITpPE": {
       "name": "Llamar a los Muertos",
       "description": "Invoca un espíritu, alma que espera la llamada, o una criatura espectral, con un nivel máximo según lo indicado.",
@@ -5963,9 +5861,6 @@
       "arcanerollDesc": "240 RM / Hasta un año",
       "cost": 16
     },
-    "KcK8wNqUF3YRYlJH": {
-      "name": "Tiempo"
-    },
     "2h4E8zn3kHS1J5AM": {
       "name": "Ilusión Total",
       "description": "Crea una ilusión que afecta a todos los sentidos naturales. Si sufre daño por un ataque que implique energía, se disipa. Todo aquel que la vea, escuche o perciba físicamente tiene derecho a un Chequeo de Resistencia.",
@@ -6095,9 +5990,6 @@
       "advancedrollDesc": "20 kilómetros de longitud",
       "arcanerollDesc": "30 kilómetros de longitud / afecta Barrera de daño 90",
       "cost": 16
-    },
-    "fVpje1arkEhIZf4J": {
-      "name": "Umbral"
     },
     "uZDn0OvEuKUTwIkt": {
       "name": "Descrear",
@@ -6309,9 +6201,6 @@
       "arcanerollDesc": "TA 10 / Valor Zeónico 160/ Potencial Psíquico 180",
       "cost": 12
     },
-    "dd9lYLlJvMD5DGvv": {
-      "name": "Vacio"
-    },
     "b8nAHIbYeHauMYym": {
       "name": "Escudo de Vacio",
       "description": "Genera un Escudo Sobrenatural que anula cualquier poder que lo impacte, salvo que el atacante supere un chequeo de VOL o POD con dificultad determinada por el nivel del Hechizo. Los objetos inanimados que lo golpeen deben superar un chequeo de RF o serán destruidos al instante.",
@@ -6342,9 +6231,6 @@
       "arcanerollDesc": "El personaje puede moverse o quedarse quieto con plena estabilidad por superficies completamente imposibles, como un hilo, una pluma que cae lentamente del cielo o incluso saltar de una gota de lluvia a otra",
       "cost": 12
     },
-    "DsFmsqCQsLeRz1da": {
-      "name": "Guerra"
-    },
     "Yc3YW0mwiKITRG1s": {
       "name": "Guardarropa",
       "description": "Transmuta la ropa del objetivo en prendas de gran calidad, siempre limpias y planchadas. La suciedad y el daño se reparan automáticamente en segundos.",
@@ -6374,9 +6260,6 @@
       "advancedrollDesc": "Daño 80 / Fuerza 12",
       "arcanerollDesc": "Daño 100 / Fuerza 14",
       "cost": 4
-    },
-    "VWyunECDSZh40x7Y": {
-      "name": "Agua"
     },
     "DS7dCpITYOSGd90Z": {
       "name": "Debilidad",

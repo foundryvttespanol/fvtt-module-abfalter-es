@@ -76,12 +76,7 @@
     "Reversed XX - Judgement": "Invertido XX - El Juicio",
     "Reversed XXI - World": "Invertido XXI - El Mundo"
   },
-
-
   "entries": {
-    "lztMGez8aplJGjp0": {
-      "name": "Aeon"
-    },
     "P77fzqQelshe6wKi": {
       "name": "Arcana 0 - El Loco",
       "description": "Duración: Una hora por cada 10 puntos que supere la dificultad requerida.\n\nEfectos: Mientras este activo, el invocadoir ignora cualquier penalizador o bonificador de tiempo a la hora de invocaciones posteriores.",
@@ -330,9 +325,6 @@
       "atk": "N/D",
       "def": "N/D"
     },
-    "3PYh52bXaGme9w42": {
-      "name": "Behemoth - Señor de la Tierra"
-    },
     "beVG1D04avKe5ZDA": {
       "name": "Byakko - La Garra del Rey de las Bestias",
       "description": "Duración: Instantáneo.\n\nEfecto: El convocador realiza un ataque cuerpo a cuerpo con la habilidad de Ataque de Byakko, con Daño Base 120 que afecta a la TA de Filo. El ataque ignora 4 puntos de la armadura del defensor, y por cada 10 puntos que supere la dificultad de invocación, puede elegir entre ignorar 1 punto adicional de armadura o sumar +5 al daño base.",
@@ -379,9 +371,6 @@
       "atk": "N/D",
       "def": "300"
     },
-    "7eVwiKnU7YJRvMS5": {
-      "name": "Byakko, El Tigre Blanco, Guardian del Oeste"
-    },
     "T43JwxKiUQbPjJgz": {
       "name": "Caronte, Titiritero de Almas",
       "description": "Duración: 1 hora por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: El Titiritero lanza un Hechizo Anímico contra la TA de Energía de dos objetivos elegidos, usando su habilidad de Ataque. Si ambos reciben daño, deben superar una Resistencia Mágica de 140 + 5 por cada 10 puntos que supere la Dificultad, hasta un máximo de RM 200. Si los dos fallan, sus almas intercambian cuerpos durante toda la duración. Si uno de ellos muere antes de que el hechizo termine, el intercambio se vuelve permanente para el otro.",
@@ -420,9 +409,6 @@
       "atk": "320+",
       "def": "N/D"
     },
-    "40aLVwSuzCs0SZGy": {
-      "name": "Druaga"
-    },
     "jb7X4Aj7Dzwwfxcc": {
       "name": "Eir - Einjear",
       "description": "Duración: 1 hora por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Eir permite que los espíritus de los caídos que se encuentren a menos de 100 metros, que aún esperen el Llamamiento y conserven voluntad de luchar, regresen al combate. Estos no están bajo el control del Invocador y nunca actuarán en contra de su naturaleza o antiguos aliados. Si sus cuerpos permanecen cerca y en condiciones, volverán a ellos con todos sus PV, conservando los niveles de Zeon, Ki y CVs que tenían al morir. Si no, se alzarán como espíritus materiales, con todos sus PV pero sin Zeon, Ki ni CVs, siendo inmunes a ataques que no afecten a la energía. Permanecen activos hasta agotar la duración o ser destruidos nuevamente.",
@@ -450,9 +436,6 @@
       "difficulty": 280,
       "atk": "N/D",
       "def": "N/D"
-    },
-    "hFyuTtiqdE5wJYm7": {
-      "name": "Eir, La Primera Valkyria"
     },
     "ydofcpfQlGRyiVb9": {
       "name": "Enamon",
@@ -492,9 +475,6 @@
       "atk": "N/D",
       "def": "N/D"
     },
-    "T7ZbFh870YUvTPK4": {
-      "name": "Ethelthryth, Señora de los Nombres"
-    },
     "bTzaNOQZqaNqfq4B": {
       "name": "Forseti - Equilibrium",
       "description": "Duración: Instantáneo\n\nEfecto: Solo puede invocarse en el instante exacto en que el Invocador sufre daño por parte de un enemigo. El atacante debe superar una Resistencia Mágica de 140 + 5 por cada 10 puntos que supere la dificultad de invocación, con un máximo de 240 de RM.\nSi falla, el daño recibido por el Invocador se tranfiere al atacante hasta un máximo de 250 puntos de vida.",
@@ -522,9 +502,6 @@
       "difficulty": 320,
       "atk": "N/D",
       "def": "N/D"
-    },
-    "1oMAXqUVhsEDq6Nd": {
-      "name": "Forseti, Señor del Equilibrio"
     },
     "QgRWjRv3MHNKpEY6": {
       "name": "Galgaliel, Angel de los Dones",
@@ -592,12 +569,6 @@
       "atk": "N/D",
       "def": "N/D"
     },
-    "RAL2ekA9WOvWsIR2": {
-      "name": "Genbu, La Tortuga Negra, Guardian del Norte"
-    },
-    "T2QKv31b6lrFyHqE": {
-      "name": "Grandes Bestias"
-    },
     "WJOIGzXoDO0JqzdJ": {
       "name": "Hermod, El Mensajero de los Dioses",
       "description": "Duración: Variable, generalmente 1 asalto.\n\nEfecto: El Mensajero puede entregar cualquier mensaje o paquete compuesto exclusivamente de objetos inorgánicos, con una Presencia máxima de 60 + 5 por cada 10 puntos que superen la dificultad requerida, en prácticamente cualquier lugar del mundo de forma instantánea.",
@@ -635,9 +606,6 @@
       "difficulty": 140,
       "atk": "N/D",
       "def": "N/D"
-    },
-    "UwdhnM4YysKT2ovJ": {
-      "name": "Huginn y Muninn, Ojos de Cuervo"
     },
     "E2h9lil5j2f5Zwi3": {
       "name": "Idea, “Musa” de la Locura",
@@ -677,9 +645,6 @@
       "atk": "200",
       "def": "N/D"
     },
-    "aeyn4KzcKyMvyX5s": {
-      "name": "Idún, Señora de la juventud eterna"
-    },
     "JUWZl5Cp8x5iNpDm": {
       "name": "Kagutsuchi - Hi no Komodo",
       "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Al ser invocado, Kagutsuchi lanza un Hechizo Anímico contra la TA de Energía de un único objetivo, utilizando su habilidad de Ataque. Si el objetivo sufre daño, Hi no Kodomo lo envuelve en llamas sobrenaturales. El objetivo queda ardiendo un asalto por cada 10 puntos que el Invocador haya superado la dificultad de invocación, y debe realizar una RF contra 140 cada asalto, sufriendo un daño igual al nivel de fallo hasta que el efecto se disipe.",
@@ -708,9 +673,6 @@
       "atk": "N/D",
       "def": "N/D"
     },
-    "JHUjHvhJ0Lx29LiE": {
-      "name": "Kagutsuchi, Señor del Fuego"
-    },
     "NpE15eJIiPtDtPYp": {
       "name": "Kirín - Feng Shui",
       "description": "Duración: Igual a la duración del poder que se copie mediante Feng Shui.\n\nEfecto: El convocador puede usar cualquier habilidad de Seiryu, Genbu, Suzaku o Byakko, respetando su efecto original, pero aplicando la dificultad y coste propios de Feng Shui. Para los efectos que dependan de cuántos puntos se supera la dificultad de invocación, se cuentan los puntos por encima de la dificultad de Feng Shui, no la del poder imitado.",
@@ -729,9 +691,6 @@
       "difficulty": 440,
       "atk": "N/D",
       "def": "N/D"
-    },
-    "idgdDnIOHqfvBlgP": {
-      "name": "Kirin, El Centro"
     },
     "bLt5sA22MVDp1P6L": {
       "name": "Leviathan - Pacto",
@@ -761,9 +720,6 @@
       "atk": "N/D",
       "def": "N/D"
     },
-    "Dd3Xrvr2ZkxBVt2p": {
-      "name": "Leviathan, Señor de los Oceanos"
-    },
     "8ZFQXxAR0tZw8EeV": {
       "name": "Lix Tetrax",
       "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad requerida.\n\nEfecto: Lix Tetrax hace brotar alas sobre la espalda del Invocador, otorgándole un Valor de Vuelo Natural de 12 durante toda la duración.",
@@ -784,9 +740,6 @@
       "atk": "160+",
       "def": "N/D"
     },
-    "BF8PaEk3eJlzifGB": {
-      "name": "Oficial"
-    },
     "HnyMjsNlXjmyKTdN": {
       "name": "Pandora, El castigo divino",
       "description": "Duración: 1 asalto por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Pandora lanza un Hechizo Anímico centrado en el Invocador, creando un área de 20 m +10 por cada 10 puntos que supere la dificultad de invocación, que ataca en la TA de Energía de todos los presentes mediante su habilidad de Ataque. Si un objetivo recibe daño, debe superar una RM 120 +5 por cada 10 puntos que supere la dificultad de invocación (máx. 260 RM)\nQuienes fallen la RM se ven afectados por un estado aleatorio determinado por una tirada de 1d100, cuyo efecto dura hasta que finalice la duración. Incluso el Invocador es objetivo de este poder, aunque puede repetir la tirada una sola vez, aceptando el segundo resultado obligatoriamente.\n\nTabla de efectos (1d100):\n1–5: Recupera 200 LP   36–40: Ceguera      71–75: Alucinaciones\n6–10: Fascinación     41–45: Sordera      76–80: Debilidad\n11–15: +20 a toda acción  46–50: Euforia      81–85: Parálisis total\n16–20: Dolor         51–55: Mudez       86–90: Miedo\n21–25: Daño a LP      56–60: Inconsciencia   91–95: Terror\n26–30: Ira           61–65: Coma        96–99: +50 a toda acción\n31–35: +40 a todas resistencias 66–70: Éxtasis      100: Muerte",
@@ -796,9 +749,6 @@
       "difficulty": 280,
       "atk": "260",
       "def": "N/D"
-    },
-    "EVjMjeVPonxMmngH": {
-      "name": "Arcanos Puros"
     },
     "jICaUGJaKKrJ60oU": {
       "name": "Raksasha",
@@ -819,9 +769,6 @@
       "difficulty": 120,
       "atk": "N/D",
       "def": "N/D"
-    },
-    "SNcRbcnMY49RbRg6": {
-      "name": "Arcanos Invertidos"
     },
     "GSRfwufHnDncYEOz": {
       "name": "Invertido I - El Hierofante",
@@ -1079,9 +1026,6 @@
       "atk": "240",
       "def": "N/D"
     },
-    "iT9qwzf1Ws9ZoBcp": {
-      "name": "Seiryu, El Dragón Celeste, Guardián del Este"
-    },
     "VgQu50GAeubQVnWX": {
       "name": "Suzaku - Calamidad",
       "description": "Duración: 5 asaltos por cada 10 puntos que supere la dificultad de invocación.\n\nEfecto: Durante ese tiempo, Suzaku lanza cada asalto un ataque sobrenatural a distancia con su habilidad de Ataque, dirigido a un objetivo hasta 250 metros. El ataque inflige Daño 80, afecta a la TA de Energía, y aquellos que sufran daño deben superar un chequeo de RM de 140 +5 por cada 10 puntos que supere la dificultad requerida. Quienes fallen adquieren la desventaja de Mala Suerte y solo pueden realizar Tirada Abierta con un 100 natural. El convocador puede elegir que el ataque no inflija daño, aplicando únicamente el efecto de resistencia.",
@@ -1128,9 +1072,6 @@
       "atk": "300",
       "def": "N/D"
     },
-    "M094oTC58oOjE8Ii": {
-      "name": "Suzaku, El Fenix, Guardián del Sur"
-    },
     "hy4DjftT8rniLt3G": {
       "name": "Tawil - Mas Alla del Tiempo y el Espacio",
       "description": "Duración: 1 siglo por cada punto que supere la dificultad de invocación.\n\nEfecto: El convocador elige un objetivo dentro de su campo de visión. Este debe superar un chequeo de RM de 140 +5 por cada 10 puntos que supere la dificultad de invocación, hasta un máximo de 260 de RM. Si falla, el objetivo queda sellado fuera del tiempo, sin posibilidad de interactuar, envejecer o ser percibido por nadie ni nada. Si falla por más de 60 puntos, el sello es permanente: no podrá volver jamás. Al finalizar el efecto (si no fue permanente), el objetivo reaparece en un lugar aleatorio del mundo.",
@@ -1167,9 +1108,6 @@
       "difficulty": 280,
       "atk": "N/D",
       "def": "N/D"
-    },
-    "VR3pQmkVQImlsF1g": {
-      "name": "Tawil At-U’mr, Señor de las Puertas"
     },
     "oPq5cunG0g5mom7I": {
       "name": "Thanathos",
@@ -1228,9 +1166,6 @@
       "difficulty": 380,
       "atk": "N/D",
       "def": "N/D"
-    },
-    "xehKhet81BSzP2Eo": {
-      "name": "Ziz, Señor de los Cielos"
     }
   }
 }

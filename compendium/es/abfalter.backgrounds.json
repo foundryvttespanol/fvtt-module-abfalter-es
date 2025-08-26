@@ -1,0 +1,211 @@
+{
+  "label": "Trasfondo",
+  "mapping": {
+    "description": "system.description"
+  },
+ "folders": {
+  "Official": "Oficial",
+  "Blood Legacies": "Legados de Sangre",
+  "Races": "Razas",
+  "Blood of the Great Beasts": "Sangre de las Grandes Bestias",
+  "Elemental Bloodlines": "Sangres Elementales"
+  },
+  "entries": {
+    "OJ1cVjaL3ZQEI7i3": {
+      "name": "Legados de Sangre",
+      "description": ""
+    },
+    "9qpPxhiGeWm41O2h": {
+      "name": "Sangre de Boreas [Aire]",
+      "description":"<ul><li><p>+20 A los Chequeos de Resistencia relacuionados con el elemento aire</p></li><br><li><p>+10 al daño base de cualquier ataque relacionado con el elemento Aire (Incluyendo Ki, Magia y Psíquica)</p></li><br><li><p>Reduce en 5 CM el coste de cualquier técnica con el elemento Aire. Técnicas de coste 5 CM no se ven afectadas</p></li></ul>"
+    },
+    "TtzchWuBi94cAzIh": {
+      "name": "Sangre de Kagutcuchi [Fuego]",
+      "description":"<ul><li><p>+20 A los Chequeos de Resistencia relacuionados con el elemento fuego</p></li><br><li><p>+10 al daño base de cualquier ataque relacionado con el elemento fuego (Incluyendo Ki, Magia y Psíquica)</p></li><br><li><p>Reduce en 5 CM el coste de cualquier técnica con el elemento fuego. Técnicas de coste 5 CM no se ven afectadas</p></li></ul>"
+    },
+    "Pxk703PqTdTBGJYu": {
+      "name": "Sangre de Kami [Genus Loci]",
+      "description":"El portador adquiere la capacidad de realizar acciones de dificultad Inhumana. Además, el portador elige un lugar relacionado con el Kami del que desciende, como un río, una montaña, un lago, etc. Mientras se encuentre en una ubicación que coincida con ese origen, obtiene un +1 a todas las Características Físicas y a las Acumulaciones de Ki, así como +15 a su ACT si posee El Don. En el lugar exacto —el lago, montaña, bosque o similar— donde nació el Kami, estos bonificadores se duplican."
+    },
+    "thMojHPtyF67mkys": {
+      "name": "Sangre de Kami [Señor de la Guerra]",
+      "description":"El portador adquiere la capacidad de realizar acciones de dificultad Inhumana. Al elegir este legado, el portador selecciona un tipo específico de arma (katana, arco largo, etc.). Mientras empuñe esa arma, puede canalizar su herencia a través de ella a un coste de 1 punto de Ki por turno. Mientras lo haga:<br><br>La Calidad del arma se considera una calidad superior para todos los efectos.<br>El arma puede dañar energía, como si tuviera Extensión de Aura al Arma.<br>El portador obtiene +1 a todas las Acumulaciones de Ki."
+    },
+    "IQZF6lJp16dRSIw9": {
+      "name": "Sangre de Niflheim [Frío]",
+      "description":"<ul><li><p>+20 A los Chequeos de Resistencia relacuionados con el elemento frío</p></li><br><li><p>+10 al daño base de cualquier ataque relacionado con el elemento frío (Incluyendo Ki, Magia y Psíquica)</p></li><br><li><p>Reduce en 5 CM el coste de cualquier técnica con el elemento fuego. Técnicas de coste 5 CM no se ven afectadas</p></li><br><li><p>Puede disminiuir la temperatura ambiental entre 5 y 10 grados en una zona de 20m a su alrededor</p></li><br><li><p>Concentrándose durante 3-4 Asaltos, el portador puede detectar cambios de temperatura en un radio de 50 metros. Las criaturas pueden intentar una chequeo de Resistencia Física (RF) contra 100 para evitar ser detectadas de este modo.</p></li><br></ul>"
+    },
+    "D7OqlJiq5DhjTQXC": {
+      "name": "Sangre de Orochi",
+      "description":"El portador puede despertar su fuerza latente como una Acción Pasiva (aunque los beneficios no surten efecto hasta que haya pasado un Asalto completo), ganando un bono de +20 a las Acciones de Combate y a la Iniciativa, así como un bono de +1 a todas las Acumulaciones de Ki. Si el portador tiene el Don, gana además un bono de +20 a su ACT. Este poder cuesta 2 PV por asalto en que esté activo, los cuales se tratan como un Sacrificio.<br><br>Este legado conlleva un riesgo; el portador debe hacer una prueba de Voluntad cuando ocurra una de las siguientes situaciones, o entrará en un estado en el que se ve obligado a matar y destruir a todos los presentes:<br><br>Está presente en un evento que le cause gran ira o desesperación<br>Recibe un Crítico en combate (sin importar el efecto)<br>Encuentra a otro portador de este Legado<br>Si estas circunstancias ocurren mientras el legado está activo, se aplica un penalizador de -3 a la Voluntad para esta prueba. Si la prueba falla, los bonos aumentan a +30 / +2 y el coste aumenta a 5 PV por turno.<br><br>Solo es posible salir de este estado bajo las siguientes circunstancias:<br><br>Si está a punto de dañar a alguien muy querido, puede hacer una prueba adicional de Voluntad (el penalizador de -3 se aplica)<br>Si queda inconsciente<br>Si sus PV se reducen a cero, deja de perderlos y debe hacer una prueba de Voluntad cada turno. Si esta prueba falla, o si no queda nadie vivo alrededor, cae inconsciente y entra en el estado Entre la Vida y la Muerte."
+    },
+    "TZRF3cYv3d3ljBCP": {
+      "name": "Sangre de Phandemonium [Oscuridad]",
+      "description":"<ul><li><p>+20 A los Chequeos de Resistencia relacuionados con el elemento oscuridad</p></li><br><li><p>+10 al daño base de cualquier ataque relacionado con el elemento oscuridad (Incluyendo Ki, Magia y Psíquica)</p></li><br><li><p>Reduce en 5 CM el coste de cualquier técnica con el elemento oscuridad. Técnicas de coste 5 CM no se ven afectadas</p></li></ul>"
+    },
+    "wHS7GkQNSuxkGOib": {
+      "name": "Sangre de Ran [Agua]",
+      "description":"+20 A los Chequeos de Resistencia relacuionados con el elemento agua<br>+10 al daño base de cualquier ataque relacionado con el elemento agua (Incluyendo Ki, Magia y Psíquica)<br>Reduce en 5 CM el coste de cualquier técnica con el elemento oscuridad. Técnicas de coste 5 CM no se ven afectadas.<br>Reduce a la mitad el penalizador por moverse en ambientes acuáticos o líquidos similares."
+    },
+    "JhRxmhgTSMH6ljed": {
+      "name": "Sangre de Rudraksha [Electricidad]",
+      "description":"<ul><li><p>+20 A los Chequeos de Resistencia relacuionados con el elemento electricidad</p></li><br><li><p>+10 al daño base de cualquier ataque relacionado con el elemento oscuridad (Incluyendo Ki, Magia y Psíquica)</p></li><br><li><p>Reduce en 5 CM el coste de cualquier técnica con el elemento oscuridad. Técnicas de coste 5 CM no se ven afectadas</p></li><br><li><p>Puede sentir tormentas 12 horas antes de que se manifiesten y saber si es sobrenatural o natural. Drante una tormenta gana un bono de +1 a una de estas características. (Des, Fue y Pod) </p></li><br></ul>"
+    },
+    "53tpsR8YLnl3YRpb": {
+      "name": "Sangre de Shephirah [Luz]",
+      "description":"<ul><li><p>+20 A los Chequeos de Resistencia relacuionados con el elemento luz</p></li><br><li><p>+10 al daño base de cualquier ataque relacionado con el elemento luz (Incluyendo Ki, Magia y Psíquica)</p></li><br><li><p>Reduce en 5 CM el coste de cualquier técnica con el elemento luz. Técnicas de coste 5 CM no se ven afectadas</p></li></ul>"
+    },
+    "lJKb811jfEPUi2PP": {
+      "name": "Sangre de los Muertos",
+      "description":"El portador obtiene la capacidad de restaurar cadáveres a un estado de semi-vida durante un corto período de tiempo. Los cadáveres deben estar en condiciones que les permitan moverse, por lo que no pueden funcionar si son solo esqueletos o cenizas. Un cadáver se levanta en unos segundos hasta un minuto después de que la sangre del portador sea derramada sobre él.<br><br>Para usar esta habilidad, el portador Sacrifica una cantidad de PV a su elección y gasta Ki igual a una quinta parte de ese valor. El cadáver obtiene PV igual al cuádruple de los PV sacrificados, y puede actuar bajo la voluntad del portador, utilizando las habilidades de combate de su creador pero con sus Características originales.<br>El cadáver recibe una Penalización a Todas las Acciones que puede reducirse según el volumen de sangre utilizado:<br>20 PV o menos: -100 a toda acción<br>21–50 PV: -80 a toda acción<br>51–100 PV: -60 a toda acción<br>101–150 PV: -40 a toda acción<br>151+ PV: -20 a toda acción<br>Un cadáver animado de esta forma pierde 5 PV por hora, aunque el portador puede sacrificar PV y Ki adicionales para \"recargar\" al cadáver. Una vez que los LP del cadáver llegan a cero, cae inanimado y no puede volver a ser afectado por este legado.<br><br>Los cadáveres no sufren penalizaciones por dolor y no tienen puntos vulnerables. Las marionetas de sangre pueden usar cualquier Técnica de Ki que conozca su creador, con una reserva de Ki igual al Ki gastado para animarlas. Si sus PV llega a cero, también caen inanimadas."
+    },
+    "dJs5oGx528W7P51m": {
+      "name": "Sangre del Dragon",
+      "description":"Los poderes de esta sangre, quedan a discrección del DJ, pero son requisito para dsarrollar el Magnus Los Sellos del Dragón"
+    },
+    "kATgxFFeksJEHEy5": {
+      "name": "Sangre de las Grandes Bestias [1]",
+      "description":"El portador recibe 40 Puntos de Desarrollo (PD) para gastar en Poderes de Monstruo, como si tuviera un Gnosis de 5. Naturalmente, estas habilidades alteran la forma física del portador."
+    },
+    "qkRLbDKClQCqkg9t": {
+      "name": "Sangre de las Grandes Bestias [2]",
+      "description":"El portador recibe 80 Puntos de Desarrollo (PD) para gastar en Poderes de Monstruo, como si tuviera un Gnosis de 5. Naturalmente, estas habilidades alteran la forma física del portador."
+    },
+    "K8XA3yCrKIh77vUD": {
+      "name": "Sangre de las Grandes Bestias [3]",
+      "description":"El portador recibe 120 Puntos de Desarrollo (PD) para gastar en Poderes de Monstruo, como si tuviera un Gnosis de 5. Naturalmente, estas habilidades alteran la forma física del portador."
+    },
+    "P2513oP04D1nFrmy": {
+      "name": "Sangre de las Grandes Bestias",
+      "description": ""
+    },
+    "j1eVOsksoU2ZX6HG": {
+      "name": "Sangre de Toa [Tierra]",
+      "description":"+20 A los Chequeos de Resistencia relacuionados con el elemento tierra<br>+10 al daño base de cualquier ataque relacionado con el elemento tierra (Incluyendo Ki, Magia y Psíquica)<br>Reduce en 5 CM el coste de cualquier técnica con el elemento tierra. Técnicas de coste 5 CM no se ven afectadas.<br>Incrementa en 1 su índide de regeneración.<br>+10 a la RF"
+    },
+    "sTPZ5iIszefHvJG3": {
+      "name": "Sangre de Uroboros",
+      "description":"El portador obtiene Sorpresa sobre un oponente con una diferencia de Iniciativa de 100, en lugar de 150. Además, al retirarse del combate, no sufre la penalización de Flanqueo a su Habilidad Defensiva."
+    },
+    "OsFI4jzEZRWkyrdH": {
+      "name": "D'Anjayni [Nephilim]",
+      "description":"➤Pasar sin dejar rastro: mientras esté descalzo, los intentos de rastrear al personaje reciben una penalización de –40.<br>➤Olvido: quienes hablen con un D'Anjayni deben superar una tirada de MR 100 o olvidarán la descripción del personaje y el tema de la conversación. Este es un efecto mágico, pero un mago debe superar una tirada de Valoración Mágica de Dificultad Imposible (280) para detectarlo. Este poder no funciona si el D'Anjayni revela su nombre verdadero durante la conversación, o contra aquellos que ya conocen su verdadera identidad.<br>➤Apariencia común: no puede tener una Apariencia inferior a 3 ni superior a 7.<br>➤Indetectabilidad: obtiene un bono de +30 a cualquier tirada de Resistencia contra detección, y un bono de +30 a la Habilidad de Ocultación de Ki si la tiene desarrollada.<br>➤Susurros silenciosos: los intentos de escuchar o espiar al personaje reciben una penalización de –60.<br><br>➤Alma inmortal: penalización de –3 PX."
+    },
+    "NtX9zTlZMNbxsR82": {
+      "name": "D'Anjayni",
+      "description":"➤ Indetectabilidad: Obtiene un bono de +50 a las tiradas de Resistencia contra detección y la habilidad Ocultación de Ki.<br>➤Olvido: Quienes hablen con un D'Anjayni deben superar una tirada de MR 120 o olvidarán la descripción del personaje y el tema de la conversación. Este es un efecto mágico, pero un mago debe superar una tirada de Valoración Mágica de Dificultad Imposible (280) para detectarlo. Este poder no funciona si el D'Anjayni revela su nombre verdadero durante la conversación, o contra aquellos que ya conocen su verdadera identidad.<br>➤El rostro de la araña: Al arrancar la piel facial de un humanoide y colocar el fragmento sobre su propio rostro, un D'Anjayni puede —tras unos minutos— ajustar sus rasgos faciales y corporales para que coincidan con los de su víctima. Su voz también se ajustará, pero no puede ganar ni perder más de 10 cm de altura ni más de 10 kg de peso. Esta transformación dura hasta que el D'Anjayni decide terminarla, la piel facial se daña gravemente, o alguien pronuncia el nombre verdadero del ser antes que el D'Anjayni. El tiempo de espera antes de poder usar esta habilidad nuevamente es igual al tiempo que se mantuvo en la identidad anterior. Mientras esté transformado, la dificultad de RM del efecto de olvido se reduce a 80.<br>➤Pasar sin dejar rastro: Mientras viaje descalzo, los intentos de rastrear al D'Anjayni reciben una penalización de –60.<br>➤Susurros silenciosos: Los intentos de escuchar o espiar una conversación en la que participe el D'Anjayni reciben una penalización de –80.<br><br>➤Naturaleza observadra: Penalización de –3 PX por sesión de juego.<br>➤Modificador de Nivel: +1"
+    },
+    "j4fe6L4mFi5Gw34q": {
+      "name": "Daimah [Nephilim]",
+      "description":"➤Ver la esencia: puede ver la esencia de una criatura, detectando vínculos elementales o espirituales. Este poder puede ser resistido con una tirada de RM 140.<br>➤Sentir el bosque: puede percibir los sentimientos de plantas y animales, como miedo, calma o inquietud.<br>➤Naturaleza curativa: mientras se encuentre en un bosque o jungla, obtiene un bono de +3 a su valor de Regeneración.<br>➤Movimiento por los bosques: nunca sufre penalizaciones por moverse a través de bosques o maleza.<br>➤Pequeño tamaño: –1 al Tamaño.<br><br>➤Alma inmortal: Penalización de –2 PX por sesión."
+    },
+    "7KSTSSLiL60Xcci6": {
+      "name": "Daimah",
+      "description":"➤Cuerpo felino: +1 a Destreza, Agilidad, Potencia e Inteligencia y –1 a Constitución y Voluntad.<br>➤Sentir el bosque: puede percibir los sentimientos de plantas y animales, como miedo, calma o inquietud..<br>➤Garras y dientes: obtiene armas naturales con un Daño Base de 30 + Fuerza; requieren entrenamiento para usarse sin penalización. <br>➤Habilidad inhumana: posee Inhumanidad para las tiradas de Destreza y Agilidad.<br>➤Pequeño tamaño:  –1 al Tamaño.<br> ➤Naturaleza curativa: +8 a Regeneración mientras esté en un bosque profundo o jungla.<br>➤Resistencia a las caidas:  reducción de 2 niveles de dificultad al evitar daño por caídas.<br>➤Inmunidad natural: inmune a todos los venenos derivados de plantas o animales naturales, así como a enfermedades mundanas.<br>➤Movimiento por los bosques: nunca sufre penalizaciones de movimiento por maleza o bosques.<br> ➤Ver la esencia: puede ver la esencia de una criatura, detectando vínculos elementales o espirituales. Este poder puede ser resistido con una tirada de RM 140.<br><br>➤Modificador de nivel: +1"
+    },
+    "2HLGF9xrwPacGysv": {
+      "name": "Devah [Nephilim]",
+      "description":"➤Mente compleja: +10 a RP y RM contra intentos de leer su mente o provocar emociones o sentimientos antinaturales.<br>➤El ojo del alma: cuando tienen los ojos cerrados, pueden percibir seres espirituales y afinidades elementales. Si estudian a un Ser Entre Mundos o Espíritu durante dos o tres asaltos, pueden determinar su nombre verdadero. Esta habilidad no funciona con seres que tengan Gnosis 30 o superior.<br>➤Lazos existenciales:  +10 a las tiradas de convocación y desconvocar.<br>➤Fragilidad física:  –10 a RF y RE.<br><br>➤Alma inmortal:  penalización de –3 PX por sesión."
+    },
+    "LxecPQJfaCsxYiYn": {
+      "name": "Devah",
+      "description":"➤Mente y alma superior: +1 INT, VOL y POD.<br>➤Tamaño innatural:  +2 Tamaño.<br>➤Comunicación sobrenatural: puede comunicarse con otros Devah al mirarlos con su Tercer Ojo. Emociones, ideas e incluso recuerdos, junto con el lenguaje, pueden comunicarse de esta manera. Cuanto más clara sea la línea de visión, más rápida y precisa será la expresión.<br>➤Mente compleja:  +15 a RM y RP contra intentos de leer la mente o provocar sentimientos o emociones antinaturales.<br>➤El ojo del alma: puede percibir criaturas espirituales y detectar afinidades elementales, además de que estudiar a un Ser Entre Mundos o Ser Espiritual durante 2 o 3 asaltos puede permitir determinar su nombre verdadero. (No funciona con criaturas con Gnosis superior a 30).<br>➤Lazos existenciales:  +10 a Invocar, Controlar, atar y desconvocar.<br>➤Fragilidad física:  -1 FUE, -2 CON, -10 a RF y RE.<br>➤Alma innatural: debe elegir entre El Don o el Acceso a una Disciplina Psíquica como una Ventaja.<br><br>➤Modificador de Nivel: +2"
+    },
+    "pLJ98fXY5bzQIdMK": {
+      "name": "Duk'zarist [Nephilim]",
+      "description":"➤Resistencias excepcionales: obtiene un bono de +15 a todas las Resistencias. Los hombres ganan un adicional de +5 a la Resistencia Física (RF), mientras que las mujeres ganan un adicional de +5 a la Resistencia Mental (RM). (NOTA: se debe ajustar el Efecto Activo).<br>➤Desequilibrio hacia la oscuridad: obtiene +10 de Resistencia contra efectos de Oscuridad, pero no se puede elegir la Ventaja Desequilibrio Mágico a la Luz.<br>➤Aguante a la muerte: pasan automáticamente las pruebas de \"Entre la Vida y la Muerte.\"<br> ➤Curación rápida: obtiene +1 a Regeneración.<br>➤Necesidades limitadasa: solo requiere un tercio del sueño y alimento habitual.<br>➤Presentir lo oscuro y lo luminoso: puede detectar la presencia de otros Duk'zarist o Nephilim Sylvain, aunque no se pueden identificar.<br>➤Visión nocturna: las penalizaciones por oscuridad natural se reducen a la mitad.<br>➤Devoción al fuego: si desarrollan Poderes Psíquicos, la primera Disciplina debe ser Piroquinesis.<br>➤Cuerpos perfectos:  No pueden elegir las Desventajas: Miembro Atrofiado, Ceguera, Sordera, Mudez, Miopía, Debilidad Física, Enfermedad Grave, Salud Enfermiza y Vulnerable a Venenos.<br>➤Alergia al metal: al entrar en contacto con cualquier metal que contenga hierro, se debe superar un chequeo de Presencia con dificultad 60, o se recibe una penalización a toda acción igual al nivel de fallo. El hierro puro eleva esta dificultad a 80. Esta penalización se reduce en 10 puntos por minuto. El uso de guantes u objetos similares evita este efecto.<br><br>➤Alma inmortal:  -5 puntos de experiencia por sesión.<br>"
+    },
+    "hJGJ7uEWhjArvKrk": {
+      "name": "Duk'zarist",
+      "description":"➤Perfección física y anímica: obtiene un +1 a todas las Características. No pueden elegir las Desventajas: Miembro Atrofiado, Salud Enfermiza, Vulnerable a Venenos, Miopía, Enfermedad Grave, Mudez, Ceguera o Sordera.<br>➤Ojos de fuego: reducen a la mitad las penalizaciones por oscuridad y detectar fuentes de calor.<br>➤Acciones inhumanas: puede alcanzar Inhumananidad en pruebas.<br>➤Lazo de oscuridad y fuego: obtiene +10 en pruebas relacionadas con Oscuridad o Fuego, pero no puede elegir la Ventaja de Desequilibrio Mágico hacia la Luz.<br>➤Resistencias excepcionales: obtiene +15 a todas las Resistencias; los hombres ganan +5 adicional a la Resistencia Física (RF), las mujeres a la Resistencia Mágical (RM).<br>➤Aguante extremo a la muerte: pasan automáticamente todas las pruebas de \"Entre la Vida y la Muerte\". Permanece consciente con puntos de vida negativos, sufriendo una penalización de -40 a todas las acciones.<br>➤Curación rápida: suma +5 a su Regeneración.<br>➤Necesidades limitadas: solo requiere una séptima parte de la comida y el sueño que necesita un humano.<br>➤Obligación sobrenatural: debe elegir obligatoriamente entre el Acceso a una Disciplina Psíquica (y la Disciplina de Piroquinesis) o El Don.<br>➤Alergia al metal: el contacto con hierro o aleaciones requiere una prueba de Presencia con dificultad 40 (60 si es hierro puro). Si se falla, el Duk’zarist desaparece, dejando su ropa y pertenencias en el suelo.<br><br>➤Modificador de nivel: +3."
+    },
+    "tWhq6aT0JkCtce2S": {
+      "name": "Ebudan [Nephilim]",
+      "description":"➤Or' inie: obtiene un bono de +30 a sus resistencia contra efectos de Olvido o Control Emocional que puedan impedirles cumplir su Sue' Aman. (Este bono se pierde al completar el Sue' Aman). Tras completar su Sue' Aman.<br>➤Esencia Celestial:  se vuelve inmunes a ataques naturales que no pueda dañar la Energía.<br>➤Alas de serafín: adquiere la capacidad de invocar alas luminosas en un solo Asalto, lo que les otorga un Tipo de Vuelo de 12.<br><br>➤Alma inmortal: -3 puntos de experiencia por sesión."
+    },
+    "3fqCjzykPafMmLEA": {
+      "name": "Ebudan",
+      "description":"➤Or' inie: una vez cumplen su Sue' Aman, pueden trascender el Flujo de Almas y convertirse en una entidad espiritual de Gnosis 30, o permanecer en el mundo como guía de los suyos. Obtienen +2 POD, VOL en ambos casos.<br>➤Alas de serafín: tienen alas reales que les permiten un Valor de Vuelo de 12. También pueden usarlas como armas en combate, con +20 a la Iniciativa y un Daño Base de 60 + Fuerza en filo y tipo mandoble; una Entereza de 20 y una Rotura de 5. No pueden usarse junto con armas de mano, pueden detener proyectiles como un escudo. Tras completar el Sue’ Aman, pueden dañar la Energía.<br>➤Esencia celestial: son inmunes a ataques naturales incapaces de dañar la Energía.<br><br>➤Modificador de nivel: +1 (+3 si han conseguido el Sue' Aman)"
+    },
+    "9KmN5U73qEBfycnk": {
+      "name": "Sangres Elementales",
+      "description": ""
+    },
+    "Co0oWUr6Vrmr0MCK": {
+      "name": "Sangre Eterna",
+      "description":"El portador no tiene Puntos Vulnerables, y por lo tanto es inmune a la muerte automática como resultado de críticos dirigidos a ellos. Además, el personaje solo muere cuando sus PV alcanzan un negativo de 20 veces su Constitución. Sin embargo, sufre una penalización a Todas las Acciones igual a sus PV negativos. Si se usan las reglas de Entre la Vida y la Muerte, obtiene +80 a las pruebas de RF para mantenerse con vida. Además, el portador aplica un bono de +40 a las pruebas de Resistencia contra cualquier efecto que produzca muerte automática."
+    },
+    "rrq3syjUxLAq5BCM": {
+      "name": "Devorador de Existencia",
+      "description":"El portador puede consumir objetos con una Presencia igual o inferior a la suya. El objeto pierde 5 puntos de Presencia por Asalto, y el personaje gana 1 punto de Ki por cada 5 puntos de Presencia absorbidos. Esto puede usarse contra criaturas vivas con las que el portador esté en contacto (o a través de objetos afectados por Extensión de Aura al Arma); la víctima debe realizar una prueba de RF contra el doble de la Presencia del portador o perderá PV igual a la mitad del nivel de fallo y 1 punto de Ki por cada 5 PV perdidos de esa forma que portador puede absorber.<br>Dado que el contacto es el único requisito, esta habilidad puede activarse en cualquier momento, incluso al ser golpeado por un enemigo. El Ki máximo que puede absorberse en un día está limitado por la Presencia del portador; una vez alcanzado este límite, esta habilidad no puede volver a activarse ese día. Finalmente, si el portador usa una Técnica que absorbe Ki o PV, aumenta la dificultad de cualquier prueba de Resistencia involucrada en +40."
+    },
+    "OyU0nx8qfdvQSLbL": {
+      "name": "Ojos del Destino",
+      "description":"El portador obtiene la habilidad de adaptarse a un oponente, ganando bonificaciones a su Ataque y Defensa contra un adversario según el tiempo que hayan estado combatiendo. Este tiempo es acumulativo, pero específico para cada individuo, y se pierde si el adversario sube de nivel. Estas habilidades pueden usarse contra ataques/defensas Mágicas o Psíquicas, pero solo si el portador es capaz de percibirlos.<br>Usar este legado cuesta 1 punto de Ki por asalto para obtener el beneficio contra un oponente, pero no para estudiarlo. Además, el portador incrementa la bonificación de la habilidad de Ki Imitación de Técnicas, reduciendo el coste de CM de Técnicas de Ki de nivel 1/2/3 aprendidas por este legado en 15/25/40 respectivamente.<br><br>Tiempo / Bonificación<br> 5 Turnos / +10<br> 10 Turnos / +15<br> 15 Turnos / +20<br> 1 Minuto / +25<br> 3 Minutos / +30<br> 5 Minutos / +35<br> 10+ Minutos / +40"
+    },
+    "sctAEDCmVFFG5w5j": {
+      "name": "Ojos del Alma",
+      "description":"El portador puede percibir el Ki como si fuera algo tangible y real, incluso en criaturas que no emiten energía. Esta capacidad le permite sustituir su habilidad de Detección de Ki por cualquier prueba de Advertir o Buscar que se base principalmente en la vista, como detectar una trampa o encontrar un objeto oculto. Además, el portador puede percibir seres invisibles o espirituales, siempre que emitan algún tipo de energía espiritual. No puede ser deslumbrado y no sufre penalizaciones causadas por la oscuridad que no sea de origen sobrenatural.<br>Para poder utilizar estos poderes, el portador debe desarrollar la habilidad de Erudición de Ki."
+    },
+    "vcKZlEUrKaUfiwzk": {
+      "name": "Jayan [Nephilim]",
+      "description":"➤Gigantes: obtiene un aumento de +2 al Tamaño, pero no puede reducir su Tamaño utilizando la ventaja Tamaño Antinatural.<br>➤Aguante al cansancio:  +1 a cansancio.<br>➤Resistencia al daño: +15 a la Resistencia Física (RF).<br>➤Fuerza descomunal: +1 a la Fuerza, aunque no puede aplicar la desventaja que resta dos puntos a Fuerza.<br>➤Visión espiritual: tiene la capacidad de percibir almas, aunque no otros efectos sobrenaturales, cerrando los ojos y enfocando su “tercer ojo”.<br>➤Debilidad contra la magia:  sufre una penalización de -10 a la Resistencia Mágica (RM)<br><br>➤Alma inmortal: -3 puntos de experiencia por sesión."
+    },
+    "Bc92TFwxdNlWMhjC": {
+      "name": "Jayan",
+      "description":"Gigantes: +2 Tamaño, no puede reducir el Tamaño si posee la Ventaja de Tamaño Poco innatural; no puede alcanzar el tamaño Enorme con este bono.<br>➤Físico excepcional:  +2 FUE, +1 CON; no puede reducir FUE mediante Desventajas.<br>➤Aguante al cansancio:  +3 cansancios.<br>➤Resistencia física:  +20 a la Resistencia Física (RF).<br>➤El tercer ojo: puede percibir seres espirituales invisibles.<br>➤Armas naturales: posee garras y cuernos con daño entre 40 y 60 + Fuerza (dependiente del Tamaño). Requieren entrenamiento para usarse sin penalización.<br>➤Fuerza inhumana: puede alcanzar resultados Inhumanos en chequeos basados en FUE.<br>➤Debilidad contra la magia:  -20 a la Resistencia Mágica (RM) y  -1 a POD.<br><br>➤Modificador de nivel:  +1."
+    },
+    "FxlnYKaoO0uKNhcG": {
+      "name": "Sangre latente",
+      "description":"Un portador con esta sangre puede gastar el Bono de Característica adquirido en niveles pares para comprar Legados de Sangre."
+    },
+    "eBAHF5aJR8ZfkRm9": {
+      "name": "Legado de la Luna [Tsukiyomi]",
+      "description":"El portador de este vínculo de sangre obtiene efectos variables según la fase de la luna. Con excepción del Eclipse, ninguno de estos beneficios está activo durante el día.<br><br>➤Luna Llena: +5 a todos los Bonos a toda Acción. <br>➤Cuarto Menguante: +10 a todos los  Bonos a toda Acción. <br>➤Cuarto Creciente: +15 a todos los Bonos a toda Acción..<br>➤Luna Nueva: +20 a todos los Bonos a toda Acción., Inhumanidad, +2 Regeneración.<br>➤Eclipse: +30 a todos los Bonos a toda Acción., Zen, +8 Regeneración"
+    },
+    "KOTNOu8TwSYXolpv": {
+      "name": "Armas naturales",
+      "description":"El portador obtiene la capacidad de manifestar armas naturales a voluntad. La forma de estas armas se elige al adquirir esta línea de sangre. Manifestarlas cuesta 5 puntos de Ki, pero no requiere coste para mantenerlas.<br><br>El personaje tiene competencia con estas armas, que poseen un Daño Base de 40 + Fuerza y un modificador de velocidad de Ataque equivalente a Desarmado. Debe elegirse Filo, Penetrante o Contundente como tipo de ataque principal.<br><br>Además, las armas obtienen dos beneficios de la siguiente lista, algunos de los cuales pueden elegirse dos veces (indicados con una barra):<br><br>➤Daño incrementado: +25/+50 Daño Base.<br>➤Velocidad incrementada:  +20/+40 turno.<br>➤Precisa: precisa.<br>➤Presa incrementada:  permite de usar la maniobra de presa  y aplica un  +2 a la tirada enfrentada.<br>➤Escudo contra proyectiles: permiten detener proyectiles como un escudo, aplicando el penalizador a defensa pertinente..<br>➤Reducción de armadura: reducen la TA del defensor en -3/-6.<br>➤Crítico incrementado: +30 al nivel de Críticos producidos.<br>➤Área excepcional: se consideran arma Grande para determinar el número de objetivos en Ataques de Área.<br>➤Dual:  permiten realizar un ataque adicional con la mano secundaria."
+    },
+    "tdiZh3GU5oSqN5rE": {
+      "name": "Nephilim",
+      "description": ""
+    },
+    "kLMQFlIQd8rUu1bz": {
+      "name": "Oficial",
+      "description": ""
+    },
+    "b7LMtBhSL8WWAsmX": {
+      "name": "Razas",
+      "description": ""
+    },
+    "G4Ar0CCroLk44uBI": {
+      "name": "Sylvain [Nephilim]",
+      "description":"➤Resistencias Excepcionales: +10 a RM y RP, +20 a RE, +5 a RF y RV. Los Nephilim Sylvain no pueden elegir las Desventajas Salud Enfermiza, Enfermedad Grave y Vulnerable a la Magia.<br>➤Curación Rápida: +1 Nivel de Regeneración.<br>➤Desequilibrio hacia la luz: +10 a las Resistencias contra cualquier efecto basado en Luz, no pueden elegir la Ventaja Desequilibrio Elemental Oscuridad.<br>➤Presentir lo oscuro y lo luminoso: puede percibir la presencia de otros Nephilim Sylvain o Duk’zarist, pero no identificarlo.<br>➤Necesidades limitadas: requieren la mitad de comida y sueño que un humano normal.<br><br>➤Alma Inmortal: -4 de experiencia por sesión."
+    },
+    "zC15zsEixft1E1XZ": {
+      "name": "Sylvain",
+      "description":"➤Características sobrehumanas: +1 DEX, AGI, POW, INT y -1 a FUE, CON.<br>➤Resistencias anímicas excepcionales: +30 RM, RP; No puede elegir las desventajas Vulnerable a la Magia, Fácil Posesión.<br>➤Inmunidad a esfermedades y venenos naturales:  +20 RE, +10 RV; no puede elegir las desventajas Salud Enfermiza, Vulnerable a los Venenos o Enfermedad Grave.<br>➤Acciones inhumanas: permite alcanzar Inhumano en pruebas.<br>➤Necesidades limitadas:  requiere 1/5 del sueño y comida de un humano.<br>➤Curación rápida:  +3 Regeneración.<br>➤Presentir lo oscuro y lo luminoso: puede sentir la presencia —pero no la identidad— de otros Sylvain o Duk’zarist, o sus Nephilim.<br>➤Lazo hacia la luz:  +10 a cualquier Resistencia contra efectos de Luz; no puede elegir Desequilibrio Elemental (Oscuridad).<br>➤Obligación mágica:  debe tomar El Don.<br><br>➤Visión del mundo:  −3 de experiencia por sesión.<br>➤Modificador de nivel: +2. "
+    },
+    "bC0mG0MFizPBVJA9": {
+      "name": "Los ojos de la Muerte",
+      "description":"El portador de este legado obtiene las siguientes habilidades, siempre que pueda percibir visualmente al objetivo de forma natural. La oscuridad, estar vendado o cualquier obstrucción similar desactiva temporalmente estas habilidades.<br><br>➤ +5 a la Rotura de todos los ataques. Todos los ataques generan críticos automáticamente, sin importar el daño que causen.<br>➤ Puede atacar las líneas espirituales del adversario, recibiendo una penalización de −10 a su Ataque a cambio de un +40 al nivel de Crítico producido.<br>➤ Percibe criaturas invisibles y espirituales, reduciendo la penalización por Ceguera Total a Ceguera Parcial (los efectos que engañan los sentidos, como las Ilusiones, siguen siendo efectivos).<br>➤ Ignora inmunidades o protecciones contra daño.<br><br>Estas habilidades no funcionan contra criaturas inmunes al daño del portador debido a un Gnosis elevado."
+    },
+    "aDgtdjOQyaut2MOH": {
+      "name": "Tuan Dalyr",
+      "description":"➤Transformación: puede transformarse en una forma animal, obteniendo un +3 a característica repartido entre FUE, DES, AGI y PER (máximo +2 en cualquiera); y potencialmente cambiando su tamaño. Estos efectos se establecen en la creación del personaje (personalizar Efecto Activo). Mientras esté transformado, recibe una penalización de -2 a INT y VOL, y -10 a RM y RP.<br>➤Armas naturales: mientras esté transformado, obtiene Armas Naturales con Daño Base de 40 + Fuerza. Debe entrenar en estas armas como es habitual para evitar penalizaciones.<br>➤Sentido animal: +1 PER, y obtiene un adicional de +10 a Advertir y Buscar si desarrolla la Ventaja de Sentidos Agudos.<br>➤Hijo de la luna: elige un solo día en el ciclo lunar. En esa noche, obtiene un +1 adicional a cada una de sus Características que ha recibido bonificación durante la Transformación; en la noche opuesta del ciclo, pierde todos los beneficios raciales y no puede transformarse.<br>➤Rasgos animales: Cuando sufre emociones intensas, como ira, miedo o pasión, sus ojos adquieren cualidades animales.<br><br>Modificador de Nivel: +2."
+    },
+    "kiiZ8aM9TjFnGVnw": {
+      "name": "Esencia Venenosa",
+      "description":"El portador se vuelve sobrenaturalmente venenoso para cualquiera que toque su piel o cabello. La potencia de este veneno (y por tanto la Dificultad de RV) se determina por el nivel de contacto:<br><br>➤Contacto directo: Presencia del portador +30<br>➤Ingestión de sangre: Presencia del portador+60<br>➤Contacto íntimo: Presencia del portador +90<br><br>Si la víctima falla la tirada, sufre un estado de Dolor Extremo durante un número de horas igual al margen de fallo. Un margen superior a 40 resulta en la muerte de la víctima. <br>Si el portador desarrolla la habilidad de Extensión de Aura, cualquier ataque que cause daño provoca una tirada de RV con Presencia +20. Finalmente, el personaje gana un bono de +20 a la Resistencia contra cualquier sustancia tóxica."
+    },
+    "mv1xIg155BAoM00T": {
+      "name": "Vetala [Nephilim]",
+      "description":"➤aguante al daño crítico: +50 para resistir Críticos dirigidos a puntos vulnerables.<br>➤Éxtasis sanguíneo Tras ingerir grandes cantidades de sangre, gana +10 a todas las Acciones y +1 a una característica a su elección (determinada en la creación del personaje, establecida en Efecto Activo). Después de 5 minutos, este beneficio expira y el nephilim no puede volver a tenerlos hasta que pasen 2 a 3 horas.<br> ➤Curación rápida: +1 al nivel de Regeneración, pero debe consumir sangre regularmente además de la alimentación estándar.<br>➤Piel fotosensible:  Debe superar una tirada de RF con Dificultad entre 40 y 140 (según el grado de exposición e intensidad de la luz) al estar expuesto a fuentes de luz intensa (como la luz solar directa). Un fallo menor a 30 causa 10 puntos de daño y una penalización de −20 por Dolor a toda acción. Márgenes de fallo mayores causan 20 puntos de daño y una penalización de −40. Esta penalización se elimina tres asaltos después de que el nephilim deje de estar expuesto a la luz.<br>➤Obsesión por la sangre: si el Nephilim consume suficiente sangre, como al usar frecuentemente Éxtasis de Sangre, puede desarrollar la Desventaja Adicción (Sangre). Si ya posee esta Desventaja, duplica las penalizaciones por no satisfacer sus ansias y debe superar una tirada de VOL al ver fluir sangre para evitar perder el control e intentar beberla.<br>Salud enfermiza:  −20 Resistencia a Enfermedades (RE).<br><br>➤Alma inmortal:  −3 de experiencia por sesión.."
+    },
+    "zwlAMrJxXy2eYso1": {
+      "name": "Vetala",
+      "description":"➤Hijos de la noche: +1 a FUE y POD durante la noche.<br>➤Aguante al daño crítico: sin puntos vulnerables, e ignora los críticos que no impliquen amputación o decapitación.<br>➤Ultrasonidos: puede usar Ultrasonido para influir en insectos, murciélagos, lobos y otros depredadores medianos, de forma similar a la ventaja Afinidad Animal. Esto puede afectar animales con INT de 0 a 3, o cualquier animal con mayor INT cuya Presencia no supere el doble de la del Vetala. Solo otros Vetala, aquellos con PER de 11 o más, o quienes superen una tirada de Advertir con dificultad 180 pueden percibir esta habilidad en uso.<br>➤Éxtasis Sanguíneo: durante cinco a treinta minutos después de darse un atracón de sangre (dependiendo de la cantidad y calidad), el Vetala obtiene +10 a toda acción y +1 a una Característica (elegida en la creación del personaje); además, reduce a la mitad cualquier penalización por dolor o cansancio. De dos a tres horas después, sufre una penalización de −30 a toda acción que dura cinco veces el tiempo que tuvo los bonos.<br>➤Curación rápida: +4 a Regeneración, siempre que esté bien alimentado.<br>➤Vulnerable a la luz: debe superar una tirada de RF con dificultad entre 40 y 140 (según el grado de exposición e intensidad) al estar expuesto a luz intensa, o comenzará a arder. Sufre daño a los PV cada asalto igual al margen de fallo, y si falla por más de 50, adquiere inmediatamente la condición En Llamas.<br><br>➤Visión del mundo: −2 experiencia por sesión.<br>➤Modificador de nivel: 2."
+    }
+  }
+}

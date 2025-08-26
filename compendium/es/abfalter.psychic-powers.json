@@ -182,9 +182,6 @@
       "effect440": "+60 Proyección / 150 metros",
       "action": "1"
     },
-    "x1wyIenvX2hi4JuU": {
-      "name": "Casualidad"
-    },
     "xAuNSBB3ro9vsK6z": {
       "name": "Control sobre el Frío",
       "description": "Controla el Hielo y el Frío, ya sea dándoles forma según la voluntad del lanzador o controlando a una criatura elemental (la cual realiza un chequeo de RF para resistirse).",
@@ -410,9 +407,6 @@
       "effect440": "– 40 al ACT / - 80 a Convocatoria / 5 Kilómetros",
       "action": "1"
     },
-    "KCGERF9o1n4VLy7y": {
-      "name": "Crioquinesis"
-    },
     "ZPJIHhPLV0zXMnCp": {
       "name": "Cristalizar",
       "description": "El objetivo debe realizar un chequeo de RF. Quienes fallen quedan afectados por Parálisis Menor y reciben un crítico automático con un  – 40 a su chequeo de RF cada vez que reciban daño. Las criaturas de acumulaciñon de Daño no reciben este crítico automático, pero todo su cuerpo se considera punto vulnerable.",
@@ -548,9 +542,6 @@
       "effect440": "30 Intensidades / 240 RF",
       "action": "1"
     },
-    "90LOEJHzuDFvz2bQ": {
-      "name": "Electromagnetismo"
-    },
     "FjZVrIzrT3jEluDl": {
       "name": "Eliminar el Frío",
       "description": "Destruye varias Intensidades de Frío. Las criaturas de frío reciben 5 puntos de vida de daño por cada Intensidad si fallan un chequeo de RF (Resistencia Física); 25 PV por intensidad para las criaturas de acumulación de daño.",
@@ -595,9 +586,6 @@
       "effect320": "Daño 180 / Afecta a seres inmateriales",
       "effect440": "Daño 220 / Afecta a seres inmateriales",
       "action": "1"
-    },
-    "DkRMd7qakjXXyYvq": {
-      "name": "Energía"
     },
     "G0JOR3Ir51M088DK": {
       "name": "Cúpula de Energía",
@@ -808,9 +796,6 @@
       "effect320": "Cincuenta años / 180 RP",
       "effect440": "Toda su vida / 200 RP",
       "action": "1"
-    },
-    "5mDNHK2j3kznRL8x": {
-      "name": "Hipersensibilidad"
     },
     "108nSwdGK1Hx9e9M": {
       "name": "Escudo de Hielo",
@@ -1024,7 +1009,7 @@
     },
     "gH3f7X3GxhFKF0d0": {
       "name": "Cargar con Sentimientos",
-      "description": "Permite infundir una emoción en un lugar u objeto que afecta a quienes entren en el lugar o entren en contacto con el objeto. Las víctimas afectadas que sospechen que sus emociones están siendo manipuladas pueden repetir la el chequeo cada 5 asaltos. Esta habilidad no requiere Proyección. Los efectos terminan inmediatamente si el sujeto abandona el área o deja de mantener contacto con el objeto.",
+      "description": "Permite infundir una emoción en un lugar u objeto que afecta a quienes entren en el lugar o entren en contacto con el objeto. Las víctimas afectadas que sospechen que sus emociones están siendo manipuladas pueden repetir el chequeo cada 5 asaltos. Esta habilidad no requiere Proyección. Los efectos terminan inmediatamente si el sujeto abandona el área o deja de mantener contacto con el objeto.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
       "effect80": "Fatiga 4",
@@ -1081,9 +1066,6 @@
       "effect320": "Daño Base 220 / – 8 TA",
       "effect440": "Daño Base 240 / – 10 TA",
       "action": "1"
-    },
-    "F0zo21Lv9W7zRvg9": {
-      "name": "Luz"
     },
     "UVyeeiGFVk95dXJ8": {
       "name": "Conectar Matrices",
@@ -1250,9 +1232,6 @@
       "effect440": "500 metros de radio / 240 RF",
       "action": "1"
     },
-    "fOgjiFmjfOS56zDx": {
-      "name": "Poderes Matriciales"
-    },
     "Fkp6kTkls0xSOojY": {
       "name": "Comunicación Mental",
       "description": "El Psíquico puede comunicarse a distancia con cualquier otro cuya localización aproximada conozca. No se requiere Proyección, y el alcance máximo está determinado por el Potencial.",
@@ -1388,9 +1367,6 @@
       "effect440": "120 puntos de vida",
       "action": "1"
     },
-    "Q6cMJuAwLe5xHWiQ": {
-      "name": "Oficial"
-    },
     "VmgM1AmVg4chdqm4": {
       "name": "Telequinesis Orgánica",
       "description": "Permite al Psíquico mover orgánicos.",
@@ -1435,9 +1411,6 @@
       "effect320": "Percepción +6",
       "effect440": "Percepción +8",
       "action": "1"
-    },
-    "yq9WLGmUaxRgKt1l": {
-      "name": "Incremento Físico"
     },
     "DCIumuytQAWYGACI": {
       "name": "Trasladar los Sentidos",
@@ -1544,9 +1517,6 @@
       "effect440": "Cualquier distancia / 260 RP",
       "action": "0"
     },
-    "xF82dttZ0lFpi3qD": {
-      "name": "Telequinesis"
-    },
     "evJT4yWPhgKZnkHe": {
       "name": "Armadura Telequinética",
       "description": "El Psíquico obtiene un incremento a su TA contra todos los tipos de ataque que no sean de Energía. Esta funciona como una capa adicional de armadura, pero no impone penalizaciones al Psíquico.",
@@ -1621,9 +1591,6 @@
       "effect320": "Fuerza 16 / Radio de 100 metros",
       "effect440": "Fuerza 18 / Radio de 500 metros",
       "action": "1"
-    },
-    "O46W9OUoCI3fyB2Q": {
-      "name": "Piroquinesis"
     },
     "2hUsg2sJ7xXbFlT1": {
       "name": "Aumentar Temperatura Ambiental",
@@ -1820,9 +1787,6 @@
       "effect440": "500 kilómetros de radio",
       "action": "1"
     },
-    "Iykdbr8deJsS6ZSg": {
-      "name": "Sentiente"
-    },
     "dnqJhaTeUH7QJ8g0": {
       "name": "Destrozar",
       "description": "Un objeto material debe superar un chequeo de RF o se hará pedazos. Los objetos con Calidad pierden un nivel de Calidad por cada 50 puntos por los que fallen el chequeo de RF. Los seres vivos afectados pierden una cantidad de PV igual al doble del nivel de fallo; o cinco veces el nivel de fallo si son criaturas de acumulación/estructuras.",
@@ -1853,12 +1817,6 @@
       "effect440": "Sentirlo todo",
       "action": "1"
     },
-    "hHwGOrvCHjdBxXOZ": {
-      "name": "Telemetría"
-    },
-    "14lDxaK4G26D6Nfm": {
-      "name": "Telepatía"
-    },
     "yBZYwvo8N3G3gl9B": {
       "name": "Autorrecolocación",
       "description": "El Psíquico puede teletransportarse a otra ubicación dentro del alcance. Debe conocer el lugar al que desea viajar y no puede aparecer dentro de materia sólida. Si fuese a aparecer en materia sólida, llega inconsciente a un lugar cercano al destino en su lugar.",
@@ -1888,9 +1846,6 @@
       "effect320": "1.000 Kilómetros / RF 180 / 10 toneladas",
       "effect440": "10.000 Kilómetros / RF 200 / 100 toneladas",
       "action": "1"
-    },
-    "6cQjqYeWqrfe3H2b": {
-      "name": "Teletransporte"
     },
     "VF41ZOBq1CzyVUyg": {
       "name": "Incremento Total",
