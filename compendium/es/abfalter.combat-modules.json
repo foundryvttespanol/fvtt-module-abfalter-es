@@ -1,187 +1,361 @@
 {
   "label": "Tablas de Combate",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "cost": "system.cost"
   },
    "folders": {
     "Official": "Oficial",
     "Tablas Marciales": "Tablas Marciales",
     "Proficiencies": "Tablas Generales y Arquetípicas",
     "Style Modules": "Tablas de Estilo",
-    "Supernatural Modules": "Tablas Sobrenaturales"
+    "Supernatural Modules": "Tablas Sobrenaturales",
+	"Ars Magnus (Major)": "Ars Magnus (mayores)",
+	"Ars Magnus (Minor)": "Ars Magnus (menores)"
    },
   "entries": {
     "7DR8FKdPsldz9Pgo": {
       "name": "[Arma Distinta / Desarmado - A ELEGIR]",
-      "description": "El personaje sabe cómo usar dos armas muy diferentes.<p>Efecto:  le otorga al personaje la capacidad de usar un arma de un tipo con la que no está familiarizado."
+      "description": "El personaje sabe cómo usar dos armas muy diferentes.<p>\nEfecto:  le otorga al personaje la capacidad de usar un arma de un tipo con la que no está familiarizado.",
+      "cost": 20
     },
     "qKW9OzaIiFAhZNmS": {
       "name": "[Arma Mixta - A ELEGIR]",
-      "description": "El personaje sabe cómo usar dos armas con ciertas similitudes.<p>\nEfecto: le permite al personaje usar un arma adicional que comparta al menos un tipo con un arma que ya domine." 
+      "description": "El personaje sabe cómo usar dos armas con ciertas similitudes.<p>\nEfecto: le permite al personaje usar un arma adicional que comparta al menos un tipo con un arma que ya domine.",
+      "cost": 15
     },
     "AdgJQsSmojRv1mAl": {
       "name": "[Arma Similar - A ELEGIR]",
-      "description": "El personaje sabe cómo usar dos armas similares.<p>\nEfecto: le permite al personaje usar un arma adicional del mismo tipo que una que ya domine." 
+      "description": "El personaje sabe cómo usar dos armas similares.<p>\nEfecto: le permite al personaje usar un arma adicional del mismo tipo que una que ya domine.",
+      "cost": 10
     },
     "X6xGe2HAGDW7NNls": {
       "name": "[Tabla de Tipología- A ELEGIR]",
-      "description": "El personaje ha logrado dominar las técnicas de uso de todas las armas de un determinado tipo, y puede utilizarlas sin penalización.<p>\nEfecto: permite usar cualquier arma de un tipo determinado sin aplicar penalizadores a sus Habilidades de Combate. El jugador debe elegir un tipo específico de arma, ya sea pura o mixto. Por ejemplo, si un personaje está entrenado en el uso de espadas, podrá manejar cualquiera de ellas sin penalización, pero esto no se aplicaría a una espada bastarda, ya que es un arma de tipo mixto." 
+      "description": "El personaje ha logrado dominar las técnicas de uso de todas las armas de un determinado tipo, y puede utilizarlas sin penalización.<p>\nEfecto: permite usar cualquier arma de un tipo determinado sin aplicar penalizadores a sus Habilidades de Combate. El jugador debe elegir un tipo específico de arma, ya sea pura o mixto. Por ejemplo, si un personaje está entrenado en el uso de espadas, podrá manejar cualquiera de ellas sin penalización, pero esto no se aplicaría a una espada bastarda, ya que es un arma de tipo mixto.",
+      "cost": 50
     },
     "13YydkpoLdFEX7PO": {
       "name": "Tabla de Ataque Adicional",
-      "description": "Esto permite a un personaje especializarse en encadenar sus ataques, aumentando su ritmo ofensivo.<p>\nEfecto: otorga la capacidad de realizar un ataque adicional, equivalente a cuando un personaje posee 100 puntos en habilidad ofensiva. Es decir, un combatiente con 120 de Ataque Final podría realizar hasta tres ataques (uno por tener más de 100 en su Ataque Final, y otro gracias a la tabla), todos ellos con un valor de 70.\nLimitaciones: Esta tabla puede tomarse tantas veces como desee el personaje." 
+      "description": "Esto permite a un personaje especializarse en encadenar sus ataques, aumentando su ritmo ofensivo.<p>\nEfecto: otorga la capacidad de realizar un ataque adicional, equivalente a cuando un personaje posee 100 puntos en habilidad ofensiva. Es decir, un combatiente con 120 de Ataque Final podría realizar hasta tres ataques (uno por tener más de 100 en su Ataque Final, y otro gracias a la tabla), todos ellos con un valor de 70.\nLimitaciones: Esta tabla puede tomarse tantas veces como desee el personaje.",
+      "cost": 40
+    },
+    "4fUegjtWeb53USYK": {
+      "name": "Agnitum: Ojo Absoluto",
+      "description": "Requisitos: Habilidad de Ataque 180+, Erudición, Percepción 11+.\nPermite al usuario controlar ataques a distancia (arrojadizos o proyectiles), así como proyectar sus sentidos a través de ellos. Esto otorga +20 al ataque y permite al usuario fijar como objetivo a enemigos que estén dentro del alcance pero fuera de la vista (como a la vuelta de una esquina o detrás de una cobertura). El usuario tampoco sufre penalizadores por cobertura al usar este Magnus.\nSin embargo, el uso de este Magnus distrae, y el usuario sufre un -20 a la Defensa y un -40 a cualquier control de Percepción.\nEsta habilidad solo se puede usar con un proyectil por turno y cuesta 3 puntos de Ki. Se puede combinar libremente con otras Técnicas o Magnus.\nAl usar esta habilidad para atacar desde fuera de la línea de visión, los enemigos no obtienen ningún bonificador a Advertir o Buscar para percibir al usuario."
     },
     "7i3PFSGEKdm0sABR": {
       "name": "Tabla de Ataque en Área",
-      "description": "El personaje se especializa en maniobras amplias que le permiten eliminar a varios enemigos con mayor facilidad.<p>\nEfecto: reduce a la mitad el penalizador por usar la maniobra de Ataque en Área. Por lo tanto, el personaje aplicaría un –25 a su habilidad de ataque al realizar este tipo de ataque." 
+      "description": "El personaje se especializa en maniobras amplias que le permiten eliminar a varios enemigos con mayor facilidad.<p>\nEfecto: reduce a la mitad el penalizador por usar la maniobra de Ataque en Área. Por lo tanto, el personaje aplicaría un –25 a su habilidad de ataque al realizar este tipo de ataque.",
+      "cost": 40
     },
     "swz6EXw2P5EB3Grh": {
       "name": "Tabla de Reducción de Armadura",
-      "description": "Otorga la capacidad de penetrar protecciones y armaduras con gran facilidad, ya sea mediante fuerza bruta o habilidad para encontrar puntos vulnerables.<p>\nEfecto: permite al combatiente restar 1 punto de Armadura TA a cualquier adversario. Este efecto se suma a cualquier otro modificador que el personaje tenga por armas de calidad o Técnicas de Ki.\nLimitaciones: Esta tabla puede tomarse tantas veces como desee el personaje." 
+      "description": "Otorga la capacidad de penetrar protecciones y armaduras con gran facilidad, ya sea mediante fuerza bruta o habilidad para encontrar puntos vulnerables.<p>\nEfecto: permite al combatiente restar 1 punto de Armadura TA a cualquier adversario. Este efecto se suma a cualquier otro modificador que el personaje tenga por armas de calidad o Técnicas de Ki.\nLimitaciones: Esta tabla puede tomarse tantas veces como desee el personaje.",
+      "cost": 40
+    },
+    "OZvfHpV9OvVUbqNU": {
+      "name": "Ars Magnus (Mayor)",
+      "description": ""
+    },
+    "yUyHdzOUBFw8hyma": {
+      "name": "Ars Magnus (Menor)",
+      "description": ""
+    },
+    "3xdoT0dfjPg8oRJC": {
+      "name": "Ashuriam: Asalto Dimensional",
+      "description": "Requisitos: Habilidad de Ataque 220+, Uso de la Energía Necesaria, Zen, Poder 11+.\nPermite luchar mientras se desplaza entre dimensiones. Queda limitado a un radio de 50 metros desde donde el usuario entra en este estado. Las barreras físicas permanecen en la dimensión alternativa. Los ataques físicos y los ataques sobrenaturales que no estén potenciados por el Gnosis no pueden cruzar entre dimensiones.\nEsto provoca un penalizador de -40 al atacar, pero el defensor necesita una diferencia de más de 100 en la tirada de Defensa para ganar el derecho a contraatacar, y sufre un -100 a su Ataque al hacerlo.\nUsar esta habilidad cuesta 10 puntos de Ki y es una acción activa. Se deben pagar 5 puntos de Ki adicionales por cada ataque realizado, y 1 punto por asalto para mantener el efecto.\nMientras un personaje se encuentre en la dimensión de bolsillo, no puede recuperar Ki, Cansancio ni Puntos de Vida.\nPercibir a un personaje con esta habilidad requiere Ver lo Sobrenatural; contra alguien sin este poder, el usuario obtiene un bonificador de +100 a sus habilidades secundarias de Ocultarse y Sigilo para Sorprender o Atacar a un enemigo por la Espalda, y no sufre penalizadores de sigilo para ocultarse tras realizar un ataque. Contra un oponente con Ver lo Sobrenatural, este «solo» sufre un -100 a Advertir o Buscar. Además, el usuario obtiene un bonificador de +100 a Ocultación del Ki (si está desarrollada) mientras esté en esta dimensión.\nLos seres con Gnosis 40 o superior ignoran este Magnus por completo, y los seres con Gnosis 45 o superior pueden usarlo a voluntad, sin necesidad de entrenamiento."
     },
     "AOwdDxkOYmsXFkQv": {
       "name": "Tabla de Asesino",
-      "description": "Estas armas precisas, letales y fáciles de ocultar eran utilizadas con frecuencia por luchadores oscuros.<p>\nEfectos: otorga competencia en el uso de las siguientes armas: Espada Corta, Ballesta de Mano , Garrote, Cerbatana y Estilete." 
+      "description": "Estas armas precisas, letales y fáciles de ocultar eran utilizadas con frecuencia por luchadores oscuros.<p>\nEfectos: otorga competencia en el uso de las siguientes armas: Espada Corta, Ballesta de Mano , Garrote, Cerbatana y Estilete.",
+      "cost": 50
     },
     "rd51OIaL94yNqzhn": {
       "name": "Tabla de Bandido",
-      "description": "Estas armas simples pero amenazantes son utilizadas por guerreros especializados en robo y pillaje.<p>\nEfectos: otorga competencia en el uso de las siguientes armas: Daga, Ballesta, Espada Corta, Maza y Garrote." 
+      "description": "Estas armas simples pero amenazantes son utilizadas por guerreros especializados en robo y pillaje.<p>\nEfectos: otorga competencia en el uso de las siguientes armas: Daga, Ballesta, Espada Corta, Maza y Garrote.",
+      "cost": 50
     },
     "9AvRfvwCXKw2P846": {
       "name": "Tabla de Bárbaro",
-      "description": "Estas armas grandes y poderosas son utilizadas con frecuencia por individuos de estilo de combate feroz y bárbaro.<p>\nEfecto: otorga competencia en el uso de las siguientes armas: Hacha de Guerra, Hacha a dos Manos, Mandoble, Espada Bastarda y Maza a dos Manos." 
+      "description": "Estas armas grandes y poderosas son utilizadas con frecuencia por individuos de estilo de combate feroz y bárbaro.<p>\nEfecto: otorga competencia en el uso de las siguientes armas: Hacha de Guerra, Hacha a dos Manos, Mandoble, Espada Bastarda y Maza a dos Manos.",
+      "cost": 50
     },
     "3lNGCAe2UFdPF6l8": {
       "name": "Tabla de Batto Jutsu / Iai Jutsu",
-      "description": "Esta habilidad permite al personaje desenvainar su arma con perfecta facilidad.<p>\nEfecto: el personaje puede desenvainar su arma sin aplicar la penalización de –25 a las habilidades de Ataque o Bloqueo. No tiene efecto para armas a dos manos." 
+      "description": "Esta habilidad permite al personaje desenvainar su arma con perfecta facilidad.<p>\nEfecto: el personaje puede desenvainar su arma sin aplicar la penalización de –25 a las habilidades de Ataque o Bloqueo. No tiene efecto para armas a dos manos.",
+      "cost": 30
+    },
+    "gHhhZfpaRqvqWhmf": {
+      "name": "Berserker",
+      "description": "Un personaje con este Magnus puede entrar en el estado de Berserker voluntariamente. Mientras esté en ese estado, aplica un bonificador de +10 a su Habilidad de Ataque y un penalizador de -20 a su Habilidad de Defensa, además de ignorar los penalizadores a las acciones físicas provocados por el Dolor o el Cansancio (aunque no a los provocados por carencias físicas). Como desventaja adicional, la sed de sangre a veces ciega al personaje, haciéndolo incapaz de distinguir entre amigos y enemigos o de reconocer cuándo debe retirarse. Un personaje en estado de Berserker continúa luchando en todo momento, llegando incluso a atacar a compañeros y aliados si no quedan más enemigos en sus cercanías. Para evitar estas consecuencias, el personaje debe realizar un control de Voluntad que, si lo supera, hará que salga inmediatamente de su estado de Berserker. Si sus Puntos de Vida se encuentran por debajo de una cuarta parte de su total, sufre un penalizador de -2 a dicho control."
     },
     "poKsG8ZhFtxEgUf0": {
       "name": "Tabla de Combate a Ciegas",
-      "description": "El combatiente se especializa en enfrentar adversarios y peligros que no puede ver, maximizando sus habilidades contra enemigos invisibles o al moverse por entornos de completa oscuridad.<p>\nEfecto: el personaje reduce a la mitad las penalizaciones a las acciones de combate que sufre por Ceguera, ya sea que la visión esté parcialmente o totalmente oscurecida." 
+      "description": "El combatiente se especializa en enfrentar adversarios y peligros que no puede ver, maximizando sus habilidades contra enemigos invisibles o al moverse por entornos de completa oscuridad.<p>\nEfecto: el personaje reduce a la mitad las penalizaciones a las acciones de combate que sufre por Ceguera, ya sea que la visión esté parcialmente o totalmente oscurecida.",
+      "cost": 40
     },
     "75rEsptp5lhcswBu": {
       "name": "Tabla de Guardaespaldas",
-      "description": "El personaje está acostumbrado a proteger a otras personas y puede interponerse con facilidad ante cualquier ataque dirigido a quien está protegiendo.<p>\nEfecto: permite reducir a –10 las penalizaciones aplicables al intentar cubrir o apartar a una persona que está bajo ataque. Esta tabla no otorga ninguna ventaja si el personaje utiliza escudos sobrenaturales." 
+      "description": "El personaje está acostumbrado a proteger a otras personas y puede interponerse con facilidad ante cualquier ataque dirigido a quien está protegiendo.<p>\nEfecto: permite reducir a –10 las penalizaciones aplicables al intentar cubrir o apartar a una persona que está bajo ataque. Esta tabla no otorga ninguna ventaja si el personaje utiliza escudos sobrenaturales.",
+      "cost": 30
+    },
+    "yh0OAZflk091Mkkf": {
+      "name": "Chaos Meister: Control del Caos",
+      "description": "Requisitos: Habilidad de Ataque 250+, Habilidad de Defensa 250+, Inhumanidad, Uso de la Energía Necesaria, Poder 11+.\nEl usuario obtiene las siguientes tres capacidades, que pueden ser usadas a voluntad:\nAlteración Existencial: Al gastar 10 puntos de Ki, el usuario puede repetir cualquier tirada de ataque o defensa que realice. Puede seguir repitiendo la misma tirada, duplicándose el coste por cada intento consecutivo (20 para la segunda, 40 para la tercera, etc.); pero las pifias no se pueden volver a tirar.\nDualidad del Destino: Al gastar 20 puntos de Ki, el usuario puede intercambiar las decenas y las unidades de cualquiera de sus tiradas de dados (pero solo para Habilidades relacionadas con el combate). Esto no puede evitar una pifia ni provocar una abierta en Turno.\nNull Tempus: Este poder anula la última acción ejecutada en combate (independientemente de quién la haya realizado). La acción se repite inmediatamente, pero con nuevas tiradas de dados por parte de todos los implicados. El personaje debe estar vivo y consciente para hacer uso de esta capacidad, por lo que no puede deshacer un acontecimiento que lo haya dejado inconsciente o muerto. El Ki gastado en las habilidades de Caos Meister y los Sacrificios de PV no se recuperan. Usar esta capacidad cuesta 50 puntos de Ki y no puede afectar a seres con Gnosis 40 o superior."
     },
     "C7luK5VZ54E4eMVG": {
       "name": "Tabla de Defensa contra Proyectiles",
-      "description": "Concede la capacidad de usar armas de gran tamaño para parar proyectiles de forma efectiva, aprovechando su gran anchura como si se tratara de un escudo.<p>\nEfecto: cuando se utiliza un arma de tipo Mandonle, el personaje puede detener proyectiles como si tuviera un escudo, a la hora de aplicar las penalizaciones correspondientes." 
+      "description": "Concede la capacidad de usar armas de gran tamaño para parar proyectiles de forma efectiva, aprovechando su gran anchura como si se tratara de un escudo.<p>\nEfecto: cuando se utiliza un arma de tipo Mandonle, el personaje puede detener proyectiles como si tuviera un escudo, a la hora de aplicar las penalizaciones correspondientes.",
+      "cost": 40
     },
     "dtXF6fJM4b3tOEz6": {
       "name": "Tabla de Desarme",
-      "description": "Un personaje con esta capacidad se ha especializado en desarmar a sus oponentes.<p>\nEfecto: reduce la penalización por realizar la maniobra Desarmar a –20." 
+      "description": "Un personaje con esta capacidad se ha especializado en desarmar a sus oponentes.<p>\nEfecto: reduce la penalización por realizar la maniobra Desarmar a –20.",
+      "cost": 40
     },
     "rNeZx7hvAvi7kss9": {
       "name": "Tabla de Esquiva con Escudo",
-      "description": "El personaje está acostumbrado a maximizar los beneficios de combinar el uso de un escudo con su movilidad al defenderse de ataques.<p>\nEfecto: permite que un personaje que esquiva mientras usa un escudo se beneficie del bono que dicho escudo otorga al parar, en lugar del bono por esquivar. Es decir, un combatiente que está esquivando recibe un bono de +20 por usar un escudo mediano, en lugar de solo +10." 
+      "description": "El personaje está acostumbrado a maximizar los beneficios de combinar el uso de un escudo con su movilidad al defenderse de ataques.<p>\nEfecto: permite que un personaje que esquiva mientras usa un escudo se beneficie del bono que dicho escudo otorga al parar, en lugar del bono por esquivar. Es decir, un combatiente que está esquivando recibe un bono de +20 por usar un escudo mediano, en lugar de solo +10.",
+      "cost": 30
     },
     "tgCkQsej3z5bBQCu": {
       "name": "Tabla de Duelista",
-      "description": "Estas armas son empleadas por espadachines y maestros de esgrima.<p>\nEfecto: otorga competencia en las siguientes armas: Estoque, Florete, Daga de Parada, Sable y Espada Larga." 
+      "description": "Estas armas son empleadas por espadachines y maestros de esgrima.<p>\nEfecto: otorga competencia en las siguientes armas: Estoque, Florete, Daga de Parada, Sable y Espada Larga.",
+      "cost": 50
+    },
+    "QXtD6Gs1ABp3nTtI": {
+      "name": "Etherial: Ataques Infinitos",
+      "description": "Requisitos: Habilidad de Ataque 200+.\nActivar la habilidad cuesta 5 puntos de Ki. Al activarla, el usuario selecciona un objetivo y entra en una modalidad combativa especial. Durante 5 asaltos, todos los ataques que realice contra dicho enemigo no le hacen perder PV (aunque se debe anotar el daño teórico). Al finalizar los 5 asaltos, se suma todo el daño causado y se elige uno de los siguientes efectos:\nCrítico Seguro: El valor total de daño producido se reduce a la mitad, y su adversario sufre de inmediato una pérdida de PV equivalente a dicha cantidad. Esto produce un Crítico automático, incluso si no ha llegado a sustraer la mitad de los puntos de vida. Los efectos de esto se determinan de forma normal, pero el usuario puede elegir asegurarse de que el efecto sea no mortal. Esta habilidad no tiene efecto sobre criaturas con Acumulación de daño.\nAtaque Absoluto: El personaje obtiene un bono a su siguiente ataque equivalente al valor total del daño que se habría producido. Contra criaturas con Acumulación de daño, el bono máximo que puede obtener es de +250.\nMil Golpes: El personaje puede realizar un ataque adicional gratuito contra su adversario por cada 25 puntos de daño que debiera haberle producido (por cada 150 puntos en el caso de que sea una criatura con Acumulación de daño). Estos ataques utilizan la Habilidad de Ataque completa del usuario.\nSello de Poder: El valor total de daño producido se reduce a la mitad y se aplica inmediatamente como una reducción a los PV del objetivo. Después, el objetivo debe superar un control de Resistencia Física contra el daño sin reducir. El objetivo será incapaz de usar habilidades o Técnicas de Ki durante 1 hora por cada punto de fracaso.\nEste Magnus puede combinarse libremente con otras habilidades o técnicas."
+    },
+    "0kqinFSzUTEXpAuh": {
+      "name": "Ataque Final",
+      "description": "El personaje tiene la capacidad de, en un momento determinado, gastar toda su energía, habilidad y suerte en un ataque desesperado que pueda dar la vuelta a un combate. Cuando declara que quiere realizar un Ataque Final, el personaje obtiene un bono especial de +20 a su Habilidad de Ataque, y cualquier punto de Cansancio que emplee para potenciarlo le otorga un +20 en lugar de +15. Esta habilidad solo puede usarse una vez por situación de combate, debiendo encontrarse el personaje por debajo de la mitad de sus Puntos de Vida para hacerlo. Una vez empleado, es necesario que transcurra al menos un día para volver a ser activado. Ataque Final puede combinarse libremente con cualquier Técnica, Magnus o habilidad especial."
     },
     "NWbkYSJFUYxWvb4S": {
       "name": "Tabla de Sujección",
-      "description": "El personaje es especialmente hábil empuñando sus armas, por lo que resulta muy difícil desarmarlo.<p>\nEfecto: otorga al personaje que la posee un bonificador de +3 a su valor de Característica cuando realiza un control para evitar ser desarmado." 
+      "description": "El personaje es especialmente hábil empuñando sus armas, por lo que resulta muy difícil desarmarlo.<p>\nEfecto: otorga al personaje que la posee un bonificador de +3 a su valor de Característica cuando realiza un control para evitar ser desarmado.",
+      "cost": 10
     },
     "Mxll9ZcAmG3P35p8": {
       "name": "Tabla de Gladiador",
-      "description": "Estas son las armas exóticas y llamativas utilizadas por los luchadores en circos y arenas.<p>\nEfecto: otorga competencia con las siguientes armas: Espada Corta, Red de Gladiador, Rodela, Tridente y Látigo." 
+      "description": "Estas son las armas exóticas y llamativas utilizadas por los luchadores en circos y arenas.<p>\nEfecto: otorga competencia con las siguientes armas: Espada Corta, Red de Gladiador, Rodela, Tridente y Látigo.",
+      "cost": 50
     },
     "58MwVuGxsQ4HWMvt": {
       "name": "Tabla de Desvío",
-      "description": "El combatiente está especializado en realizar maniobras evasivas que le permiten minimizar el efecto de que su arma reciba un impacto directo. De este modo, es posible detener ataques de gran fuerza sin que el arma se rompa.<p>\nEfecto: el combatiente puede sumar el valor de su Característica de Destreza a la Entereza del Arma al detener ataques." 
+      "description": "El combatiente está especializado en realizar maniobras evasivas que le permiten minimizar el efecto de que su arma reciba un impacto directo. De este modo, es posible detener ataques de gran fuerza sin que el arma se rompa.<p>\nEfecto: el combatiente puede sumar el valor de su Característica de Destreza a la Entereza del Arma al detener ataques.",
+      "cost": 30
+    },
+    "XSfjRXkMCpMaoo2X": {
+      "name": "Guardián",
+      "description": "Requisitos: Advertir 50+.\nEste Magnus enfoca las habilidades defensivas de un personaje hacia la protección de terceros, permitiéndole convertirse en un guardaespaldas ideal. En consecuencia, el personaje no requiere tener la Iniciativa o prever un ataque para defender a un compañero de un determinado golpe, siempre y cuando el personaje se encuentre próximo al compañero. De igual forma, el personaje aplica únicamente un -10 a sus Habilidades de Parada y Esquiva para detener la agresión o apartar a su protegido del impacto, en lugar del -30 habitual. Este Magnus no tiene efectos si el personaje ha perdido la Iniciativa contra un determinado enemigo por un resultado de Sorpresa."
+    },
+    "G4eMgsyVj1geHLL2": {
+      "name": "Haima: Sombra de Sangre",
+      "description": "Requisitos: Habilidad de Defensa 200+, Voluntad 10+.\nLegado de Sangre: Sangre Eterna.\nAntes de lanzar los dados para defenderse, el usuario puede sacrificar voluntariamente cualquier cantidad de PV (con un mínimo de cinco) para crear una sombra de sangre momentánea que le defienda contra ese ataque. Esta sombra posee unos PV equivalentes al doble de los PV sacrificados.\nSi el daño final del ataque es inferior a los PV de la Sombra, esta absorbe el impacto y el usuario no es puesto a la defensiva. Si, por el contrario, el daño es superior, la sombra se destruye sin sufrir ningún efecto: el defensor recibe todo el daño y es puesto a la defensiva.\nEsto se puede usar con Parada, Esquiva o escudos sobrenaturales; y se puede combinar con otras Técnicas o Magnus."
     },
     "4O26Y5zY2nlwWHBv": {
       "name": "Tabla de Cazador",
-      "description": "Estas armas son utilizadas por combatientes expertos en el subterfugio, que hacen uso de armas ligeras, a menudo proyectiles.<p>\nEfecto: otorga competencia con las siguientes armas: Jabalina, Arco, Espada Corta, Lanza y Boleadoras." 
+      "description": "Estas armas son utilizadas por combatientes expertos en el subterfugio, que hacen uso de armas ligeras, a menudo proyectiles.<p>\nEfecto: otorga competencia con las siguientes armas: Jabalina, Arco, Espada Corta, Lanza y Boleadoras.",
+      "cost": 50
     },
     "8FqdYvnoUKvWuLo1": {
       "name": "Tabla de Armas Improvisadas",
-      "description": "El combatiente en cuestión es muy hábil utilizando cualquier objeto que tenga a su alrededor para luchar.<p>\nEfecto: permite usar cualquier tipo de objeto como un arma improvisada." 
+      "description": "El combatiente en cuestión es muy hábil utilizando cualquier objeto que tenga a su alrededor para luchar.<p>\nEfecto: permite usar cualquier tipo de objeto como un arma improvisada.",
+      "cost": 50
     },
     "TReUMLKb89iAnnzf": {
       "name": "Tabla de Crítico Incrementado",
-      "description": "Esta tabla permite a un personaje aumentar la efectividad de sus Golpes Críticos, permitiéndole maximizar las consecuencias de cualquier Daño que produzca con sus ataques.<p>\nEfecto: el combatiente aplica un +10 a sus tiradas para calcular su Nivel Crítico en sus ataques. Este modificador se suma a cualquier otro que posea debido a Técnicas de Ki, armas sobrenaturales, etc." 
+      "description": "Esta tabla permite a un personaje aumentar la efectividad de sus Golpes Críticos, permitiéndole maximizar las consecuencias de cualquier Daño que produzca con sus ataques.<p>\nEfecto: el combatiente aplica un +10 a sus tiradas para calcular su Nivel Crítico en sus ataques. Este modificador se suma a cualquier otro que posea debido a Técnicas de Ki, armas sobrenaturales, etc.",
+      "cost": 20
     },
     "0veS9wBmPV7e3wXX": {
       "name": "Tabla de Aborigen",
-      "description": "Este es el equipo de combate tradicionalmente utilizado por tribus indígenas de escasa sofisticación.<p>\nEfecto: otorga competencia en las siguientes armas: Jabalina, Lanza, Escudo Corporal, Arco y Cerbatana." 
+      "description": "Este es el equipo de combate tradicionalmente utilizado por tribus indígenas de escasa sofisticación.<p>\nEfecto: otorga competencia en las siguientes armas: Jabalina, Lanza, Escudo Corporal, Arco y Cerbatana.",
+      "cost": 50
+    },
+    "15XrstPo2m9R0vkl": {
+      "name": "Infinium: Fluctuación del Espacio",
+      "description": "Requisitos: Habilidad de Ataque 200+, Inhumanidad, Agilidad 11+.\nEste Magnus se puede activar antes de que el usuario realice cualquier ataque de carácter físico. El objetivo debe superar un control de Advertir (o de Buscar con una Dificultad dos grados menor, si está anticipando activamente el salto) determinado por el valor de movimiento del usuario; de lo contrario, sufrirá los penalizadores de Flanco o Espalda. Un oponente cuya Agilidad sea superior a la del usuario obtiene un bonificador de +80 a su control. Esta es una acción pasiva como parte del ataque y cuesta 5 puntos de Ki por activación. Puede utilizarse como máximo una vez por asalto, y el usuario debe moverse como máximo una cuarta parte de su movimiento.\nTabla de Dificultad: Valor de Movimiento / Espalda / Flanco\n11 / 40 / 80\n12 / 80 / 120\n13 / 120 / 140\n14 / 140 / 180\n15 / 180 / 240\n16 / 240 / 280\n17 / 280 / 320\n18 / 320 / 440\n19+ / 440 / Automático"
+    },
+    "ajsqToQsLLqpysh4": {
+      "name": "Kiai",
+      "description": "Requisitos: Uso del Ki, Cualquier arte marcial en Grado Avanzado. Coste en PD a la mitad para Tao.\nEsta habilidad está asociada al uso de artes marciales. Se trata de un sistema muy básico de proyección de energía, desencadenada instintivamente por un luchador en el momento de realizar un golpe muy potente. Para poder usar el Kiai, el personaje debe declarar que lo hace antes de realizar un ataque de artes marciales. Al hacerlo, añade un bono de +10 al Daño Base del ataque y puede dañar energía igual que si empleara la habilidad de Ki, Extrusión del Ki. Dado que usar esta capacidad debilita al personaje, el personaje solo puede usar Kiai una vez cada cinco asaltos o, en caso contrario, debe perder 1 punto de Cansancio al usarlo. El Kiai consume 1 punto de Ki cada vez que es utilizado."
     },
     "NsfAjci4NAzicoT2": {
       "name": "Tabla de Caballero",
-      "description": "Estas armas son utilizadas por guerreros ortodoxos que combaten a pie o desde caballo.<p>\nEfecto: otorga competencia en las siguientes armas: Espada Larga, Lanza de Caballería, Maza, Espada Bastarda y Escudo Medio." 
+      "description": "Estas armas son utilizadas por guerreros ortodoxos que combaten a pie o desde caballo.<p>\nEfecto: otorga competencia en las siguientes armas: Espada Larga, Lanza de Caballería, Maza, Espada Bastarda y Escudo Medio.",
+      "cost": 50
     },
     "9NuVkltL7roRchv3": {
       "name": "Proyección Mágica como Defensa",
-      "description": "El personaje utiliza sus conocimientos defensivos para proyectar sus hechizos pasivos y de escudos como si fueran armas o armaduras que interceptan los ataques de sus enemigos.<p>\nEfecto: permite usar la habilidad de Defensa del personaje como una Proyección Mágica defensiva. Solo se utiliza el valor base de la habilidad, sin contar los puntos de mejora innata otorgados por la Categoria. Esta tabla no puede emplearse para proyectar hechizos ofensivos." 
+      "description": "El personaje utiliza sus conocimientos defensivos para proyectar sus hechizos pasivos y de escudos como si fueran armas o armaduras que interceptan los ataques de sus enemigos.<p>\nEfecto: permite usar la habilidad de Defensa del personaje como una Proyección Mágica defensiva. Solo se utiliza el valor base de la habilidad, sin contar los puntos de mejora innata otorgados por la Categoria. Esta tabla no puede emplearse para proyectar hechizos ofensivos.",
+      "cost": 75
     },
     "W4CZr2ur5lrinrMI": {
       "name": "Proyección Mágica como Ataque",
-      "description": "Esto representa la unión del conocimiento de combate de un personaje con la habilidad de dirigir hechizos contra un oponente. Para este personaje, los hechizos actúan como armas reales que puede proyectar como una verdadera habilidad marcial.<p>\nEfecto: permite al personaje usar su habilidad de ataque al realizar una Proyección Mágica ofensiva. Solo se utiliza el valor base de la habilidad, sin contar los puntos de mejora innata otorgados por su Categoría. Esta tabla no puede usarse para lanzar hechizos pasivos o defensivos." 
+      "description": "Esto representa la unión del conocimiento de combate de un personaje con la habilidad de dirigir hechizos contra un oponente. Para este personaje, los hechizos actúan como armas reales que puede proyectar como una verdadera habilidad marcial.<p>\nEfecto: permite al personaje usar su habilidad de ataque al realizar una Proyección Mágica ofensiva. Solo se utiliza el valor base de la habilidad, sin contar los puntos de mejora innata otorgados por su Categoría. Esta tabla no puede usarse para lanzar hechizos pasivos o defensivos.",
+      "cost": 75
+    },
+    "AlCdkykTlbBZ6sc0": {
+      "name": "Magnum: Liberación de Poder",
+      "description": "Requisitos: Habilidad de Ataque 200+, Extensión del aura al arma.\nAl activar este Magnus, el usuario elige una duración de 1 a 5 asaltos durante los cuales acumulará energía. Mientras lo hace, sufre un penalizador de -20 a su Habilidad de Defensa. Al terminar de cargar, el usuario puede realizar un único ataque, aplicando un bono de +20 a su Habilidad de Ataque por cada asalto que haya dedicado a acumular energía. Si no puede realizar el ataque en el asalto designado (por ejemplo, por haber sido puesto a la defensiva), la carga se pierde. Las criaturas con Acumulación de daño solo obtienen un +10 por asalto de preparación. Este Magnus cuesta 1 punto de Ki por cada asalto empleado en acumular energía, gastándose en el momento en que se libera el ataque."
+    },
+    "lL269iE9PbnTWy6b": {
+      "name": "Matrix: División Existencial",
+      "description": "Requisitos: Habilidad de Ataque 150+, Habilidad de Defensa 150+, Multiplicación de cuerpos.\nEl usuario se divide en múltiples individuos que comparten una misma mente. Como una acción activa completa (el usuario no puede hacer absolutamente nada más durante ese asalto), puede crear un número de cuerpos igual a la mitad de su característica de Poder, redondeada hacia arriba, a un coste de 5 puntos de Ki por cuerpo y un mantenimiento de 1 punto de Ki por cuerpo cada 5 asaltos.\nTodos estos cuerpos pueden actuar de forma individual, pero los PV, Ki, Zeon y los CVs libres del personaje se distribuyen de modo equitativo entre ellos; además, se aplica un penalizador acumulativo de -10 a toda acción a todos los cuerpos por cada uno que exista (por ejemplo, crear un único duplicado otorgaría un negativo de -20 a ambos). Estos cuerpos no pueden estar a una distancia superior a los 100 metros (300 pies) entre sí, o de lo contrario desaparecerán.\nTodos los daños que padezca cualquier cuerpo se acumulan al desactivarse la habilidad; y si uno de los cuerpos muere, dicho daño se consideraría un sacrificio a la hora de determinar el tiempo de recuperación.\nTras desactivar esta capacidad, el personaje debe esperar al menos una hora antes de volver a activarla."
     },
     "EWgOTLMZIGHHXxZv": {
       "name": "Tabla de Movimiento en Espacios Reducidos",
-      "description": "Incluso en los espacios más pequeños, el luchador tiene la habilidad de actuar con naturalidad.<p>\nEfecto: reduce a la mitad las penalizaciones aplicables al ataque o defensa del luchador dentro de un espacio reducido." 
+      "description": "Incluso en los espacios más pequeños, el luchador tiene la habilidad de actuar con naturalidad.<p>\nEfecto: reduce a la mitad las penalizaciones aplicables al ataque o defensa del luchador dentro de un espacio reducido.",
+      "cost": 30
     },
     "wHx4R2W7LMErdJDJ": {
       "name": "Tabla de Blanco en Movimiento",
-      "description": "El personaje puede disparar a objetivos en movimiento, maximizando su posibilidad de impactar.<p>\nEfecto: reduce a la mitad la penalización por disparar a un objetivo en movimiento. Por lo tanto, el personaje solo sufre una penalización de –10 si su objetivo se mueve a una velocidad de 8 o 9, –20 a velocidad 10, y –30 para velocidades mayores." 
+      "description": "El personaje puede disparar a objetivos en movimiento, maximizando su posibilidad de impactar.<p>\nEfecto: reduce a la mitad la penalización por disparar a un objetivo en movimiento. Por lo tanto, el personaje solo sufre una penalización de –10 si su objetivo se mueve a una velocidad de 8 o 9, –20 a velocidad 10, y –30 para velocidades mayores.",
+      "cost": 50
     },
     "pS9lo7LoR6Z038DM": {
       "name": "Tabla de Acumulación de Proyectiles",
-      "description": "Esta tabla permite que un personaje se especialice en lanzar varios proyectiles sin reducir su precisión.<p>\nEfecto: un luchador puede usar la maniobra Acumulación de Proyectiles sin sufrir penalizaciones a su Habilidad de Ataque. Por lo tanto, aplica –10 a su Iniciativa por cada proyectil adicional que lance con esa maniobra, pero no un –5 a su Habilidad de Ataque." 
+      "description": "Esta tabla permite que un personaje se especialice en lanzar varios proyectiles sin reducir su precisión.<p>\nEfecto: un luchador puede usar la maniobra Acumulación de Proyectiles sin sufrir penalizaciones a su Habilidad de Ataque. Por lo tanto, aplica –10 a su Iniciativa por cada proyectil adicional que lance con esa maniobra, pero no un –5 a su Habilidad de Ataque.",
+      "cost": 20
     },
     "1CGagwNx2HKTvWol": {
       "name": "Tabla de Varios Blancos",
-      "description": "Esta tabla otorga la habilidad de disparar a varios objetivos a la vez con total precisión.<p>\nEfecto: el personaje no sufre la penalización de –10 por cambiar de objetivo al realizar disparos o lanzamientos." 
+      "description": "Esta tabla otorga la habilidad de disparar a varios objetivos a la vez con total precisión.<p>\nEfecto: el personaje no sufre la penalización de –10 por cambiar de objetivo al realizar disparos o lanzamientos.",
+      "cost": 40
+    },
+    "TeNuYMOphzUxIswl": {
+      "name": "Mundus: Control del Entorno",
+      "description": "Requisitos: Habilidad de Ataque 200+, Habilidad de Defensa 200+, Movimiento de Masas, Inhumanidad.\nEl usuario puede utilizar el propio entorno para atacar; ya sea levantando columnas afiladas del suelo, lanzando objetos a distancia, aplastando a sus contrincantes usando simplemente el aire que les rodea, o mediante manifestaciones similares.\nEsto permite al usuario atacar y defender con normalidad valiéndose de los objetos o el terreno cercanos; con unas pocas limitaciones: no se puede emplear directamente sobre seres vivos, ni tampoco sobre objetos excepcionalmente sólidos o cuya Presencia sea muy elevada (como aquellos que estén protegidos contra lo sobrenatural).\nAl hacer uso de esta habilidad, se debe gastar un punto de Ki por cada ataque realizado; y estos emplean el siguiente perfil genérico de arma:\nDaño: 80 + Bono de Poder\nVelocidad: Su propio movimiento (Desarmado)\nRotura: 8\nEntereza: (Indestructible)\nTipo: FIL/CON/PEN (y Cal si se dispone de fuentes de calor o fuego)\nAcción de Ataque Completa: Usar Mundus implica una concentración absoluta, por lo que el personaje no puede atacar con otras armas a la vez.\nUso Indirecto: El usuario ignora todo penalizador a la Habilidad que pudiera aplicar por estar paralizado o inmovilizado.\nRadio de Efecto: A pesar de tener consideración equivalente a los ataques cuerpo a cuerpo, las acciones ofensivas poseen una zona de influencia de 10 metros (30 pies) de radio.\nCarencia de Medios: Si el Director de Juego considera que el entorno donde se halla un personaje no es apropiado, puede aplicar un penalizador de entre -10 y -50 a la habilidad y/o al Daño de Mundus.\nUsos Especiales:\nAdemás de atacar y defender con normalidad, Mundus se puede usar para efectos más esotéricos. Antes de tirar los dados para determinar su Iniciativa en un asalto, se puede elegir una de las siguientes ventajas especiales:\nBarrera Defensiva: El luchador puede defenderse como si usase un escudo sobrenatural que soporta un daño equivalente a 300 puntos por asalto. El usuario aún puede seguir defendiéndose de manera convencional si el escudo resulta destruido. Debe disponerse de recursos con la suficiente solidez para formar esta protección.\nEnfoque Ofensivo: Aumenta el Daño Base de este Magnus en +40 durante este asalto.\nLluvia de Esquirlas: Permite proyectar un ataque en área contra todos los adversarios que se encuentren dentro de un radio de 10 metros (30 pies) desde su ubicación, aplicando un penalizador a su Habilidad de ofensiva de -20. Requiere disponer de suficientes objetos o metralla.\nPresa: Si el luchador dispone de filamentos o elementos similares a su disposición, puede utilizarlos para atrapar a sus adversarios sin sufrir ningún penalizador. A título orientativo, una cuerda tendría una Fuerza de 8, mientras que unas cadenas tendrían una Fuerza de 10.\nUso Inesperado: Fuerza a un enemigo a superar un control de Advertir contra una dificultad de Muy Difícil (140) o aplicará el penalizador de Sorpresa a su defensa. Esto solo es efectivo contra el mismo adversario una vez, y requiere interpretar imaginativamente un uso apropiado del poder según el escenario.\nAtaque de Aire: Utilizando el propio aire de un modo ofensivo, el personaje puede atacar sin disponer absolutamente de nada en el terreno. En estos casos, su Daño Base se reduce a 20, aunque el defensor requiere superar un control de Advertir contra Muy Difícil (140) para percibir el ataque o aplicará el penalizador de Ceguera absoluta a su Habilidad. "
     },
     "Sa2bxXMqHplanrFU": {
       "name": "Tabla de Ninja",
-      "description": "Otorga competencia en las siguientes armas exóticas usadas por asesinos orientales: Katana, Tanto, Garras, Shuriken y Kusari Gama." 
+      "description": "Otorga competencia en las siguientes armas exóticas usadas por asesinos orientales: Katana, Tanto, Garras, Shuriken y Kusari Gama.",
+      "cost": 50
     },
     "QsToMr1h1r1NBBy3": {
       "name": "Tabla de Nómada",
-      "description": "Otorga competencia en las siguientes armas usadas por guerreros criados en el desierto: Daga, Turcus, Arco Largo, Cimitarra y Lanza." 
+      "description": "Otorga competencia en las siguientes armas usadas por guerreros criados en el desierto: Daga, Turcus, Arco Largo, Cimitarra y Lanza.",
+      "cost": 50
     },
-        "0hgZATDWXcQkMu11": {
+    "ZBSih9rKxw4SlMOA": {
+      "name": "Oficial",
+      "description": ""
+    },
+    "0hgZATDWXcQkMu11": {
       "name": "Tabla de Pirata",
-      "description": "Otorga competencia en las siguientes armas más usadas por marineros: Arpón, Red de Gladiador, Garfio, Sable y Hacha de mano." 
+      "description": "Otorga competencia en las siguientes armas más usadas por marineros: Arpón, Red de Gladiador, Garfio, Sable y Hacha de mano.",
+      "cost": 50
     },
     "fZsZP5VK8OQ387AI": {
       "name": "Tabla de Precisión",
-      "description": "El personaje tiene una marcada habilidad para colocar a su adversario en la posición de Engatillar.<p>\nEfecto: reduce a la mitad la penalización para la maniobra de Engatillar. Por lo tanto, un personaje aplica –50 a su habilidad de ataque al usar este ataque." 
+      "description": "El personaje tiene una marcada habilidad para colocar a su adversario en la posición de Engatillar.<p>\nEfecto: reduce a la mitad la penalización para la maniobra de Engatillar. Por lo tanto, un personaje aplica –50 a su habilidad de ataque al usar este ataque.",
+      "cost": 50
     },
-        "69R5BaVql064zVwl": {
+    "BR0xwjrlAvrJCG7R": {
+      "name": "Tablas Marciales",
+      "description": ""
+    },
+    "69R5BaVql064zVwl": {
       "name": "Tabla de Proyectiles",
-      "description": "El personaje es capaz de usar su puntería con todas las armas arrojadizas.<p>\nEfecto: el personaje puede usar cualquier arma Lanzable usando la misma habilidad de Ataque." 
+      "description": "El personaje es capaz de usar su puntería con todas las armas arrojadizas.<p>\nEfecto: el personaje puede usar cualquier arma Lanzable usando la misma habilidad de Ataque.",
+      "cost": 50
     },
     "A13zlCNPDWwjnBcO": {
       "name": "Tabla de Proyección Psíquica",
-      "description": "El personaje usa sus habilidades de combate para proyectar sus poderes mentales como si fueran armas reales.<p>\nEfecto: le otorga al personaje la capacidad de usar las habilidades de combate como una Proyección Psíquica. La habilidad ofensiva se usa para atacar, y la defensiva para levantar escudos. Solo se usa la habilidad base, no los puntos de mejora innata que provienen de la Categoría." 
+      "description": "El personaje usa sus habilidades de combate para proyectar sus poderes mentales como si fueran armas reales.<p>\nEfecto: le otorga al personaje la capacidad de usar las habilidades de combate como una Proyección Psíquica. La habilidad ofensiva se usa para atacar, y la defensiva para levantar escudos. Solo se usa la habilidad base, no los puntos de mejora innata que provienen de la Categoría.",
+      "cost": 100
+    },
+    "6gRYAovKf3pZW1QC": {
+      "name": "Raikou: Hoja Relámpago",
+      "description": "Requisitos: Habilidad de Ataque 200+, Inhumanidad, Destreza 10+, Agilidad 10+.\nEl personaje puede realizar una secuencia rápida de ataques relámpago, en un asalto absolutamente concentrado para abrumar al oponente. Al comienzo del asalto, el usuario puede activar esta habilidad. En el primer asalto realiza un único Ataque, más un ataque gratuito adicional penalizado por cada asalto que transcurra; con un tope máximo de 10 ataques por asalto. Estos pueden dividirse entre varios objetivos si el usuario lo desea, siempre que los objetivos se encuentren dentro de su radio de acción y movimiento.\nEsta habilidad finaliza si el usuario se ve obligado a realizar cualquier otra acción que no sea atacar (incluyendo defenderse). Si el Magnus se interrumpe, el contador debe reiniciarse desde +1 otra vez.\nEste Magnus está sujeto a unas pocas limitaciones: el usuario no puede declarar ataques adicionales, incluyendo los procedentes de armas de mano adicional o Técnicas de Ki. Además, el usuario debe gastar 1 punto de Ki por cada ataque realizado. Las criaturas con Acumulación de daño no pueden hacer uso de este Magnus."
+    },
+    "JaEeWw6hIxpCeA18": {
+      "name": "Rem: Los Ojos del Destino",
+      "description": "Requisitos: Habilidad de Ataque 180+, Habilidad de Defensa 180+, Percepción 10+, Erudición.\nCuando el usuario observa la activación de una Técnica de Ki, puede intentar desentrañar su funcionamiento mediante una acción de Advertir contra una dificultad igual al doble del coste de CM de la Técnica. Si el control de Advertir supera el cuádruple del coste de CM, los beneficios se duplican. El usuario obtiene un +25 a cualquier acción enfrentada al atacar contra ella (si se trata de una Técnica Defensiva) o al defenderse de ella (si se trata de una Técnica Ofensiva). Esta habilidad se puede combinar libremente con otros Magnus o Técnicas, y un personaje que posea el Legado de Sangre Ojos del Destino obtiene un +40 al control de Advertir para activar Rem."
     },
     "m1yx3KMTL6kcAYqr": {
       "name": "Tabla de Disparo en Movimiento",
-      "description": "Esta habilidad permite al personaje especializarse en disparar proyectiles con precisión total mientras se mueve.<p>\nEfecto: elimina la penalización de –10 a los ataques con proyectiles por moverse más de una cuarta parte de su Valor de Movimiento y reduce a la mitad las penalizaciones por disparar (es decir, a solo –25) cuando corre a su velocidad máxima." 
+      "description": "Esta habilidad permite al personaje especializarse en disparar proyectiles con precisión total mientras se mueve.<p>\nEfecto: elimina la penalización de –10 a los ataques con proyectiles por moverse más de una cuarta parte de su Valor de Movimiento y reduce a la mitad las penalizaciones por disparar (es decir, a solo –25) cuando corre a su velocidad máxima.",
+      "cost": 40
+    },
+    "72hMqTLV5XcabZd5": {
+      "name": "Samiel: Retribución Final",
+      "description": "Requisitos: Habilidad de Ataque 200+, Habilidad de Defensa 200+, Inhumanidad.\nEl usuario de este Magnus gana la capacidad de responder al daño con un poder proporcional. Cada vez que el usuario recibe daño, puede almacenarlo como una «reserva» de energía, la cual puede gastarse en una relación de 1 a 1 como un bonificador directo en cualquier tirada enfrentada contra el individuo que causó el daño. El usuario puede elegir en qué tiradas y qué cantidad de esta reserva desea gastar; aunque no se pueden emplear más de 150 puntos en una única acción. Cada enemigo que dañe al usuario genera una «reserva» independiente, que solo puede utilizarse contra ese oponente en concreto. Esta habilidad se puede combinar libremente con otras habilidades o técnicas. Estas «reservas» se vacían si transcurren 10 minutos desde que se recibió el daño. Las criaturas con Acumulación de daño no pueden hacer uso de este Magnus."
     },
     "rhLKAC2Mnh9gubA5": {
       "name": "Tabla de Segunda Arma: Estilo Defensivo",
-      "description": "Esta tabla permite el uso defensivo de armas de mano adicionales, posibilitando que un personaje las emplee para evitar agresiones en lugar de atacar.<p>\nEfecto: un luchador que porta un arma de mano adicional puede usarla para mejorar sus capacidades defensivas en vez de atacar, pudiendo detener un segundo ataque sin aplicar penalización a su Habilidad Defensiva. Así, no sufre penalización al defenderse de un segundo ataque, sufre solo –30 contra un tercero (tratándolo como si fuera el segundo ataque), solo –50 contra un cuarto (como si fuera el tercero), y así sucesivamente. Si un personaje usa su segunda arma de esta forma, no puede realizar un ataque adicional con ella." 
+      "description": "Esta tabla permite el uso defensivo de armas de mano adicionales, posibilitando que un personaje las emplee para evitar agresiones en lugar de atacar.<p>\nEfecto: un luchador que porta un arma de mano adicional puede usarla para mejorar sus capacidades defensivas en vez de atacar, pudiendo detener un segundo ataque sin aplicar penalización a su Habilidad Defensiva. Así, no sufre penalización al defenderse de un segundo ataque, sufre solo –30 contra un tercero (tratándolo como si fuera el segundo ataque), solo –50 contra un cuarto (como si fuera el tercero), y así sucesivamente. Si un personaje usa su segunda arma de esta forma, no puede realizar un ataque adicional con ella.",
+      "cost": 30
+    },
+    "pjpEY3wFywOEnVIP": {
+      "name": "Shinkyou: Posición Espejo",
+      "description": "Requisitos: Habilidad de Defensa 250+, Percepción 10+.\nEste es un Magnus defensivo que el usuario puede activar declarándolo antes de tirar para determinar su Iniciativa, gastando para ello 10 puntos de Ki. Durante los siguientes 5 asaltos permanece completamente inmóvil; siendo incapaz de desplazarse o de iniciar ninguna otra acción activa (incluyendo Acumular Ki o Magia, o usar poderes psíquicos). A cambio, obtiene un bonificador de +50 a su Habilidad de Parada y Esquiva durante la duración de la habilidad contra cualquier ataque cuerpo a cuerpo (no proyectiles); y no sufre ningún penalizador a la defensa como consecuencia de sufrir Ataques adicionales. Además, el personaje puede contraatacar según las reglas normales, independientemente de los ataques de los que disponga, de si ha sido puesto a la defensiva o de si ha recibido daño. Este Magnus solo funciona contra ataques dirigidos directamente contra el usuario; no se puede emplear para defender a otra persona. Una vez transcurridos los 5 asaltos, el usuario queda mentalmente extenuado, y deben transcurrir al menos 5 asaltos antes de poder volver a activar este Magnus. Esto no se puede combinar con otras Técnicas o Magnus."
     },
     "QtDe9P6lriUjMtNa": {
       "name": "Tabla de Soldado",
-      "description": "Estas son las armas tradicionalmente enseñadas a los soldados regulares en casi cualquier ejército.<p>\nEfecto: Otorga competencia en las siguientes armas: Ballesta, Espada Larga, Alabarda, Lanza y Escudo Medio." 
+      "description": "Estas son las armas tradicionalmente enseñadas a los soldados regulares en casi cualquier ejército.<p>\nEfecto: Otorga competencia en las siguientes armas: Ballesta, Espada Larga, Alabarda, Lanza y Escudo Medio.",
+      "cost": 50
     },
-        "RhQOWMUmJy1r6j4O": {
+    "pcqV4bVMTUqlfZAj": {
+      "name": "Maniobra Especial",
+      "description": "A lo largo de los años, el personaje ha desarrollado una maniobra de combate característica y única que le permite engañar a sus rivales. Esta maniobra es un «truco especial» que únicamente el personaje conoce, otorgándole cierta superioridad al realizar un ataque determinado. La ejecución no implica en ningún caso el uso de puntos de Ki; es su mera habilidad marcial la que le permite realizarla. En juego, el personaje puede emplear dicha maniobra a voluntad, lo que le otorga un bono de +20 al ejecutar dicho ataque. Existen dos situaciones que hacen que esta maniobra no otorgue ningún bono de combate. En primer lugar, si un adversario ya ha presenciado o sufrido la maniobra o conoce su funcionamiento y su «truco», por lo cual deja de ser efectiva contra él. En segundo lugar, un adversario cuya Habilidad de Defensa base sea superior al Ataque base del personaje en 60 o más puntos es simplemente demasiado experto en combate como para dejarse engañar por la maniobra. Maniobra Especial puede combinarse libremente con cualquier Técnica, Magnus o habilidad especial."
+    },
+    "ZYd6aaBFrgxvm58x": {
+      "name": "Tablas de Estilos",
+      "description": ""
+    },
+    "MOvHoj1SpFzpQLic": {
+      "name": "Summun: Acumulación de Energía",
+      "description": "Requisitos: Habilidad de Ataque 180+, Destreza 11+.\nEl usuario obtiene la capacidad de realizar sus ataques cuerpo a cuerpo a distancia distorsionando el espacio entre él y su objetivo. Si el objetivo está demasiado lejos para alcanzar al usuario con su Tipo de Movimiento pasivo, no podrá contraatacar contra estos ataques. Usar esta habilidad cuesta 1 punto de Ki por ataque, y el alcance máximo está limitado por la Destreza del usuario.\nDestreza / Alcance\n11 / 3 metros\n12 / 5 metros\n13 / 8 metros\n14 / 10 metros\n15 / 15 metros\n16 / 25 metros\n17 / 50 metros\n18 / 100 metros\n19 / 150 metros\n20 / 250 metros"
+    },
+    "fqBWSOv0mG80m4Wk": {
+      "name": "Tablas Sobrenaturales",
+      "description": ""
+    },
+    "RhQOWMUmJy1r6j4O": {
       "name": "Tabla de Lanzamiento",
-      "description": "El personaje es capaz de usar su puntería al arrojar cualquier objeto o arma.<p>\nEfectos: el personaje adquiere habilidad para arrojar todo tipo de objetos usando la misma Habilidad de Ataque. Hay que tener en cuenta que esto no permite físicamente usar armas que sigan la regla de Lanzables, solo la capacidad para lanzarlas." 
+      "description": "El personaje es capaz de usar su puntería al arrojar cualquier objeto o arma.<p>\nEfectos: el personaje adquiere habilidad para arrojar todo tipo de objetos usando la misma Habilidad de Ataque. Hay que tener en cuenta que esto no permite físicamente usar armas que sigan la regla de Lanzables, solo la capacidad para lanzarlas.",
+      "cost": 50
+    },
+    "LA7oOnujBRaIYasW": {
+      "name": "Transformación: Eliodon",
+      "description": "Requisitos: Habilidad de Ataque 150+, Habilidad de Defensa 150+. Legado de Sangre: Sangre de las Grandes Bestias.\nAl activar este Magnus como una Acción Pasiva, el usuario obtiene una cantidad de PD adicionales igual al doble de su Presencia, para adquirir Habilidades Esenciales y Poderes de criatura como si tuviera Gnosis 20. Estas capacidades se fijan la primera vez que se utiliza esta habilidad; los únicos cambios que se pueden realizar posteriormente son que las habilidades se mejoren (pagando la diferencia de PD) o que se añadan nuevos poderes mediante los PD adicionales obtenidos cuando aumente la Presencia del usuario.\nCada asalto que se mantenga esta transformación cuesta 3 puntos de Ki, y existe una duración mínima de 5 asaltos. Como consecuencia, este Magnus no se puede usar si el usuario dispone de menos de 15 puntos de Ki acumulados."
+    },
+    "8PUo5bN5xCPRytrx": {
+      "name": "Transformación: Poder Físico",
+      "description": "Requisitos: Habilidad de Ataque 200+, Habilidad de Defensa 200+, Uso de la Energía Necesaria, Inhumanidad.\nEste Magnus permite al usuario adoptar uno de dos grados de poder como una acción pasiva (aunque no obtiene los beneficios hasta el inicio del siguiente asalto).\nPrimer Estado: El personaje obtiene un bonificador de +2 a sus atributos de Fuerza y Constitución, un +20 al daño de sus ataques y posee Barrera de daño de 80. Además, reduce el daño de los ataques que sufra en 10 e incrementa la masa física del personaje aproximadamente en un 20%. Como consecuencia negativa, disminuye en -20 su Turno y le obliga a aplicar un -2 a su Tipo de Movimiento. Mantener esta transformación cuesta un punto de Ki por asalto.\nSegundo Estado: Otorga un bonificador de +4 a Fuerza y Constitución, +40 al daño de sus ataques y una Barrera de daño de 140. El daño recibido se reduce en 20 y la masa física se incrementa en aproximadamente un 50%. Los penalizadores correspondientes son ahora de -40 a su Turno y un -4 a su Tipo de Movimiento; y el coste es de 3 puntos de Ki por asalto.\nEste Magnus se puede combinar con otras Técnicas, pero no con otros Magnus que impliquen a su vez otra clase de transformación física."
+    },
+    "KLSai7Zxo8dz7rwf": {
+      "name": "Transformación: Ruptura del Destino",
+      "description": "Requisitos: Habilidad de Ataque 250+, Habilidad de Defensa 250+, Zen.\nEste Magnus puede activarse como una Acción Pasiva. Al hacerlo, el usuario obtiene de inmediato un bonificador de +100 a toda acción, así como un +100 a su Turno. Además, pierde inmediatamente la mitad de sus PV actuales, pérdida que se considera un sacrificio de PV. Este bonificador disminuye a un ritmo de 10 puntos por asalto, continuando después de llegar a cero hasta alcanzar finalmente un penalizador de -100 a toda acción de carácter sobrenatural. Estos negativos se recuperan a un ritmo de 10 puntos por cada hora transcurrida desde que se activó el Magnus. Tras usar este Magnus, el personaje debe esperar un día entero antes de poder volver a activarlo."
+    },
+    "tAXoorBlv5XILMih": {
+      "name": "Transformaciónn: Los Sellos del Dragon",
+      "description": "Requisitos: Habilidad de Ataque 160+, Habilidad de Defensa 160+.\nLegado de Sangre: La Sangre de El Dragón.\nEl usuario obtiene la capacidad de adquirir «Sellos» mediante un coste de CM adicional. El usuario puede abrir un máximo de dos Sellos adquiridos por asalto; y debe gastar un punto de Ki por cada Sello abierto por asalto. Cada Sello abierto otorga un bonificador acumulativo de +5 a toda acción, así como un +5 a su Turno. Estos bonificadores se pueden combinar con otras habilidades o Técnicas, a excepción de aquellas que impliquen transformación física.\nPor cada dos Sellos abiertos, el personaje obtiene efectos adicionales (no acumulativos):\n2 Sellos: +1 a todas las Características físicas y a Poder.\n4 Sellos: +2 a todas las Características físicas y a Poder.\n6 Sellos: +3 a todas las Características físicas y a Poder; ignora cualquier penalizador provocado por el dolor o el cansancio (pero no por amputaciones o daños críticos).\n8 Sellos: +4 a todas las Características físicas y a Poder; ignora toda clase de penalizador provocado por el dolor o el cansancio, incluyendo amputaciones (el Magnus crea extremidades temporales de energía). El personaje puede usar la habilidad de Vuelo tal y como se detalla en la habilidad de Ki, empleando su Tipo de Movimiento derivado de su característica de Poder. Para activar este nivel, el personaje debe estar por debajo de la mitad de sus PV totales. Si se encuentra por encima, pierde los PV suficientes como para quedarse 1 PV por debajo de la mitad de su total. Mientras este nivel permanezca activo, el usuario no puede recuperar PV por encima de este límite.\n10 Sellos: +5 a todas las Características físicas y a Poder; supera automáticamente cualquier Control de Resistencia física producido por Críticos; jamás aplica ninguna clase de negativo a la acción (ni siquiera aquellos de carácter sobrenatural); únicamente puede morir cuando sus PV disminuyan por debajo del quintuplo del valor incrementado de su Constitución. Al activar este nivel, los PV del personaje quedan reducidos automáticamente a 0, y no se pueden recuperar por encima de esa cantidad. Al desactivar este nivel, deberá superar un control de Entre la Vida o la Muerte para evitar fallecer.\nSello / Coste en CM:\n1º / 5\n2º / 5\n3º / 10\n4º / 10\n5º / 15\n6º / 15\n7º / 20\n8º / 20\n9º / 25\n10º / 25\n\n\n\n\n "
+    },
+    "vfcTFwcDYp389bau": {
+      "name": "Transformación: El Despertar",
+      "description": "Requisitos: Habilidad de Ataque 200+, Habilidad de Defensa 200+, Inhumanidad.\nAl activar este Magnus, el usuario obtiene un bonificador a toda acción equivalente a su bono de Poder, y un +1 a todas sus Acumulaciones de Ki por cada +15 de bono que posea. Adicionalmente, posee la capacidad de realizar acciones de dificultad Zen. Un personaje puede mantener este Magnus activo durante un número de asaltos equivalente a la suma de sus características de Voluntad y Poder; los asaltos adicionales que superen este límite le obligan a gastar un punto de Cansancio por cada uno. Por cada asalto que se mantenga en uso este Magnus, el usuario debe gastar tres puntos de Ki. Después de ser desactivado, no se puede volver a utilizar hasta que hayan transcurrido varias horas. Este Magnus puede combinarse con otras habilidades y Técnicas de Ki, pero no con ningún Magnus que implique una transformación física."
+    },
+    "ZhurwhWRkKh2mYi3": {
+      "name": "Umbra: Ataque de Sombras",
+      "description": "Requisitos: Habilidad de Ataque 150+, Uso de la Energía Necesaria, Inhumanidad.\nEste Magnus concede al usuario la capacidad de atacar con su propia sombra, obteniéndola como un arma única que puede materializar a voluntad. Esta arma cuesta 1 punto de Ki cada 5 asaltos, pero no tiene ninguna otra limitación. Esta habilidad se puede usar con Técnicas y se beneficia de cualquier habilidad de Ki que posea el usuario.\nEl arma tiene las siguientes propiedades:\nDaño: Presencia + bono de Poder\nVelocidad: equivalente al turno Desarmado\nRotura: 8\nEntereza: Indestructible\nTipo: FIL/CON/PEN\nCombinación con otras armas: Esta arma se puede usar en combinación con otras de forma similar al uso de un arma de mano adicional, aplicando un penalizador de -25 a la Habilidad de Ataque del usuario; equivalente a la ejecución de un ataque adicional.\nAcción de Sorpresa: Si un adversario no espera que la sombra ataque, debe superar un control de Advertir contra 140 o sufrirá los penalizadores de Sorpresa.\nPantalla Protectora: La sombra se considera como un escudo a la hora de determinar los penalizadores sufridos defendiéndose de proyectiles.\nAtaque de Área: La sombra es valorada como un arma grande a la hora de determinar a cuántos adversarios puede atacar. Alternativamente, el usuario puede afectar a un radio de 10 metros a su alrededor, pero al hacerlo disminuye a la mitad el Daño Base del Magnus.\nPresa: La sombra permite realizar maniobras de presa utilizando la Destreza para los controles enfrentados.\nUso indirecto: El personaje sufre la mitad de los penalizadores por parálisis al usar esta arma.\nOfuscación: Fuera del combate, se considera que el personaje se encuentra en un área de Zona Parcialmente Iluminada para sus controles de Ocultarse y Sigilo (lo que suele otorgar un bono de +30).\nModificadores ambientales: Las zonas extremadamente luminosas, como un desierto al mediodía, aplican un penalizador de -10 al Ataque y a la Parada del usuario cuando utiliza esta arma, así como un -20 a su Daño Base. En lugares oscuros y llenos de sombras, estos se convierten en bonificadores equivalentes."
     },
     "xYBbdDmyZq9zdR5F": {
       "name": "Tabla de Ataque Inusual",
-      "description": "El personaje es un verdadero experto en usar sus armas de formas inusuales. Puede blandir cualquier arma de manera poco convencional sin sufrir penalizaciones en su habilidad por hacerlo.<p>\nEfecto: permite al personaje usar el Daño Secundario de las armas que sabe manejar, sin ningún tipo de penalización a su habilidad. Por ejemplo, podría usar el asta de una alabarda para realizar ataques de Impacto (en lugar de Cortantes) manteniendo su habilidad total."
+      "description": "El personaje es un verdadero experto en usar sus armas de formas inusuales. Puede blandir cualquier arma de manera poco convencional sin sufrir penalizaciones en su habilidad por hacerlo.<p>\nEfecto: permite al personaje usar el Daño Secundario de las armas que sabe manejar, sin ningún tipo de penalización a su habilidad. Por ejemplo, podría usar el asta de una alabarda para realizar ataques de Impacto (en lugar de Cortantes) manteniendo su habilidad total.",
+      "cost": 20
     },
     "6Iztojs531GlDSMB": {
       "name": "Tabla de Presa Inusual",
-      "description": "El entrenamiento exhaustivo del personaje le permite intentar inmovilizar a sus adversarios usando las armas más improbables, incluso aquellas que no han sido diseñadas para tal fin.<p>\nEfecto: permite al personaje realizar una maniobra de Presa con armas que no tienen esta regla especial, aplicando una penalización de -60 en lugar de la habitual de -40. Si la maniobra tiene éxito, el personaje utiliza su Destreza en el control enfrentado de Características, pero con una penalización de -3 a su valor."
+      "description": "El entrenamiento exhaustivo del personaje le permite intentar inmovilizar a sus adversarios usando las armas más improbables, incluso aquellas que no han sido diseñadas para tal fin.<p>\nEfecto: permite al personaje realizar una maniobra de Presa con armas que no tienen esta regla especial, aplicando una penalización de -60 en lugar de la habitual de -40. Si la maniobra tiene éxito, el personaje utiliza su Destreza en el control enfrentado de Características, pero con una penalización de -3 a su valor.",
+      "cost": 40
+    },
+    "dctWEXvtYIZ7sE1f": {
+      "name": "Yuuse Batojutsu",
+      "description": "Requisitos: Batojutsu.\nEl Yuuse Batojutsu es una técnica de desenfundado que no solo permite a un luchador sacar su arma sin ningún tipo de penalizador, sino que cuando lo hace, incrementa enormemente la velocidad y efectividad de su ataque. Para hacer uso de esta habilidad, el personaje debe tener envainada el arma al menos durante un asalto entero, que emplea para concentrarse y urdir apropiadamente el ataque. Dependiendo del tiempo que pase preparándose, en el momento de desencadenar el golpe su ataque será mucho más poderoso. Si ocupa un asalto entero concentrándose, el personaje obtiene un bono de +10 a su Turno y Habilidad de Ataque. Cada asalto adicional que utilice incrementa en +10 el bono, hasta un máximo de +30 (es decir, tres asaltos). Durante el tiempo que pase preparándose, el personaje no podrá ejecutar otros ataques ni desenfundar el arma, pero sí Acumular Ki o defenderse sin penalizador alguno. Naturalmente, es necesario usar armas susceptibles de desenfundar."
     }
   }
 }

@@ -1,62 +1,57 @@
 {
   "label": "macros",
   "mapping": [],
+   "folders": {
+    "Combat Helpers": "Ayudas de combate"
+  },
   "entries": {
     "1RVDjwrl13GdPPqr": {
-      "name": "Activate Energy Shield",
-      "description": null
+      "name": "Activate Energy Shield"
     },
     "HmIpGUF5h2Fj3pgs": {
-      "name": "Ayudas al Combate",
-      "description": ""
+      "name": "Ayudas al Combate"
     },
     "FlBBTFBwEysBLJRG": {
-      "name": "Calculadora de Costes de DP",
-      "description": null
+      "name": "Calculadora de Costes de DP"
     },
     "nejYU8jwr3BfIViQ": {
-      "name": "Damage Calculator",
-      "description": null
+      "name": "Damage Calculator"
     },
     "D8LaaJxQyPaXEorG": {
-      "name": "Elemental Damage Resolution",
-      "description": null
+      "name": "Elemental Damage Resolution"
     },
     "bW0WZQWT1bjpWkWa": {
-      "name": "End Turn Macro",
-      "description": null
+      "name": "End Turn Macro"
     },
     "grnTNY3Bu9aAQimg": {
-      "name": "Full Restore",
-      "description": null
+      "name": "Full Restore"
     },
     "rQAxUDf4h6l47rnY": {
-      "name": "Impact Resolution",
-      "description": null
+      "name": "Impact Resolution"
+    },
+    "MigwEyKGg8JUXm6x": {
+      "name": "Acumulación de Ki"
     },
     "QFGxIuU3A24tEgB1": {
-      "name": "LP Damage and Crit Macro",
-      "description": null
+      "name": "LP Damage and Crit Macro"
     },
     "JYgVGAUjX790LX0M": {
-      "name": "Programatic Psychics",
-      "description": null
+      "name": "Programatic Psychics"
     },
     "LfSwfDaISas0XR8k": {
-      "name": "Programatic Spells",
-      "description": null
+      "name": "Programatic Spells"
     },
     "AmzAx1iNjFa9jpPu": {
-      "name": "Programatic Weapons",
-      "description": null
+      "name": "Programatic Weapons"
     },
     "kduh6JFaychYYyng": {
-      "name": "Psychic Potential",
-      "description": null
+      "name": "Psychic Potential"
     },
     "lK4ktO2i6afMDtlz": {
-      "name": "Restore Ki /w 1 Hour",
-      "description": null
+      "name": "Restore Ki /w 1 Hour"
+    },
+    "leqQFdhtHaezBbgy": {
+      "name": "Acumulaciñon de Zeon"
     }
   }
 }

@@ -1,187 +1,321 @@
 {
   "label": "Categorías",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "archetype": "system.main.archeType"
   },
   "folders": {
     "Artorian Rebalance 2024": "Artorian Rebalance 2024",
     "Artorian Rebalance 2025": "Artorian Rebalance 2025",
+    "Homebrew": "Fan",
     "Official": "Oficial"
   },
   "entries": {
+    "S9ymkzFPKxzNnajY": {
+      "name": "Guerrero Acróbata",
+      "description": "<p>Elige entre +10 a Montar o Truco de Manos por nivel.</p><p>Una tabla de armas a elegir entre Arma Arquetípica o de Estilo.</p><p>Obtiene Eliminación de peso si desarrolla 'Uso de Ki'.</p><p>Campo Atléticas y Habilidad Estilo con coste 1.</p><p>+10 Resistencia Física.</p>",
+      "archetype": "Luchador"
+    },
     "yPNz5AI1bFklLU7K": {
       "name": "Guerrero Acróbata",
-      "description":"Puede elegir entre +10 Montar o +10 Trco de Manos por nivel.\n+10 Resistencia Física RF\n\nHabilidad Secundaria con coste 1: Acrobacias."
+      "description": "Puede elegir entre +10 Montar o +10 Trco de Manos por nivel.\n+10 Resistencia Física RF\n\nHabilidad Secundaria con coste 1: Acrobacias.",
+      "archetype": "Luchador"
     },
     "z72NnwcIbN69F6kD": {
       "name": "Guerrero Acróbata",
-      "description": "Ningún campo o Habilidad con coste reducido."
+      "description": "Costes reducidos 1: habilidad Acrobacias ",
+      "archetype": "Luchador"
     },
-    
+    "tO3UM6dkAttUciUK": {
+      "name": "Artorian Rebalance 2024"
+    },
+    "KFC9CcM0Zl9oV1Ed": {
+      "name": "Artorian Rebalance 2025"
+    },
     "ClqDP36911HYAfop": {
       "name": "Asesino",
-      "description":"+10 a Resistencia a Venenos RV\n\nCampo con coste 1: Perceptivas.\nHabilidad Secundaria con coste 1: Trepar, Frialdad, Memorizar, Sigilo, Ocultarse y Venenos."
+      "description": "+10 a Resistencia a Venenos RV\n\nCampo con coste 1: Perceptivas.\nHabilidad Secundaria con coste 1: Trepar, Frialdad, Memorizar, Sigilo, Ocultarse y Venenos.",
+      "archetype": "Merodeador"
+    },
+    "fQunKHv8j0DLcsiO": {
+      "name": "Asesino",
+      "description": "<p>Adquiere Detección de Ki si desarrolla 'Control de KI'.</p><p>Adquiere Ocultación de Ki  si desarrolla 'Uso de la Energía Necesaria'.</p><p>Costes reducidos a 1: campo perceptivas y las habilidades Trepar, Frialdad, Disfraz, Ocultarse, Memorizar y Venenos.</p><p>+10 a Resistencia a Venenos.</p>",
+      "archetype": "Merodeador"
     },
     "hSA4B1vPtCdhxwf5": {
       "name": "Asesino",
-      "description":"Campo con coste 1: Perceptivas.\nHabilidades Secundarias con coste 1: Sigilo.\nHabilidades Secundarias con Coste 2: Frialdad y Memorizar."
+      "description": "<p>Campo perceptivas y Habilidad Sigilo a coste 1. </p><p>Costes reducidos a 2:: habilidades Frialdad y Memoriza.</p>",
+      "archetype": "Merodeador"
     },
     "tvAxKWBE7XMxGaxs": {
       "name": "Paladin Oscuro",
-      "description":"Especial. Puede cambiar su +10 a Control y +20 a Zeon por +10 a Resistir el Dolor.\nCampo Sociales con coste 1.\nHabilidad Frialdad con coste 1 "
+      "description": "<p>Puede cambiar el +10 a controlar y +20 de zeon por nivel por un +10 a Resistir el Dolor.</p><p>Costes reducidos a 1: campo Social y habilidad Frialdad.</p>",
+      "archetype": "Luchador"
+    },
+    "CHzhtH09EIBjMxo5": {
+      "name": "Novel",
+      "description": "<p>Adoptar o abandonar la categoría de Novel cuesta solo 20 PD, y no requiere declarar el cambio con un nivel de antelación.</p><p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">La ventaja Don reduce su coste a 1, mientras que la ventaja Don Incompleto es gratuita.<br>'</span>La ventaja Acceso a todas las Disciplinas Psíquicas reduce su coste a 1, mientras que Acceso a una Sola Disciplina Psíquica es gratuita.</p><p>Se pueden adquirir las ventajas Recuperación de Mágica Superior y Naturaleza Mágica sin el requisito de poseer el Don..</p><p>Reduce el coste de un campo de secundarias a 1 a elección del jugador.</p><p>Especial: +10 a 10 habilidades secundarias diferentes. cada nivel<p>Habilidades con coste 1 a 1: variables.",
+      "archetype": "Novicio"
     },
     "F46nCw9P5CCgdJT3": {
       "name": "Novel",
-      "description":"Sole le cuesta 20 PD cambiar a cualquier otra Categoría.\nEspecial: +10 a 5 Habilidades diferentes cada nivel."
+      "description": "<p>Adoptar o abandonar la categoría de Novel cuesta solo 20 PD, </p><p>Especial: +10 a 5 habilidades diferentes</p><p>Costes reducidos a 1: Ninguno.</p>",
+      "archetype": "Novicio"
     },
     "QawMbrS9yyOqmqjc": {
       "name": "Novel",
-      "description":"Cambiar de Categoría Hacia o desde Novel sólo cuesta 20 PD independientemente de su Arquetipo y puede realizarlo tras subir de nivel sin necesidad de haberlo declarado previamente.\n+10 a cinco Habilidades Secundarias por nivel.\n+5 a cinco Habilidades Secundarias por nivel.\n+10 a una Resistencia o bien +5 a dos Resistencias diferentes."
+      "description": "Cambiar de Categoría Hacia o desde Novel sólo cuesta 20 PD independientemente de su Arquetipo y puede realizarlo tras subir de nivel sin necesidad de haberlo declarado previamente.\n+10 a cinco Habilidades Secundarias por nivel.\n+5 a cinco Habilidades Secundarias por nivel.\n+10 a una Resistencia o bien +5 a dos Resistencias diferentes.",
+      "archetype": "Novicio"
+    },
+    "OPhey8ROPEEmQ5sf": {
+      "name": "No Oficial"
     },
     "rrLrRVeOJh4dveHc": {
       "name": "Ilusionista",
-      "description":"Habilidades Secundarias con coste 1: Truco de Manos y Persuasión."
+      "description": "Habilidades Secundarias con coste 1: Truco de Manos y Persuasión.",
+      "archetype": "Místico, Merodeador"
     },
     "v5hOtq4q3Y4QWPZ8": {
       "name": "Ilusionista",
-      "description":"La ventaja Don le cuesta 1 punto, El Don incompleto es gratis.\n+10 a Resistencia Mágica.\nCampo con coste 1: Sociales.\nHabilidad Secundaria con coste 1: Truco de Manos."
+      "description": "La ventaja Don le cuesta 1 punto, El Don incompleto es gratis.\n+10 a Resistencia Mágica.\nCampo con coste 1: Sociales.\nHabilidad Secundaria con coste 1: Truco de Manos.",
+      "archetype": "Místico, Merodeador"
+    },
+    "XjtEKIKxRFQJJq9h": {
+      "name": "Ilusionista",
+      "description": "<p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">La ventaja Don reduce su coste a 1, mientras que la ventaja Don Incompleto es gratuita.</span></p><p>Costes reducidos a 1: campo Sociales y las habilidades Valoración mágica, Disfraz, Ocultarse y Truco de Manos.</p><p>+10 a Resistencia Mägica.</p>",
+      "archetype": "Místico, Merodeador"
+    },
+    "3sG0jb6kcQU7a80Y": {
+      "name": "Mentalista",
+      "description": "<p>+10 por nivel a una habilidad del campo Creativas.</p><p>+5 por nivel a una habilidad del campo Creativas.</p><ul><li><p>El bonificador por nivel para cualquier habilidad del campo Creativas no puede superar el +10 por nivel.</p></li></ul><p><span style=\"box-sizing: border-box; scrollbar-width: thin; scrollbar-color: var(--scrollbarColor) transparent; color: rgb(187, 187, 187); font-size: 14px; align-items: center; height: inherit; display: inline !important; font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(21, 32, 43); float: none\">'</span><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">La ventaja Acceso a todas las Disciplinas Psíquicas reduce su coste a 1, mientras que Acceso a una Sola Disciplina Psíquica es gratuita.</span></p><p>Costes reducidos a 1: campo Creativas y las habilidades Ciencia, Frialdad y Resistir el Dolor..</p><p>+10 a  Resistencia Psíquica.",
+      "archetype": "Psíquico"
     },
     "7rt4yoEtg3wiXJJ0": {
       "name": "Mentalista",
-      "description":"La ventaja Acceso Libre a Cualquier Disciplina Psíquica reduce su coste a 1, la ventaja Acceso a una Disciplina Psíquica es gratis.\n+5 a dos Habilidades Secundarias del Campo Creativas por nivel.\n+10 a Resistencia Psíquica\nCampo con coste 1: Creaticas.\nHabilidades Secundarias con coste 1: Frialdad y Ciencia"
+      "description": "La ventaja Acceso Libre a Cualquier Disciplina Psíquica reduce su coste a 1, la ventaja Acceso a una Disciplina Psíquica es gratis.\n+5 a dos Habilidades Secundarias del Campo Creativas por nivel.\n+10 a Resistencia Psíquica\nCampo con coste 1: Creaticas.\nHabilidades Secundarias con coste 1: Frialdad y Ciencia",
+      "archetype": "Psíquico"
     },
     "LJY3JA7grszyGcuS": {
       "name": "Mentalista",
-      "description":"Ningún campo o Habilidad con coste reducido."
+      "description": "Ningún campo o Habilidad con coste reducido.",
+      "archetype": "Psíquico"
     },
-    
+    "VYwuuJzmM3IWC4Rc": {
+      "name": "Oficial"
+    },
     "AnTzrHNhlVa88vzr": {
       "name": "Paladín",
-      "description":"Fusión de Paladines.\n+10 a Resistencia Mágica RM\nConvocatoria a coste 1: Controlar y Desconvocar.\nCampo con coste 1: Sociales.\nHabilidades Secundarias con coste 1: Resistir el Dolor y Frialdad."
+      "description": "Fusión de Paladines.\n+10 a Resistencia Mágica RM\nConvocatoria a coste 1: Controlar y Desconvocar.\nCampo con coste 1: Sociales.\nHabilidades Secundarias con coste 1: Resistir el Dolor y Frialdad.",
+      "archetype": "Luchador"
+    },
+    "DtXjoho5MLk0nGb6": {
+      "name": "Paladín",
+      "description": "<p>El Rebalanceo de Artorian combina Paladín y Paladín Oscuro.\nEspecial: Puede cambiar el +5 a Controlar, +5 a Desconvocar y el +50 a Zeon por nivel, junto con sus costes 1 a 1, para obtener en su lugar Táctica a coste 1, +5 por nivel a Táctica y un +5 adicional a Frialdad y Resistir el Dolor.</p><p>Costes reducidos a 1: campo Sociales, Vigor junto con Controlar y Desconvocar.</p><p>+10 a  Resistencia Mágica.",
+      "archetype": "Luchador"
     },
     "gi8tw7qMlbiU428i": {
       "name": "Paladín",
-      "description":"Especial. Puede cambiar su +10 a Desconvocar y +20 a Zeon por +10 a Frialdad.\nCampo con coste 1: Sociales..\nHabilidad Secundaria con coste 1: Resistir el Dolor."
+      "description": "<p>Especial: Puede cambiar el +10 a Desconvocar y +20 de Zeon por nivel a cambio de un +10 a Frialdad.</p><p>Costes reducidos a 1: campo Sociales y habilidad Resistir el Dolor..</p>",
+      "archetype": "Luchador"
+    },
+    "aJjMxJ5gvHHm4GzP": {
+      "name": "Prodigio",
+      "archetype": "Señor, Psíquico"
     },
     "9NeicrRN8IPl2ZXK": {
       "name": "Explorador",
-      "description":"Campo con coste 1: Perceptivas.\nHabilidad Secundaria con coste 2: Herbolaria y Medicina.\nHabilidad Secundaria con coste 1: Trampería y Animales."
+      "description": "<p>Costes reducidos a 1: campo Perceptivas y las habilidades Trampería y Animales. </p><p>Costes reducidos a 2: habilidades Medicina y Herbolaria.</p>",
+      "archetype": "Luchador, Merodeador"
     },
     "9tAB8nfYYCNdFP5f": {
       "name": "Explorador",
-      "description":"+10 a Resistencia a Enfermedades RE\nCampos con coste 1: Atléticas y Perceptivas.\nHabilidades Secundarias con coste 1: Trampería, Animales y Herbolaria."
+      "description": "+10 a Resistencia a Enfermedades RE\nCampos con coste 1: Atléticas y Perceptivas.\nHabilidades Secundarias con coste 1: Trampería, Animales y Herbolaria.",
+      "archetype": "Merodeador"
+    },
+    "9uAxRT211aGAdFXR": {
+      "name": "Explorador",
+      "description": "<p>Obtiene 'Detección del Ki' si desarrolla 'Control del Ki'.</p><p>Costes reducidos a 1: campo Atlëticas, Perceptivas y las habilidades Animales, Herbolaria y Tramperïa.</p><p>+10 a Resistir Enfermedades.</p>",
+      "archetype": "Luchador, Merodeador"
     },
     "InIImN8U4ldaZrKU": {
       "name": "Sombra",
-      "description":"Puede elegir entre +10 a Truco de Manos o +10 a Robo por nivel.\n+10 a Resistencia Física RF.\nHabilidad Secundaria con coste 1: Sigilo"
+      "description": "Puede elegir entre +10 a Truco de Manos o +10 a Robo por nivel.\n+10 a Resistencia Física RF.\nHabilidad Secundaria con coste 1: Sigilo",
+      "archetype": "Luchador, Merodeador"
+    },
+    "jOoXFINb48KHZPJS": {
+      "name": "Sombra",
+      "description": "<p>Puede elegir entre +10 a Venenos o +10 a Tramperïa por nivel.</p><p>Obtiene una tabla marcial Arquetípica o de Estilo.</p><p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">Obtiene 'Ocultación del Ki' si desarrolla 'Uso de la Energïa Necesaria'.</span></p><p>Costes reducidos a 1: campo Perceptivas y las habilidades Frialdad, Ocultarse y Sigilo.</p><p>+10 a Resistencia Fïsica.</p>",
+      "archetype": "Luchador, Merodeador"
     },
     "X759QzXOOf6WpP43": {
       "name": "Sombra",
-      "description":"Ningún campo o Habilidad con coste reducido."
+      "description": "Ningún campo o Habilidad con coste reducido.",
+      "archetype": "Luchador, Merodeador"
+    },
+    "aRVqfSJ8z4D0P1Pv": {
+      "name": "Conjurador",
+      "description": "<p>+10 por nivel a una habilidad del campo Intelectual.</p><p>+5 por nivel a una habilidad del campo Intelectual.</p><ul><li><p>El bonificador por nivel para cualquier habilidad del campo Intelectual no puede superar el +10 por nivel.</p></li></ul><p>A elegir: +10 por nivel a Intimidar o a Persuasión (el coste de la habilidad elegida pasa a ser de coste 1).</p><p>+5 por nivel a una habilidad del campo Creativas (el coste de la habilidad elegida pasa a ser de coste 1)..</p><p>Se pueden adquirir las ventajas Recuperación de Mágia Superior y Naturaleza Mágica sin el requisito de poseer el Don.</p><p>Costes reducidos a 1: campo Intelectuales y habilidad Frialdad.</p><p>+10 a Resistencia Mágica</p>",
+      "archetype": "Místico"
     },
     "BVnOw8LLLp2HJRfi": {
       "name": "Conjurador",
-      "description":"Habilidad Secundaria con coste 1: Ocultismo"
+      "description": "Habilidad Secundaria con coste 1: Ocultismo",
+      "archetype": "Místico"
     },
     "e2CiAyGdVncIsYNG": {
       "name": "Conjurador",
-      "description":"Puede comprar la ventaja Recuperación Superior de Magia sin el requisito de Don.\n+5 a dos Habilidades del Campo Intelectuales que no sean Valoración Mágica ni Ocultismo.\nElegir entre +10 a Intimidar o +10 Persuasión por nivel.\n+10 a Resistencia Mágica RM\nCampo con coste 1: Intelectuales.\nHabilidades Secundarias con coste 1: Alquimia y la que se haya elegido entre Intimidar y Persuasión."
+      "description": "Puede comprar la ventaja Recuperación Superior de Magia sin el requisito de Don.\n+5 a dos Habilidades del Campo Intelectuales que no sean Valoración Mágica ni Ocultismo.\nElegir entre +10 a Intimidar o +10 Persuasión por nivel.\n+10 a Resistencia Mágica RM\nCampo con coste 1: Intelectuales.\nHabilidades Secundarias con coste 1: Alquimia y la que se haya elegido entre Intimidar y Persuasión.",
+      "archetype": "Místico"
+    },
+    "HevBHAkLmykDhD2D": {
+      "name": "Tao",
+      "description": "<p>Nota de Luminita: El original otorga +5 a Ataque, Parada y Esquiva a partir del nivel 2. No hay una forma fácil de implementar esto, por lo que los bonificadores comienzan a nivel 1.</p><p>.Especial: Las Artes Marciales tienen un coste reducido.<p> costes reducidos a 1: campo de Vigor y las habilidades Acrobacias, Baile, Trucos de Manos y Estilo.</p><p>+10 a Resistencia Física</p>",
+      "archetype": "Luchador, Señor"
     },
     "HXgn2QfRBYLZUhBi": {
       "name": "Tao",
-      "description":"Especial: las artes marciales reducen su coste.\n\nNingún campo o Habilidad con coste reducido."
+      "description": "<p>Especial: Las Artes Marciales tienen un coste reducido.</p><p>Costes reducidos a 1: Ninguno.</p>",
+      "archetype": "Luchador, Señor"
     },
     "OtS33O9HVkxBMh9d": {
       "name": "Tao",
-      "description":"Las artes marciales reducen su coste.\n+10 a Resistencia Física RF.\nReserva de Ki a coste 1.\nHabilidades Secundarias con coste 1: Proezas de Fuerza, Estilo, Baile y Truco de Manos."
+      "description": "Las artes marciales reducen su coste.\n+10 a Resistencia Física RF.\nReserva de Ki a coste 1.\nHabilidades Secundarias con coste 1: Proezas de Fuerza, Estilo, Baile y Truco de Manos.",
+      "archetype": "Luchador, Señor"
+    },
+    "6gHmUFxBel4Ht9Ls": {
+      "name": "Tecnicista",
+      "description": "<p>Obtiene 'Uso del Ki' sin costes.</p><p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">Si desarrolla 'Uso del Némesis', obtiene 'Armadura de Vacío'.</span></p><p>Se elimina el +5 a Ataque por nivel; en su lugar, permite elegir entre +5 a Ataque, Parada o Esquiva.</p><p>Costes reducidos a 1: campo  Vigo y las habilidades Atletismo, Memorizar, Ocultismo y Estilo</p><p>+10 a Resistencia Física</p>",
+      "archetype": "Señor"
     },
     "Gnvb6MPCp2YNP20V": {
       "name": "Tecnicista",
-      "description":"Ningún campo o Habilidad con coste reducido."
+      "description": "Ningún campo o Habilidad con coste reducido.",
+      "archetype": "Señor"
     },
     "VRx3kVPzPf9X6aRZ": {
       "name": "Tecnicista",
-      "description":"+10 a Resistecia Física RF.\nReserva de Ki a coste 1.\nHabilidades Secundarias con coste 1: Atletismo y Estilo."
+      "description": "+10 a Resistecia Física RF.\nReserva de Ki a coste 1.\nHabilidades Secundarias con coste 1: Atletismo y Estilo.",
+      "archetype": "Señor"
+    },
+    "QcH2YbpoxgODgGrf": {
+      "name": "Ladrón",
+      "description": "<p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">Si desarrolla 'Uso de la Energía Necesaria', obtiene 'Ocultación del Ki'</span></p><p>Costes reducidos a 1: campo Vigor,  Subterfugio y la habilidad Tasación.</p><p>++10 a Resistencia a Enfermedades</p>",
+      "archetype": "Merodeador"
     },
     "qiFOsZMRkpZBOZ6u": {
       "name": "Ladrón",
-      "description": "+10 a Resistir Enfermedades RE.\nCampos con coste 1: Atléticas y Subterfugio.\nHabilidades Secundarias con coste 1: Tasación y Callejeo."
+      "description": "+10 a Resistir Enfermedades RE.\nCampos con coste 1: Atléticas y Subterfugio.\nHabilidades Secundarias con coste 1: Tasación y Callejeo.",
+      "archetype": "Merodeador"
     },
-    "zpC4JEUMJlilE7XX": {
+    "w1ZXR4bhzXxCdgTn": {
       "name": "Ladrón",
-      "description": "Campos con coste 1: Atléticas y Subterfugio.\nHabilidad Secundaria con coste 1: Tasación."
+      "description": "ostes reducidos a 1: campos Atleticas y Subterfugio y la habilidad Tasación",
+      "archetype": "Merodeador"
     },
     "6clZ2GC6XEdwSHme": {
       "name": "Warlock",
-      "description": "Ningún campo o Habilidad con coste reducido."
-    },
-    "bEoCcK960qNcr92V": {
-      "name": "Warlock",
-      "description": "La ventaja Don reduce su coste a 1, el Don Incompleto es gratis.\n+5 por nivel a una Habilidad Secundaria del Campo Intelectuales.\n+5 a Resistencia Física RF y Resistencia Mágica RM\nHabilidades Secundarias con coste 1: Resistir el Dolor, Valoración Mágica, Ocultismo y Caligrafía Ritual"
+      "description": "Ningún campo o Habilidad con coste reducido.",
+      "archetype": "Luchador, Místico"
     },
     "fCJRCOyiCFeAaMAy": {
       "name": "Warlock",
-      "description": "La ventaja Don reduce su coste a 1, el Don Incompleto es gratis.\n+5 por nivel a una Habilidad Secundaria del Campo Intelectuales.\n+5 a Resistencia Física RF y Resistencia Mágica RM\nHabilidades Secundarias con coste 1: Resistir el Dolor, Valoración Mágica, Ocultismo y Caligrafía Ritual"
+      "description": "La ventaja Don reduce su coste a 1, el Don Incompleto es gratis.\n+5 por nivel a una Habilidad Secundaria del Campo Intelectuales.\n+5 a Resistencia Física RF y Resistencia Mágica RM\nHabilidades Secundarias con coste 1: Resistir el Dolor, Valoración Mágica, Ocultismo y Caligrafía Ritual",
+      "archetype": "Luchador, Místico"
+    },
+    "mh7GCXAXdXvDroI9": {
+      "name": "Warlock",
+      "description": "<p>+5 por nivel a dos habilidades del campo Intelectual.</p><p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">La ventaja Don reduce su coste a 1, mientras que la ventaja Don Incompleto no tiene coste</span></p><p>Si desarrolla 'Extrusión de la Presencia', obtiene 'Armadura de Energía'.</p><p>Costes reducidos a 1: campo Vigor, y las habilidades de Valoración Mágica, Ocultismo y Caligrafía Ritual.</p><p>+5 a Resistencia Física, +5 a Resistencia Mágica..</p>",
+      "archetype": "Luchador, Místico"
+    },
+    "8KLqhkXKnHfDWQLr": {
+      "name": "Guerrero",
+      "description": "<p>A elegir: +5 por nivel a Intimidar, Liderazgo o Estilo (el coste de la habilidad elegida pasa a ser de coste 1).</p><p>A elegir: +5 por nivel a Atletismo o Montar (el coste de la habilidad elegida pasa a serde coste 1). </p><p>Obtine una tabla de marcial de Arquetipo o Estilo.</p><p>Si desarrolla 'Extrusión de la Presencia', obtiene 'Extensión del Aura al Arma' </p><p>Costes reducidos a 1: campo  Vigor, y las habilidades de Llevar Armadura y Táctica.</p><p>+10 a Resistencia Física.</p>",
+      "archetype": "Luchador"
     },
     "f14KkkbRxTMfo4hN": {
       "name": "Guerrero",
-      "description": "Habilidad Secundaria con coste 1: Proezas de Fuerza."
+      "description": "Habilidad Secundaria con coste 1: Proezas de Fuerza.",
+      "archetype": "Luchador"
     },
     "fVz5aF95OhD9J38V": {
       "name": "Guerrero",
-      "description": "Puede elegir entre +5 a Intimidar o +5 a Liderazgo por nivel.\n+10 a Resistencia Física RF.\nLlevar armadura reduce coste a 1\nHabilidades Secundarias con coste 1: Proezas de Fuerza, Táctica y la que se haya elegido entre Intimidar y Liderazgo."
+      "description": "Puede elegir entre +5 a Intimidar o +5 a Liderazgo por nivel.\n+10 a Resistencia Física RF.\nLlevar armadura reduce coste a 1\nHabilidades Secundarias con coste 1: Proezas de Fuerza, Táctica y la que se haya elegido entre Intimidar y Liderazgo.",
+      "archetype": "Luchador"
+    },
+    "EzekoeVYe0F8dAqM": {
+      "name": "Guerrero Mentalista",
+      "description": "<p>A elegir: el coste de dos habilidades del campo Creativas pasa a ser de cooste 1.</p><p>+5 por nivel a dos habilidades del campo Creativas.</p><p><span style=\"box-sizing: border-box; scrollbar-width: thin; scrollbar-color: var(--scrollbarColor) transparent; color: rgb(187, 187, 187); font-size: 14px; align-items: center; height: inherit; display: inline !important; font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(21, 32, 43); float: none\">'</span><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">La ventaja Acceso a todas las Disciplinas Psíquicas reduce su coste a 1, mientras que Acceso a una Sola Disciplina Psíquica es gratuita..</span></p><p>Si desarrolla 'Uso de la Energía Necesaria', obtiene 'Eliminación de Penalizadores'.</p><p>Costes reducidos a 1: campo Vigor y la habilidad Ciencia.</p><p>+5 a Resistencia Física, +5 a Resistencia Psíquica. </p>",
+      "archetype": "Luchador, Psíquico"
     },
     "m1ld82Qx1xj9DAcR": {
       "name": "Guerrero Mentalista",
-      "description": "La ventaja Acceso Libre a Cualquier Disciplina Psíquica reduce su coste a 1, la ventaja Acceso a una Disciplina Psíquica es gratis.\n+5 a Resistencia Psíquica RP.\n+5 por nivel a una Habilidad Secundaria del Campo Creativas.\nHabilidades Secundarias con coste 1: Frialdad, Ciencia y las dos elegidas anteriormente de Creativas."
+      "description": "La ventaja Acceso Libre a Cualquier Disciplina Psíquica reduce su coste a 1, la ventaja Acceso a una Disciplina Psíquica es gratis.\n+5 a Resistencia Psíquica RP.\n+5 por nivel a una Habilidad Secundaria del Campo Creativas.\nHabilidades Secundarias con coste 1: Frialdad, Ciencia y las dos elegidas anteriormente de Creativas.",
+      "archetype": "Luchador, Psíquico"
     },
     "vJnpucy52pSubqYH": {
       "name": "Guerrero Mentalista",
-      "description": "Ningún campo o Habilidad con coste reducido."
-    },
-    "pJ4lE4r2fSErLNk1": {
-      "name": "Guerrero",
-      "description": "Puede elegir entre +5 a Intimidar o +5 a Liderazgo.\nPuede elegir entre +5 a Atletismo o +5 a Montar\nCampos con coste 1:  Atléticas, Vigor\nHabilidad Secundaria con coste 1: Táctica\nHabilidad Primaria con coste 1: Llevar Armadura\n+10 RF\nPuede adquirir una tabla de arma arquetípica o de Estilo gratis.\nSi desarrolla Extrusión de presencia obtiene gratis Extensión del Aura al Arma."
+      "description": "Ningún campo o Habilidad con coste reducido.",
+      "archetype": "Luchador, Psíquico"
     },
     "gqS4BheJSIQTkJo2": {
       "name": "Guerrero Conjurador",
-      "description": "Ningún campo o Habilidad con coste reducido."
+      "description": "Ningún campo o Habilidad con coste reducido.",
+      "archetype": "Luchador, Místico"
+    },
+    "H121Be2cedjiwvgB": {
+      "name": "Guerrero Conjurador",
+      "description": "<p><span style=\"box-sizing: border-box; margin: 0.5rem 0px; scrollbar-width: thin; scrollbar-color: var(--scrollbarColor) transparent; color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">+5 por nivel a dos habilidades del campo Intelectual.</span></p><p>A elegir: +5 por nivel a Intimidar o a Persuasión.<span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\"> (el coste de la habilidad elegida pasa a ser 1)</span>.</p><p>+5 por nivel a una habilidad del campo Creativas. <span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">(el coste de la habilidad elegida pasa a ser 1).</span>.</p><p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">Se pueden adquirir las ventajas Recuperación Superior de Mágia y Naturaleza Mágica sin el requisito de poseer el Don.</span></p><p>Costes reducidos a 1: campo Vigor, y las habilidades de Valoración Mágica y Ocultismo.</p><p>+5 a la Resistencia Física, +5 a la Resistencia Mágica.</p>",
+      "archetype": "Luchador, Místico"
     },
     "rXCBuBVK7bbzydOy": {
       "name": "Guerrero Conjurador",
-      "description": "Puede comprar la ventaja Recuperación Superior de Magia sin el requisito de Don.\n+5 a Resistencia Física RF y +5 a Resistencia Mágica RM.\n+5 por nivel a una Habilidad Secundaria del Campo Intelectuales.\n+5 a una Habilidad Secundaria del Campo Vigor.\nHabilidades Secundarias con coste 1: Alquimia y las dos elegidas anteriormente."
+      "description": "Puede comprar la ventaja Recuperación Superior de Magia sin el requisito de Don.\n+5 a Resistencia Física RF y +5 a Resistencia Mágica RM.\n+5 por nivel a una Habilidad Secundaria del Campo Intelectuales.\n+5 a una Habilidad Secundaria del Campo Vigor.\nA elegir: +10 a Intimidar o Persuasión por nival. La habilidad elegida ve reducido su coste a 1\nHabilidades Secundarias con coste 1: Alquimia y las dos elegidas anteriormente.",
+      "archetype": "Luchador, Místico"
     },
     "bnZnzlVhuvkd4D2B": {
       "name": "Maestro en Armas",
-      "description": "Especial: Las tablas de Armas Generales, las Tablas de Arquetipo y las Tablas de Estilo le cuestán la mitad de PD.\nLlevar armadura reduce coste a 1\nCampo con coste 1: Vigor."
+      "description": "<p>Especial: Las tablas marciales de Arquetipo y Estilo cuestan la mitad. </p><p>Costes reducidos a 1: campo Vigor y Llevar Armadura.</p>",
+      "archetype": "Luchador"
     },
     "DEjFXw95TS5MmcBe": {
       "name": "Maestro en Armas",
-      "description": "Comienza el juego con una Tabla de Tipologia y una Tabla de estilo gratuitas.\nLas tablas de Armas Generales, las Tablas de Arquetipo y las Tablas de Estilo le cuestán la mitad de PD.\nIncluye la errata en la que los Maestros en Armas reducen a la mitad el coste en PD de los Tablas de Ars Magnus y Tablas de Combate Sobrenatural.\n+10 a Resistencia Física RF.\nLlevar armadura reduce coste a 1\nCampos con coste 1: Vigor y Atléticas."
+      "description": "Comienza el juego con una Tabla de Tipologia y una Tabla de estilo gratuitas.\nLas tablas de Armas Generales, las Tablas de Arquetipo y las Tablas de Estilo le cuestán la mitad de PD.\nIncluye la errata en la que los Maestros en Armas reducen a la mitad el coste en PD de los Tablas de Ars Magnus y Tablas de Combate Sobrenatural.\n+10 a Resistencia Física RF.\nLlevar armadura reduce coste a 1\nCampos con coste 1: Vigor y Atléticas.",
+      "archetype": "Luchador"
     },
-    "WmGIbZgUSrkvXchR": {
+    "yp3rIBphzKQX9fDm": {
       "name": "Maestro en Armas",
-      "description": "Puede elegir entre +5 a Atletismo o +5 a Montar por nivel.\nPuede elegir entre +5 a Intimidar o +5 a Liderazgo por nivel.\nCampos con coste 1: Vigor\nHabilidad Primaria con coste 1: Llevar armadura.\nHabilidad  Secundaria con coste 1: Táctica y las dos elegidas anteriormente.\nPuede elegir gratis entre una tabla de arma arquetípica o de Tipología.\nObtiene una tabla de estilo gratis.\nReduce a la mitad el coste en PD de las tablas de Armas, Ars Magni y Tablas de Combate Sobrenatural.\nObtiene una Tabla de Arma gratuita adicional cada 3 niveles.\n+10 a la Resistencia Física."
+      "description": "<p>Nota de Luminita: El original otorga +10 a Ataque y Parada por nivel (se ha fijado en +5).</p><p>Especial: Las tablas marciales de Armas generales, Arquetípicas y de estilo cuestan solo la mitad de los PD</p><ul><li><p>También reduce a la mitad el coste en PD de los Ars Magnus y de las tablas marciales de combate sobrenatural a la mitad.</p></li></ul><p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">A elegir: +5 por nivel a Atletismo o a Montar (el coste de la habilidad elegida pasa a ser de coste 1).</span></p><p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">A elegir: +5 por nivel a Intimidar o a Liderazgo (el coste de la habilidad elegida pasa a ser de coste 1).</span></p><p><span style=\"box-sizing: border-box; margin: 0.5rem 0px; scrollbar-width: thin; scrollbar-color: var(--scrollbarColor) transparent; color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">A elegir entre una tabla de marcial de Armas o de Arquetipo.</span></p><p>Obtiene una tabla marcial de Estilo sin coste.</p><p><span style=\"box-sizing: border-box; margin: 0.5rem 0px; scrollbar-width: thin; scrollbar-color: var(--scrollbarColor) transparent; color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">Obtiene una tabla marcial de armas cada 3 niveles.</span></p><p>Costes reducidos a 1: campo Vigor, Llevar Armadura y la habilidad Táctica.</p><p>+10 a Resistencia Física</p>",
+      "archetype": "Luchador"
     },
-    "g5Jcnmqr3wYA6c3E": {
+    "Didxypu1WMhvm9qE": {
       "name": "Hechicero",
-      "description": "El coste de la Ventaja Don baja a 1, Don Incompleto es gratis.\n+10 a una intelectual por Nivel\n+5 a una intelectual por Nivel\n+10 a RM\nCampos con coste 1: Intelectuales.\nHabilidades con coste 1: Frialdad, Resistir el Dolor, Caligrafia Ritual\nNota: No puedes aumentar habilidades intelectuales más de +10 por Nivel"
+      "description": "<p>+10 por nivel a una habilidad del campo Intelectuales.</p><p>+5 por nivel a tres habilidades del campo Intelectuales.</p><ul><li><p>El bonificador por nivel para cualquier habilidad del campo Creativas no puede superar el +10 por nivel.</p></li></ul><p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">La ventaja Don reduce su coste a 1, mientras que la ventaja Don Incompleto es gratuita.</span></p><p>Costes reducidos a 1: campo Intelectual, y las habilidades de Frialdad, Resistir el Dolor y Caligrafía Ritual.</p><p>+10 a Resistencia Mágica.</p>\n ",
+      "archetype": "Místico"
+    },
+    "3F9l7ubOKq2eQ3yD": {
+      "name": "Hechicero Mentalista",
+      "description": "<p>+5 por nivel a una habilidad del campo Creativas.</p><p>+5 por nivel a una habilidad del campo Intelectuales.</p><ul><li><p>El bonificador por nivel para cualquier habilidad del campo Intelectuales no puede superar el +10 por nivel.</p></li></ul><p><span style=\"color: rgb(187, 187, 187); font-family: Signika, &#x27;Palatino Linotype&#x27;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(21, 32, 43); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">La ventaja Don reduce su coste a 1, mientras que la ventaja Don Incompleto es gratuita.<br>'</span>La ventaja Acceso a todas las Disciplinas Psíquicas reduce su coste a 1, mientras que Acceso a una Sola Disciplina Psíquica es gratuita.</p><p>Costes reducidos a 1: habilidades de Ciencia, Frialdad, Resistir el Dolor y Caligrafía Ritual.</p><p>+5 a Resistencia Mágica, +5 a Resistencia Psíquica.</p>",
+      "archetype": "Místico, Psíquico"
     },
     "6hWA5zIWGseLj8aT": {
       "name": "Hechicero Mentalista",
-      "description": "Ningún campo o Habilidad con coste reducido."
+      "description": "Ningún campo o Habilidad con coste reducido.",
+      "archetype": "Místico, Psíquico"
     },
     "KJ8tBs6qDXcTe3pW": {
       "name": "Hechicero Mentalista",
-      "description": "La ventaja Acceso Libre a Cualquier Disciplina Psíquica y el Don reducen su coste a 1, la ventaja Acceso a una Disciplina Psíquica es gratis y el Don Incompleto son gratis..\n+5 por nivel a Resistencia Física RF y +5 a Resistencia Mágica RM.\n+5 por nivel a una Habilidad Secundaria del Campo Intelectuales que no sean Valoración Mágica ni Ocultismo.\n+5 por nivel a una Habilidad Secundaria del Campo Creativas.\nHabilidades Secundarias con coste 1: Frialdad, Resistir el Dolor, Ciencia y Caligrafía Ritual."
+      "description": "La ventaja Acceso Libre a Cualquier Disciplina Psíquica y el Don reducen su coste a 1, la ventaja Acceso a una Disciplina Psíquica es gratis y el Don Incompleto son gratis..\n+5 por nivel a Resistencia Física RF y +5 a Resistencia Mágica RM.\n+5 por nivel a una Habilidad Secundaria del Campo Intelectuales que no sean Valoración Mágica ni Ocultismo.\n+5 por nivel a una Habilidad Secundaria del Campo Creativas.\nHabilidades Secundarias con coste 1: Frialdad, Resistir el Dolor, Ciencia y Caligrafía Ritual.",
+      "archetype": "Místico, Psíquico"
     },
     "vrUW4rIMPwYmle3I": {
       "name": "Hechicero",
-      "description": "La ventaja Don reduce su coste a 1, la ventaja Don Incompleto es gratis..\n+10 a Resistencia Mágica RM.\n+5 por nivel a dos Habilidades Secundarias del Campo Intelectuales que no sean Valoración Mágica ni Ocultismo.\nCampo con coste 1: Intelectuales\nHabilidades Secundarias con coste 1: Resistir el Dolor y Caligrafía Ritual."
+      "description": "La ventaja Don reduce su coste a 1, la ventaja Don Incompleto es gratis..\n+10 a Resistencia Mágica RM.\n+5 por nivel a dos Habilidades Secundarias del Campo Intelectuales que no sean Valoración Mágica ni Ocultismo.\nCampo con coste 1: Intelectuales\nHabilidades Secundarias con coste 1: Resistir el Dolor y Caligrafía Ritual.",
+      "archetype": "Místico"
     },
     "XTxrivLlvLDZ3bpj": {
       "name": "Hechicero",
-      "description": "Habilidad Secundaria con coste 1: Valoración Mágica"
+      "description": "Habilidad Secundaria con coste 1: Valoración Mágica",
+      "archetype": "Místico"
     }
   }
 }

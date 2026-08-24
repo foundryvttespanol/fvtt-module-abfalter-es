@@ -1,0 +1,644 @@
+{
+  "label": "Objetos",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Clothing": "Vestimentas",
+    "Food and Beverages": "Comida y brebajes",
+    "Misc. Items": "Miscelánea",
+    "Nobility": "Nobleza",
+    "Poisons": "Venenos",
+    "Drinks": "Bebidas",
+    "Food": "Comida",
+    "Rations": "Raciones",
+    "Gems": "Gemas",
+    "Jewelry": "Joyas"
+  },
+  "entries": {
+    "lb4rrc0wSwdoCv7x": {
+      "name": "Acqua Toffana",
+      "description": "Sustancia tóxica legendaria por su sutileza y acción lenta. Este veneno de nivel 40 se activa por vía oral (ingerido) y se manifiesta de forma marcadamente retardada, tardando varios días en revelar sus primeros efectos en el organismo. Una vez activo, debilita progresivamente el cuerpo de la víctima, apagando su fuerza de voluntad, anulando toda iniciativa y sumiéndola en un estado de agotamiento profundo y persistente. \n \n• Nivel de veneno: 40 (ingerido)\n• Efecto: Debilidad (RV 80) y Negativa a toda acción (RV 60)\n• Duración: Días "
+    },
+    "jlxojsGPoKeu4gja": {
+      "name": "Al-Baladin",
+      "description": "Compuesto tóxico de acción fulminante diseñado para su uso en combate. Este veneno de nivel 60 se activa por vía sanguínea (lesión o inoculación) y afecta al cuerpo en cuestión de minutos tras entrar en contacto con la sangre. Una vez absorbido, inflige un daño interno severo que sacude violentamente el sistema nervioso y muscular, provocando una negación absoluta a cualquier acción voluntaria y sumiendo al afectado en un estado de pasividad y sufrimiento total. \n \n• Nivel de veneno: 60 (herida)\n• Efecto: Daño severo (RV 100) y Negativa a toda acción (RV 80)\n• Duración: Horas"
+    },
+    "XzpFrv8qqnyUGWBu": {
+      "name": "Atropina",
+      "description": "Compuesto orgánico altamente tóxico extraído de plantas alcaloides. Este veneno de nivel 50 se activa por vía cutánea (contacto), manifestando sus primeros efectos aproximadamente una hora después de impregnar la piel. Una vez absorbido por el organismo, altera drásticamente el sistema nervioso, provocando una severa dilatación de las pupilas, sequedad extrema, aceleración del pulso, confusión mental y distorsiones en la percepción. \n \n• Nivel de veneno: 50 (contacto)\n• Efecto: Alucinaciones y alteración de la percepción (RV 80)\n• Duración: Horas "
+    },
+    "MG4yEwKJsNunHRFR": {
+      "name": "Mochila",
+      "description": "<p>Una mochila mediana, con capacidad para llevar los utensilios de campamento y raciones para varios días.</p>"
+    },
+    "nnX22n5I8W1kA25a": {
+      "name": "Vestido de Gala",
+      "description": "<p>Distinguido vestido de una pieza para ocasiones formales y cortesanas. Elaborado con tejidos finos, adornos metálicos y bordados detallados que varían según la moda regional para exhibir la alta posición social.</p>"
+    },
+    "cVDdDEJl6ucAPuK1": {
+      "name": "Barril",
+      "description": "Sólido recipiente de madera reforzado con aros de hierro, esencial para el transporte y conservación de suministros. Su estructura hermética protege materiales valiosos, herramientas o materias primas contra la humedad y el deterioro durante largos viajes."
+    },
+    "khAM4WVgepOpYER0": {
+      "name": "Cerveza",
+      "description": "Bebida fermentada de elaboración tradicional y bajo contenido alcohólico. Es el sustento básico y asequible de las tabernas, consumido habitualmente por plebeyos, obreros y soldados para reponer fuerzas tras una larga jornada."
+    },
+    "2MXaXOmhysHIa5O2": {
+      "name": "Campana",
+      "description": "Pequeña campana de mano fundida en bronce, ideal para emitir avisos sonoros a corta distancia, convocar al servicio o dar la voz de alarma en un campamento."
+    },
+    "5KkjiSm4xVDE2N1N": {
+      "name": "Belladonna",
+      "description": "Extracto neurotóxico de belladona. Tras ingerirse, induce una inconsciencia profunda que desconecta al objetivo y anula su voluntad durante días.\n\n• Nivel de veneno: 50 (ingerido)\n• Efecto: Inconsciencia (RV 80)\n• Duración: Días"
+    },
+    "obYmYiAgsycwSgfK": {
+      "name": "Cinturón",
+      "description": "<p>Correa de cuero resistente diseñada como pieza fundamental de equipo. Además de ajustar la vestimenta, su función principal es servir de soporte firme para colgar fundas de armas, bolsas de suministros o herramientas de viaje.</p>"
+    },
+    "ys5ISy4k9pkC0N2j": {
+      "name": "Ópalo negro",
+      "description": "Una de las gemas más raras que existen. Es un catalizador excepcional para cualquier arte relacionada con la magia, y se vende por una fortuna en monedas de oro."
+    },
+    "GcK7hMkmQ8hOEtHh": {
+      "name": "Perla Negra",
+      "description": "Una perla negra, tan rara que muchos solo pueden soñar con ver una alguna vez. Su capacidad para albergar encantamientos solo es comparable con su precio de venta."
+    },
+    "2DsmFwz6V8W3KX7V": {
+      "name": "Manta",
+      "description": "Manta gruesa de viaje, compacta y enrollada para facilitar su transporte. Es una pieza de equipo esencial para cualquier viajero, diseñada para aislar del frío nocturno al dormir a la intemperie o servir de abrigo improvisado en climas hostiles."
+    },
+    "eXkfevCNhgjpRZa4": {
+      "name": "Frasco de Sangre",
+      "description": "Frasco de sangre fresca mezclada con un anticoagulante alquímico para prolongar su conservación cerca de una semana. Su contenido proporciona el sustento necesario para alimentar a un Vetala durante todo un día o, si se raciona con cuidado, puede estirarse hasta tres jornadas."
+    },
+    "EBuz4bz1NY4hgvLd": {
+      "name": "Caja",
+      "description": "Caja de madera convencional utilizada para el almacenamiento y transporte de mercancías. Es un contenedor robusto, versátil y el escondite favorito de cualquier gato."
+    },
+    "YPnsfByJVT36ikAv": {
+      "name": "Pulsera",
+      "description": "<p>Aro o banda ornamental para la muñeca o el antebrazo, elaborado con materiales como metal, cuero o tela reforzada. Se utiliza como accesorio de vestuario o equipo, pudiendo incorporar placas, gemas o grabados según el estatus de quien lo porta.\n</p>"
+    },
+    "xHXftCoI9b2oAziH": {
+      "name": "Sombrero apuntado",
+      "description": "<p>Prenda para la cabeza de copa alta y puntiaguda, común entre eruditos, místicos o miembros de órdenes tradicionales.</p>"
+    },
+    "UpkNzgO1RKRjbSrC": {
+      "name": "Broche",
+      "description": "<p>Pieza ornamental dotada de un mecanismo de cierre, utilizada habitualmente para sujetar capas, mantas o ropajes de viaje. Además de su función práctica como equipo, suele estar ornamentado con gemas o grabados que reflejan el gusto de su portador.</p>"
+    },
+    "884lC7qKGFdyx9ff": {
+      "name": "Cubo",
+      "description": "Recipiente cilíndrico forjado en metal y provisto de un asa. Su estructura estanca y resistente está diseñada para el transporte seguro de agua, aceites u otros líquidos."
+    },
+    "T0SKLyAIsZLX6toe": {
+      "name": "Hebilla",
+      "description": "<p>Pieza ornamental de orfebrería diseñada con materiales selectos para rematar cinturones y cinchas de gran valor. Cumple una función de enganche y cierre seguro a la par que sirve como un distintivo de distinción y estatus.</p>"
+    },
+    "WrJfuyohQBCYvZ73": {
+      "name": "Cantaridina",
+      "description": "Sustancia orgánica altamente irritante obtenida a partir de ciertos tipos de escarabajos. Este veneno de nivel 30 se activa por vía sanguínea (lesión o inoculación) y comienza a manifestar sus efectos aproximadamente una hora después de mezclarse con la sangre. Una vez absorbido por el organismo, provoca una severa inflamación visceral que nubla el juicio de la víctima, potenciando sus impulsos agresivos hasta sumergirla en una furia descontrolada. \n\n• Nivel de veneno: 30 (Herida)\n• Efecto: Ira (RV 80)\n• Duración: Horas "
+    },
+    "2O45uH1EbCxmRVLA": {
+      "name": "Lona",
+      "description": "Tejido grueso dispuesto en un rollo de un metro cuadrado. Útil para improvisar un refugio, tapar el carro o remendar prendas de viaje."
+    },
+    "T4kMPY2HHZyCxKqg": {
+      "name": "Gorro",
+      "description": "<p>Prenda ligera de tela o cuero que se ciñe a la cabeza cubriendo las orejas.</p>"
+    },
+    "94iXqpwUdS2rHnOZ": {
+      "name": "Tiza",
+      "description": "Barra compacta de arcilla blanca blanda, ideal para realizar marcas visibles en paredes, madera o suelos de piedra. Deja un trazo efímero y fácil de borrar."
+    },
+    "rnVghdOTWhNeon9P": {
+      "name": "Zuecos",
+      "description": "<p>Calzado rústico tallado en madera, resistente frente a los elementos y muy duradero. Es una opción humilde y tosca, utilizada habitualmente para aislar los pies del barro.</p>"
+    },
+    "voddEHm3R6qVOgex": {
+      "name": "Vestimenta",
+      "description": ""
+    },
+    "1Igur55fG17Hxusp": {
+      "name": "Abrigo",
+      "description": "<p>Prenda exterior larga y pesada, diseñada para proteger el cuerpo en regiones frías o durante largos viajes. Confeccionado con tejidos gruesos como lana o cuero.</p>"
+    },
+    "Q4nbNrWeJDl6tlXq": {
+      "name": "Peineta",
+      "description": "Accesorio ornamental con púas, diseñado más para adornar o sujetar el cabello que para desenredarlo. Suele incorporar relieves o incrustaciones."
+    },
+    "AwYqv1UShh6mV9Rp": {
+      "name": "Cruz",
+      "description": "Emblema tallado que sirve como símbolo sagrado de fe, protección y devoción espiritual. Muchos fieles y viajeros lo emplean como recordatorio ritual o amuleto personal."
+    },
+    "4zifCw9GusGfzeMl": {
+      "name": "Corona",
+      "description": "<p>Aro ornamental de metales nobles diseñado para colocarse sobre la cabeza como símbolo supremo de autoridad y soberanía. Esta pieza de orfebrería puede incluir gemas, relieves o símbolos heráldicos.</p>"
+    },
+    "Z9HgJn6z5XKLTXTv": {
+      "name": "Curare",
+      "description": "Extracto vegetal de acción fulminante al contacto con la sangre. Provoca una parálisis muscular progresiva que dificulta el movimiento y la respiración, incapacitando a la víctima en minutos.\n\n• Nivel de veneno: 60 (contacto/herida)\n• Efecto: Paralización (RV 80) / Muerte (RV 60)\n• Duración: Breve."
+    },
+    "hPB2ysjwyHBtZBzR": {
+      "name": "Cianuro",
+      "description": "Sustancia en polvo de acción instantánea tras ser ingerida, predilecta entre los asesinos. Interrumpe la respiración celular y provoca un colapso sistémico fulminante que causa la muerte en cuestión de minutos.\n\n• Nivel de veneno: 50 (ingerido)\n• Efecto: Muerte (RV 80)\n• Duración: Breve"
+    },
+    "u8AAzLpkK4qIjvQT": {
+      "name": "Raciones de Viaje Normales",
+      "description": "Alimentos conservados que incluyen pan, frutos secos y carne curada, suficientes para mantenerse alimentado durante una semana. Adecuadas para viajes largos."
+    },
+    "hjiOqFLjSncWWCqv": {
+      "name": "Comida",
+      "description": "Plato estándar preparado con ingredientes comunes y elaboración sencilla, superior a una ración mediocre. Suele incluir pan fresco, guiso de verduras, carne cocida o pescado, acompañado de algo de fruta o queso; un menú habitual en posadas y tabernas."
+    },
+    "C3evMRpQnfVTsmNy": {
+      "name": "Cerradura",
+      "description": "Mecanismo básico de cierre dotado de un pasador simple, diseñado para asegurar cofres, baúles o cajas de almacenamiento comunes. Ofrece una protección estándar frente a aperturas forzadas o intentos de sabotaje con ganzúas."
+    },
+    "c0H5ayZ03n9y4m9c": {
+      "name": "Perfume",
+      "description": "Fragancia líquida extraída de flores o especias comunes. Su aroma es tenue y de corta duración, ideal para enmascarar de forma temporal los malos olores del viaje o la falta de higiene."
+    },
+    "Q9A6aS0pLyeuDSQh": {
+      "name": "Cuerda (10 metros)",
+      "description": "Trenza básica de fibras vegetales con una longitud aproximada de diez metros. Ofrece una resistencia estándar, suficiente para soportar el peso de un viajero suspendido o para arrastrar bultos pesados."
+    },
+    "B1leECHHp8OgvgQe": {
+      "name": "Bastón artístico",
+      "description": "<p>Vara labrada con elegantes tallas y elementos escultóricos, diseñada principalmente para la exhibición, el uso ritual o como símbolo de estatus entre eruditos y nobles.</p>"
+    },
+    "o6mx5asw5sr4pPI3": {
+      "name": "Diadema",
+      "description": "<p>Aro frontal de orfebrería y diseño decorativo, concebido como pieza de equipo para adornar la cabeza. Su estructura, que resalta las facciones del portador, puede incorporar gemas incrustadas, filigranas o relieves metálicos.</p>"
+    },
+    "7GCazuCneKoNmbXS": {
+      "name": "Diamante",
+      "description": "Cristal facetado de extrema dureza y reflejos internos precisos. Además de su altísimo valor comercial y de ser el símbolo predilecto para sellar promesas de amor, posee una estructura que la convierte en una gema excepcional para albergar encantamientos mágicos."
+    },
+    "6F4ezvDuqB8Cj8Yq": {
+      "name": "Vestido",
+      "description": "<p>Prenda femenina de una pieza confeccionada en tejidos comunes, habitual entre todas las clases sociales. Su diseño y corte sencillo la convierten en una vestimenta diaria y versáti."
+    },
+    "JpE9gSErcnivNXH1": {
+      "name": "Bebidas",
+      "description": ""
+    },
+    "Y7vheIj5TkpCIhW7": {
+      "name": "Pendientes",
+      "description": "<p>Par de adornos metálicos diseñados para lucirse en las orejas como accesorio de vestuario. Aportan un sutil toque estético al portador y pueden incorporar incrustaciones o pequeños relieves según su manufactura.</p>"
+    },
+    "NwaGevcIt830NA4e": {
+      "name": "Esmeralda",
+      "description": "Gema de un intenso tono verde y corte simétrico, considerada una de las piedras más raras y codiciadas. Posee una afinidad mística excepcional con las artes curativas."
+    },
+    "7JYnEDdJphOALsSf": {
+      "name": "Raciones de Viaje Excelentes",
+      "description": "Suministros de la más alta calidad que incluyen manjares bien conservados, alimentos hidratados y dulces selectos. Su alta calidad deleita el paladar del viajero."
+    },
+    "Ug6NyX8XXlKXRy1y": {
+      "name": "Cerradura Excelente",
+      "description": "Mecanismo de seguridad de alta precisión y blindaje reforzado, extremadamente difícil de forzar con ganzúas."
+    },
+    "r7iP5mEDwyEumaPO": {
+      "name": "Perfume Excelente",
+      "description": "Concentrado de esencias raras estabilizado mediante procesos alquímicos para lograr una fragancia envolvente y muy duradera. Su exquisito aroma deleita los sentidos."
+    },
+    "w8A4Mc6p9InzN2LX": {
+      "name": "Cuerda Excelente",
+      "description": "Trenza de alta precisión tratada para garantizar la máxima fiabilidad bajo un uso intensivo. Su estructura reforzada es ideal para arrastrar, asegurar o conectar casi cualquier estructura pesada."
+    },
+    "iNeHjvUzvKQ5mYYR": {
+      "name": "Vino Excelente",
+      "description": "Caldo de alta calidad obtenido mediante una cuidadosa selección de uvas y un prolongado añejamiento. Posee una graduación alcohólica moderada, un aroma profundo y un precio considerable en el mercado."
+    },
+    "K55TtsE461eD6Evt": {
+      "name": "Bebida Exótica",
+      "description": "Brebaje de origen extranjero o poco común, elaborado con ingredientes regionales inusuales. Su naturaleza exacta varía según su procedencia, pudiendo tratarse de un jugo de frutas tropicales, agua pura de cumbres remotas o un licor fuerte y especiado codiciado en tabernas de puerto."
+    },
+    "MtR3S2OiwdPlRQB0": {
+      "name": "Abanico",
+      "description": "<p>Accesorio de varillas y tela decorada diseñado principalmente para el uso de la nobleza en recepciones y ambientes cortesanos. Cumple una función puramente estética y de distinción, además de servir para aliviar el calor de forma elegante.</p>"
+    },
+    "JJDUIFxdZg77SGeU": {
+      "name": "Comida Buena",
+      "description": "Plato bien preparado con ingredientes frescos, típico de posadas reputadas. Este menú suele incluir carnes asadas, pescados al horno o verduras salteadas."
+    },
+    "zdSJ9YkrIuIrWTuQ": {
+      "name": "Red de Pesca (1 metro)",
+      "description": "Malla de captura de aproximadamente un metro de largo, idónea para pescar en espacios reducidos o aguas poco profundas."
+    },
+    "EDY9eXQDUqp9CN5i": {
+      "name": "Yesca y Pedernal",
+      "description": "Kit básico de ignición compuesto por un eslabón de metal y una piedra dura. Al golpearse entre sí, generan las chispas necesarias para encender material seco y prender un fuego."
+    },
+    "SD4UGrpxVppip6vE": {
+      "name": "Comida y Bebida",
+      "description": ""
+    },
+    "TqpNqGJKsTjvAfeT": {
+      "name": "Comida",
+      "description": ""
+    },
+    "CjhVwXRDkh5yWtW4": {
+      "name": "Gemas",
+      "description": ""
+    },
+    "i1tSMJrXI5WDLJWt": {
+      "name": "Guantes",
+      "description": "<p>Prenda que cubre las manos, utilizada habitualmente por nobles, duelistas, alquimistas y artesanos de distintas clases. Ofrece una capa de protección ligera contra el frío, la fricción de las herramientas o el contacto directo con sustancias peligrosas, variando sus materiales desde cuero funcional hasta las telas más finas.</p>"
+    },
+    "OCcfA97kKW83vEp6": {
+      "name": "Cerveza Buena",
+      "description": "Bebida fermentada de cebada u otros cereales, con una graduación alcohólica ligera, sabor equilibrado y cuerpo definido. Se sirve habitualmente en jarras o cuernos, siendo muy apreciada en las tabernas por clientes exigentes o durante grandes celebraciones."
+    },
+    "yJqaWKztjk5mUXdJ": {
+      "name": "Raciones de Viaje Buenas",
+      "description": "Suministros bien preparados con ingredientes seleccionados que incluyen pan fresco, embutidos, queso tierno y fruta en conserva. Ofrecen una conservación superior, ideal para ser consumidos durante periodos prolongados."
+    },
+    "1zlbUUXBxp7Ych0R": {
+      "name": "Comida Buena",
+      "description": "Plato bien preparado con ingredientes frescos y variedad en su composición, típico de posadas de nivel medio."
+    },
+    "6T53EmxYv7o7vv1T": {
+      "name": "Cerradura Buena",
+      "description": "Mecanismo reforzado con doble pasador y una carcasa endurecida que protege eficazmente cualquier baúl o cofre de valor. Su intrincado diseño ofrece una resistencia notable."
+    },
+    "vBsqCXdq3oAXZoPO": {
+      "name": "Perfume Bueno",
+      "description": "Mezcla refinada de esencias florales y alquímicas con un aroma persistente capaz de influir sutilmente en el estado emocional de quienes lo perciben."
+    },
+    "IxLnKdJmRlM2Nm9e": {
+      "name": "Cuerda Buena (10 metros)",
+      "description": "Trenza reforzada con una mezcla de fibras animales y vegetales, adecuada para trepar, asegurar estructuras o realizar maniobras controladas. Ofrece una gran sujeción para mantener la mayoría de las cargas en su sitio, resistiendo bien la abrasión y conservando su flexibilidad bajo condiciones adversas."
+    },
+    "LQLfooOobFDzaLey": {
+      "name": "Vino Bueno",
+      "description": "Bebida fermentada de uva con cuerpo definido, graduación alcohólica ligera y sabor equilibrado. Se sirve habitualmente en copas o jarras, siendo un caldo muy común tanto en tabernas urbanas reputadas como en mesas de casas nobles."
+    },
+    "sraP69gWOfZa0eKw": {
+      "name": "Pañuelo",
+      "description": "<p>Pequeña pieza de tela versátil diseñada para lucirse en el cuello, la cabeza o guardada como accesorio de vestuario. Aparte de su uso práctico, es un elemento social empleado a menudo como señal de afecto, pertenencia o duelo.</p>"
+    },
+    "qSZQdrRj3yZxjVoP": {
+      "name": "Arpón",
+      "description": "Proyectil pesado de caza dotado de una punta dentada o retráctil. Especialmente diseñado para la captura de grandes criaturas acuáticas o ballenas."
+    },
+    "DytLAph8KYKdKqtz": {
+      "name": "Cadena Pesada (1 metro)",
+      "description": "Segmento robusto de eslabones reforzados, diseñado para soportar tensión elevada y asegurar elementos de gran tamaño. Ofrece una fuerza de sujeción muy superior a las cuerdas comunes."
+    },
+    "qtJAjgOVyl0xL43z": {
+      "name": "Garfio",
+      "description": "Pieza metálica curva dotada de una punta afilada, diseñada principalmente para la captura de peces o como componente básico de aparejos. Su diseño también resulta útil para enganchar pequeños objetos a distancia."
+    },
+    "jK36JfyVZHCfqexE": {
+      "name": "Reloj de Arena",
+      "description": "Instrumento de medición compuesto por dos ampollas de vidrio conectadas por un cuello estrecho que regula el paso de arena fina. Se comercializa calibrado en intervalos fijos —de 30 minutos, 1 hora, 2 horas, 4 horas o 12 horas—, siendo vital para controlar turnos, vigilias o rituales."
+    },
+    "tQrtGnGrkvf4GXRk": {
+      "name": "Tinta",
+      "description": "Líquido pigmentado de color negro, extraído tradicionalmente de minerales, plantas o alquimia (así como de calamares o resina de árboles con carbón vegetal machacado). Es utilizado por cualquiera que desee escribir. Puede poseer propiedades mágicas si se combina con componentes arcanos. "
+    },
+    "o7obzDmWrv9oKX9e": {
+      "name": "Chaqueta",
+      "description": "<p>Prenda de vestir básica y ajustada con botones, muy común en ambientes urbanos. Es utilizada habitualmente por oficiales, burgueses y viajeros, ofreciendo tanto una protección ligera como un estilo formal.</p>"
+    },
+    "vKKqV628dNqMU4LM": {
+      "name": "Orfebrería",
+      "description": ""
+    },
+    "x0t8Nr0vbk1dYKcA": {
+      "name": "Zumo",
+      "description": "Líquido extraído de frutas o verduras, generalmente contenido en una botella o recipiente para su consumo como bebida refrescante o nutritiva. Puede presentarse al natural, filtrado o mezclado con otros ingredientes según la variedad. "
+    },
+    "JL7ASB8KsJDSDKe2": {
+      "name": "Linterna de Velas",
+      "description": "Recipiente metálico o de vidrio que se encuentra vacío, diseñado especialmente para albergar una o más velas en su interior y protegerlas del viento. Proporciona una luz cálida y estable."
+    },
+    "IoddgbS7Yq3Mgyg0": {
+      "name": "Bolsa Grande",
+      "description": "Versión ampliada de la bolsa convencional. Cuenta con un diseño reforzado en las costuras y un cierre doble, siendo ideal para transportar materiales pesados, herramientas o provisiones."
+    },
+    "OF1qs7t6Bfu6ecir": {
+      "name": "Cesto Grande",
+      "description": "Versión ampliada del cesto convencional, fabricada con asas reforzadas para soportar cargas medias. Es un elemento muy utilizado para labores de recolección en el campo (como la recogida de manzanas o frutos) y para el transporte general de provisiones."
+    },
+    "iJ1VxNm2HM11cTAS": {
+      "name": "Libro en Blanco",
+      "description": "Volumen encuadernado de gran tamaño con una gran cantidad de páginas amplias y sin contenido, ideal para registrar notas, hechizos, mapas o diarios de viaje. "
+    },
+    "g26Gy9uPCl6esfSt": {
+      "name": "Arcón Grande",
+      "description": "Versión ampliada del arcón convencional, equipada con refuerzos metálicos y una cerradura opcional. Está diseñado especialmente para almacenar de forma segura una gran cantidad de objetos."
+    },
+    "Q37BUhMNQWKoZZ4k": {
+      "name": "Botella Grande de Cristal",
+      "description": "Recipiente de vidrio de gran tamaño dotado con un tapón, utilizado habitualmente para almacenar líquidos, tinturas o esencias rituales."
+    },
+    "h06FKjQ7eAQUtjD1": {
+      "name": "Saco Grande",
+      "description": "Saco de gran tamaño y reforzado, diseñado para el transporte de materiales pesados o voluminosos. Es un elemento muy utilizado para guardar alimentos en su interior de forma segura."
+    },
+    "3cKT5I4L1lEcYlfH": {
+      "name": "Tienda Grande",
+      "description": "Versión ampliada de la tienda de campaña, con capacidad para albergar cómodamente de 3 a 5 personas en su interior. Ofrece un mayor espacio habitable y una gran estabilidad frente al clima."
+    },
+    "i0Onf8os7dKKGwbv": {
+      "name": "Cepo Grande",
+      "description": "Dispositivo de captura con mordaza metálica de gran tamaño, diseñado para inmovilizar criaturas. Su potente mecanismo permite incapacitar y dañar severamente a los objetivos."
+    },
+    "BT0b57EvmdONt6q5": {
+      "name": "Cadena Ligera (1 metro)",
+      "description": "Tramo de eslabones metálicos de bajo calibre, idóneo para conectar o asegurar objetos, cerrar accesos o improvisar amarres de forma rápida. Su peso reducido permite un transporte y uso versátil."
+    },
+    "wibTywGG5prVfeJI": {
+      "name": "Mortero",
+      "description": "Mezcla tradicional de cal, arena y agua empleada habitualmente en la construcción para unir bloques y levantar muros. "
+    },
+    "vBpHogtfhHnm9pik": {
+      "name": "Lencería",
+      "description": "<p>Conjunto básico de prendas íntimas de diseño elaborado, confeccionadas en tejidos finos como seda, lino, encaje... Incluye camisetas decorativas, pantaletas, combinaciones y corpiños ornamentales, siendo prendas usadas principalmente en contextos privados.</p>"
+    },
+    "glfCtxccfDOQ8Ipu": {
+      "name": "Ganzuas",
+      "description": "Juego de varillas metálicas finas, dobladas y pulidas, diseñadas específicamente para manipular los mecanismos internos de las cerraduras."
+    },
+    "7RXb4LgpXrSSBuQq": {
+      "name": "Tienda de Lujo",
+      "description": "Versión refinada de la tienda de campaña convencional, confeccionada con materiales caros, altamente aislantes y resistentes al agua. Cuenta con una estructura reforzada, aislamiento térmico superior y elaborados detalles decorativos, ofreciendo un espacio diseñado para que nobles o personas de alto poder adquisitivo se sientan como en casa."
+    },
+    "WyJxG7MixchamJfA": {
+      "name": "Traje de Gala",
+      "description": "<p>Atuendo formal compuesto por varias piezas (como camisa de cuello alto, pantalón de corte elegante, chaleco y complementos como corbata o fajín), diseñado para ceremonias, recepciones, audiencias oficiales o eventos de alto rango. Confeccionado en telas finas como lana, terciopelo o seda, y decorado con bordados, botones metálicos o emblemas distintivos, su diseño varía según la región y la tradición, reflejando estatus social, afiliación institucional o función diplomática.</p>"
+    },
+    "PS3KceGMGpvn1kbV": {
+      "name": "Kimono de Hombre",
+      "description": "<p>Túnica cruzada de corte recto para hombre, confeccionada en algodón, lino o seda según la estación y el estatus del portador. Presenta un diseño sobrio y colores discretos, se ajusta con un cinturón ancho (obi) y puede incluir una sobreprenda ligera. Es una vestimenta muy utilizada en regiones orientales como ropa cotidiana, ceremonial o de viaje, variando su longitud y mangas según la función y la tradición local.</p>"
+    },
+    "i4rZGiBxQkr7ecN0": {
+      "name": "Mapa",
+      "description": "Documento cartográfico fundamental para la navegación y la orientación, trazado sobre pergamino o papel. Según el espécimen, puede presentarse como un plano detallado de una urbe con sus calles y distritos, un mapa regional con detalle medio para orientación local, o una representación global del mundo conocido que muestra continentes, rutas principales y zonas de peligro marcadas."
+    },
+    "pxi6NLWka9CC32GM": {
+      "name": "Reloj Mecánico",
+      "description": "Complejo y robusto dispositivo de sobremesa fabricado con ruedas dentadas, muelles y pesas, diseñado para medir el tiempo con precisión. Debido a su elaborada maquinaria interna y su sólida estructura, es un objeto voluminoso y pesado para el transporte. Registra las horas en intervalos de 12 horas y requiere recibir cuerda manualmente por su parte posterior cada dos semanas para mantener el mecanismo en constante funcionamiento. "
+    },
+    "kWTs9rV8ZbDc9Uel": {
+      "name": "Raciones de Viaje Mediocres",
+      "description": "Conjunto de alimentos básicos, secos y poco variados, suficientes para sobrevivir una semana pero de sabor muy limitado. Incluye alimentos de larga duración como pan duro, queso curado y carne salada."
+    },
+    "woxGMIIWXt6votuc": {
+      "name": "Comida Mediocre",
+      "description": "Plato básico cocinado, compuesto por ingredientes baratos o de baja calidad, servido habitualmente en tabernas modestas o en momentos de gran escasez. Suele incluir pan duro, caldo aguado, legumbres mal cocidas y sobras o restos de carne o pescado."
+    },
+    "ijxqQSiALomfjbZ5": {
+      "name": "Ropa Interior Masculina",
+      "description": "<p>Conjunto de prendas básicas de diario, como calzones o camisetas, que se usan bajo la vestimenta principal y están generalmente confeccionadas en lino o algodón. Incluye camisetas interiores y calzoncillos sueltos o largos según la región y la época.</p>"
+    },
+    "9eIGid6COSl7rlT6": {
+      "name": "Leche",
+      "description": "Bebida nutritiva obtenida de animales domésticos, generalmente contenida en una botella o vasija para su transporte. Se sirve fresca o caliente, siendo un alimento muy común en desayunos, posadas rurales o como sustento para niños y ancianos. "
+    },
+    "EHs5GyjG3ZiUEZoU": {
+      "name": "Objetos Varios",
+      "description": ""
+    },
+    "rNZ82EWYvV9cpG1l": {
+      "name": "Mitones",
+      "description": "<p>Par de guantes básicos sin dedos, empleados habitualmente por arqueros, escribas, artesanos o trabajadores que requieren protección ligera en las manos.</p>"
+    },
+    "4Co2oRA1M2994KJp": {
+      "name": "Monóculo",
+      "description": "Lente óptica única montada en un aro metálico, diseñada para proporcionar una visión precisa y ampliada en un solo ojo. Es un accesorio utilizado habitualmente por investigadores, aristócratas y estudiosos de lo arcano."
+    },
+    "za09PpEEe3q5yXYy": {
+      "name": "Muscarina",
+      "description": "Extracto tóxico obtenido a partir de hongos alucinógenos. Este veneno se activa principalmente al ser inhalado; basta con percibir su aroma para que sus componentes comiencen a propagarse por el organismo, distorsionando la percepción sensorial, induciendo visiones erráticas y alterando gravemente el juicio de la víctima. \n \n• Nivel de veneno: 40 (inhalado)\n• Efecto: Alucinaciones, confusión, trance o delirio (RV 60)\n• Duración: Horas "
+    },
+    "aqJkGVyPqDvPCrxv": {
+      "name": "Collar",
+      "description": "<p>Cadena o aro de metal, a menudo chapado en oro, diseñado para llevar alrededor del cuello como pieza de adorno u orfebrería. Su diseño básico puede incluir colgantes, gemas incrustadas o placas decorativas según el estatus de su portador.</p>"
+    },
+    "WawW8Bc1jk7T1w9t": {
+      "name": "Nobleza",
+      "description": ""
+    },
+    "HddYQgJ1poWTuwTM": {
+      "name": "Aceite",
+      "description": "Líquido inflamable extraído de plantas, animales o mediante alquimia ritual, contenido habitualmente en una vasija o jarra para su transporte seguro. Arde con facilidad y es utilizado principalmente como combustible para rellenar lámparas, linternas o prender antorchas. "
+    },
+    "vBKyrSL501qSHiUd": {
+      "name": "Linterna de Aceite",
+      "description": "Dispositivo cerrado equipado con un depósito interno de combustible y una mecha regulable. Proporciona una luz constante, limpia y duradera utilizando aceite."
+    },
+    "vwmJr450hdTHFSEJ": {
+      "name": "Pantalón",
+      "description": "<p>Prenda de vestir básica diseñada para cubrir las piernas. Su confección varía según el estatus y el uso del portador, abarcando desde bombachos de jinete holgados y resistentes para el viaje hasta pantalones ceñidos de cortesano elaborados en telas finas.</p>"
+    },
+    "iDFRNW6NXizvLOLb": {
+      "name": "Papel",
+      "description": "Hojas finas de celulosa prensada de alta calidad, consideradas una variante de escritura costosa. Al ser más liso que el papiro, resulta mucho más fácil escribir sobre él, es más difícil de rasga."
+    },
+    "waaMABP4Cz7aCRjx": {
+      "name": "Papiro",
+      "description": "Láminas vegetales enrollables extraídas de tallos acuáticos, que sirven como una alternativa económica, aunque notablemente más basta, rugosa y menos vistosa que el papel."
+    },
+    "gPGfPDChXQtoFQBV": {
+      "name": "Pergamino",
+      "description": "Lámina de piel tratada de animal, estirada y pulida con esmero para garantizar una escritura o dibujo sumamente duradero. Al ser un soporte resistente y de mayor tamaño, resulta una opción algo más costosa que el papiro, pero ideal para trazar mapas cartográficos, redactar documentos oficiales o transcribir textos sagrados."
+    },
+    "ffykST0yTJYOeBWB": {
+      "name": "Tienda Pabellón",
+      "description": "Estructura de campaña de gran tamaño, diseñada principalmente como centro de mando, punto táctico temporal para legionarios o refugio colectivo en lugar de un dormitorio convencional. Su amplio armazón interior puede incluir compartimentos, mástiles y cortinas para organizar el espacio; resulta ideal para albergar banquetes o reuniones de oficiales y, en caso de extrema necesidad, cuenta con capacidad para albergar hasta a 20 personas en su interior."
+    },
+    "H8rCs7RhjUQsLyj6": {
+      "name": "Perla",
+      "description": "Gema orgánica preciosa en forma de esfera blanca de superficie lisa, brillo suave y forma regular, hallada en lo profundo del océano. Debido a su escasez, es una pieza muy codiciada en orfebrería que se vende a muy buen precio."
+    },
+    "sGo4F3wDmJmnjYjW": {
+      "name": "Venenos",
+      "description": ""
+    },
+    "iFPeGNy1bznf2T8s": {
+      "name": "Carcaj",
+      "description": "Contenedor cilíndrico para flechas fabricado en cuero o madera reforzada con capacidad para 25 unidades."
+    },
+    "X6Fn9orshnXiImAb": {
+      "name": "Sabia de Ramalen",
+      "description": "Savia extraída del exótico árbol Ramalen, cuyas propiedades naturales la convierten en un compuesto altamente tóxico. Este veneno de nivel 80 se activa con extrema rapidez al entrar en contacto directo con la piel; basta un leve roce para que sus efectos se propaguen por el organismo, desatando un terror visceral que paraliza la voluntad de la víctima, seguido de una ceguera súbita que anula por completo su capacidad de orientación. \n \n• Nivel de veneno: 80 (contacto)\n• Efecto: Terror (RV 120) y Ceguera (RV 100)\n• Duración: Horas "
+    },
+    "rMmKyAtHXxGllzjY": {
+      "name": "Raciones",
+      "description": ""
+    },
+    "aNZOq2ndoM0cZLnR": {
+      "name": "Anillo",
+      "description": "<p>Aro metálico cerrado de diseño básico, concebido para llevar en los dedos como accesorio o pieza de orfebrería. Según su manufactura, puede presentarse liso o incluir grabados, gemas incrustadas o inscripciones personalizadas que denoten el estatus o la afiliación de su portador. </p>"
+    },
+    "81utlV1FUzAyhWKj": {
+      "name": "Escalera de cuerda (10 metros)",
+      "description": "Estructura flexible compuesta por peldaños unidos a dos cuerdas laterales, diseñada para ascender o descender en zonas verticales, especialmente útil en espacios estrechos o accesos ocultos. Su diseño permite desplegarla y extenderla con gran facilidad en situaciones de urgencia, aunque requiere algo de tiempo y paciencia volver a enrollarla correctamente tras su uso. "
+    },
+    "vxBLV3ea9REvGMZO": {
+      "name": "Rosario",
+      "description": "<p>Cadena o cordón con cuentas ensartadas, utilizado habitualmente para la oración, el recogimiento espiritual o la meditación. Tradicionalmente incluye una cruz que simboliza al dios Gabriel.</p>"
+    },
+    "auQuj6pbRTMBjy9Q": {
+      "name": "Arsénico Real",
+      "description": "Sustancia letal altamente refinada y de naturaleza silenciosa. Este veneno de nivel 50 se activa por vía oral (ingerido), manifestando sus primeros efectos aproximadamente una hora después de su consumo. Una vez absorbido, comienza a desgarrar y deteriorar los órganos internos de la víctima, provocando un proceso sumamente doloroso que apenas deja señales visibles en el exterior hasta que la muerte es inevitable. \n \n• Nivel de veneno: 50 (ingerido)\n• Efecto: Muerte (RV 80)\n• Duración: Horas "
+    },
+    "Ss8ZRmxD3jhrGzdp": {
+      "name": "Rubi",
+      "description": "Gema preciosa de color rojo intenso con un corte preciso y una superficie pulida con esmero. Debido a su afinidad elemental natural, es una pieza muy codiciada por los hechiceros para potenciar la magia de Fuego, alcanzando además un gran valor comercial en el mercado."
+    },
+    "c2F8PIUGbQjIa7ke": {
+      "name": "Vinagre de Saturno",
+      "description": "Compuesto químico y alquímico tóxico derivado del plomo. Este veneno de nivel 40 se activa por vía oral (ingerido) y actúa de forma retardada, manifestando sus primeros síntomas aproximadamente una hora después de su consumo. Una vez asimilado, ataca directamente el sistema nervioso provocando un dolor agudo y persistente, acompañado de una pérdida paulatina de la visión. \n \n• Nivel de veneno: 40 (ingerido)\n• Efecto: Dolor constante (RV 60) y Ceguera (RV 40)\n• Duración: Días"
+    },
+    "UVsq32G5EObOPK8y": {
+      "name": "Zafiro",
+      "description": "Gema preciosa de color azul brillante tallada con facetas regulares, caracterizada por un brillo profundo y una estructura cristalina muy definida. Debido a sus excelentes propiedades conductoras y espirituales, es una pieza muy codiciada por los hechiceros como un contenedor mágico excepcional si se encanta de la forma correcta, alcanzando además un alto valor comercial en los mercados."
+    },
+    "BdmaD53S4jlMA4GF": {
+      "name": "Bufanda",
+      "description": "<p>Tira de tela envolvente de diseño básico para el cuello, confeccionada en diferentes materiales según el estatus del portador. Es una prenda de uso común ideada principalmente para ofrecer una protección ligera contra el viento, el frío y el polvo del camino.</p>"
+    },
+    "5GtemyhH90PHG1IW": {
+      "name": "Cetro",
+      "description": "<p>Vara corta de diseño ornamental, a menudo chapada en oro, plata u otro metal valioso. Es un objeto suntuoso utilizado tradicionalmente por monarcas, altos dignatarios o líderes eclesiásticos como símbolo de poder soberano, autoridad o representación institucional.</p>"
+    },
+    "lzuH04yKkCUAHDMH": {
+      "name": "Veneno de Serpiente",
+      "description": "Sustancia orgánica de alta letalidad extraída directamente de reptiles ofidios. Este veneno de nivel 40 se activa por vía sanguínea (lesión o inoculación) y sus efectos comienzan a manifestarse aproximadamente una hora después de ingresar al torrente sanguíneo. Una vez absorbido por el organismo, interrumpe de forma drástica las funciones vitales mediante una toxina que paraliza por completo el sistema nervioso y provoca un colapso orgánico generalizado. \n \n• Nivel de veneno: 40 (Herida)\n• Efecto: Muerte (RV 60)\n• Duración: Breve "
+    },
+    "8j3e5NzBQiL3pH5d": {
+      "name": "Piedra de Afilar",
+      "description": "Superficie abrasiva de grano mineral, utilizada habitualmente por guerreros, cazadores y artesanos para restaurar, y mantener el filo óptimo de herramientas cortantes y todo tipo de armas de cuerpo a cuerpo."
+    },
+    "CIP4qyD4PLSsTsnK": {
+      "name": "Camisa",
+      "description": "<p>Prenda de vestir básica para el torso, de uso universal por todas las clases sociales. Según el estatus y la ocupación del portador, su confección puede variar enormemente, abarcando desde modelos de tela burda y resistente para el trabajo diario o el viaje, hasta variantes de tejidos finos destinadas a ocasiones formales.</p>"
+    },
+    "DjiJxuAmbuRIzhrS": {
+      "name": "Zapatos",
+      "description": "<p>Calzado cerrado básico que cubre completamente el pie, confeccionado en cuero, tela o materiales tratados según la función y el estatus del usuario. Usado por todas las clases sociales, desde campesinos hasta cortesanos. Su diseño puede incluir cordones, hebillas o botones, y varía en forma según la región, el clima y la moda vigente.</p>"
+    },
+    "NR8eSpqVrFV6eOoc": {
+      "name": "Pasador",
+      "description": "<p>Pieza pequeña de cierre o sujeción, fabricada comúnmente en metal, hueso, madera tratada o resina. Está diseñada especialmente para deslizarse y asegurar prendas de vestir o mechones de cabello, pudiendo presentar acabados ornamentales o filigranas según el estatus de su portador.</p>"
+    },
+    "JoleMxCvs5R38Fzf": {
+      "name": "Bolsa Pequeña",
+      "description": "Saco de tela o cuero con un cierre simple, diseñado para albergar de forma cómoda y accesible los objetos más esenciales de primera necesidad. Es un accesorio ligero e indispensable para cualquier viajero, ideal para guardar monedas, viales o pequeños utensilios de uso diario."
+    },
+    "XVPeDy1EPRfIYnQK": {
+      "name": "Cesto Pequeño",
+      "description": "Estructura ligera tejida a mano con fibras vegetales, provista de un asa para facilitar su transporte. Está diseñada principalmente para el traslado de objetos livianos de consumo diario, tales como raciones frescas de comida, frutas..."
+    },
+    "z2q2I1mqz2QeeUfQ": {
+      "name": "Libro en Blanco Pequeño",
+      "description": "Versión compacta y manejable de un tomo vacío. Su portabilidad y  encuadernación ligera lo convierten en una herramienta sumamente útil para exploradores, escribas, cartógrafos o mensajeros. "
+    },
+    "oGDjpZ7zRE89xILr": {
+      "name": "Arcón Pequeño",
+      "description": "Caja rígida de madera o metal provista de tapa y un cierre básico, capaz de albergar una cantidad decente de pertenencias en su interior. "
+    },
+    "obitCEoFFhprNEqs": {
+      "name": "Botella Pequeña de Cristal",
+      "description": "Recipiente de vidrio de tamaño pequeño dotado con un tapón, utilizado habitualmente para almacenar líquidos, tinturas o esencias rituales."
+    },
+    "NDZT3sPsY2ZdQl2c": {
+      "name": "Espejo Pequeño de Cristal",
+      "description": "Lámina pulida de vidrio con una capa reflectante posterior, montada en un pequeño marco de madera, cuero o metal. Aunque es un objeto muy frágil y difícil de fabricar, ofrece una nitidez superior."
+    },
+    "qwuUjzlUBtSmvDzv": {
+      "name": "Espejo Pequeño de Metal",
+      "description": "Superficie metálica reducida y altamente pulida (generalmente de bronce, plata o acero), diseñada para utilizarse como espejo portátil. Aunque es menos nítido que el de cristal, es notablemente más resistente a los impactos y al trato duro del viaje."
+    },
+    "H1kW5jUOA5w3yhHE": {
+      "name": "Saco Pequeño",
+      "description": "Bolsa compacta de tela gruesa provista de un cordón de cierre, utilizada habitualmente para almacenar granos, semillas, polvos, vendas o componentes rituales sueltos. Su diseño ligero y versátil permite colgarla fácilmente del cinturón o guardarla en el interior de mochilas mayores. "
+    },
+    "GTKjSFAGPoClq64S": {
+      "name": "Tienda Pequeña",
+      "description": "Estructura portátil y ligera de lona o cuero, diseñada para proporcionar un refugio básico contra el clima en mitad de la naturaleza.  Puede admitir hasta 2 personas sin mucho espacio."
+    },
+    "9RlmpehRnnP13lY9": {
+      "name": "Cepo Pequeño",
+      "description": "Variante compacta del cepo, calibrada minuciosamente para presas menores o trampas de precisión. Su mecanismo es capaz de incapacitar, retener o herir levemente a un animal pequeño o a un ser humano."
+    },
+    "5Kr3AqZWeTukPYpe": {
+      "name": "Jabón",
+      "description": "Bloque sólido o compuesto líquido utilizado para la higiene personal, así como para la limpieza de ropa o utensilios de viaje. Su fragancia puede variar según los componentes empleados en su fabricación y, en entornos místicos o religiosos, puede servir para purificaciones simbólicas o ritos de preparación antes de ceremonias. "
+    },
+    "lqZBpZNX2qoSRVnA": {
+      "name": "Gafas",
+      "description": "<p>Par de lentes correctoras montadas sobre una estructura facial adaptada. Están diseñadas para mejorar el enfoque y hacer que el entorno se perciba con total nitidez a los ojos de quienes padecen problemas de vista.</p>"
+    },
+    "lcF9L3RxbpIJijXY": {
+      "name": "Catalejos",
+      "description": "Tubo óptico extensible equipado con lentes de aumento, diseñado para hacer que los objetos distantes se perciban a un tamaño mucho mayor y con total claridad."
+    },
+    "YHl3BMMTvMxRbTUt": {
+      "name": "Talio",
+      "description": "Sustancia química y alquímica altamente tóxica que ataca directamente los tejidos motores. Este veneno de nivel 20 se activa por vía sanguínea (lesión o inoculación) y comienza a manifestar sus primeros efectos aproximadamente una hora después de ingresar al torrente sanguíneo. Una vez absorbido por el organismo, desata un dolor agudo y persistente que se extiende por todo el cuerpo, afectando severamente a los músculos, articulaciones y terminaciones nerviosas. \n \n• Nivel de veneno: 20 (Herida)\n• Efecto: Dolor (RV 40)\n• Duración: Horas "
+    },
+    "3XkveSBVOv6h1Qbv": {
+      "name": "Antorcha",
+      "description": "Palo largo con la cabeza envuelta en tela empapada en aceite, brea o resina. Al encenderse, se emplea como una fuente de luz directa que proporciona  iluminación."
+    },
+    "1jEEtVpgFufDyKwO": {
+      "name": "Túnica",
+      "description": "<p>Prenda de vestir básica, larga y suelta, utilizada habitualmente por monjes, sabios, eruditos, comerciantes o ciudadanos de a pie. Es una vestidura muy versátil que puede incluir bolsillos interiores o ceñirse con cinturones y fajines según la necesidad del portador.</p>"
+    },
+    "l9tz803Wxl5CbTKi": {
+      "name": "Gemas Varias",
+      "description": "Surtido variado de piedras preciosas y semipreciosas menores que han sido cortadas y pulidas con esmero. Al no pertenecer a las categorías de gemas mayores más codiciadas, se emplean habitualmente en trabajos de orfebrería común, decoración de prendas o como moneda de cambio"
+    },
+    "XylINXxPKYHF1shO": {
+      "name": "Chaleco",
+      "description": "<p>Prenda de vestir básica sin mangas que se lleva ajustada sobre la camisa. Es una pieza de indumentaria muy popular y común entre comerciantes, artesanos y duelistas, cuyo diseño puede incluir bolsillos interiores para guardar enseres o refuerzos ligeros en las costuras según la necesidad de su portador.</p>"
+    },
+    "NCaiJJBc2zF6YsE2": {
+      "name": "Botas de Viaje",
+      "description": "<p>Calzado resistente de caña media o alta, diseñado especialmente para soportar largas caminatas y travesías exigentes. Confeccionado en cuero o tela gruesa, ofrece una excelente protección contra las inclemencias del clima y las asperezas del terreno.</p>"
+    },
+    "dYiKBjWFOOJ5aLDY": {
+      "name": "Bastón Común",
+      "description": "<p>Apoyo de madera o metal utilizado para mantener el equilibrio durante largas caminatas, travesías o desplazamientos en terrenos irregulares.</p>"
+    },
+    "cTmzQxoV5Tn2XaRm": {
+      "name": "Odre",
+      "description": "Recipiente flexible confeccionado en cuero tratado, utilizado habitualmente para transportar y consumir agua, vino u otros líquidos esenciales durante el viaje. Cuenta con un diseño pensado para colgarse del cinturón o llevarse cómodamente al hombro."
+    },
+    "Gw1BX8nkoenuglVF": {
+      "name": "Silbato",
+      "description": "Dispositivo pequeño diseñado para emitir un sonido agudo e intenso al ser soplado, ideal para llamar la atención, dar señales de alerta o coordinar acciones a gran distancia."
+    },
+    "BXokKLlA7EF2ZByD": {
+      "name": "Veneno de Cobra Blanca",
+      "description": "Sustancia orgánica de extrema rareza y letalidad fulminante, extraída de especímenes exóticos de cobra blanca. Este veneno de nivel 70 se activa por vía sanguínea (lesión o inoculación) de forma instantánea, propagándose y afectando al cuerpo en apenas seis segundos tras entrar en contacto con la sangre. Una vez absorbido, provoca un colapso neuromuscular severo y un paro respiratorio inmediato que provoca la muerte. \n \n• Nivel de veneno: 70 (Herida)\n• Efecto: Muerte (RV 100)\n• Duración: Breve "
+    },
+    "Dj7jtGxVMXLEoahZ": {
+      "name": "Vino",
+      "description": "Bebida fermentada de uva de elaboración tradicional y graduación alcohólica ligera. Un caldo muy común en mesas humildes, consumido habitualmente por viajeros, artesanos y campesinos."
+    },
+    "57Yd7mieMbtWy8dJ": {
+      "name": "Kimono de Mujer",
+      "description": "<p>Túnica cruzada de corte amplio, confeccionada en seda, algodón o lino según la estación y el estatus. De colores vivos y decorada con bordados florales, geométricos o simbólicos. Se ajusta con un cinturón ancho y puede incluir varias capas, mangas largas y sobreprendas. Usado en regiones orientales como vestimenta cotidiana, ceremonial o festiva. El diseño refleja la edad, el rango social y la ocasión.</p>"
+    },
+    "PcDxrHKKiyfMaLb4": {
+      "name": "Ropa Interior Femenina",
+      "description": "<p>Prendas básicas de uso diario, confeccionadas en tejidos sencillos como lino o algodón. Incluye camisolas, calzones, refajos y corpiños funcionales. Diseñadas para comodidad, higiene y soporte bajo la vestimenta principal. Suelen ser discretas y prácticas.</p>"
+    },
+    "XN4W9C8IFrE2T0NL": {
+      "name": "Pluma de Escribir",
+      "description": "Instrumento de diseño elegante y estilizado para el trabajo en el escritorio. Una pieza de buena calidad que requiere ser empapada en un tintero para plasmar manuscritos sobre papel o pergamino."
+    },
+    "QmunSGMcUGWeB5XQ": {
+      "name": "Circonio",
+      "description": "Mineral cristalino que destaca por su transparencia natural y un brillo interno característico. Debido a su notable resistencia y versatilidad estructural, es una pieza muy codiciada por los artesanos para la forja de ornamentos finos, manteniendo un valor comercial muy estable en los mercados."
+    }
+  }
+}

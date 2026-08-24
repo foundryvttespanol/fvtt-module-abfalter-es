@@ -5,21 +5,24 @@
   },
   "folders": {
     "Official": "Oficial",
-    "Ammunition": "Munición",
     "Armours": "Armaduras",
-    "Common": "Comunes",
+    "Core Exxet": "Core Exxet",
     "Dominus Exxet": "Dominus Exxet",
+    "Head": "Yelmos",
+    "Weapons": "Armas",
+    "Oriental Weapons": "Armas Orientales",
+    "Common": "Comunes",
     "Dominus Exxet Projectile/Ammunition": "Dominus Exxet Projectiles/Munición",
+    "Shields": "Escudos",
     "Exotic / Custom": "Exóticas/Personalizadas",
     "Improvised": "Improvisadas",
-    "Oriental Weapons": "Armas Orientales",
-    "Projectile/Thrown Weapons": "Proyectiles/Armas Lanzadas",
-    "Shields": "Escudos",
-    "Weapons": "Armas",
-    "Head": "Yelmos",
-    "Primary": "Core Exxet"
+    "Ammunition": "Munición",
+    "Projectile/Thrown Weapons": "Proyectiles/Armas Lanzadas"
 },
   "entries": {
+    "Kulodx4NxXtCJNqI": {
+      "name": "Munición"
+    },
     "Bzmxwi1qJDluUbmv": {
       "name": "Flecha de Mella",
       "description": "Una flecha con una punta penetrante diseñada para atravesar armaduras duras. Resta un punto a la TA del defensor."
@@ -27,6 +30,9 @@
     "PR0dACmIMlLJBLdN": {
       "name": "Gabardina Armada",
       "description": "Esta es una armadura hecha de cuero tratado, pero con capas acolchadas para darle mayor consistencia."
+    },
+    "bkuYYLIa6Pz33HPI": {
+      "name": "Armaduras"
     },
     "UG5H6dE5ag8AesaJ": {
       "name": "Arcabuz",
@@ -54,10 +60,10 @@
     },
     "9qUSLOnce1uAgDGs": {
       "name": "Dardo de Cerbatana",
-      "description": "Dardos diseñados para ser disparados con una Cerbatana."
+      "description": "Dardos diseñados para ser disparados con una Cerbatana"
     },
     "OE23KEiIaj4YuAnL": {
-      "name": "Cerbatana",
+      "name": "Blowgun",
       "description": "Este es un tubo hueco de madera o metal de entre 30 cm y 1 metro de largo. Se utiliza para disparar pequeños dardos, que normalmente están envenenados. Como regla especial, la cerbatana no aplica la Fuerza del usuario para calcular el daño causado. Requiere ambas manos para su uso."
     },
     "804XJ0Glij3RY1mw": {
@@ -106,7 +112,7 @@
     },
     "o0hvmgLyy4Ui1hx2": {
       "name": "Balas",
-      "description": "Munición para el Arco de Balas."
+      "description": "Munición para el Arco de Balas"
     },
     "bbbTJIC2Qdp5xA4O": {
       "name": "Anillas",
@@ -118,7 +124,7 @@
     },
     "6tFf06gIicKka2v8": {
       "name": "Bala de Cañón",
-      "description": "Munición para Cañón."
+      "description": "Munición para Cañón"
     },
     "2A6R5aNAbfjw3KwI": {
       "name": "Coronilla",
@@ -172,6 +178,9 @@
       "name": "Garrote",
       "description": "Hecho de madera o simplemente de piedra, el garrote es el arma de impacto por excelencia."
     },
+    "PuXoXvlfcnlKgBUj": {
+      "name": "Comunes"
+    },
     "eW3FMFplmUhsKiKw": {
       "name": "Completa de Cuero",
       "description": "Una versión de armadura de cuero que también protege las piernas. Las articulaciones están hechas de tela."
@@ -204,6 +213,18 @@
       "name": "Dirk",
       "description": "Precisa.<hr>\nCon una hoja de forma triangular, esta arma se utiliza de manera similar a un picahielos."
     },
+    "bNRCqubQ2Zo8P0Td": {
+      "name": "Dominus Exxet"
+    },
+    "mvo567DQKhnWaSYg": {
+      "name": "Dominus Exxet"
+    },
+    "cKQZ1fUs5cnJsvwx": {
+      "name": "Dominus Exxet Projectile/Ammunition"
+    },
+    "CC4KkcwJv3FWJTfI": {
+      "name": "Exotic / Custom"
+    },
     "FSKy1elIECbSY7ry": {
       "name": "Falcata",
       "description": "Espada corta y curva, con un solo filo afilado y más ancha en la punta. Gracias a un gran contrapeso en la empuñadura, ofrece una resistencia considerable y un corte contundente. También es mucho más pesada que otras espadas de dimensiones similares. Su uso se asemeja más al de un hacha que al de una espada."
@@ -218,7 +239,7 @@
     },
     "ATdwNqtsXmW8dD0p": {
       "name": "Florete",
-      "description": "Precisa.<hr>\nEspada más delgada y flexible que el estoque. Se utiliza como arma de estocada."
+      "description": "<p>Precisa,</p><hr><p>Una espada más esbelta y flexible que el estoque. Se utiliza como un arma de estocada."
     },
     "kdOq1xXUpV30vlU6": {
       "name": "Frentón",
@@ -300,6 +321,9 @@
       "name": "Anciano de Primavera",
       "description": "A dos manos.<hr>\nArma de origen oriental compuesta por dos astas largas unidas por cadenas a una tercera sección más corta. Cada una de las astas largas termina en una hoja similar a la de una alabarda, pero más pequeña. Se utiliza colocando la sección corta central en la espalda, mientras las astas largas se maniobran con cada mano. Para dar mayor potencia a los golpes, el arma se hace girar aprovechando la fuerza centrífuga.\nAunque se emplean ambas manos, no se duplica el bono de Fuerza. La Guja de Tres Secciones permite realizar un segundo ataque por turno como si se usara un arma secundaria, pero aplicando solo un penalizador de –10 a la Habilidad de Ataque del personaje."
     },
+    "1xVrfN1COPbk5NTo": {
+      "name": "Yelmo"
+    },
     "GzbvSVj4bPCSSQTi": {
       "name": "Balista Pesada",
       "description": "Versión de mayor tamaño de la balista, que requiere cinco personas para operarla. Posee una Fuerza de 13, por lo que añade +25 al Daño Base de sus virotes. Por cada +5 a la calidad del arma, además de mejorar su precisión, suma un punto a la Fuerza con la que dispara.\nSu ataque de área se extiende en línea recta 5 metros desde el punto inicial de impacto."
@@ -318,7 +342,7 @@
     },
     "lvPcTebWfbk1mKTG": {
       "name": "Virote Pesado",
-      "description": "Munición para la Balista Pesada."
+      "description": "Munición para la Balista Pesada"
     },
     "B8TtiXCyOI5Zn3xW": {
       "name": "Azada",
@@ -331,6 +355,9 @@
     "rnkOvjWFomhBRQjB": {
       "name": "Hu Die Dao",
       "description": "Precisa.<hr>\nEstas cuchillas, normalmente usadas en pares, están diseñadas para ocultarse fácilmente bajo la ropa oriental (generalmente en mangas anchas). Protegen los dedos con una guarda resistente que también se usa para asestar golpes contundentes, similar a unos nudillos de bronce. Además, cuentan con un gancho en la parte trasera de la guarda que permite enganchar el arma del oponente y desarmarlo con facilidad."
+    },
+    "45IC1cEX2idxEgVy": {
+      "name": "Improvisadas"
     },
     "Htcx2mK2v5H2T230": {
       "name": "Javalina",
@@ -410,7 +437,7 @@
     },
     "yOImUQMp0jhVYCIT": {
       "name": "Lajatang",
-      "description": "A dos manos.<hr>\nArma de asta de casi 2 metros de largo, con dos hojas en forma de luna creciente. Permite al personaje realizar un ataque adicional como si empuñara un arma en la otra mano, aunque aplicando solo una penalización de –10 a su habilidad."
+      "description": "<p>A dos manos</p><hr><p>Arma de asta de dos metros con dos hojas en forma de medialuna. Permite al personaje realizar un ataque exactamente igual que si empuñase un arma de mano adicional, aunque aplicando únicamente un penalizador de –10 a su habilidad.</p> "
     },
     "RTI25J4NUEDUtmUb": {
       "name": "Laminar",
@@ -446,7 +473,7 @@
     },
     "oEToMUtVgclZYoNk": {
       "name": "Virote ligero",
-      "description": "Munición para la Balista Ligera."
+      "description": "Munición para la Balista Ligera"
     },
     "MRe4NfhtqkN69F5T": {
       "name": "Liu Xing Chui",
@@ -490,7 +517,7 @@
     },
     "kEZl7unJeRdg3F7g": {
       "name": "Saeta ligera",
-      "description": "Munición para la Ballesta de Mano."
+      "description": "Munición para la Ballesta de Mano"
     },
     "hNrmlpd9IIjYgmUP": {
       "name": "Ballesta de Mano",
@@ -524,9 +551,15 @@
       "name": "O-Yoroi",
       "description": "Se considera la armadura pesada samurái por excelencia. Sus hombros están protegidos por dos guardas rectangulares y la parte inferior por cuatro faldones trapezoidales, unidos al peto mediante un sistema intrincado de cordones y nudos."
     },
+    "688q3jxdpKzmS77n": {
+      "name": "Oficial"
+    },
     "9fj3WvOdpbpVTzwK": {
       "name": "Completo Abierto",
       "description": "Este es un yelmo completo que cubre toda la cabeza, excepto el rostro."
+    },
+    "ZFyHOYmZsNQsaXX1": {
+      "name": "Armas Orientales"
     },
     "md3gG2oPwLUdOTzs": {
       "name": "Acolchada",
@@ -563,6 +596,12 @@
     "SN69oMKcg7Qj3TF9": {
       "name": "Bala (Pistola)",
       "description": "Munición para Pistola/Arcabuz.<hr>\nRequieren Polvora (5 MO/disparo)"
+    },
+    "pgaX2zsu4OAHWPHB": {
+      "name": "Core Exxet"
+    },
+    "YWbBkF921n6do8p6": {
+      "name": "Proyectiles/Armas Lanzadas"
     },
     "EKAsBtiSScaOmzl0": {
       "name": "Pudao",
@@ -624,13 +663,16 @@
       "name": "Escudo",
       "description": "Superficie de metal o madera reforzada con asas en la parte posterior para poder sostenerla. Se utiliza principalmente como medio de defensa.\n\nSi un personaje desea usarla para atacar como arma secundaria, no añade su bono a la Habilidad Defensiva durante ese Asalto de Combate."
     },
+    "JKjEGZv1hgmom0Sr": {
+      "name": "Escudos"
+    },
     "rME4rfgPX9QY61JT": {
       "name": "Espada Corta",
       "description": "Precisa.<hr>\nUna hoja recta y afilada de unos 45 centímetros de largo. Aunque puede cortar, se utiliza principalmente como arma de estocada. Su tamaño reducido la convierte en un arma muy discreta."
     },
     "5OCJxqVNiDmQNx58": {
       "name": "Arco Corto",
-      "description": null
+      "description": "<p>Este arma consiste en una cuerda tensada atada a los dos extremos de una pieza curva de madera flexible de poco menos de un metro y veinte de longitud.</p><p>Requiere las dos manos para ser utilizado, pero su bono de Fuerza no se duplica.</p>"
     },
     "a9D15WPlLpDiMsPd": {
       "name": "Shuko",
@@ -650,7 +692,7 @@
     },
     "J3yiMCW64Z3b1Rpd": {
       "name": "Piedra de Honda",
-      "description": "Munición para la Honda."
+      "description": "Munición para la Honda"
     },
     "hk4Alk8X0feNHBo3": {
       "name": "Sode Garami",
@@ -702,7 +744,7 @@
     },
     "5yyJVh3I3EZXhmqK": {
       "name": "Tonfa",
-      "description": "Arma tipo garrote, con un mango corto que sobresale en el centro, diseñada para ser usada sujetándola a lo largo del antebrazo."
+      "description": "<p>Precisa </p><hr><p>Consiste en una porra provista de un asidero perpendicular en su mitad, que se empuña manteniéndola alineada a lo largo del antebrazo.</p>"
     },
     "Yh3lfbkHtSjz2dr4": {
       "name": "Antorcha",
@@ -747,6 +789,9 @@
     "9CNLyicyDEnWpPLc": {
       "name": "Martillo de Guerra",
       "description": "Arma contundente que consiste en un asta rematada por una gran cabeza de martillo de acero."
+    },
+    "sHsg3pWIYt0Gkrbs": {
+      "name": "Armas"
     },
     "DqqlHd60DRmQTDDb": {
       "name": "Látigo",

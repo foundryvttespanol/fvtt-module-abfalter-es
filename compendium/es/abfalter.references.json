@@ -1,12 +1,9 @@
 {
   "label": "Referencias",
-  "mapping": {
-    "description": "system.description"
-  },
+  "mapping": [],
   "entries": {
     "UM2pxtVK3EP6Rl4Y": {
-      "name": "Diario de reglas de Referencia",
-      "description": null
+      "name": "Diario de reglas de Referencia"
     }
   }
 }

@@ -1,0 +1,36 @@
+{
+  "label": "Precios",
+  "mapping": [],
+ "folders": {
+  "Prices and Stuff": "Materiales y precios"
+  },
+  "entries": {
+    "0wvBvp7sxqOOpH7k": {
+      "name": "Arte y Decoración"
+    },
+    "DDXXtoKFDBozJQiL": {
+      "name": "Vestimenta"
+    },
+    "MDksmjukGHiRkva3": {
+      "name": "Servicios y Contratas"
+    },
+    "5aFUE0s6HiwpQyLu": {
+      "name": "Vivienda"
+    },
+    "CgBH3iqOJQfr73K4": {
+      "name": "Joyería"
+    },
+    "qdGNdnD7gJSHZBex": {
+      "name": "Pintura"
+    },
+    "FqAzsR4Z8pKcuars": {
+      "name": "Precios"
+    },
+    "ILT3TeM7ht2A84Rx": {
+      "name": "Transporte"
+    },
+    "Bl42CZsxmTelMUXe": {
+      "name": "Viajes"
+    }
+  }
+}
