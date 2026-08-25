@@ -65,8 +65,7 @@
       "cost": -20
     },
     "MIPHnb3Fbg0aLjps": {
-      "name": "Ventajas",
-      "description": ""
+      "name": "Ventajas"
     },
     "17ndleWB9e3uFh4D": {
       "name": "Seres Extraplanares",
@@ -143,8 +142,7 @@
       "cost": 20
     },
     "CvCmAFXdJXNdpf2j": {
-      "name": "Poderes de Criatura",
-      "description": ""
+      "name": "Poderes de Criatura"
     },
     "4o2yaL05T7oCt5Lb": {
       "name": "Barrera de Daño [100]",
@@ -167,8 +165,7 @@
       "cost": 15
     },
     "zBan51or3SjHnDCk": {
-      "name": "Barrera de Daño",
-      "description": ""
+      "name": "Barrera de Daño"
     },
     "JrZHx8iJd7NmYzk0": {
       "name": "Dañar Energía",
@@ -186,8 +183,7 @@
       "shortDesc": "Un Noth no soporta daño más allá de su resistencia natural. Si en algún momento sus Puntos de Vida llegan a cero, es destruido automáticamente y desaparece sin dejar rastro."
     },
     "j2Cm1pzCrsCw5BjC": {
-      "name": "Desventajas",
-      "description": ""
+      "name": "Desventajas"
     },
     "fgf58Qw2FMPzzT3h": {
       "name": "Características Físicas Divinas",
@@ -220,12 +216,10 @@
       "cost": 100
     },
     "x9Ei1rr6sVv8nAFV": {
-      "name": "Forma Elemental o Inmaterial",
-      "description": ""
+      "name": "Forma Elemental o Inmaterial"
     },
     "8QhDj9RUqTvcCit3": {
-      "name": "Habilidades Esenciales",
-      "description": ""
+      "name": "Habilidades Esenciales"
     },
     "iIEwkLQwwlX7HZbX": {
       "name": "Visión Extrasensorial",
@@ -332,8 +326,7 @@
       "cost": 50
     },
     "KecpNx9KS90cZGWY": {
-      "name": "Resistencia Física Excepcional",
-      "description": ""
+      "name": "Resistencia Física Excepcional"
     },
     "FQcjzg4fnfAsEgEB": {
       "name": "Modificador psíquico incrementado",
@@ -347,8 +340,7 @@
       "cost": 30
     },
     "8HWhiZvw5thvxp4E": {
-      "name": "Reacción Incrementada",
-      "description": ""
+      "name": "Reacción Incrementada"
     },
     "JhaDiEHkHMNt0StV": {
       "name": "Inhumanidad",
@@ -362,8 +354,7 @@
       "cost": 20
     },
     "yNIrcDWczIeTduD8": {
-      "name": "Poderes Sobrenaturales Innatos",
-      "description": ""
+      "name": "Poderes Sobrenaturales Innatos"
     },
     "5dmKIBIswjtaNebK": {
       "name": "Interacción con el Mundo",
@@ -371,8 +362,7 @@
       "cost": 30
     },
     "agZipYCHASkwfBAo": {
-      "name": "Invisibilidad e Indetecciones",
-      "description": ""
+      "name": "Invisibilidad e Indetecciones"
     },
     "YGFqVHJbPRWtspoh": {
       "name": "Recuperación de KI",
@@ -386,8 +376,7 @@
       "cost": -10
     },
     "UIejSdGrDoX6KyVs": {
-      "name": "Poderes de la Máquina",
-      "description": ""
+      "name": "Poderes de la Máquina"
     },
     "aAWydEU6LAohRJOJ": {
       "name": "Magia Estanca",
@@ -396,12 +385,10 @@
       "cost": -30
     },
     "nzvmyb1otpBWVhkJ": {
-      "name": "Ventajas Mágicas/Psíquicas",
-      "description": ""
+      "name": "Ventajas Mágicas/Psíquicas"
     },
     "W04761hPtK3izNdj": {
-      "name": "Desventajas Mágicas/Psíquicas",
-      "description": ""
+      "name": "Desventajas Mágicas/Psíquicas"
     },
     "fHTF6Ama4oGr70qJ": {
       "name": "Extenuación Mágica",
@@ -410,12 +397,10 @@
       "cost": -10
     },
     "moaLCSN9Ab0UtSLT": {
-      "name": "Metamorfosis",
-      "description": ""
+      "name": "Metamorfosis"
     },
     "zQYEFfG8jpcuEQkK": {
-      "name": "Desplazamientos y Transportes",
-      "description": ""
+      "name": "Desplazamientos y Transportes"
     },
     "1NojbQiLTyfQWsH6": {
       "name": "Movimiento sin Peso",
@@ -423,8 +408,7 @@
       "cost": 10
     },
     "yLgZnBSxUWAl9USM": {
-      "name": "Resistencias Místicas y Psíquicas",
-      "description": ""
+      "name": "Resistencias Místicas y Psíquicas"
     },
     "N54zLSsZwF3IAT1L": {
       "name": "Vuelo Místico [12]",
@@ -442,8 +426,7 @@
       "cost": 60
     },
     "iiZMfPwd7aFlxHxp": {
-      "name": "Vuelo Místico",
-      "description": ""
+      "name": "Vuelo Místico"
     },
     "06uGd0FCL8nrAcUI": {
       "name": "Resistencia Mísica Excepcional [+20]",
@@ -476,8 +459,7 @@
       "cost": 100
     },
     "udSqgK7c6T4Ell8n": {
-      "name": "Vuelo Natural",
-      "description": ""
+      "name": "Vuelo Natural"
     },
     "LcIvJn5d6JvxdxFi": {
       "name": "Inmunidad Natural a un Elemento (Completa)",
@@ -549,16 +531,14 @@
       "cost": -10
     },
     "EK84Oz2RgF282wpR": {
-      "name": "Poderes de los Noth",
-      "description": ""
+      "name": "Poderes de los Noth"
     },
     "Awsd1q8C5RMPIfqV": {
       "name": "Percepción Noth",
       "shortDesc": "Los Noth no pueden ser percibidos por individuos normales ni por seres sobrenaturales; existen en un plano distinto, y solo aquellos con una percepción única pueden verlos o sentirlos. Solo los seres naturales cuya Gnosis sea al menos 10 puntos superior a su Natura o criaturas con una Gnosis natural de 30 o más pueden percibirlos. Ningún otro método, incluidos hechizos de percepción o habilidades especiales, puede alterar este hecho; esto incluye también la ventaja Ver lo Sobrenatural."
     },
     "9wCsOjNBVG81Y0LT": {
-      "name": "Poderes Ofensivos",
-      "description": ""
+      "name": "Poderes Ofensivos"
     },
     "oVbuOv39bxrJnXVU": {
       "name": "Magia Opuesta",
@@ -661,8 +641,7 @@
       "cost": -10
     },
     "29b5kXaScYA4q2MM": {
-      "name": "Resistencias y Regeneraciones",
-      "description": ""
+      "name": "Resistencias y Regeneraciones"
     },
     "Tc0ElXkRk5kKMbP7": {
       "name": "Ver Espíritus",
@@ -682,24 +661,19 @@
       "cost": -30
     },
     "USkEp8HbaDonnrep": {
-      "name": "Ánimas",
-      "description": ""
+      "name": "Ánimas"
     },
     "12noA8r0ficP0haw": {
-      "name": "Inmunidades Especiales",
-      "description": ""
+      "name": "Inmunidades Especiales"
     },
     "IVoV8A70FAkSFdpQ": {
-      "name": "Medios de Visión Especiales",
-      "description": ""
+      "name": "Medios de Visión Especiales"
     },
     "KhchF23HBTPMW35F": {
-      "name": "Desplazamientos Especiales",
-      "description": ""
+      "name": "Desplazamientos Especiales"
     },
     "SWNDCS9kWnA2DNV2": {
-      "name": "Percepciones Especiales",
-      "description": ""
+      "name": "Percepciones Especiales"
     },
     "8g9mEnqE4WZogdaJ": {
       "name": "Invisibilidad Espiritual",

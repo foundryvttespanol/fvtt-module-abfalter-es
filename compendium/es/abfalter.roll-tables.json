@@ -1,5 +1,5 @@
 {
-  "label": "roll-tablas",
+  "label": "Tablas aleatorias",
   "folders": {
     "Invocations": "Invocaciones"
   },
@@ -68,8 +68,7 @@
       }
     },
     "wH9k5F5q8rT2bLqB": {
-      "name": "Invocaciones",
-      "description": null
+      "name": "Invocaciones"
     },
     "rVGuDTkkIDozQEC2": {
       "name": "Pandora",

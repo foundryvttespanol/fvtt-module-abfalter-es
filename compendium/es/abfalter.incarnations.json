@@ -46,8 +46,7 @@
       "difficulty": 460
     },
     "2erKe2AgO1KYkZIV": {
-      "name": "Aeriel, El Caballero Argenta",
-      "description": null
+      "name": "Aeriel, El Caballero Argenta"
     },
     "JdzYltjDabB5E3FB": {
       "name": "Ambrose Magus - Afinidad Intermedia",
@@ -74,8 +73,7 @@
       "difficulty": 280
     },
     "AbWQ7JqeWLigVq6m": {
-      "name": "Ambrose Magus, El Hechicero",
-      "description": null
+      "name": "Ambrose Magus, El Hechicero"
     },
     "YYBMgqSTmFDTQP6a": {
       "name": "Anassilish - Afinidad Intermedia",
@@ -102,8 +100,7 @@
       "difficulty": 300
     },
     "LQi80JQjAm8lNSp6": {
-      "name": "Anassilish, El Sin Rostro",
-      "description": null
+      "name": "Anassilish, El Sin Rostro"
     },
     "wi7LmzTvAEqjPgWm": {
       "name": "Arturia - Afinidad Intermedia",
@@ -130,8 +127,7 @@
       "difficulty": 280
     },
     "r3ltxJmKQ4kaJz2u": {
-      "name": "Arturia, El León Blanco",
-      "description": null
+      "name": "Arturia, El León Blanco"
     },
     "HPrikct4kPbGF1Xr": {
       "name": "Eiko - Afinidad Intermedia",
@@ -158,8 +154,7 @@
       "difficulty": 360
     },
     "TndONrmyIbM4EQYT": {
-      "name": "Eiko, La Princesa Oni",
-      "description": null
+      "name": "Eiko, La Princesa Oni"
     },
     "gxdBt7z3O91wtyPr": {
       "name": "Gygjur - Afinidad Intermedia",
@@ -186,8 +181,7 @@
       "difficulty": 490
     },
     "KA3CXBOliI786w7A": {
-      "name": "Gygjur, Asesino de Dragones",
-      "description": null
+      "name": "Gygjur, Asesino de Dragones"
     },
     "txtYfqylRViLHtGG": {
       "name": "Holst - Afinidad Intermedia",
@@ -214,8 +208,7 @@
       "difficulty": 520
     },
     "sE7BLhWeyFeUw4x0": {
-      "name": "Holst, Rey de Héroes",
-      "description": null
+      "name": "Holst, Rey de Héroes"
     },
     "1QotOTHfuMCxLXKr": {
       "name": "Kha'nefer - Afinidad Intermedia",
@@ -242,8 +235,7 @@
       "difficulty": 320
     },
     "b9LadlWuewmWOOUr": {
-      "name": "Kha'nefer, El sacerdote Impio",
-      "description": null
+      "name": "Kha'nefer, El sacerdote Impio"
     },
     "xufVBnfzCXF3wlcw": {
       "name": "Kristoff - Afinidad Intermedia",
@@ -270,8 +262,7 @@
       "difficulty": 380
     },
     "in7gibeG1s5tCBcz": {
-      "name": "Kristoff, El Rey Pirata",
-      "description": null
+      "name": "Kristoff, El Rey Pirata"
     },
     "jibGf035qGPbhsmk": {
       "name": "Linx  Kazte Hex -  Afinidad Intermedia",
@@ -298,8 +289,7 @@
       "difficulty": 380
     },
     "lTMzLlC0jln0HguU": {
-      "name": "Linx Kazte Hex, La Sombra que Trae la Muerte",
-      "description": null
+      "name": "Linx Kazte Hex, La Sombra que Trae la Muerte"
     },
     "s22YVzwC3yDfQn6x": {
       "name": "Loly Ann - Afinidad Intermedia",
@@ -326,8 +316,7 @@
       "difficulty": 400
     },
     "ngkiP29pR3tGVDJY": {
-      "name": "Loly Ann",
-      "description": null
+      "name": "Loly Ann"
     },
     "ucG8u9FR1nIiXe5P": {
       "name": "Nerval - Afinidad Intermedia",
@@ -354,12 +343,10 @@
       "difficulty": 400
     },
     "8JrLkkjVSpEsGaGQ": {
-      "name": "Nerval, Defensor de los Perdidos",
-      "description": null
+      "name": "Nerval, Defensor de los Perdidos"
     },
     "sv3HYGvCeEOJzIbP": {
-      "name": "Oficial",
-      "description": null
+      "name": "Oficial"
     },
     "VOdbMDyZcXJs9E40": {
       "name": "Quezcatli - Afinidad Intermedia",
@@ -386,8 +373,7 @@
       "difficulty": 260
     },
     "A91YUY2An27DOKEl": {
-      "name": "Quezcatli, Hijo del Sol",
-      "description": null
+      "name": "Quezcatli, Hijo del Sol"
     },
     "KJZIhX5MtjSu2rB9": {
       "name": "Ruatha Synn - Afinidad Intermedia",
@@ -414,8 +400,7 @@
       "difficulty": 460
     },
     "P5TYzipgyUdz349n": {
-      "name": "Ruatha Synn",
-      "description": null
+      "name": "Ruatha Synn"
     },
     "G8MyHOq0iesairHA": {
       "name": "Wang Shou Bo - Afinidad Intermedia",
@@ -442,8 +427,7 @@
       "difficulty": 500
     },
     "vzlv2vHoo9UqlUP7": {
-      "name": "Wang Shou Bo",
-      "description": null
+      "name": "Wang Shou Bo"
     }
   }
 }

@@ -280,13 +280,13 @@
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
       "effect80": "Fatiga 1",
-      "effect120": "1 m^3",
-      "effect140": "2 m^3",
-      "effect180": "3 m^3",
-      "effect240": "4 m^3",
-      "effect280": "5 m^3",
-      "effect320": "10 m^3",
-      "effect440": "20 m^3",
+      "effect120": "1 metro cúbico",
+      "effect140": "2 metros cúbicos",
+      "effect180": "3 metros cúbicos",
+      "effect240": "4 metros cúbicos",
+      "effect280": "5 metros cúbicos",
+      "effect320": "10 metros cúbicos",
+      "effect440": "20 metros cúbicos",
       "action": "Activa"
     },
     "ategbQRVAQmggbnY": {
@@ -475,13 +475,13 @@
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
       "effect80": "Inhumanidad",
-      "effect120": "Inhumanidad, +5 a las habilidades atléticas",
-      "effect140": "Inhumanidad, +10 a las habilidades atléticas",
-      "effect180": "Inhumanidad, +20 a las habilidades atléticas",
-      "effect240": "Zen, +30 a las habilidades atléticas",
-      "effect280": "Zen, +40 a las habilidades atléticas",
-      "effect320": "Zen, +60 a las habilidades atléticas",
-      "effect440": "Zen, +80 a las habilidades atléticas",
+      "effect120": "Inhumanidad / +5 a las habilidades atléticas",
+      "effect140": "Inhumanidad / +10 a las habilidades atléticas",
+      "effect180": "Inhumanidad / +20 a las habilidades atléticas",
+      "effect240": "Zen / +30 a las habilidades atléticas",
+      "effect280": "Zen / +40 a las habilidades atléticas",
+      "effect320": "Zen / +60 a las habilidades atléticas",
+      "effect440": "Zen / +80 a las habilidades atléticas",
       "action": "Activa"
     },
     "2rV8q0Nou8L1yePi": {
@@ -1017,11 +1017,11 @@
       "effect80": "Fatiga 4",
       "effect120": "Fatiga 2",
       "effect140": "Fatiga 1",
-      "effect180": "1 m^2 holográfico",
-      "effect240": "5 m^2 holográficos",
-      "effect280": "10 m^2 holográficos",
-      "effect320": "25 m^2 holográficos",
-      "effect440": "50 m^2 holográficos",
+      "effect180": "1 metro cuadrado holográfico",
+      "effect240": "5 metros cuadrados holográficos",
+      "effect280": "10 metros cuadrados holográficos",
+      "effect320": "25 metros cuadrados holográficos",
+      "effect440": "50 metros cuadrados holográficos",
       "action": "Activa"
     },
     "rYO696NMudLRy3PQ": {
@@ -1895,7 +1895,7 @@
       "action": "Activa"
     },
     "uttbULW9MBpSNBaZ": {
-      "name": "Zero Absoluto",
+      "name": "3: Cero Absoluto",
       "description": "Baja la temperatura dentro del área hasta el cero absoluto. Todos los seres y objetos físicos deben superar un chequeo de Resistencia Física RF 100 cada asalto o serán destruidos por el frío absoluto. Todos son afectados sin necesidad de tirar Proyección.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -1910,7 +1910,7 @@
       "action": "Activa"
     },
     "Of34oMIlAKifJDND": {
-      "name": "Aleph",
+      "name": "3: Aleph",
       "description": "Este Poder permite al Psíquico realizar un control de Percepción cada turno para localizar un lugar, persona u objeto específico. Siempre que esté dentro del alcance y supere el control de Percepción, puede encontrarlo. Cada asalto que el Psíquico mantenga este poder, la dificultad del control de PER se reduce en uno; sin embargo, también debe realizar un chequeo de Resistencia Psíquica RP contra el valor indicado o sufrirá una Penalización a Todas las Acciones igual al grado de fallo, la cual se recupera a un ritmo de 5 puntos por día. El Psíquico pierde permanentemente un punto de INT y VOL por cada 40 puntos por los que falle el chequeo. Si se están utilizando las reglas opcionales de Salud Mental, el Director de Juego puede sustituir esta pérdida por un Shock.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -1925,7 +1925,7 @@
       "action": "Activa"
     },
     "PcePeDJe9nmwbdcO": {
-      "name": "Alterar el Clima",
+      "name": "2: Alterar el Clima",
       "description": "Altera la atmósfera para cambiar el clima. No requiere mantenimiento, únicamente tiempo para que los cambios se propaguen y generen el clima deseado.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -1940,7 +1940,7 @@
       "action": "Activa"
     },
     "ifAXWHc3NLABWC97": {
-      "name": "Modificación de Recuerdos",
+      "name": "2: Modificación de Recuerdos",
       "description": "Edita los recuerdos de un sujeto, ya sea añadiendo nuevos o eliminando antiguos. El elemento exacto que se añade o elimina debe conocerse. Por cada punto por el que el objetivo falle su chequeo de RP, el Psíquico puede modificar una hora de recuerdos. El objetivo tiene derecho a un nuevo chequeo de RP contra la dificultad original si ve o experimenta algo que pueda recordarle sus verdaderos recuerdos.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -1955,7 +1955,7 @@
       "action": "Active"
     },
     "3GFN8TVeWUSSCQ6L": {
-      "name": "Área",
+      "name": "3: Área",
       "description": "Mientras se mantenga, todos los poderes Sentientes afectan a cualquier individuo dentro del radio indicado.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -1970,7 +1970,7 @@
       "action": "Activa"
     },
     "JfQ7tPye6CZCjqAJ": {
-      "name": "Área",
+      "name": "3: Área",
       "description": "Mientras se mantenga, todos los poderes de Telepatía afectan a cualquier individuo dentro del radio indicado.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -1985,7 +1985,7 @@
       "action": "Activa"
     },
     "17bf2q6xbQxNNwhd": {
-      "name": "Escaneo de Zona",
+      "name": "1: Escaneo de Zona",
       "description": "El Psíquico puede detectar cualquier mente activa dentro del área, pudiendo discernir entre intelectos simples (como los de los animales) y aquellos de naturaleza más compleja. Este poder no permite localizar una mente específica. No se requiere proyección para este poder, y aquellos que fallen el chequeo de resistencia no tienen derecho a repetirlo.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2000,7 +2000,7 @@
       "action": "Activa"
     },
     "qJvMl2UXQI5sBnht": {
-      "name": "Forma Astral",
+      "name": "2: Forma Astral",
       "description": "El psíquico proyecta una forma intangible desde su cuerpo. Esta entidad espiritual es invisible para quienes no pueden ver energía e intangible para quienes no pueden afectarla. Recibir cualquier tipo de daño provoca el fin de la forma proyectada, y el cuerpo físico sufre dicho daño. Si el cuerpo físico muere mientras este poder está activo, la forma espiritual permanece hasta que el poder finaliza, momento en el cual se destruye por completo.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -2015,7 +2015,7 @@
       "action": "Activa"
     },
     "v2FQhlKSp7k5ZIbV": {
-      "name": "Reestructuración Atómica",
+      "name": "3: Reestructuración Atómica",
       "description": "Reestructura al objetivo a nivel molecular, transformando un ser vivo en una estatua de piedra, arena en oro, y similares. Esta transformación está limitada por las habilidades de Arte o Forja del Psíquico, pero la dificultad de la tirada se reduce en dos niveles debido al control perfecto sobre los materiales. La calidad de un objeto puede ajustarse hasta cinco grados hacia arriba o hacia abajo. No se pueden crear materiales místicos como la malebolgia con este poder.",
       "effect20": "Fatiga 24",
       "effect40": "Fatiga 20",
@@ -2030,7 +2030,7 @@
       "action": "Activa"
     },
     "Mm4zNtHM8TGzqcrn": {
-      "name": "Balística",
+      "name": "2: Balística",
       "description": "Permite disparar objetos con gran precisión. El lanzador puede arrojar múltiples objetos para afectar un área o apuntar a una única entidad con una bono a su Proyección. Si se apunta a una única entidad, se aplica el daño base (si es un arma) más el bono de Voluntad del Psíquico (en lugar de FUE). Cubrir un área incrementa el Daño Base en un 50 %. Otros objetos tienen un daño base variable entre 30 y 150, a discreción del DJ.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2045,13 +2045,13 @@
       "action": "Activa"
     },
     "SD33JHFpI0wwl4sa": {
-      "name": "Casualidad"
+      "name": "Causalidad"
     },
     "x1wyIenvX2hi4JuU": {
-      "name": "Casualidad"
+      "name": "Causalidad"
     },
     "GrtQvTdjqOnJcqBI": {
-      "name": "Control sobre el Frío",
+      "name": "1: Control sobre el Frío",
       "description": "Controla el Hielo y el Frío, ya sea dándoles forma según la voluntad del lanzador o controlando a una criatura elemental (la cual realiza un chequeo de RF para resistirse).",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2066,7 +2066,7 @@
       "action": "Activa"
     },
     "k3pxVNhnc28w80bm": {
-      "name": "Inmunidad al Frío",
+      "name": "2: Inmunidad al Frío",
       "description": "El psíquico o el objetivo designado obtiene inmunidad contra  Intensidades de frío; reduce el daño base de los ataques de frío en 5 por cada Intensidad, y aumenta las Resistencias en +5 por cada Intensidad.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2081,7 +2081,7 @@
       "action": "Pasiva"
     },
     "QGS39qPGFh2dTWOt": {
-      "name": "Conectar Sentidos",
+      "name": "1: Conectar Sentidos",
       "description": "El Psíquico enlaza sus sentidos con los de otro individuo, permitiendo usar sus sentidos y viceversa. El Psíquico (y sólo él) puede negar a otros el uso de sus sentidos. Quienes sospechen estar bajo la influencia de este poder pueden volver a tirar su Resistencia RP cada 5 asaltos.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2096,7 +2096,7 @@
       "action": "Activa"
     },
     "QYVTjMYZmCjSzkLL": {
-      "name": "Consumir",
+      "name": "3: Consumir",
       "description": "Provoca que el objetivo se queme internamente, reduciéndolo a cenizas. Las criaturas que fallen su chequeo de RF reciben daño automático. Las criaturas de acumulación multiplican este daño por 5. Los objetos que fallen su chequeo de RF son destruidos, o pierden un nivel de Calidad en el caso de objetos con Calidad Excepcional.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -2111,7 +2111,7 @@
       "action": "Activa"
     },
     "wqZ5tlzK2s3flhUP": {
-      "name": "Controlar la Casualidad",
+      "name": "3: Controlar la Casualidad",
       "description": "Permite alterar los caprichos del azar, permitiendo que un evento ocurra por muy improbable que sea.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -2126,7 +2126,7 @@
       "action": "Activa"
     },
     "gdJucPLTf0198PUx": {
-      "name": "Controlar Impulsos Eléctricos",
+      "name": "3: Controlar Impulsos Eléctricos",
       "description": "Permite interferir con otro ser manipulando impulsos nerviosos, interrumpiendo su movimiento o permitiendo un control real. Este poder sólo puede afectar a seres físicos.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 10",
@@ -2141,7 +2141,7 @@
       "action": "Activa"
     },
     "eMgBo7WCIBHPp1rz": {
-      "name": "Controlar Energía",
+      "name": "2: Controlar Energía",
       "description": "Permite manipular intensidades de frío, calor o electricidad. La Proyección del Psíquico se reduce a la mitad si desea usar estas de forma ofensiva. Cualquier entidad con Presencia o ser vivo puede intentar resistirse con un chequeo de RF.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2156,7 +2156,7 @@
       "action": "Activa"
     },
     "eQO3dJV0hEPxT2mL": {
-      "name": "Control sobre el Fuego",
+      "name": "1: Controlar Fuego",
       "description": "Permite controlar la propagación, intensidad, color y forma de los incendios dentro del área, hasta el límite de las Intensidades indicadas. Si se usa contra un ser elemental de fuego, este debe superar un chequeo de RF para evitar ser controlado.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2171,7 +2171,7 @@
       "action": "Activa"
     },
     "TjYPrtaANEnoRCiS": {
-      "name": "Crear Caos",
+      "name": "1: Crear Caos",
       "description": "Permite acelerar la causalidad. Los eventos resultantes no pueden ser controlados, pero es probable que ocurran eventos naturales poco comunes, como la erupción de volcanes inactivos o similares.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 8",
@@ -2186,7 +2186,7 @@
       "action": "Activa"
     },
     "rExs5zoAgzmjY7Oi": {
-      "name": "Crear Frío",
+      "name": "1: Crear Frío",
       "description": "Permite crear intensidades de frío, incluyendo hielo si se usa sobre un líquido.",
       "effect20": "Fatiga 1",
       "effect40": "1 Intensidad",
@@ -2201,7 +2201,7 @@
       "action": "Activa"
     },
     "pGdgG3XEP6YbxM9z": {
-      "name": "Crear Electricidad",
+      "name": "1: Crear Electricidad",
       "description": "Crea intensidades de electricidad.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2216,7 +2216,7 @@
       "action": "Activa"
     },
     "HE9rfmLvVhhhwxT3": {
-      "name": "Crear Energía",
+      "name": "1: Crear Energía",
       "description": "Permite crear cualquier tipo de energía no sobrenatural, o hacer que una fuente existente crezca hasta el nivel indicado.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2231,7 +2231,7 @@
       "action": "Activa"
     },
     "ZHt9YJX5ItuvvaaL": {
-      "name": "Crear Sentimientos",
+      "name": "2: Crear Sentimientos",
       "description": "Permite crear nuevos sentimientos en un individuo, como amor o repulsión hacia otro. También puede usarse para inducir Estados mentales sobrenaturales en un objetivo. Si los sentimientos van en gran medida contra las emociones actuales de la criatura, esta recibe un bono de +20 al chequeo de RP. Quienes sospechen que sus emociones están siendo manipuladas pueden repetir el chequeo de Resistencia cada 5 asaltos.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 4",
@@ -2246,7 +2246,7 @@
       "action": "Activa"
     },
     "fdKujeOqQSqBKcyS": {
-      "name": "Crear Llamas",
+      "name": "1: Crear Fuego",
       "description": "Permite crear o fortalecer llamas. Si se usa sobre una fuente naturalmente inflamable, no requiere mantenimiento para mantener la llama encendida.",
       "effect20": "Fatiga 1",
       "effect40": "1 Intensidad",
@@ -2261,7 +2261,7 @@
       "action": "Activa"
     },
     "6mUm75bsMQHsKZYx": {
-      "name": "Crear Luz",
+      "name": "1: Crear Luz",
       "description": "Permite crear luz a voluntad dentro del radio indicado.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2276,7 +2276,7 @@
       "action": "Activa"
     },
     "5tAsxPSx0j30iazz": {
-      "name": "Crear Orden",
+      "name": "3: Crear Orden",
       "description": "Reduce las posibilidades de que ocurran eventos improbables dentro del área, haciendo la vida monótona y predecible. En niveles superiores, esto debilita la magia y la invocación.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 8",
@@ -2297,7 +2297,7 @@
       "name": "Crioquinesis"
     },
     "QZVr5Quo11U5ABDk": {
-      "name": "Cristalizar",
+      "name": "2: Cristalizar",
       "description": "El objetivo debe realizar un chequeo de RF. Quienes fallen quedan afectados por Parálisis Menor y reciben un crítico automático con un -40 a su chequeo de RF cada vez que reciban daño. Las criaturas de acumulación de Daño no reciben este crítico automático, pero todo su cuerpo se considera un punto vulnerable.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 8",
@@ -2312,7 +2312,7 @@
       "action": "Activa"
     },
     "rv3vaxgRUnnNb442": {
-      "name": "Disminuir la Temperatura Ambiental",
+      "name": "2: Disminuir la Temperatura Ambiental",
       "description": "Permite disminuir la temperatura en un área extensa.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2327,7 +2327,7 @@
       "action": "Activa"
     },
     "puteApBPnovrSEY2": {
-      "name": "Transporte Defensivo",
+      "name": "1: Transporte Defensivo",
       "description": "El Psíquico puede realizar teletransportes cortos para evitar ataques, usando su Proyección en lugar de Esquiva. La distancia máxima que puede moverse y el número de Esquivas permitidas por asalto están determinados por la dificultad alcanzada",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2342,7 +2342,7 @@
       "action": "Pasiva"
     },
     "CB1iaQJ7pwQQiKa0": {
-      "name": "Eliminar Ley de la Casualidad",
+      "name": "2: Eliminar Ley de la Casualidad",
       "description": "El Psíquico puede reemplazar cualquier prueba de Habilidad o control de Característica que realice por un valor predefinido. Este poder no puede usarse para chequeos de Resistencia, ni para pruebas relacionados con lo Sobrenatural.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 8",
@@ -2357,7 +2357,7 @@
       "action": "Activa"
     },
     "Xi403dNwgQswdAHe": {
-      "name": "Destruir Sentimientos",
+      "name": "3: Destruir Sentimientos",
       "description": "Destruye un sentimiento en un objetivo (el Psíquico debe especificar el sentimiento y su naturaleza). Las emociones profundamente arraigadas pueden otorgar un +20 al chequeo de resistencia. El Psíquico puede borrar una emoción adicional por cada 20 puntos de fallo. Si la víctima falla el chequeo por más de 80, el Psíquico puede eliminar todos los sentimientos de un objetivo, dejándolo en un estado vegetativo.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -2372,7 +2372,7 @@
       "action": "1"
     },
     "Kp5qX8LLxfdJUhqD": {
-      "name": "Destruir Matrices",
+      "name": "1: Destruir Matrices",
       "description": "Destruye un poder psíquico activo del objetivo de dificultad igual o menor.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2387,22 +2387,22 @@
       "action": "Pasiva"
     },
     "MeYnt02xeft7ffOX": {
-      "name": "Detectar Sentimientos",
+      "name": "1: Detectar Sentimientos",
       "description": "El Psíquico detecta un sentimiento específico dentro del área; por ejemplo, puede designar “miedo” y detectar a todos los individuos temerosos dentro de esa zona. No requiere Proyección.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
-      "effect80": "80 RF / 10 metros de radio",
-      "effect120": "100 RF / 50 metros de Radio",
-      "effect140": "120 RF / 100 metros de Radio ",
-      "effect180": "140 RM / 250 metros de Radio ",
-      "effect240": "160 RF / 500 metros de radio",
-      "effect280": "180 RF / 1 Km de Radio",
-      "effect320": "200 RF / 10 Km de Radio",
-      "effect440": "220 RF / 100 Km de Radio",
+      "effect80": "80 RP / 10 metros de radio",
+      "effect120": "100 RP / 50 metros de Radio",
+      "effect140": "120 RP / 100 metros de Radio ",
+      "effect180": "140 RP / 250 metros de Radio ",
+      "effect240": "160 RP / 500 metros de radio",
+      "effect280": "180 RP / 1 Km de Radio",
+      "effect320": "200 RP / 10 Km de Radio",
+      "effect440": "220 RP / 100 Km de Radio",
       "action": "Activa"
     },
     "AVDKLdgguL1oT6JD": {
-      "name": "Arco Eléctrico",
+      "name": "2: Arco Eléctrico",
       "description": "Permite atacar con un rayo eléctrico, El ataque se basa en  ELE y es visible para todos.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2417,7 +2417,7 @@
       "action": "Activa"
     },
     "d3jm4q277K9XErio": {
-      "name": "Control de la Electricidad",
+      "name": "1: Controlar Electricidad",
       "description": "Permite controlar la dirección y el comportamiento de la electricidad o de una criatura elemental de electricidad. En caso de una criatura, tiene derecho a un chequeo de Resistencia Física RF.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2438,7 +2438,7 @@
       "name": "Electromagnetismo"
     },
     "9FPVeXINQRdRdudL": {
-      "name": "Eliminar el Frío",
+      "name": "1: Eliminar el Frío",
       "description": "Destruye varias Intensidades de Frío. Las criaturas de frío reciben 5 puntos de vida de daño por cada Intensidad si fallan un chequeo de RF (Resistencia Física); 25 PV por intensidad para las criaturas de acumulación de daño.",
       "effect20": "Fatiga 1",
       "effect40": "80 RF / -1 intensidad",
@@ -2453,7 +2453,7 @@
       "action": "Activa"
     },
     "gCNt9N2lN81cNcLv": {
-      "name": "Eliminar Sentidos",
+      "name": "2: Eliminar Sentidos",
       "description": "Permite eliminar el uso de uno de los sentidos mundanos del objetivo, además de un sentido adicional por cada 20 puntos de de fallo en el chequeo de Resistencia Psíquica RP. Se permite repetir el chequeo cada 5 asaltos, pero un éxito solo recupera un sentido a la vez.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -2468,7 +2468,7 @@
       "action": "Activa"
     },
     "wOrzMK2tZK43Jhzr": {
-      "name": "Descarga de Energía",
+      "name": "1: Descarga de Energía",
       "description": "Permite dispaar una descarga basada en ELE. Este ataque es perfectamente visible.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2486,7 +2486,7 @@
       "name": "Energía"
     },
     "8nsqfTDtjJ5hAlKO": {
-      "name": "Cúpula de Energía",
+      "name": "3: Cúpula de Energía",
       "description": "Gran ataque en área que afecta a todos dentro de ella sin distinción. Afecta en la TA de ELE. Este ataque es perfectamente visible.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -2501,22 +2501,22 @@
       "action": "Activa"
     },
     "PxLW0TT07ieeiNN0": {
-      "name": "Creación de Energía",
+      "name": "1: Creación de Energía",
       "description": "Permite crear un objeto hecho de Energía con presencia 25. Si se trata de un arma, posee un daño base entre 80 y 120 (dependiendo del tamaño) y un turno natural de +10. No obtiene el bono de FUE del usuario y afecta la TA de ELE.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
       "effect80": "Fatiga 1",
-      "effect120": "1 m^3",
-      "effect140": "2 m^3",
-      "effect180": "3 m^3",
-      "effect240": "4 m^3",
-      "effect280": "5 m^3",
-      "effect320": "10 m^3",
-      "effect440": "20 m^3",
+      "effect120": "1 metro cúbico",
+      "effect140": "2 metros cúbicos",
+      "effect180": "3 metros cúbicos",
+      "effect240": "4 metros cúbicos",
+      "effect280": "5 metros cúbicos",
+      "effect320": "10 metros cúbicos",
+      "effect440": "20 metros cúbicos",
       "action": "Activa"
     },
     "Oxz6wIKfYqLri8DQ": {
-      "name": "Escudo de Energía",
+      "name": "1: Escudo de Energía",
       "description": "Es un escudo psíquico que puede proteger contra ataques sobrenaturales. Una vez creado, pierde 5 PV por asalto hasta alcanzar el nivel que el Psíquico puede mantener.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2534,7 +2534,7 @@
       "name": "Energía"
     },
     "jBbjZjUsujUJwDqS": {
-      "name": "Un Instante Eterno",
+      "name": "3: Un Instante Eterno",
       "description": "Congela todo movimiento dentro de un área excepto el del Psíquico. Aquellos que fallen un chequeo de RF por 40 o más sufren Parálisis Total. Los que fallen por menos de 40 reciben una penalización igual al nivel de fallo. Los que fallen no tienen derecho repetir el chequeo mientras se encuentren dentro del área, y los que pasen deben repetir el chequeo cada 5 asaltos. Este poder afecta a todos los objetivos sin necesidad de Proyección.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -2549,7 +2549,7 @@
       "action": "Activa"
     },
     "yaGvbZEdMqMdWENj": {
-      "name": "Mitigar Fuego",
+      "name": "1: Mitigar Fuego",
       "description": "Permite destruir intensidades de fuego. Además causa un daño de 5 PV por intensidad a criaturas basadas en fuego que fallen su chequeo de Resistencia. 25 PV para criaturas de acumulación de Daño.",
       "effect20": "Fatiga 1",
       "effect40": "80 RF / -1 intensidad",
@@ -2564,7 +2564,7 @@
       "action": "Activa"
     },
     "OiRZ5d2DIQlsLiWr": {
-      "name": "Eliminación de Cansancio",
+      "name": "3: Eliminación de Cansancio",
       "description": "Permite recuperar cansancio perdido. Los puntos de cansancio perdidos por fallar Poderes Psíquicos no pueden recuperarse de esta manera.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -2579,7 +2579,7 @@
       "action": "Activa"
     },
     "kFyJ8UE5kyqILAUZ": {
-      "name": "Filtrar Sentidos",
+      "name": "1: Filtrar Sentidos",
       "description": "Este Poder filtra la entrada sensorial, permitiendo al psíquico evitar sobrecargas (por ejemplo, no será cegado por un Destello de Luz) o aislar percepciones específicas (como escuchar una conversación en medio de una multitud, distinguir todos los ingredientes de una comida, etc.). Para efectos de juego, también reduce las penalizaciones al sentido elegido por el psíquico en una cantidad determinada.\n\nFiltrar o aislar un sentido; ya sea para evitar una sobrecarga o para enfocarse en un sentido específico. Reduce las penalizaciones al sentido(s) en un grado variable.",
       "effect20": "Fatiga 1",
       "effect40": "Hasta -10 / Un sentido",
@@ -2594,7 +2594,7 @@
       "action": "Pasiva"
     },
     "GvXBXsXXLjcYW6oQ": {
-      "name": "Inmunidad contra el fuego",
+      "name": "2: Inmunidad al Fuego",
       "description": "El psíquico o el objetivo designado obtiene inmunidad contra  Intensidades de fuego; reduce el daño base de los ataques de fuego en 5 por cada Intensidad, y aumenta las Resistencias en +5 por cada Intensidad.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2609,7 +2609,7 @@
       "action": "Pasiva"
     },
     "ygPe3ioz1oVAPeck": {
-      "name": "Flash de Luz",
+      "name": "1: Flash de Luz",
       "description": "Permite crear un destello de luz cegadora. Todos dentro del área que necesiten ver, excepto el Psíquico, deben hacer un chequeo de RF o sufrirán Ceguera durante un asalto por cada 10 puntos de margen de fallo. Un objetivo puede obtener un bono de +30 si anticipa el destello y protege sus ojos.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2624,7 +2624,7 @@
       "action": "Activa"
     },
     "ZZxM6ECgKEoadTir": {
-      "name": "Congelar",
+      "name": "1: Congelar",
       "description": "El objetivo debe realizar un chequeo de RF; sufriendo un Penalizador a toda acción igual al nivel de fallo. Si este es mayor a 40, también queda afectado por Parálisis Parcial. Se puede usar la TA de Frío contra este poder, y el objetivo tiene derecho a un nuevo chequeo cada 5 asaltos.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -2639,7 +2639,7 @@
       "action": "Activa"
     },
     "OOfB5FwbrdbxHe6i": {
-      "name": "Control del Terreno",
+      "name": "3: Control del Terreno",
       "description": "Concede control total sobre la materia que constituye el terreno, pudiendo moverla y darle forma a voluntad. Para destruir una estructura preexistente, comparar el potencial alcanzado con su Barrera de Daño.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -2654,7 +2654,7 @@
       "action": "Activa"
     },
     "QHanowGYq0i21tyY": {
-      "name": "Ocultar Matrices",
+      "name": "1: Ocultar Matrices",
       "description": "Disminuye los efectos de Sentir Matrices en el número de grados indicado. Si esto hace que la tirada sea menor que \"Fácil\", los poderes de este personaje permanecen inadvertidos. Sentir Matrices funciona con normalidad contra otros objetivos.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2669,22 +2669,22 @@
       "action": "Pasiva"
     },
     "XQUHDi8xMuXwzZfa": {
-      "name": "Holograma",
+      "name": "2: Holograma",
       "description": "Permite crear imágenes holográficas de luz, que pueden moverse según lo desee el Psíquico, dentro del rango de su Proyección. Se requiere una tirada de Dificultad 240/140 en Advertir/Búscar para darse cuenta de que no es real. Mientras se mueven, estas tiradas de dificultad son dos grados menores (140/80).",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
       "effect80": "Fatiga 4",
       "effect120": "Fatiga 2",
       "effect140": "Fatiga 1",
-      "effect180": "1 m^2 holográfico",
-      "effect240": "5 m^2 holográficos",
-      "effect280": "10 m^2 holográficos",
-      "effect320": "25 m^2 holográficos",
-      "effect440": "50 m^2 holográficos",
+      "effect180": "1 metro cuadrado holográfico",
+      "effect240": "5 metros cuadrados holográficos",
+      "effect280": "10 metros cuadrados holográficos",
+      "effect320": "25 metros cuadrados holográficos",
+      "effect440": "50 metros cuadrados holográficos",
       "action": "Activa"
     },
     "4J6e3n87dLt4LH7w": {
-      "name": "Erudición Humana",
+      "name": "2: Erudición Humana",
       "description": "Permite analizar el pasado de un objetivo para discernir las acciones que pudo haber realizado. El psíquico puede buscar una acción en particular (en cuyo caso aprende cuándo se realizó o no se realizó), o un momento específico (en cuyo caso aprende las acciones del objetivo en ese instante).",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2705,7 +2705,7 @@
       "name": "Hipersensibilidad"
     },
     "gMTUWOm8BwWnxeeg": {
-      "name": "Escudo de Hielo",
+      "name": "2: Escudo de Hielo",
       "description": "Permite crear un escudo que protege contra ataques no basada en energía, así como contra descargas basadas en Luz y Oscuridad. Una vez creado, el escudo pierde 5 PV cada asalto hasta alcanzar el nivel que el Psíquico puede mantener.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2720,7 +2720,7 @@
       "action": "Pasiva"
     },
     "GSCZ13ovosXqhBnF": {
-      "name": "Esquirlas de Hielo",
+      "name": "2: Esquirlas de Hielo",
       "description": "Crea un ataque basado en la TA de Filo o Penetrante usando Proyectiles de Hielo. Estos son perfectamente visibles para todos.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -2735,7 +2735,7 @@
       "action": "Activa"
     },
     "AXNo9rVa8SviVhGK": {
-      "name": "Barrera Ígnea",
+      "name": "2: Barrera Ígnea",
       "description": "Permite crear una barrera de llamas. Quienes la crucen son atacados (usando la Proyección del Psíquico) en la TA de calor. La forma queda a elección del lanzador, pero la barrera no puede lanzarse sobre un blanco.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2750,7 +2750,7 @@
       "action": "Activa"
     },
     "7fhji55kYIDPjsFS": {
-      "name": "Mantenimiento Ígneo",
+      "name": "2: Mantenimiento Ígneo",
       "description": "Permite fortalecer sobrenaturalmente un fuego existente, haciendo que no pueda ser extinguido por ningún método natural mientras se mantenga, incluyendo la falta de combustible.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2765,7 +2765,7 @@
       "action": "Activa"
     },
     "L7JUlKv3fgNdE7fq": {
-      "name": "Imbuir",
+      "name": "3: Imbuir",
       "description": "Permite transferir los poderes de esta Disciplina en otras personas, con la dificultad de activación indicada.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -2780,7 +2780,7 @@
       "action": "Activa"
     },
     "fK4D235Ng6mi27Xq": {
-      "name": "Inmolar",
+      "name": "1: Inmolar",
       "description": "Crea un gran ataque de área en la cual el Psíquico no puede designar objetivos. Ni siquiera el propio psíquico es inmune, y el ataque es claramente visible.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2795,7 +2795,7 @@
       "action": "Activa"
     },
     "us72giaXvAUNnNIh": {
-      "name": "Inmunidad",
+      "name": "2: Inmunidad",
       "description": "El objetivo se vuelve inmune a varias Intensidades de energía; el psíquico debe elegir de qué tipo de energía (Frío, Fuego, Electricidad) protege al objetivo. Esto reduce el daño base de los ataques de ese tipo de energía en 5 por cada Intensidad, y aumenta en 5 por cada Intensidad los chequeos resistencia contra ese mismo tipo de energía.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 8",
@@ -2810,7 +2810,7 @@
       "action": "Pasiva"
     },
     "IB21f5zM2yVY2Al0": {
-      "name": "Incrementar Habilidad",
+      "name": "1: Incrementar Habilidad",
       "description": "Permite incrementar la DES o AGI. El aumento conseguido que supere el 10 se reduce a la mitad. El movimiento no aumenta.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2825,7 +2825,7 @@
       "action": "Activa"
     },
     "dQqHOV83G040hUkp": {
-      "name": "Incrementar el Sentido Acrobático",
+      "name": "1: Incrementar el Sentido Acrobático",
       "description": "Permite obiener un bono en la habilidad de Acrobacias y, potencialmente, la capacidad de alcanzar resultados Inhumanos o Zen en las pruebas de Acrobacias.",
       "effect20": "Fatiga 2",
       "effect40": "+10 a Acrobacias",
@@ -2840,7 +2840,7 @@
       "action": "Activa"
     },
     "iAIZWeBSRdt9s3rh": {
-      "name": "Incrementar Aguante",
+      "name": "2: Incrementar Aguante",
       "description": "Incrementa la Resistencia Física RF del Psíquico.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 4",
@@ -2855,7 +2855,7 @@
       "action": "Pasiva"
     },
     "6PgP943QpLV60p71": {
-      "name": "Incrementar Capacidad de Salto",
+      "name": "1: Incrementar Capacidad de Salto",
       "description": "Permite obtener un bono a la habilidad de Salto, y potencialmente la capacidad de alcanzar resultados Inhumanos o Zen en las tiradas de Saltar.",
       "effect20": "Fatiga 2",
       "effect40": "+10 a Saltar",
@@ -2870,7 +2870,7 @@
       "action": "Activa"
     },
     "L95TBAcBA0sfiXXd": {
-      "name": "Incrementar Desplazamiento",
+      "name": "1: Incrementar Desplazamiento",
       "description": "Permite incrementar el tipo de Movimiento del Psíquico. Este aumento se reduce a la mitad una vez que su TM alcanza 10.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2885,7 +2885,7 @@
       "action": "Activa"
     },
     "SbeYlliH5hZ2zN1s": {
-      "name": "Incremento de Reacción.",
+      "name": "2: Incremento de Reacción.",
       "description": "Permite otorgar un bono a la Iniciativa para el siguiente asalto.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 4",
@@ -2900,7 +2900,7 @@
       "action": "Activa"
     },
     "wRO6kAmTz1EA3OqN": {
-      "name": "Incrementar Fuerza",
+      "name": "1: Incrementar Fuerza",
       "description": "Permite al Psíquico aumentar su fuerza. El aumento otorgado se reduce a la mitad una vez que la característica alcanza 10.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2915,7 +2915,7 @@
       "action": "Activa"
     },
     "yfHV9VFPiRYcz6k1": {
-      "name": "Cargar con Sentimientos",
+      "name": "2: Cargar con Sentimientos",
       "description": "Permite infundir una emoción en un lugar u objeto que afecta a quienes entren en el lugar o entren en contacto con el objeto. Las víctimas afectadas que sospechen que sus emociones están siendo manipuladas pueden repetir el chequeo cada 5 asaltos. Esta habilidad no requiere Proyección. Los efectos terminan inmediatamente si el sujeto abandona el área o deja de mantener contacto con el objeto.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -2930,7 +2930,7 @@
       "action": "Activa"
     },
     "hVAQITYoBZqKyER2": {
-      "name": "Inhumanidad",
+      "name": "1: Inhumanidad",
       "description": "El psíquico obtiene la capacidad de alcanzar resultados Inhumanos o Zen en acciones físicas, y gana un bono en Secundarias basadas en Atletismo.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -2945,7 +2945,7 @@
       "action": "Activa"
     },
     "0EB0kCIq0KZ82xYe": {
-      "name": "Intensificar Sentimientos",
+      "name": "1: Intensificar Sentimientos",
       "description": "Permite intensificar una emoción presente en una persona hasta que domina su personalidad. Se permite una nueva chequeo de Resistencia sólo si sospechan que sus sentimientos están siendo alterados sobrenaturalmente.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -2960,7 +2960,7 @@
       "action": "Activa"
     },
     "OXS7SZEtmB1foQ0b": {
-      "name": "Laser",
+      "name": "3: Laser",
       "description": "Realiza un ataque en la TA de CAL. Si el Psíquico lo desea, este rayo puede barrer una línea de cinco metros, pero en ese caso el Daño Base y la Penetración de TA se reducen a la mitad.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -2981,7 +2981,7 @@
       "name": "Luz"
     },
     "pAWOihMBJLkaIeCc": {
-      "name": "Conectar Matrices",
+      "name": "1: Conectar Matrices",
       "description": "Permite conectar a varios individuos, que deben ser capaces de usar poderes Psíquicos. En esta comunión, solo un líder designado (único individuo) puede usar sus poderes psíquicos, pero puede sumar los bonos de Voluntad de los otros miembros a su Potencial Psíquico.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -2996,7 +2996,7 @@
       "action": "Activa"
     },
     "2F7EAgxN5J65jMII": {
-      "name": "Ataque de Aceleración Magnética",
+      "name": "3: Ataque de Aceleración Magnética",
       "description": "Lanza un objeto metálico como proyectil. Esto inflige el doble del Daño Base del objeto más un bono dependiente del Potencial alcanzado. Afecta en la TA de PEN y CAL, . El proyectil reduce la TA del objetivo en 2. El proyectil ataca a todos los objetivos en línea hasta su alcance máximo. La munición debe superar una tirada de Entereza o será destruida.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 10",
@@ -3006,12 +3006,12 @@
       "effect180": "Fatiga 2",
       "effect240": "+20 al Daño / Rotura 14 / 50 Metros de línea / 500 Gramos",
       "effect280": "+40 al Daño / Rotura 18 / 100 Metros de línea / 1 Kg",
-      "effect320": "+60 al Daño / Rotura 26 / 150 Metros de línea / 10 Kg",
+      "effect320": "+80 al Daño / Rotura 26 / 150 Metros de línea / 10 Kg",
       "effect440": "+120 al Daño / Rotura 30 / 300 Metros de línea / 100 Kg",
       "action": "Activa"
     },
     "WdlE5gSGy7rbvejQ": {
-      "name": "Manipulación Magnética",
+      "name": "1: Manipulación Magnética",
       "description": "Permite manipular las fuerzas magnéticas para mover objetos a voluntad. Mover objetos por el aire reduce a la mitad el peso permitido.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3026,7 +3026,7 @@
       "action": "Activa"
     },
     "ijPqgOEHbfiU1yQy": {
-      "name": "Escudo Magnético",
+      "name": "2: Escudo Magnético",
       "description": "Escudo sobrenatural que puede proteger contra ataques de metal o electricidad ELE. Los ataques completamente metálicos o eléctricos sufren una penalización de  -20 a la habilidad de ataque del usuario; y en niveles superiores, otros ataques físicos también pueden ser detenidos.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3041,7 +3041,7 @@
       "action": "Pasiva"
     },
     "Fd6BLKyzvU5v4END": {
-      "name": "Frío Mayor",
+      "name": "3: Frío Mayor",
       "description": "Crea una gran cantidad de Intensidades de frío.",
       "effect20": "Fatiga 20",
       "effect40": "Fatiga 16",
@@ -3056,7 +3056,7 @@
       "action": "Activa"
     },
     "ji0Y4VufPgCDGqTv": {
-      "name": "Energía Mayor",
+      "name": "3: Energía Mayor",
       "description": "Crea una gran cantidad de Intensidades de energía.",
       "effect20": "Fatiga 20",
       "effect40": "Fatiga 16",
@@ -3071,7 +3071,7 @@
       "action": "Activa"
     },
     "hFj4rztBSXevKLTk": {
-      "name": "Fuego Mayor",
+      "name": "3: Fuego Mayor",
       "description": "Crea o fortalece llamas en un grado mayor. Si se usa sobre una fuente naturalmente inflamable, no requiere mantenimiento para mantener la llama encendida.",
       "effect20": "Fatiga 20",
       "effect40": "Fatiga 16",
@@ -3086,7 +3086,7 @@
       "action": "Activa"
     },
     "I2OobCHUeUXzY8WH": {
-      "name": "Telequinesis Mayor",
+      "name": "3: Telequinesis Mayor",
       "description": "Mueve objetos pesados por el aire. Si se utiliza para atacar, la Proyección del Psíquico se reduce a la mitad.",
       "effect20": "Fatiga 24",
       "effect40": "Fatiga 20",
@@ -3101,7 +3101,7 @@
       "action": "Activa"
     },
     "2P1KNEppy2blsecu": {
-      "name": "Recolocar Objeto Mayor",
+      "name": "3: Recolocar Objeto Mayor",
       "description": "Permite mover un objeto inorgánico a otra ubicación conocida por el Psíquico. El destino no puede estar dentro de materia sólida. Si el objeto está en posesión de un ser vivo, este puede hacer un chequeo de RF para evitar perderlo.",
       "effect20": "Fatiga 24",
       "effect40": "Fatiga 20",
@@ -3116,7 +3116,7 @@
       "action": "Activa"
     },
     "rrIHR39BYyqbvRSp": {
-      "name": "Autorrecolocación Mayor",
+      "name": "2: Autorrecolocación Mayor",
       "description": "El Psíquico puede teletransportarse a otra ubicación dentro del alcance. Debe conocer el lugar al que desea viajar y no puede aparecer dentro de materia sólida. Si fuese a aparecer en materia sólida, llega inconsciente a un lugar cercano al destino en su lugar.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 8",
@@ -3131,7 +3131,7 @@
       "action": "Activa"
     },
     "q5KOAezJjNVDHqCq": {
-      "name": "Manipular la Luz",
+      "name": "1: Manipular la Luz",
       "description": "Controla la intensidad y el color de la luz dentro del alcance; y puede mover o dar forma a la luz sobrenatural a voluntad. Si se dirige contra una criatura elemental de Luz, se obtiene control sobre sus acciones físicas si no logra resistirse.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3152,7 +3152,7 @@
       "name": "Poderes Matriciales"
     },
     "wjcqxkQmIlQGhKur": {
-      "name": "Comunicación Mental",
+      "name": "1: Comunicación Mental",
       "description": "El Psíquico puede comunicarse a distancia con cualquier otro cuya localización aproximada conozca. No se requiere Proyección, y el alcance máximo está determinado por el Potencial.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3167,7 +3167,7 @@
       "action": "Activa"
     },
     "EnYTGSBj7bYZqzED": {
-      "name": "Análisis Mental",
+      "name": "2: Análisis Mental",
       "description": "Profundiza en la mente de otra persona. El tiempo requerido para obtener información depende del DJ (basado en qué tan profunda esté en sus recuerdos). El Psíquico puede acceder a recuerdos alterados sobrenaturalmente. El objetivo puede resistirse con un chequeo de RP cada 5 asaltos.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -3182,7 +3182,7 @@
       "action": "Activa"
     },
     "S8Ea1P7dYriTYNuC": {
-      "name": "Prohibición Mental",
+      "name": "1: Prohibición Mental",
       "description": "El psíquico es capaz de imponer una restricción muy básica a su objetivo, impidiendo que la víctima realice una acción específica. La habilidad solo funcionará con acciones Activas, es decir, aquellas que requieran la voluntad consciente del personaje. No afectará a las acciones Pasivas ni a las ejecutadas por mera reacción. El personaje afectado puede resistir el efecto superando un control de RP contra la Dificultad indicada en la Tabla de Efectos a continuación. También se le concede un control adicional cada vez que intente llevar a cabo la acción prohibida. En el caso de una restricción muy genérica, o si la prohibición limita excesivamente la libertad del sujeto, se puede aplicar un bonificador de +20 al control de la víctima.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3197,7 +3197,7 @@
       "action": "Activa"
     },
     "eRsdmd5mGTw9nrQb": {
-      "name": "Control Mental",
+      "name": "3: Control Mental",
       "description": "Obtiene control total sobre un individuo. El objetivo tiene derecho a un nuevo chequeo de RP una vez por día y cada vez que reciba órdenes que vayan en contra de su naturaleza. Las órdenes que pongan en peligro su vida u otras acciones extremas otorgan un bono de +20 a su chequeo de RP.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 8",
@@ -3212,7 +3212,7 @@
       "action": "Activa"
     },
     "uriT0siIEp9FxvxW": {
-      "name": "Lectura Mental",
+      "name": "1: Lectura Mental",
       "description": "Lee los pensamientos actuales del objetivo, pero no sus recuerdos. Los objetivos afectados pueden realizar un nuevo chequeo cada 5 asaltos si son conscientes de que están siendo influenciados por este poder. Mientras lee la mente del objetivo, el Psíquico obtiene un bono de +30 a cualquier acción dirigida contra dicho objetivo.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3227,7 +3227,7 @@
       "action": "Activa"
     },
     "hoMlkTTRiEx4Auyx": {
-      "name": "Telequinesis Menor",
+      "name": "1: Telequinesis Menor",
       "description": "Mueve objetos a través del aire. Si se utiliza ofensivamente, el valor de Proyección del Psíquico se reduce a la mitad para ese ataque.",
       "effect20": "Fatiga 1",
       "effect40": "1 Kg / Tipo de vuelo 4",
@@ -3242,7 +3242,7 @@
       "action": "Activa"
     },
     "SucdZg2mMPs9EUgZ": {
-      "name": "Modificar Naturaleza",
+      "name": "2: Modificar Naturaleza",
       "description": "Convierte múltiples Intensidades de un tipo de energía en otro. Por ejemplo, Frío en Calor. Objetos o criaturas con Presencia pueden intentar resistirse con una tirada de RP.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -3257,7 +3257,7 @@
       "action": "Activa"
     },
     "fA98UhtJCqinfygm": {
-      "name": "Detección de Movimiento",
+      "name": "2: Detección de Movimiento",
       "description": "Todas las mentes dentro del alcance deben superar un chequeo de RF o el Psíquico podrá percibir su velocidad, tamaño y dirección (pero no su forma). Entidades insustanciales no pueden ser detectadas así, y el Ocultamiento Ki otorga un bono al chequeo de RP. Esta habilidad no requiere prueba de Proyección.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3272,7 +3272,7 @@
       "action": "Activa"
     },
     "cnvP1xrqMxKp3JBV": {
-      "name": "Desplazar Sentidos",
+      "name": "2: Desplazar Sentidos",
       "description": "Proyecta uno de tus sentidos a una ubicación dentro del alcance, obteniendo la información correspondiente a ese sentido desde el nuevo punto de origen.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3287,7 +3287,7 @@
       "action": "Activa"
     },
     "Xe3WjoIqshLLZXyG": {
-      "name": "Nova",
+      "name": "3: Nova",
       "description": "Permite al Psíquico sacrificar Puntos de Vida PV para obtener Potencial Psíquico a una razón de 1:2. Este Potencial dura hasta el final del asalto. Las criaturas con acumulación de daño multiplican esta pérdida de PV por 5. El máximo de PV que se puede sacrificar por asalto está limitado por el resultado obtenido. El daño es de tipo fuego y se recupera a la mitad de la velocidad natural.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -3308,7 +3308,7 @@
       "name": "Oificial Internacional"
     },
     "EwRR86p6LueXKLJk": {
-      "name": "Telequinesis Orgánica",
+      "name": "2: Telequinesis Orgánica",
       "description": "Permite al Psíquico mover orgánicos.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -3317,13 +3317,13 @@
       "effect140": "120 RF / 250 Kg / Tipo de vuelo 6",
       "effect180": "140 RF / 500 Kg / Tipo de vuelo 8",
       "effect240": "160 RF / 1.000 Kg / Tipo de vuelo 10",
-      "effect280": "140 RF / 2.500 Kg / Tipo de vuelo 12",
+      "effect280": "180 RF / 2.500 Kg / Tipo de vuelo 12",
       "effect320": "200 RF / 5.000 Kg / Tipo de vuelo 14",
       "effect440": "220 RF / 10.000 Kg / Tipo de vuelo 16",
       "action": "Activa"
     },
     "yT6qAzxgRI9GI9De": {
-      "name": "Percibir Electricidad",
+      "name": "1: Percibir Electricidad",
       "description": "El Psíquico puede detectar electricidad dentro del área, incluso a través de paredes (pero no materiales aislantes). En niveles superiores, los seres dentro del área deben hacer una tirada de Resistencia Física RF para evitar que sus propios impulsos eléctricos sean detectados. Si fallan, el Psíquico conoce su ubicación y tamaño, pero no más información.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3338,7 +3338,7 @@
       "action": "Activa"
     },
     "G4vlHnf0LPk6ZVZp": {
-      "name": "Incremento de Percepción",
+      "name": "2: Incremento de Percepción",
       "description": "Permite al Psíquico incrementar su PER Percepción. El aumento dado se reduce a la mitad una vez que la Característica alcanza 10.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 4",
@@ -3359,7 +3359,7 @@
       "name": "Incremento Físico"
     },
     "etzBhl8kVsUXw9gT": {
-      "name": "Trasladar los Sentidos",
+      "name": "2: Trasladar los Sentidos",
       "description": "El Psíquico proyecta sus sentidos, permitiéndole usar sus secundarias basadas en Percepción como si estuviera físicamente en cualquier espacio dentro del alcance. Este poder no puede atravesar barreras de energía ni áreas protegidas mágicamente.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -3374,9 +3374,9 @@
       "action": "Activa"
     },
     "vFGKcX0zUzuEGjMt": {
-      "name": "Asalto Psíquico",
+      "name": "2: Asalto Psíquico",
       "description": "Deteriora las defensas mentales de un objetivo. El objetivo sufre una penalización a todos sus chequeos de RP igual al nivel de fallo, que se recupera a razón de cinco puntos por hora.",
-      "effect20": "Fatiga 6",
+      "effect20": "Fatiga 8",
       "effect40": "Fatiga 4",
       "effect80": "Fatiga 2",
       "effect120": "120 RP",
@@ -3389,7 +3389,7 @@
       "action": "Activa"
     },
     "ebIT6ndRtqiLqOrm": {
-      "name": "Conexión Psíquica",
+      "name": "1: Conexión Psíquica",
       "description": "Intercambio temporal de mentes con otro individuo voluntario. Los personajes conservan sus conocimientos y habilidades, pero usan las habilidades físicas del otro — las Habilidades Base deben ajustarse según esto. Como solo se transfiere la mente y no el alma, los lanzadores de hechizos no pueden usar conjuros en la forma ajena. Si alguna de las partes afectadas muere, el efecto termina y el superviviente vuelve a su estado habitual. El rango indicado en el poder es la distancia máxima permitida entre los individuos antes de que el efecto finalice.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -3404,7 +3404,7 @@
       "action": "Activa"
     },
     "iLN2ICx3h3AHnDIk": {
-      "name": "Muerte Psíquica",
+      "name": "3: Muerte Psíquica",
       "description": "Erosiona la mente del objetivo, pudiendo destruir su ego por completo. El objetivo pierde un punto de INT y VOL por cada 10 de margen de fracaso en la tirada de Resistencia, recuperándolos a razón de uno por día. Sin embargo, si alguna Característica llega a 0, el objetivo sufre muerte mental, convirtiéndose en una cáscara vacía incapaz de actuar de forma independiente — estas “carcasas” aún pueden ser controladas mediante Conexión Psíquica.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -3419,7 +3419,7 @@
       "action": "1"
     },
     "kJQDGByBBH1p0Fkh": {
-      "name": "Ilusión Psíquica",
+      "name": "1: Ilusión Psíquica",
       "description": "Modifica las percepciones del objetivo para que vea o escuche lo que el Psíquico desea. Si se usa para crear una criatura ilusoria, o un efecto similar como una trampa, hechizo o explosión, ataca y se defiende usando la Proyección del Psíquico. El daño causado es Irreal, y el oponente tiene derecho a realizar una nueva tirada de Resistencia cada vez que recibe un golpe. Si el objetivo es consciente de que enfrenta una ilusión, puede hacer una tirada de RP cada asalto.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3434,7 +3434,7 @@
       "action": "0"
     },
     "qdH4fOTGrtAqnsK6": {
-      "name": "Escudo Psíquico",
+      "name": "1: Escudo Psíquico",
       "description": "El Psíquico aumenta la RP del objetivo. Si el objetivo no es el mismo Psíquico, la bonificación indicada se reduce a la mitad.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3449,7 +3449,7 @@
       "action": "Pasiva"
     },
     "pwWaUW81U307663h": {
-      "name": "Localización Psíquica",
+      "name": "2: Localización Psíquica",
       "description": "El Psíquico puede localizar con precisión la mente de un objetivo específico dentro del alcance; debe conocer la firma de su matriz mental, aunque también puede buscar patrones mentales. Una vez localizado, el Psíquico mantiene el conocimiento de su ubicación incluso si el objetivo se mueve. El objetivo tiene derecho a un nuevo chequeo cada 5 asaltos si es consciente de que está siendo localizado por este poder. No se requiere Proyección para este poder.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -3470,7 +3470,7 @@
       "name": "Telequinesis"
     },
     "ojaMgIxCm39wu4xs": {
-      "name": "Armadura Telequinética",
+      "name": "1: Armadura Telequinética",
       "description": "El Psíquico obtiene un incremento a su TA contra todos los tipos de ataque que no sean de Energía. Esta funciona como una capa adicional de armadura, pero no impone penalizaciones al Psíquico.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3485,7 +3485,7 @@
       "action": "Pasiva"
     },
     "tiENwgLebHeiG2Qo": {
-      "name": "Vuelo Telequinético",
+      "name": "2: Vuelo Telequinético",
       "description": "Permite al Psíquivo volar por el aire.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3500,7 +3500,7 @@
       "action": "Activa"
     },
     "GHaPy9fC7EJ4vD2p": {
-      "name": "Impacto Telequinético",
+      "name": "1: Impacto Telequinético",
       "description": "El Psíquico ataca con un Impacto Psíquico que tiene como efecto principal el empuje, pero también causan daño igual al doble del bono de Fue aplicado a ese Impacto.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3515,7 +3515,7 @@
       "action": "Activa"
     },
     "CfcyfRTexXSowQZP": {
-      "name": "Escudo Telequinético",
+      "name": "1: Escudo Telequinético",
       "description": "Crea un escudo psíquico que inicialmente no protege contra daño no basado en energía. El escudo pierde 5 PV por asalto hasta alcanzar el nivel que el Psíquico puede mantener.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3530,7 +3530,7 @@
       "action": "Pasiva"
     },
     "COGvJlQNsz3xFjLs": {
-      "name": "Presa Telequinética",
+      "name": "1: Presa Telequinética",
       "description": "Permite al Psíquico realizar una maniobra de Presa sin penalización. A niveles superiores, puede apresar a todos los objetivos en un área con una penalización de -2 en su característica de Fue.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3551,7 +3551,7 @@
       "name": "Piroquinesis"
     },
     "hY9a0JedEmAnqtgG": {
-      "name": "Aumentar Temperatura Ambiental",
+      "name": "2: Aumentar Temperatura Ambiental",
       "description": "El Psíquico puede afectar el clima elevando la temperatura en un área amplia.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -3566,7 +3566,7 @@
       "action": "Activa"
     },
     "n25SFZXqRYw5wK25": {
-      "name": "Leer Impulsos Eléctricos",
+      "name": "2: Leer Impulsos Eléctricos",
       "description": "Este poder permite al Psíquico leer los impulsos eléctricos en los músculos y predecir movimientos. El Psíquico obtiene un +30 a todas las acciones físicas contra cualquier objetivo en rango que falle la tirada de Resistencia. Este bono aumenta a +60 contra seres de Electricidad.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3581,7 +3581,7 @@
       "action": "Activa"
     },
     "jTlpTfcQszKuAeIZ": {
-      "name": "Leer el Pasado",
+      "name": "2: Leer el Pasado",
       "description": "Este poder permite al Psíquico leer la historia de un objeto o lugar, aprendiendo todos los eventos que han ocurrido en un período de tiempo determinado.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -3596,7 +3596,7 @@
       "action": "Activa"
     },
     "vwT9boAjhtGgMKgi": {
-      "name": "Regeneración",
+      "name": "2: Regeneración",
       "description": "Aumenta el valor de Regeneración del Psíquico, hasta un máximo de 18.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -3611,7 +3611,7 @@
       "action": "Activa"
     },
     "pEmrP3VaFxZKOwdQ": {
-      "name": "Recolocar Objeto",
+      "name": "1: Recolocar Objeto",
       "description": "Permite mover un objeto inorgánico a otra ubicación conocida por el Psíquico. El destino no puede estar dentro de materia sólida. Si el objeto está en posesión de un ser vivo, este puede hacer un chequeo de RF para evitar perderlo.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3626,7 +3626,7 @@
       "action": "Activa"
     },
     "wB6Sz1pYbNH2k1BD": {
-      "name": "Repulsión",
+      "name": "2: Repulsión",
       "description": "Crea una barrera psíquica que repele violentamente todo lo que la toque. No puede afectar a nada que ya esté en contacto al momento de su creación, pero el Psíquico puede darle la forma que desee hasta la longitud indicada, incluyendo alrededor de su propio cuerpo.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -3641,7 +3641,7 @@
       "action": "Activa"
     },
     "EmrJlDWTEYudJym5": {
-      "name": "Pantalla de Luz",
+      "name": "2: Pantalla de Luz",
       "description": "Crea un escudo psíquico capaz de proteger contra cualquier tipo de ataque, incluyendo los que afectan energía. Los ataques basados en Luz no disminuyen los PV del escudo, mientras que los ataques basados en Oscuridad le infligen el doble de daño. El escudo pierde 10 PV por turno hasta alcanzar el nivel que el Psíquico pueda mantener.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -3656,7 +3656,7 @@
       "action": "Pasiva"
     },
     "wboAQ0EwDBukXZvL": {
-      "name": "Ver en la historia",
+      "name": "3: Ver en la historia",
       "description": "Permite proyectar los sentidos del Psíquico hacia el pasado, permitiéndole presenciar los eventos ocurridos en la ubicación actual como si estuviera presente en ese momento.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -3665,13 +3665,13 @@
       "effect140": "Fatiga 4",
       "effect180": "Un año",
       "effect240": "Diez años",
-      "effect280": "Una centuria",
+      "effect280": "Un siglo",
       "effect320": "Un milenio",
       "effect440": "Cualquier periodo de tiempo",
       "action": "Activa"
     },
     "ygk9Hvd9BCeZiEDd": {
-      "name": "Percibir Energía",
+      "name": "1: Percibir Energía",
       "description": "Permite detectar fuentes de intensidades de energía y su naturaleza dentro del alcance, a menos que estén activamente ocultas. Este  poder no requiere Proyección.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3686,7 +3686,7 @@
       "action": "Activa"
     },
     "vmL0pyJO5l5PwVmi": {
-      "name": "Percibir Sentimientos",
+      "name": "1: Percibir Sentimientos",
       "description": "Percibe los sentimientos y el estado emocional del objetivo en el momento actual. La víctima tiene derecho a una nueva tirada de resistencia cada 5 asaltos solo si sospecha que está siendo afectada por un poder de este tipo.",
       "effect20": "Fatiga 2",
       "effect40": "Fatiga 1",
@@ -3701,7 +3701,7 @@
       "action": "Activa"
     },
     "Pw5akKN8gP8Owrou": {
-      "name": "Sentir matrices",
+      "name": "1: Sentir matrices",
       "description": "Permite detectar la presencia de individuos psíquicos y sus poderes activos dentro del alcance, sin sufrir penalizadores por Ceguera al no poder ver las Matrices Psíquicas.",
       "effect20": "Fatiga 1",
       "effect40": "10 metros de radio / Permite ver matrices psíquicas activas",
@@ -3716,7 +3716,7 @@
       "action": "Activa"
     },
     "XhrEXaDNsjL9mb9B": {
-      "name": "Percibir Residuos",
+      "name": "1: Percibir Residuos",
       "description": "Permite detectar residuos emocionales intensos, como el miedo extremo, que permanecen en una zona dentro del intervalo de tiempo especificado.",
       "effect20": "Fatiga 1",
       "effect40": "Una hora",
@@ -3727,11 +3727,11 @@
       "effect240": "Un més",
       "effect280": "Un año",
       "effect320": "Una decada",
-      "effect440": "Una centuria",
+      "effect440": "Un siglo",
       "action": "Activa"
     },
     "v4uGhpIgZTWN0Hrz": {
-      "name": "Percibir Temperatura",
+      "name": "1: Percibir Temperatura",
       "description": "Permite detectar variaciones de temperatura ; incluyendo el calor corporal; dentro del área. Este poder atraviesa barreras que no afecten energía, pero es inútil contra Ocultación del Ki o entidades que no emitan calor. No requiere Proyección.",
       "effect20": "Fatiga 4",
       "effect40": "Fatiga 2",
@@ -3752,7 +3752,7 @@
       "name": "Sentiente"
     },
     "VBm0LCYU2UYuFvIh": {
-      "name": "Destrozar",
+      "name": "2: Destrozar",
       "description": "Un objeto material debe superar un chequeo de RF o se hará pedazos. Los objetos con Calidad pierden un nivel de Calidad por cada 50 puntos por los que fallen el chequeo de RF. Los seres vivos afectados pierden una cantidad de PV igual al doble del nivel de fallo; o cinco veces el nivel de fallo si son criaturas de acumulación/estructuras.",
       "effect20": "Fatiga 8",
       "effect40": "Fatiga 6",
@@ -3767,7 +3767,7 @@
       "action": "Activa"
     },
     "E6ECRGdgTvf0RrgL": {
-      "name": "Sentidos Superiores",
+      "name": "3: Sentidos Superiores",
       "description": "Permite obtener sentidos adicionales más allá de los cinco convencionales.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 10",
@@ -3794,7 +3794,7 @@
       "name": "Telepatía"
     },
     "hiWLWgBBnw2GYJTs": {
-      "name": "Teletransporte",
+      "name": "3: Teletransporte",
       "description": "Teletransporta cualquier cosa; orgánica o inorgánica; al lugar que el Psíquico desee. El destino debe ser conocido por el Psíquico y no puede estar dentro de materia sólida (si apareciera dentro de materia sólida, aparece inconsciente en una ubicación aleatoria cercana al destino). Si el objetivo es una criatura o un objeto portado por otro ser, este puede realizar un chequeo de RF para resistir.",
       "effect20": "Fatiga 12",
       "effect40": "Fatiga 8",
@@ -3809,7 +3809,7 @@
       "action": "Activa"
     },
     "dxTIbxfOVZ6eiMrO": {
-      "name": "Autorrecolocación",
+      "name": "1: Autorrecolocación",
       "description": "El Psíquico puede teletransportarse a otra ubicación dentro del alcance. Debe conocer el lugar al que desea viajar y no puede aparecer dentro de materia sólida. Si fuese a aparecer en materia sólida, llega inconsciente a un lugar cercano al destino en su lugar.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",
@@ -3830,7 +3830,7 @@
       "name": "Teletransporte"
     },
     "rNPHdXhjYuZWKai7": {
-      "name": "Incremento Total",
+      "name": "3: Incremento Total",
       "description": "Permite incrementar todas las Características Físicas (FUE, AGI, DES, CON, PER). Estos aumentos se acumulan con otros Poderes de Aumento, pero la progresión se reduce a la mitad cuando el valor sea superior a 10.",
       "effect20": "Fatiga 16",
       "effect40": "Fatiga 12",
@@ -3845,7 +3845,7 @@
       "action": "Activa"
     },
     "gRYEZxlazm2m17iQ": {
-      "name": "Deshacer Energía",
+      "name": "2: Deshacer Energía",
       "description": "Permite destruir Intensidades de energía. Si se usa contra un ser de energía, inflige 5 PV de daño por Intensidad, o 25 PV en caso de ser criaturas con acumulación de daño, si fallan el chequeo de RF.",
       "effect20": "Fatiga 6",
       "effect40": "Fatiga 4",

@@ -54,12 +54,10 @@
       "cost": 40
     },
     "OZvfHpV9OvVUbqNU": {
-      "name": "Ars Magnus (Mayor)",
-      "description": ""
+      "name": "Ars Magnus (Mayor)"
     },
     "yUyHdzOUBFw8hyma": {
-      "name": "Ars Magnus (Menor)",
-      "description": ""
+      "name": "Ars Magnus (Menor)"
     },
     "3xdoT0dfjPg8oRJC": {
       "name": "Ashuriam: Asalto Dimensional",
@@ -240,8 +238,7 @@
       "cost": 50
     },
     "ZBSih9rKxw4SlMOA": {
-      "name": "Oficial",
-      "description": ""
+      "name": "Oficial"
     },
     "0hgZATDWXcQkMu11": {
       "name": "Tabla de Pirata",
@@ -254,8 +251,7 @@
       "cost": 50
     },
     "BR0xwjrlAvrJCG7R": {
-      "name": "Tablas Marciales",
-      "description": ""
+      "name": "Tablas Marciales"
     },
     "69R5BaVql064zVwl": {
       "name": "Tabla de Proyectiles",
@@ -303,16 +299,14 @@
       "description": "A lo largo de los años, el personaje ha desarrollado una maniobra de combate característica y única que le permite engañar a sus rivales. Esta maniobra es un «truco especial» que únicamente el personaje conoce, otorgándole cierta superioridad al realizar un ataque determinado. La ejecución no implica en ningún caso el uso de puntos de Ki; es su mera habilidad marcial la que le permite realizarla. En juego, el personaje puede emplear dicha maniobra a voluntad, lo que le otorga un bono de +20 al ejecutar dicho ataque. Existen dos situaciones que hacen que esta maniobra no otorgue ningún bono de combate. En primer lugar, si un adversario ya ha presenciado o sufrido la maniobra o conoce su funcionamiento y su «truco», por lo cual deja de ser efectiva contra él. En segundo lugar, un adversario cuya Habilidad de Defensa base sea superior al Ataque base del personaje en 60 o más puntos es simplemente demasiado experto en combate como para dejarse engañar por la maniobra. Maniobra Especial puede combinarse libremente con cualquier Técnica, Magnus o habilidad especial."
     },
     "ZYd6aaBFrgxvm58x": {
-      "name": "Tablas de Estilos",
-      "description": ""
+      "name": "Tablas de Estilos"
     },
     "MOvHoj1SpFzpQLic": {
       "name": "Summun: Acumulación de Energía",
       "description": "Requisitos: Habilidad de Ataque 180+, Destreza 11+.\nEl usuario obtiene la capacidad de realizar sus ataques cuerpo a cuerpo a distancia distorsionando el espacio entre él y su objetivo. Si el objetivo está demasiado lejos para alcanzar al usuario con su Tipo de Movimiento pasivo, no podrá contraatacar contra estos ataques. Usar esta habilidad cuesta 1 punto de Ki por ataque, y el alcance máximo está limitado por la Destreza del usuario.\nDestreza / Alcance\n11 / 3 metros\n12 / 5 metros\n13 / 8 metros\n14 / 10 metros\n15 / 15 metros\n16 / 25 metros\n17 / 50 metros\n18 / 100 metros\n19 / 150 metros\n20 / 250 metros"
     },
     "fqBWSOv0mG80m4Wk": {
-      "name": "Tablas Sobrenaturales",
-      "description": ""
+      "name": "Tablas Sobrenaturales"
     },
     "RhQOWMUmJy1r6j4O": {
       "name": "Tabla de Lanzamiento",

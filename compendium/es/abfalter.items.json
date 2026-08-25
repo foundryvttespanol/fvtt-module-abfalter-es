@@ -117,8 +117,7 @@
       "description": "<p>Calzado rústico tallado en madera, resistente frente a los elementos y muy duradero. Es una opción humilde y tosca, utilizada habitualmente para aislar los pies del barro.</p>"
     },
     "voddEHm3R6qVOgex": {
-      "name": "Vestimenta",
-      "description": ""
+      "name": "Vestimenta"
     },
     "1Igur55fG17Hxusp": {
       "name": "Abrigo",
@@ -181,8 +180,7 @@
       "description": "<p>Prenda femenina de una pieza confeccionada en tejidos comunes, habitual entre todas las clases sociales. Su diseño y corte sencillo la convierten en una vestimenta diaria y versáti."
     },
     "JpE9gSErcnivNXH1": {
-      "name": "Bebidas",
-      "description": ""
+      "name": "Bebidas"
     },
     "Y7vheIj5TkpCIhW7": {
       "name": "Pendientes",
@@ -233,16 +231,13 @@
       "description": "Kit básico de ignición compuesto por un eslabón de metal y una piedra dura. Al golpearse entre sí, generan las chispas necesarias para encender material seco y prender un fuego."
     },
     "SD4UGrpxVppip6vE": {
-      "name": "Comida y Bebida",
-      "description": ""
+      "name": "Comida y Bebida"
     },
     "TqpNqGJKsTjvAfeT": {
-      "name": "Comida",
-      "description": ""
+      "name": "Comida"
     },
     "CjhVwXRDkh5yWtW4": {
-      "name": "Gemas",
-      "description": ""
+      "name": "Gemas"
     },
     "i1tSMJrXI5WDLJWt": {
       "name": "Guantes",
@@ -305,8 +300,7 @@
       "description": "<p>Prenda de vestir básica y ajustada con botones, muy común en ambientes urbanos. Es utilizada habitualmente por oficiales, burgueses y viajeros, ofreciendo tanto una protección ligera como un estilo formal.</p>"
     },
     "vKKqV628dNqMU4LM": {
-      "name": "Orfebrería",
-      "description": ""
+      "name": "Orfebrería"
     },
     "x0t8Nr0vbk1dYKcA": {
       "name": "Zumo",
@@ -401,8 +395,7 @@
       "description": "Bebida nutritiva obtenida de animales domésticos, generalmente contenida en una botella o vasija para su transporte. Se sirve fresca o caliente, siendo un alimento muy común en desayunos, posadas rurales o como sustento para niños y ancianos. "
     },
     "EHs5GyjG3ZiUEZoU": {
-      "name": "Objetos Varios",
-      "description": ""
+      "name": "Objetos Varios"
     },
     "rNZ82EWYvV9cpG1l": {
       "name": "Mitones",
@@ -421,8 +414,7 @@
       "description": "<p>Cadena o aro de metal, a menudo chapado en oro, diseñado para llevar alrededor del cuello como pieza de adorno u orfebrería. Su diseño básico puede incluir colgantes, gemas incrustadas o placas decorativas según el estatus de su portador.</p>"
     },
     "WawW8Bc1jk7T1w9t": {
-      "name": "Nobleza",
-      "description": ""
+      "name": "Nobleza"
     },
     "HddYQgJ1poWTuwTM": {
       "name": "Aceite",
@@ -457,8 +449,7 @@
       "description": "Gema orgánica preciosa en forma de esfera blanca de superficie lisa, brillo suave y forma regular, hallada en lo profundo del océano. Debido a su escasez, es una pieza muy codiciada en orfebrería que se vende a muy buen precio."
     },
     "sGo4F3wDmJmnjYjW": {
-      "name": "Venenos",
-      "description": ""
+      "name": "Venenos"
     },
     "iFPeGNy1bznf2T8s": {
       "name": "Carcaj",
@@ -469,8 +460,7 @@
       "description": "Savia extraída del exótico árbol Ramalen, cuyas propiedades naturales la convierten en un compuesto altamente tóxico. Este veneno de nivel 80 se activa con extrema rapidez al entrar en contacto directo con la piel; basta un leve roce para que sus efectos se propaguen por el organismo, desatando un terror visceral que paraliza la voluntad de la víctima, seguido de una ceguera súbita que anula por completo su capacidad de orientación. \n \n• Nivel de veneno: 80 (contacto)\n• Efecto: Terror (RV 120) y Ceguera (RV 100)\n• Duración: Horas "
     },
     "rMmKyAtHXxGllzjY": {
-      "name": "Raciones",
-      "description": ""
+      "name": "Raciones"
     },
     "aNZOq2ndoM0cZLnR": {
       "name": "Anillo",

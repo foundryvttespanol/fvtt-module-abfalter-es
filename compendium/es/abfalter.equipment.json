@@ -99,8 +99,7 @@
       "description": "Un arma de hoja recta, ligeramente más corta que la Espada Larga. Se caracteriza por su hoja ancha y gran fortaleza."
     },
     "FgJjFuBioDrJCueH": {
-      "name": "Botella Rota",
-      "description": null
+      "name": "Botella Rota"
     },
     "CIrqa03uBC5lciVA": {
       "name": "Rodela",
@@ -302,8 +301,7 @@
       "description": "Esta es una armadura completa de metal compuesta por docenas de piezas perfectamente forjadas y diseñadas para encajar entre sí. Es más ligera que la armadura completa, ya que sacrifica parte de su protección en favor de una mayor movilidad."
     },
     "IVieSrBlpY51h3cp": {
-      "name": "Martillo",
-      "description": null
+      "name": "Martillo"
     },
     "UNu1nKdbZBtQOsbJ": {
       "name": "Hacha de Mano",
@@ -345,8 +343,7 @@
       "description": "Munición para la Balista Pesada"
     },
     "B8TtiXCyOI5Zn3xW": {
-      "name": "Azada",
-      "description": null
+      "name": "Azada"
     },
     "0yjfPtzcKFxWd3ZM": {
       "name": "Garfio",
@@ -360,7 +357,7 @@
       "name": "Improvisadas"
     },
     "Htcx2mK2v5H2T230": {
-      "name": "Javalina",
+      "name": "Jabalina",
       "description": "Lanzable (Alcance 30 m, Cadencia 80)<hr>\nUna lanza corta usada casi exclusivamente para lanzar."
     },
     "w3pW8Zk7KpyfaxNl": {
@@ -400,8 +397,7 @@
       "description": "Es una pipa metálica reforzada, de más de medio metro de largo. El usuario la empuña por el mango. Debido a su naturaleza inusual, es un arma enormemente discreta."
     },
     "vrW1LxUEeNaidG0Z": {
-      "name": "Cuchillo de Cocina",
-      "description": null
+      "name": "Cuchillo de Cocina"
     },
     "JzK2mM9k84FW2y63": {
       "name": "Koncerz",
@@ -512,8 +508,7 @@
       "description": "Una versión más pequeña y compleja del arcabuz que puede dispararse con una mano. Al igual que su contraparte mayor, tiene una puntuación propia de Fuerza (9), a la cual se añade un bono de +10 al Daño Base del disparo que realiza. Si se obtiene un fallo crítico (Pifia) con un nivel menor a 80, el arma se encasquilla. Si el fallo crítico es 80 o más, el arma explota, lo que la inutiliza. Por cada +5 en la calidad del arma, se añade un punto a la Fuerza con la que dispara, y también se suma 15 al nivel de fallo crítico necesario para que explote."
     },
     "yVNU7wEIoDUc9MDu": {
-      "name": "Barra Metálica",
-      "description": null
+      "name": "Barra Metálica"
     },
     "kEZl7unJeRdg3F7g": {
       "name": "Saeta ligera",
@@ -582,8 +577,7 @@
       "description": "Versión reforzada de la armadura acolchada, diseñada para ser utilizada sin capas adicionales."
     },
     "7VQhblBVXD4hProW": {
-      "name": "Pico",
-      "description": null
+      "name": "Pico"
     },
     "GEtxyl5thwgWoZP9": {
       "name": "Pika (Distancia)",
@@ -683,8 +677,7 @@
       "description": "Lanzable (Alcance 20 m, Cadencia 30)<hr>\nPequeñas armas metálicas asiáticas utilizadas exclusivamente para ser lanzadas. Pueden tener diversas formas, desde discos con bordes afilados hasta cuchillos en forma de estrella."
     },
     "fRvp14wZjDLf9EXI": {
-      "name": "Hoz",
-      "description": null
+      "name": "Hoz"
     },
     "gB6HEsMnryNWwAJG": {
       "name": "Honda",
@@ -747,8 +740,7 @@
       "description": "<p>Precisa </p><hr><p>Consiste en una porra provista de un asidero perpendicular en su mitad, que se empuña manteniéndola alineada a lo largo del antebrazo.</p>"
     },
     "Yh3lfbkHtSjz2dr4": {
-      "name": "Antorcha",
-      "description": null
+      "name": "Antorcha"
     },
     "Yj81eq65JofJqUlG": {
       "name": "Tridente",
@@ -798,8 +790,7 @@
       "description": "Presa (Fuerza 8)<hr>\nEl látigo es una cuerda o cadena diseñada para usarse como arma. Se maneja con rápidos movimientos de muñeca y es capaz de cortar o atrapar a un oponente."
     },
     "c3nR13L3I4GfVbfN": {
-      "name": "Palo de Madera",
-      "description": null
+      "name": "Palo de Madera"
     },
     "PCZKdNISw7WNlgQi": {
       "name": "Hacha de Leñador",

@@ -246,10 +246,10 @@
       "name": "100: Señor de las Almas",
       "description": "Obtienes control absoluto sobre las almas dentro del área, pudiendo ordenarlas y comandarlas sin necesidad de lenguaje, así como trasladarlas de un recipiente a otro; incluyendo niños no nacidos para producir Nefilim. Los afectados obtienen un nuevo chequeo cada día, o cuando reciben una orden que contradiga su naturaleza. Si el lanzador desea separar un alma de su cuerpo original, el objetivo obtiene un bonificador de +40 a su chequeo de resistencia.",
       "action": "Activa",
-      "basicrollDesc": "100 Km de radio / 120 RM",
-      "intermediaterollDesc": "1.000 Km de radio / 140 RM",
-      "advancedrollDesc": "2.500 Km de radio / 180 RM",
-      "arcanerollDesc": "5.000 Km de radio / 200 RM",
+      "basicrollDesc": "100 Km / 120 RM",
+      "intermediaterollDesc": "1.000 Km / 140 RM",
+      "advancedrollDesc": "2.500 Km / 180 RM",
+      "arcanerollDesc": "5.000 Km / 200 RM",
       "cost": 20
     },
     "pgVT8Naw0Lv9LXZp": {
@@ -326,7 +326,7 @@
       "name": "12: Percibir",
       "description": "Este hechizo aumenta la percepción del lanzador, mejorando sus habilidades de Advertir y Buscar.\nTambién incrementa Valoración Mágica, pero solo para detectar y medir el potencial mágico de personas u objetos, así como analizar la naturaleza de otros hechizos, nunca para ocultarlos.",
       "action": "Activa",
-      "basicrollDesc": "+50 a Liderazgo y Persuasión",
+      "basicrollDesc": "+50 Advertir, Buscar y Valoración mágica",
       "intermediaterollDesc": "+150 Advertir, Buscar y Valoración mágica",
       "advancedrollDesc": "+200 Advertir, Buscar y Valoración mágica",
       "arcanerollDesc": "+250 Advertir, Buscar y Valoración mágica",
@@ -407,7 +407,7 @@
       "description": "El lanzador puede proyectar su voz o una melodía desde cualquier ubicación dentro del alcance del hechizo.",
       "action": "Activa",
       "basicrollDesc": "100 metros de radio",
-      "intermediaterollDesc": "500 metros de radio",
+      "intermediaterollDesc": "250 metros de radio",
       "advancedrollDesc": "500 metros de radio",
       "arcanerollDesc": "1 km de radio",
       "cost": 4
@@ -443,7 +443,7 @@
       "cost": 4
     },
     "B3QipPbZVJDll2TE": {
-      "name": "14: Otorgar Conocimiento",
+      "name": "14: Conocimiento",
       "description": "El hechizo otorga al lanzador un conocimiento temporal sobre una habilidad secundaria específica, reemplazando su valor base. Esta habilidad se pierde al finalizar el conjuro. El lanzador puede estar bajo múltiples efectos de este tipo de hechizo, siempre que cada uno afecte una habilidad secundaria distinta.",
       "action": "Activa",
       "basicrollDesc": "40 en una habilidad",
@@ -507,9 +507,9 @@
       "description": "Otorga al objetivo un bono a los chequeos de RM contra efectos relacionados con la Vigilia y el sueño.",
       "action": "Activa",
       "basicrollDesc": "+40 RM o RP",
-      "intermediaterollDesc": "+40 RM o RP",
-      "advancedrollDesc": "+40 RM o RP",
-      "arcanerollDesc": "+40 RM o RP",
+      "intermediaterollDesc": "+60 RM o RP",
+      "advancedrollDesc": "+40 8M o RP",
+      "arcanerollDesc": "+100 RM o RP",
       "cost": 4
     },
     "5iCryKfPKTcETDzX": {
@@ -609,7 +609,7 @@
       "basicrollDesc": "120 RM",
       "intermediaterollDesc": "140 RM",
       "advancedrollDesc": "160 RM",
-      "arcanerollDesc": "180 RM",
+      "arcanerollDesc": "200 RM",
       "cost": 4
     },
     "PCWAN5Ywckb5ILVX": {
@@ -998,8 +998,8 @@
       "action": "Activa",
       "basicrollDesc": "Presencia máxima 100 / 100 RM o RP / 1 kilómetro",
       "intermediaterollDesc": "Presencia máxima 160 / 160 RM o RP / 10 kilómetros",
-      "advancedrollDesc": "Presencia máxima 190 / 200 RM o RP / 50 kilómetros",
-      "arcanerollDesc": "Presencia máxima 220 / 240 RM o RP / 150 kilómetros",
+      "advancedrollDesc": "Presencia máxima 200 / 190 RM o RP / 50 kilómetros",
+      "arcanerollDesc": "Presencia máxima 240 / 220 RM o RP / 150 kilómetros",
       "cost": 6
     },
     "ti7GNCDJJ8MGdHLx": {
@@ -1066,7 +1066,7 @@
       "name": "24: Exterminio Menor",
       "description": "Mata a las criaturas con Presencia 20 o inferior, determinadas por el lanzador dentro de un área, si no superan un chequeo de RM.",
       "action": "Activa",
-      "basicrollDesc": "160 RM / 10 metros de radio",
+      "basicrollDesc": "60 RM / 10 metros de radio",
       "intermediaterollDesc": "80 RM / 25 metros de radio",
       "advancedrollDesc": "100 RM / 50 metros de radio",
       "arcanerollDesc": "120 RM / 75 metros de radio",
@@ -1206,10 +1206,10 @@
       "name": "26: Holograma",
       "description": "El hechizo crea un holograma con la apariencia deseada. Si es una criatura, imita las habilidades físicas del lanzador, como Ataque y Esquiva. No puede tocar ni ser tocado y se destruye de inmediato si sufre daño que afecte energía. Identificar que no es real requiere una prueba de Advertir/Buscar de 240/140.",
       "action": "Activa",
-      "basicrollDesc": "1m^2",
-      "intermediaterollDesc": "15m^2",
-      "advancedrollDesc": "50m^2",
-      "arcanerollDesc": "100m^2,  Advertir 280, Buscar 180.",
+      "basicrollDesc": "1 metro cuadrado",
+      "intermediaterollDesc": "15 metros cuadrados",
+      "advancedrollDesc": "50 metros cuadrados",
+      "arcanerollDesc": "100 metros cuadrados / Advertir 280, Buscar 180.",
       "cost": 6
     },
     "MdH1isWCTO8BCeKr": {
@@ -1447,9 +1447,9 @@
       "description": "Corta los sentidos de un individuo a menos que pase un chequeo de RM. El lanzador puede elegir qué sentidos eliminar de esta forma.",
       "action": "Activa",
       "basicrollDesc": "100 RM",
-      "intermediaterollDesc": "140 RM",
-      "advancedrollDesc": "200 RM",
-      "arcanerollDesc": "280 RM",
+      "intermediaterollDesc": "120 RM",
+      "advancedrollDesc": "140 RM",
+      "arcanerollDesc": "180 RM",
       "cost": 8
     },
     "4zgAc0FWzRanSWpo": {
@@ -1474,7 +1474,7 @@
     },
     "FKFXHh8vRkoQrfX0": {
       "name": "32: Congelar",
-      "description": "El(los) objetivo(s) debe(n) superar un chequeo de Resistencia Mágica RM o sufrir una penalización. Si el objetivo es un solo individuo, la dificultad del chequeo RM aumenta en 20.\nQuienes fallen por 20 puntos o menos sufren Parálisis Menor,, quienes fallen por hasta 80 puntos sufren Parálisis Parcial, y quienes fallen por 81 puntos o más sufren Parálisis Total.",
+      "description": "El(los) objetivo(s) debe(n) superar un chequeo de Resistencia Mágica RM o sufrir una penalización. Si el objetivo es un solo individuo, la dificultad del chequeo RM aumenta en 20. Quienes fallen por menos de 20 puntos sufren Parálisis Menor,, quienes fallen por menos de 80 puntos sufren Parálisis Parcial, y quienes fallen por 80 puntos o más sufren Parálisis Total.",
       "action": "Activa",
       "basicrollDesc": "5 metros de radio / 120 RM",
       "intermediaterollDesc": "10 metros de radio / 140 RM",
@@ -1829,7 +1829,7 @@
       "basicrollDesc": "120 RM",
       "intermediaterollDesc": "140 RM",
       "advancedrollDesc": "160 RM",
-      "arcanerollDesc": "180 RM",
+      "arcanerollDesc": "200 RM",
       "cost": 8
     },
     "LAfewZNfSWvAcKgI": {
@@ -1986,10 +1986,10 @@
       "name": "40: Destruir Sentimientos Negativos",
       "description": "Destierra temporalmente cualquier sentimiento negativo como odio, miedo o ira dentro del radio especificado alrededor del lanzador. Resistir el hechizo requiere un chequeo exitoso de RM o RP.",
       "action": "Activa",
-      "basicrollDesc": "100 RM o RF / 100 metros de radio",
-      "intermediaterollDesc": "150 RM o RF / 500 metros de radio",
-      "advancedrollDesc": "180 RM o RF / 1 Km de radio",
-      "arcanerollDesc": "220 RM o RF / 5 Km de radio",
+      "basicrollDesc": "100 RM o RP / 100 metros de radio",
+      "intermediaterollDesc": "150 RM o RP / 500 metros de radio",
+      "advancedrollDesc": "180 RM o RP / 1 Km de radio",
+      "arcanerollDesc": "220 RM o RP / 5 Km de radio",
       "cost": 8
     },
     "DyP0s2KFeFI4C3KC": {
@@ -2737,9 +2737,9 @@
       "description": "El lanzador obtiene un bono a toda acción que se utilice en todas las acciones enfrentadas contra el objetivo.",
       "action": "Activa",
       "basicrollDesc": "140 RM / +20 a toda acción enfrentada",
-      "intermediaterollDesc": "160 RM/ +30 a toda acción enfrentada",
-      "advancedrollDesc": "180 RM/ +30 a toda acción enfrentada",
-      "arcanerollDesc": "200 RM/ +40 a toda acción enfrentada",
+      "intermediaterollDesc": "160 RM / +30 a toda acción enfrentada",
+      "advancedrollDesc": "180 RM / +30 a toda acción enfrentada",
+      "arcanerollDesc": "200 RM / +40 a toda acción enfrentada",
       "cost": 12
     },
     "JDSLEugwVlzUJse3": {
@@ -3056,7 +3056,7 @@
       "name": "6: Imbuir Calma",
       "description": "El hechizo finaliza los estados de Miedo, Terror o Ira; incluso provcados por causas sobrenaturales; a menos que el objetivo resista con un chequeo de RM o RP.",
       "action": "Activa",
-      "basicrollDesc": "180 RM o RP / 10 metros de radio",
+      "basicrollDesc": "80 RM o RP / 10 metros de radio",
       "intermediaterollDesc": "100 RM o RP / 25 metros de radio",
       "advancedrollDesc": "120 RM o RP / 50 metros de radio",
       "arcanerollDesc": "150 RM o RP / 100 metros de radio",
@@ -3706,10 +3706,10 @@
       "name": "70: Marca del Miedo",
       "description": "Cualquier persona que observe la ubicación designada debe superar un chequeo de RM o RP o sufrir Terror. La distancia visible está determinada por el nivel del hechizo.",
       "action": "Activa",
-      "basicrollDesc": "1 Km de radio / 120 RM o RF",
-      "intermediaterollDesc": "5 Km de radio / 150 RM o RF",
-      "advancedrollDesc": "15 Km de radio / 180 RM o RF",
-      "arcanerollDesc": "25 Km de radio / 220 RM o RF",
+      "basicrollDesc": "1 Km de radio / 120 RM o RP",
+      "intermediaterollDesc": "5 Km de radio / 150 RM o RP",
+      "advancedrollDesc": "15 Km de radio / 180 RM o RP",
+      "arcanerollDesc": "25 Km de radio / 220 RM o RP",
       "cost": 14
     },
     "IZGgMwGtj8gNTFMM": {
@@ -3773,7 +3773,7 @@
       "cost": 16
     },
     "jO5J2fGxUkunCl2Z": {
-      "name": "72: Muerte",
+      "name": "72: Matar",
       "description": "El objetivo debe superar una prueba de Resistencia o morirá. Puede incluso 'matar' a espíritus y criaturas nigrománticas.",
       "action": "Activa",
       "basicrollDesc": "120 RM o RF",
@@ -3849,7 +3849,7 @@
       "basicrollDesc": "140 RM o RP",
       "intermediaterollDesc": "160 RM o RP",
       "advancedrollDesc": "180 RM o RP",
-      "arcanerollDesc": "220 RM o RP",
+      "arcanerollDesc": "200 RM o RP",
       "cost": 16
     },
     "FJFjVbdAqZ9g1B4J": {
@@ -3947,7 +3947,7 @@
       "description": "El lanzador puede transferir órdenes directamente a la mente de sus aliados, sin necesidad de hablar. Puede elegir quién escucha o no la orden, y puede transmitir múltiples órdenes a varios objetivos con un solo pensamiento.",
       "action": "Activa",
       "basicrollDesc": "25 metros de radio",
-      "intermediaterollDesc": "50 metros de radio",
+      "intermediaterollDesc": "100 metros de radio",
       "advancedrollDesc": "250 metros de radio",
       "arcanerollDesc": "500 metros de radio",
       "cost": 16
@@ -4023,7 +4023,7 @@
       "cost": 16
     },
     "zhlFQg88Ylv7BJE6": {
-      "name": "76: Seismo",
+      "name": "76: Terremoto",
       "description": "Crea un gran temblor que destruye edificaciones con una Barrera de Daño inferior a 40. Aquellas con barreras cuyos valores estén entre 40 y 150 reciben 5 puntos de daño, que se duplican cada asalto. Las construcciones con más de 150 no se ven afectadas. Los individuos en el área sufren las consecuencias lógicas del colapso o la inestabilidad estructural.",
       "action": "Activa",
       "basicrollDesc": "500 metros de radio",
@@ -4283,7 +4283,7 @@
       "cost": 16
     },
     "TQ0riZoL7dBSIXSd": {
-      "name": "80: Lentitud temporal",
+      "name": "80: Enlentecer el Tiempo",
       "description": "Genera un área donde el tiempo transcurre mucho más lento en su interior que en el exterior. La zona se expande desde el lanzador a razón de 10 metros por asalto de combate. Solo las criaturas con Gnosis 30 o superior pueden realizar una RM para intentar resistir.",
       "action": "Activa",
       "basicrollDesc": "100 metros de radio / RM 120 / El tiempo se reduce una décima parte\n1 hora dentro son 10 horas fuera",
@@ -4749,7 +4749,7 @@
       "basicrollDesc": "500 Puntos de presencia / Presencia máxima 100",
       "intermediaterollDesc": "1.000 Puntos de presencia / Presencia máxima 120",
       "advancedrollDesc": "2.000 Puntos de presencia / Presencia máxima 140",
-      "arcanerollDesc": "5.000 Puntos de presencia / Presencia máxima 180",
+      "arcanerollDesc": "3.000 Puntos de presencia / Presencia máxima 180",
       "cost": 18
     },
     "kVjeR79DaS8KowCj": {
@@ -4963,7 +4963,7 @@
       "cost": 20
     },
     "dICIso8VM2nyfzqc": {
-      "name": "Hasta más Allá del Fin",
+      "name": "94: Hasta más Allá del Fin",
       "description": "Todos los aliados dentro del alcance duplican el umbral negativo de PV que pueden soportar y no sufren penalizaciones por luchar en ese estado. Si se usan las reglas opcionales para Entre la Vida y la Muerte, este hechizo otorga un bono de +40 al chequeo de RF.",
       "action": "Activa",
       "basicrollDesc": "25 metros de radio",
@@ -4973,7 +4973,7 @@
       "cost": 20
     },
     "rohPwBxT9L3jD3Jb": {
-      "name": "94: Muerte",
+      "name": "94: La Muerte",
       "description": "Como efecto automático una vez por asalto, el lanzador puede hacer que una criatura viva dentro del área realice un chequeo de Resistencia o muera. Un objetivo que supere este chequeo no podrá ser afectado por este hechizo del mismo lanzador durante el resto de su vida.",
       "action": "Activa",
       "basicrollDesc": "80 RM o RF / 500 metros de radio",
@@ -5186,9 +5186,9 @@
       "name": "96: La Barrera",
       "description": "Este hechizo crea una brecha en la realidad, separando un área del mundo mediante una barrera invisible que impide ver o acceder al otro lado. La separación no puede percibirse de forma natural, ni siquiera mágicamente, y adopta cualquier apariencia. Quienes intentan cruzarla son desviados a otro punto sin conciencia del desvío. Detectarla requiere una prueba de Advertir 320 (Inhumano). El lanzador puede dejar pasajes abiertos en una o ambas direcciones. Solo entidades con Gnosis superior a 25 y conocimiento exacto de la barrera pueden intentar una RM diaria para atravesarla. La barrera es fija y puede abarcar áreas amplias.",
       "action": "Activa",
-      "basicrollDesc": "120 RM / 100 km^2 o línea",
-      "intermediaterollDesc": "180 RM / 1.000 km^2 o línea",
-      "advancedrollDesc": "240 RM / 100.000 km^2 o línea",
+      "basicrollDesc": "120 RM / 100 km cuadrados o línea",
+      "intermediaterollDesc": "180 RM / 1.000 km cuadrados o línea",
+      "advancedrollDesc": "240 RM / 100.000 km cuadrados o línea",
       "arcanerollDesc": "300 RM / sin límite",
       "cost": 20
     },
@@ -7395,7 +7395,7 @@
       "cost": 16
     },
     "kDijkx3H4ETSynnB": {
-      "name": "El Dominio",
+      "name": "Dominio",
       "description": "Domina la voluntad del objetivo. Solo se permite un nuevo chequeo cuando se le da una orden completamente contraria a su naturaleza. Si la orden es excepcionalmente contraria, aplica un bono de +20 a su chequeo de RM.",
       "action": "Activa",
       "basicrollDesc": "100 RM o RP",
@@ -8781,7 +8781,7 @@
       "cost": 4
     },
     "cFfApyvjwlEQ6UJw": {
-      "name": "Imbuir Calma",
+      "name": "6: Imbuir Calma",
       "description": "El hechizo finaliza los estados de Miedo, Terror o Ira; incluso provcados por causas sobrenaturales; a menos que el objetivo resista con un chequeo de RM o RP.",
       "action": "Activa",
       "basicrollDesc": "80 RM o RP / 10 metros de radio",
@@ -10060,10 +10060,10 @@
       "name": "Red",
       "description": "Los objetivos en el área quedan atrapados, resistiendo contra FUE 10.  La red solo puede ser dañada por Calor o ataques capaces de afectar la energía, y posee TA 4.",
       "action": "Activa",
-      "basicrollDesc": "3 m^2 / 500 Puntos de vida",
-      "intermediaterollDesc": "6 m^2 / 750 Puntos de vida",
-      "advancedrollDesc": "9 m^2 / 1.000 Puntos de vida",
-      "arcanerollDesc": "12 m^2  / 1.500 Puntos de vida / Presa con Fuerza 12",
+      "basicrollDesc": "3 metros cuadrados / 500 Puntos de vida",
+      "intermediaterollDesc": "6 metros cuadrados / 750 Puntos de vida",
+      "advancedrollDesc": "9 metros cuadrados / 1.000 Puntos de vida",
+      "arcanerollDesc": "12 metros cuadrados  / 1.500 Puntos de vida / Presa con Fuerza 12",
       "cost": 6
     },
     "m80yDVLZlIrKRdk4": {
@@ -10212,9 +10212,9 @@
       "name": "Paralizar",
       "description": "Vía Cerrada: Aire.\n\nLos objetivos dentro del área de efecto deben superar un chequeo de RM o sufrir Parálisis Total.",
       "action": "Activa",
-      "basicrollDesc": "10 metros de radio / 140 RM",
-      "intermediaterollDesc": "25 metros de radio / 140 RM",
-      "advancedrollDesc": "50 metros de radio / 140 RM",
+      "basicrollDesc": "10 metros de radio / 80 RM",
+      "intermediaterollDesc": "25 metros de radio / 100 RM",
+      "advancedrollDesc": "50 metros de radio / 120 RM",
       "arcanerollDesc": "100 metros de radio / 140 RM",
       "cost": 14
     },
@@ -10295,7 +10295,7 @@
       "name": "Paz"
     },
     "Sg6YAeQAByLqYzwD": {
-      "name": "Percibir",
+      "name": "12: Percibir",
       "description": "Este hechizo aumenta la percepción del lanzador, mejorando sus habilidades de Advertir y Buscar.\nTambién incrementa Valoración Mágica, pero solo para detectar y medir el potencial mágico de personas u objetos, así como analizar la naturaleza de otros hechizos, nunca para ocultarlos.",
       "action": "Activa",
       "basicrollDesc": "+50 Advertir, Buscar y Valoración mágica",
@@ -10878,10 +10878,10 @@
       "name": "Recrear Imágen",
       "description": "Vía Cerrada: Destrucción\n\nPermite al hechicero crear un holograma inmóvil y translúcido de un objeto, criatura o escena que haya presenciado previamente.",
       "action": "Activa",
-      "basicrollDesc": "1m^2",
-      "intermediaterollDesc": "5m^2",
-      "advancedrollDesc": "10m^2",
-      "arcanerollDesc": "15m^2 / La imagen tiene un mayor grado de realismo, por lo que cualquiera que lo vea debe superar un Advertir contra Muy Difícil (140) o Buscar contra Medio (80) para darse cuenta de que no es real",
+      "basicrollDesc": "1 metro cuadrado",
+      "intermediaterollDesc": "5 metros cuadrados",
+      "advancedrollDesc": "10 metros cuadrados",
+      "arcanerollDesc": "15 metros cuadrados / La imagen tiene un mayor grado de realismo, por lo que cualquiera que lo vea debe superar un Advertir contra Muy Difícil (140) o Buscar contra Medio (80) para darse cuenta de que no es real",
       "cost": 4
     },
     "PNnYjIQdkbSdIulo": {
