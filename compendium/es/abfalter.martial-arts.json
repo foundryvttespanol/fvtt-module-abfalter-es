@@ -4,479 +4,262 @@
     "description": "system.description"
   },
    "folders": {
-    "Official": "Oficial",
-    "Boxing": "Boxeo",
-    "Muay Thai": "Moai Thai",
-    "Taw Kwon Do": "Tae Kwon Do",
+	"Elric Homebrew": "Elric fanzine",
     "Advanced": "Avanzadas",
-    "Basic": "Básicas"
+	"Advanvced": "Avanzadas",	
+    "Basic": "Básicas",
+    "Official": "Oficial"
   },
   "entries": {
-    "GXRtqf16QPwL7SQ6": {
+    "w30ggaQgna9ylWlM": {
       "name": "Avanzadas"
     },
-    "tvOBQoXRl3zsPscm": {
-      "name": "Aikido (Avanzado)",
-      "description": "Daño: 10 + FUE [+2*FUE del oponente en Contraataque {solo contra humanoides}] Contundente\n\nGracias a la eficacia de las llaves y derribos de este estilo, el personaje no aplica penalizadores al realizar una maniobra de Inmovilización o Derribo durante un contraataque. Además, al realizar un contraataque, se añade el doble del bono de Fuerza del oponente (mínimo +5). Este beneficio solo se aplica contra enemigos de forma humanoide."
+    "1FWIZwoGrv8Q5a9s": {
+      "name": "Avanzadas"
     },
     "1MxZu2Gw4gG4qsZO": {
-      "name": "Aikido (Base)",
-      "description": "Daño: 10 + FUE [+2*FUE del oponente en Contraataque {solo contra humanoides}] Contundente\n\nAl realizar un contraataque, se añade el doble del bono de Fuerza del oponente (mínimo +5). Este beneficio solo se aplica contra enemigos de forma humanoide."
+      "name": "Aikido",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2 | <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Trucos de Manos 20.</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza del usuario. En un contraataque contra un humanoide, añade también el doble del bono de Fuerza del oponente (daño adicional mínimo de +5).</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Trucos de Manos 40; Habilidad de Ataque (Sin armas) 100; Habilidad de Defensa (Sin armas) 120.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Las maniobras de Presa y Derribo realizadas como parte de un contraataque no sufren sus penalizadores habituales por maniobra.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Trucos de Manos 80; Maestro en Defensa (Sin armas).</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza del usuario. En un contraataque contra un humanoide, añade cuatro veces el bono de Fuerza del oponente en lugar del doble (bono adicional mínimo de +5, como en el Grado Base).</p><p><strong>Ventaja:</strong> Obtienes un +2 en los controles enfrentados de Característica para resolver maniobras de Presa o Derribo realizadas durante o después de un contraataque. Al combinar el Aikido con otra arte marcial, añade el bono de Fuerza sin multiplicar del atacante al Daño Base del arte elegida.</p></div>"
     },
-    "YXtWRFNE5CimZt8r": {
-      "name": "Aikido (Supremo)",
-      "description": "Daño: 10 + FUE [+4*FUE del oponente en Contraataque {solo contra humanoides}] Contundente\n\nGracias a la eficacia de las llaves y derribos de este estilo, el personaje no aplica penalizadores al realizar una maniobra de presan o Derribo durante un contraataque, y además obtiene +2 a controles enfrentados de Característica en dichas maniobras.\nAl realizar un contraataque, se añade cuatro veces el bono de Fuerza del oponente (mínimo +5). Este beneficio solo se aplica contra enemigos de forma humanoide.\nSi el Aikido se usa en combinación con otra arte marcial, el practicante puede sumar el bono de Fuerza del atacante (sin multiplicar) al Daño Base del arte marcial que elija."
+    "5FrB8RfEhqYpCtoR": {
+      "name": "Asakusen",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Kung Fu (Avanzado); Ataque (Sin armas) 160; Defensa (Sin armas) 160.</p><p><strong>Fórmula de daño:</strong> Daño base del arte marcial +10.</p><p><strong>Ventaja:</strong> Obtienes +10 a Turno y Daño al usar artes marciales; compatible con el bonificador elegible de Kung Fu. (+10 a Ataque, Parada y Esquiva aplicados automáticamente.)</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Kung Fu (Supremo); Inhumanidad; Ataque (Sin armas) 280; Defensa (Sin armas) 280.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> Sustituye el bonificador elegible de +20 del Grado Supremo de Kung Fu por +40 a una Habilidad elegida (que no sea innata ni tenga Maestría). Obtienes +20 al nivel de Crítico únicamente en Ataques Apuntados letales a puntos vitales.</p></div>"
     },
-    "IdYc3bXPkUAGn05m": {
-      "name": "Aikido"
-    },
-    "iX5mzNqbrkeuxOEt": {
-      "name": "Asakuken"
-    },
-    "a3SN4gAEvflsqTRu": {
-      "name": "Asakusen (Arcano)",
-      "description": "Daño: Como el Daño Base del arte marcial +10.\nBono Maestro: +10 Ataque, Parada y Esquiva (sin armas)\n\nAsakusen perfecciona cada aspecto del combate, otorgando +10 a Esquiva, Ataque, Parada, Iniciativa y Daño cuando se emplean artes marciales. Además, reemplaza el +20 del Grado Supremo de Kung Fu con un bono variable de +40 al campo elegido. Este modificador no cuenta como bono innato de categoría ni como Bono Maestro.\nDebido a su enfoque letal, Asakusen también concede +20 al cálculo del nivel de Crítico, siempre que sean Críticos por Ataques Dirigidos a puntos vitales y no tengan como objetivo inutilizar o dejar inconsciente al adversario."
-    },
-    "1LyDOYUV6ohzqeFb": {
-      "name": "Asakusen (Base)",
-      "description": "Daño: Como el Daño Base del arte marcial +10.\n\nAsakusen refina con precisión cada técnica del combatiente, otorgando +10 a Esquiva, Ataque, Parada, Turno y Daño siempre que se empleen artes marciales. Además, el personaje puede seguir aplicando los bonos variables especiales del Kung Fu, según se detalla en la sección de ventajas de ese estilo."
-    },
-    "FK3kDqc1qIEBGy8C": {
+    "8G18pHHNPMi1Wnbi": {
       "name": "Básicas"
     },
-    "5dmxiXs7MU03cBtx": {
-      "name": "Boxeo (Avanzado)",
-      "description": "Daño: 20 + 2*FUE; Contundente\nBono: +10 a Turno cuando se emplea con artes marciales.\n\nEn contraataque, el personaje obtiene +10 a su Habilidad de Ataque. Este modificador no se considera bono innato de categoría."
+    "W3M9gzZRgJ8t8Yo6": {
+      "name": "Básicas"
     },
-    "h8kqmhYTINQYZyQU": {
-      "name": "Boxeo (Base)",
-      "description": "Daño: 10 + 2*FUE; Contundente\nBono: +5 a Turno cuando se emplea con artes marciales."
+    "OauCvCLFUntKfBRO": {
+      "name": "Boxeo",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 30</p><p><strong>Fórmula de daño:</strong> 10 + 2 × bono de Fuerza</p><p><strong>Ventaja:</strong> Obtienes +5 a Turno mientras combates usando artes marciales.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 60; Ataque (Sin armas) 120; Defensa (Sin armas) 120</p><p><strong>Fórmula de daño:</strong> 20 + 2 × bono de Fuerza</p><p><strong>Ventaja:</strong> Los contraataques obtienen +10 a la Habilidad de Ataque; este es un modificador especial y no cuenta para el límite de bono innato de categoría. Obtienes +5 a Turno mientras usas artes marciales.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 120; Maestro en Ataque y Defensa (Sin armas)</p><p><strong>Fórmula de daño:</strong> 30 + 2 × bono de Fuerza</p><p><strong>Ventaja:</strong> Obtienes +10 a Turno mientras usas artes marciales.</p></div>"
     },
-    "78nnJqskpJ28ilqR": {
-      "name": "Boxeo (Supremo)",
-      "description": "Daño: 30 + 2*FUE; Contundente\nBono: +20 a Turno al usar artes marciales, +10 a la Habilidad de Ataque sin armas.\n\nEn contraataque, el personaje obtiene +10 a su Habilidad de Ataque. Este modificador no se considera bono innato de categoría."
+    "DiRz2EMV2JCuKtK0": {
+      "name": "Capoeira",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Baile 20</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> Los Ataques en Área cuentan como ataques con un arma Media, permitiendo hasta 3 objetivos.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Baile 40; Esquiva (Sin armas) 120</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Los Ataques en Área cuentan como ataques con un arma Grande, permitiendo hasta 5 objetivos en lugar de 3.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Baile 120; Maestro en Esquiva (Sin armas)</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> El penalizador a la Habilidad de Ataque por maniobras de Ataque en Área es de solo −10; conservas el alcance ampliado del Grado Avanzado.</p></div>"
     },
-    "GO5SPHWBUPIdSLov": {
-      "name": "Boxeo"
+    "LxlK2OoqaC6wpTM4": {
+      "name": "Puño Borracho",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Estilo 40.</p><p><strong>Fórmula de daño:</strong> 20 más el bono de Destreza del usuario. Contundente.</p><p><strong>Ventaja:</strong> Añade el bono de AGI a los controles de Acrobacias en combate/Finta.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Estilo 80, Esquiva 100.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Añade 2× el bono de AGI en lugar del Grado Base.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Estilo 120, Esquiva 200.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Añade 3× el bono de AGI en lugar de los grados anteriores.</p></div>"
     },
-    "VsyiucEqTnl9s7Oq": {
-      "name": "Capoeira (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente\nBono: +10 a la Habilidad de Esquiva.\n\nCuando el personaje realiza un Ataque de Área, es tratado como si usara un arma Grande, y puede afectar a hasta cinco enemigos con su ataque. Esto se debe a los amplios arcos y giros característicos de los movimientos de la capoeira."
+    "tdKxTvoDWDrzYI16": {
+      "name": "Dumah",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Kempo (Avanzado) o Capoeira (Avanzado); Extrusión de Presencia.</p><p><strong>Fórmula de daño:</strong> Daño final del arte marcial básico +10.</p><p><strong>Ventaja:</strong> Elige tipo de ataque Filo o Penetrante. Reduce el Tipo de Armadura del objetivo en 2 y obtienes +10 a Rotura.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Kempo (Supremo) o Capoeira (Supremo); Inhumanidad; Ataque (Sin armas) 280.</p><p><strong>Fórmula de daño:</strong> Daño final del arte marcial básico +20.</p><p><strong>Ventaja:</strong> La reducción del Tipo de Armadura aumenta a 6 y el bonificador a Rotura a +25; cualquier daño infligido provoca hemorragia incluso sin Crítico.</p></div>"
     },
-    "67RmOedtdLaTvxEF": {
-      "name": "Capoeira (Base)",
-      "description": "Daño: 20 + FUE; Contundente\n\nCuando el personaje realiza un Ataque de Área, se le considera como si usara un arma Media, pudiendo así afectar a tres enemigos con su ataque."
-    },
-    "5IqpcuHggZBjdFvX": {
-      "name": "Capoeira (Supremo)",
-      "description": "Daño: 20 + FUE; Contundente\nBono: +10 a la Habilidad de Esquiva.\n\nCuando el personaje realiza un Ataque de Área, se le considera como si usara un arma Grande, permitiéndole afectar a cinco enemigos con su ataque. Al alcanzar este Grado, los movimientos del luchador adquieren una fluidez tal que impactar a múltiples adversarios resulta casi instintivo. Por ello, al usar la maniobra de Ataque de Área, solo sufre un –10 a su Habilidad de Ataque."
-    },
-    "mVPYJdEX5ZhxfRjF": {
-      "name": "Capoeira"
-    },
-    "5dwOCQbTufXvwCqC": {
-      "name": "Dumah (Arcano)",
-      "description": "Daño: Como el Daño Base del arte marcial +20\nBono Maestro: +20 Ataque (sin armas)\n\nEl personaje puede elegir usar  Filo o Penetrante al momento de realizar el ataque. La precisión y agudeza de los cortes de Dumah es tal que reduce en 6 puntos la Armadura (TA) del defensor. Además, los ataques con este arte suman +25 a la Rotura. Cualquier Daño infligido con Dumah provoca desangramiento automáticamente, incluso si el ataque no genera un Crítico."
-    },
-    "iZBr5i7RuFa6bawC": {
-      "name": "Dumah (Base)",
-      "description": "Daño: Como el Daño Base del arte marcial +10\nBono Maestro: +20 Ataque (sin armas)\n\nEl personaje puede elegir usar  Filo o Penetrante al momento de realizar el ataque. La precisión de los cortes de Dumah es tal que reduce en 2 puntos la Armadura (TA) del defensor. Además, los ataques con este arte suman +10 a la Rotura."
-    },
-    "PdlfYnDylHDkK6X0": {
-      "name": "Dumah"
-    },
-    "xHpCdKdbZpJtnnjv": {
-      "name": "Emp (Arcano)",
-      "description": "Daño: Como el Daño Base del arte marcial\n+20 a Turno al usar artes marciales\nBono Maestro: +20 Ataque (sin armas)\n\nEl personaje puede ejecutar la maniobra de Desarme sin aplicar penalizador alguno a su habilidad, y añade +3 a los chequeos enfrentados de Características para dicha maniobra. Si el personaje conoce Malla-yuddah en Grado Supremo y realiza un Desarme durante un contraataque, el bono aumenta a +4.\nCada vez que el personaje defiende con éxito contra un ataque armado, puede realizar automáticamente un chequeo enfrentado de Características para desarmar al oponente, como si hubiese ejecutado la maniobra de Desarme. Este efecto se basa en el principio de que las defensas del estilo absorben el impacto y disocian el arma de las manos del enemigo. Este chequeo es directo, sin que el atacante ni el defensor apliquen ningún modificador —ni siquiera el del Grado Base de Emp."
-    },
-    "vxk9M0dLmVE4YYra": {
-      "name": "Emp (Base)",
-      "description": "Daño: Como el Daño Base del arte marcial\nBono: +10 a Turno al usar artes marciales, +20 a la Habilidad de Ataque sin armas\n\nEl personaje puede ejecutar la maniobra de Desarme sin aplicar penalizador alguno a su habilidad, y añade +3 a los chequeos enfrentados de Características para dicha maniobra. Si el personaje conoce Malla-yuddah en Grado Supremo y realiza un Desarme durante un contraataque, el bono aumenta a +4."
-    },
-    "ATQq1fcrs8Oy5lCF": {
-      "name": "Emp"
-    },
-    "xskJnOHjbG9dI8WZ": {
-      "name": "Enuth (Arcano)",
-      "description": "Daño: Como el Daño Base del arte marcial\nBono Maestro: +15 Ataque, Esquiva y Parada (sin armas), \n\nEnuth concede +50 a las tiradas para calcular el nivel de Crítico, siempre que el golpe tenga como objetivo inutilizar o dejar inconsciente. El practicante puede, además, reducir libremente el Daño infligido, incluso después de que ambos combatientes hayan lanzado los dados. Por ejemplo, puede declarar que desea dejar al enemigo con 1 Punto de Vida si el ataque lo hubiese reducido a menos.\nTodos los ataques del personaje se consideran automáticamente golpes capaces de inutilizar o dejar inconsciente al objetivo. Así, independientemente del Daño causado (siempre que sea al menos 1 Punto de Vida) o de la localización del golpe, el defensor debe realizar un chequeo de inconsciencia según las reglas estándar.\nContra enemigos con Resistencia al Daño, todos los ataques del practicante se consideran Dirigidos a puntos vulnerables. Además, gracias a su dominio del flujo vital, cada vez que inflige Daño, el practicante conoce cuántos Puntos de Vida le quedan al adversario, siempre que esté dañándolo con su ataque."
-    },
-    "OOUfBR6QqUWYofuB": {
-      "name": "Enuth (Base)",
-      "description": "Daño: Como el Daño Base del arte marcial\nBono: +20 a la Habilidad de Esquiva y Parada sin armas.\n\nEnuth concede +20 a las tiradas para calcular el nivel de Crítico, cuando el personaje ejecuta un golpe con el objetivo de dejarlo inconsciente. El practicante puede, además, reducir libremente el Daño que causa, incluso después de que ambos combatientes hayan tirado los dados. Por ejemplo, puede declarar que quiere dejar a su enemigo con 1 Punto de Vida, aunque su ataque lo hubiera reducido a menos."
-    },
-    "hpK4hYbb4afmGYwN": {
-      "name": "Enuth"
-    },
-    "O1EzZt4CCPVW8I5m": {
-      "name": "Exelion (Arcano)",
-      "description": "Bono Maestro: +25 Ataque (sin armas)\n\nDaño: Exelion inflige un Daño igual al doble de la Presencia del personaje + su bono de Poder. No se añade ningún otro modificador proveniente de artes marciales, habilidades, Técnicas de Ki, objetos ni fuentes similares. Como resultado, el Daño Base de Exelion es inmodificable en todo momento. Aunque Exelion se alimenta del alma de su practicante, sus golpes siguen siendo físicos, por lo que, a pesar de su aspecto, no se consideran de tipo Energía."
-    },
-    "IMSlkx8KsbBoXtw9": {
-      "name": "Exelion (Base)",
-      "description": "Bono: +10 a la Habilidad de Ataque sin armas.\n\nDaño: Exelion inflige un Daño igual al doble de la Presencia del personaje + su bono de Poder. No se añade ningún otro modificador proveniente de artes marciales, habilidades, Técnicas de Ki, objetos ni fuentes similares. Por lo tanto, el Daño Base de Exelion es inmodificable en todo momento.\nAunque Exelion se alimenta del alma de su practicante, sus golpes siguen siendo físicos, y no se consideran de tipo Energía, sin importar su apariencia."
-    },
-    "MSevYsH4ugZA15Xo": {
-      "name": "Exelion"
-    },
-    "KJCmi2edjGbi26je": {
-      "name": "Godhand (Arcano)",
-      "description": "Daño: Como el Daño Base del arte marcial\nBono Maestro: +15 Ataque (sin armas)\n\nGodhand permite al luchador preparar un ataque durante unos segundos para potenciarlo enormemente. El personaje debe sacrificar uno de sus ataques, lo que le otorga un bono especial de +60 a su Habilidad de Ataque y +100 al Daño en el primer ataque que realice en el siguiente Turno. Nada le impide declarar múltiples ataques durante un Turno y sacrificar el último de ellos con este propósito.\nPara activar esta capacidad, el personaje debe tener la posibilidad de realizar un ataque y decidir voluntariamente no usarla. Por lo tanto, si el personaje está a la Defensiva o ha utilizado todas sus Acciones de Ataque disponibles durante un Turno, no puede preparar el ataque potenciado. En resumen: si no tiene oportunidad de prepararlo, no puede potenciarlo."
-    },
-    "PxhHYSp9NTt7jom9": {
-      "name": "Godhand (Base)",
-      "description": "Daño: Como el Daño Base del arte marcial\nBono: +10 a la Habilidad de Ataque sin armas\n\nGodhand permite al luchador preparar un ataque durante unos segundos para aumentar enormemente su potencia. El personaje debe sacrificar uno de sus ataques, lo que le otorga un bono especial de +30 a su Habilidad de Ataque y +50 al Daño en el primer ataque que realice en el siguiente Turno.\nPuede declarar varios ataques en un Turno y sacrificar el último con este propósito. Para activar esta capacidad, el personaje debe tener la posibilidad de atacar y decidir voluntariamente no hacerlo. Por tanto, si el personaje está a la Defensiva o ya ha utilizado todas sus Acciones de Ataque disponibles en ese Turno, no puede preparar el golpe potenciado. Dicho de forma simple: si no tiene oportunidad de prepararlo, no puede potenciarlo."
-    },
-    "t4Gmctdly46mM2Av": {
-      "name": "Godhand"
-    },
-    "jQF4x6Vzel5g8m8K": {
-      "name": "Grappling (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente\n\nGrappling permite ejecutar las maniobras de combate Presa y Derribo sin ningún penalizador."
-    },
-    "sblpxb1GzfltsTpI": {
-      "name": "Grappling (Base)",
-      "description": "Daño: 10 + FUE; Contundente\n\nGrappling permite ejecutar las maniobras de combate Presa y Derribo con la mitad del penalizador habitual. Por tanto, el personaje puede hacer Presa con un –20 y Derribar con un –15 de penalización."
-    },
-    "MpXM2VPKz1nlwvfQ": {
-      "name": "Grappling (Supremo)",
-      "description": "Daño: 20 + FUE; Contundente\n\nGrappling permite ejecutar las maniobras de combate Presa y Derribo sin penalizador alguno. Además,  permite al personaje decidir infligir el Daño completo, en lugar de la mitad, al ejecutar Presa o Derribo."
-    },
-    "jhkrwKSO3Lua2rvX": {
-      "name": "Grappling"
-    },
-    "j0SqCQMXgWzHN1Qx": {
-      "name": "Hakyuokuken (Arcano)",
-      "description": "Daño: Como el Daño Base del arte marcial +30\nBono: +40 a Turno al usar artes marciales, +10 a la Habilidad de Ataque sin armas\nBono Maestro: +20 Ataque (sin armas)\n\nAl alcanzar este nivel de dominio, Hakyuokuken se convierte en uno de los estilos de combate más destructivos que existen. Sus ataques anulan automáticamente la protección de las armaduras blandas, salvo los bonos provenientes de la Calidad. Por ejemplo, una armadura blanda +10 tendrá solo TA 2 contra ataques realizados con este arte, sin importar su TA real.\nAdemás, el estilo es tan devastador que el practicante añade +40 a las tiradas para calcular el nivel de Crítico, siempre que los ataques estén dirigidos a seres orgánicos."
-    },
-    "M7ckAYjTdJLKUj8h": {
-      "name": "Hakyuokuken (Base)",
-      "description": "Daño: Como el Daño Base del arte marcial +20\nBono:  +20 a Turno al usar artes marciales, +10 a la Habilidad de Ataque sin armas\n\nLa mayoría de las armaduras no ofrecen protección contra los ataques de Hakyo, por lo que si son armaduras blandas, reducen su TA en 2 puntos. Además, este estilo es tan destructivo que el practicante añade +20 a las tiradas para calcular el nivel de Crítico causado con este arte. Esta última habilidad solo afecta a seres orgánicos."
-    },
-    "GaRvWEVe0ZfTDCas": {
-      "name": "Hakyuokuken"
-    },
-    "Ufd74MGJnreSdA21": {
-      "name": "Hanja (Arcano)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +10 a la Habilidad de Esquiva o Parada sin armas.\nBono Maestro: +20 Ataque (sin armas).\n\nEn este nivel, el practicante alcanza un control absoluto del entorno. No recibe penalizadores a su Habilidad de Defensa. Consecuentemente, el personaje no sufre ninguna clase de penalizador a su Habilidad de Defensa por encontrarse en Parálisis menor o parcial (incluso si es a causa de una maniobra de Presa),  amenazado,  espalda y espacios reducidos. Puede defenderse plenamente en cualquier situación."
-    },
-    "sBzSlqiG1nZIxMvA": {
-      "name": "Hanja (Base)",
-      "description": "Daño: Como el Daño Base del arte marcial\nBono: +10 a la Habilidad de Esquiva o Parada sin armas.\n\nUn luchador que domina Hanja no sufre penalizadores a su Habilidad de Defensa por recibir ataques desde la espalda ni por combatir en espacios reducidos. Además, puede atacar a adversarios ubicados en cualquier dirección con su Habilidad completa, sin necesidad de estar encarado hacia ellos."
-    },
-    "p3gFMqxyFOcIc7ju": {
-      "name": "Hanja"
-    },
-    "Naz2lBw2dAjNohlV": {
-      "name": "Kardad (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente.\nBono: +10 a la Habilidad de Parada o Esquiva sin armas.\n\nUn personaje que practica este arte marcial recibe un bono de +3 a sus controles de Características cuando se defiende de maniobras de Presa o Derribo, o cuando intenta zafarse de una presa en la que haya sido atrapado."
-    },
-    "iFtDTrY3RjrAyYER": {
-      "name": "Kardad (Base)",
-      "description": "Daño: 10 + FUE; Contundente.\n\nUn personaje que practica este arte marcial recibe un bono de +1 a sus controles de Características cuando se defiende de maniobras de Presa o Derribo, o cuando intenta zafarse de una presa en la que haya sido atrapado."
-    },
-    "09rrMpMqfsf9CQ5w": {
-      "name": "Kardad (Supremo)",
-      "description": "Daño: 30 + FUE; Contundente.\nBono: +20 a la Habilidad de Parada o Esquiva sin armas.\n\nEl practicante recibe un bono de +3 a sus chequeos de Características al defenderse de maniobras de Presa o Derribo, o al intentar liberarse de una presa. Además, una vez por Asalto, puede repetir cualquier chequeo enfrentado de Características que haya fallado en esas mismas situaciones."
-    },
-    "DB6WQHa8JsfxpjT1": {
-      "name": "Kardad"
-    },
-    "Pyw3dXjJ69ETAEmI": {
-      "name": "Kempo (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nLas rápidas secuencias de golpes del estilo permiten al practicante realizar ataques adicionales con un penalizador de –10 a su Habilidad, en lugar del –25 habitual."
-    },
-    "5VQkd5ovOxWnkRGE": {
-      "name": "Kempo (Base)",
-      "description": "Daño: 10 + FUE; Contundente.\n\nGracias a sus ráfagas encadenadas, el practicante de Kempo puede realizar ataques adicionales con un penalizador de –15 a su Habilidad, en lugar del penalizador habitual de –25."
-    },
-    "kugdT4Dgsyw2kYyO": {
-      "name": "Kempo (Supremo)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nLas ráfagas encadenadas del practicante le permiten realizar ataques adicionales con un penalizador de –10 a su Habilidad en lugar del –25 habitual. Además, este Grado le otorga la capacidad de realizar un ataque adicional como si tuviera 100 puntos más en su Habilidad de Ataque."
-    },
-    "pxr69V7b2zY2ajTW": {
-      "name": "Kempo"
-    },
-    "MXJlxK0QPzVN39en": {
-      "name": "Kuan (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente.\nBono: +10 a la Habilidad de Parada sin armas.\n\nGracias a su asombrosa precisión defensiva, el practicante reduce a la mitad los penalizadores que sufriría al Parar o Esquivar Proyectiles Disparados."
-    },
-    "9e8Pw4H8s4xp3BKO": {
-      "name": "Kuan (Base)",
-      "description": "Daño: 10 + FUE; Contundente.\n\nGracias a su entrenamiento, el personaje reduce a la mitad el penalizador a su Habilidad para Bloquear Proyectiles Arrojados, es decir, solo sufre un –25 en lugar del habitual –50."
-    },
-    "tboxKwRW8E8BRYQ3": {
-      "name": "Kuan (Supremo)",
-      "description": "Daño: 20 + FUE; Contundente. \nBono: +20 a la Habilidad de Parada sin armas.\n\nEn este nivel de maestría, el personaje no sufre ningún penalizador a su Habilidad para defenderse de Proyectiles Disparados o Arrojados, como si utilizara un escudo. Sin embargo, este arte marcial no permite detener ataques intangibles ni basados en energía."
-    },
-    "m3r0nTw0nRYybilP": {
-      "name": "Kuan"
-    },
-    "QcH2N1E1h3YhQjt7": {
-      "name": "Kung Fu (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nEl practicante puede aplicar un bono de +10 a una de sus Habilidades entre Ataque, Parada, Esquiva, Daño o Turno, según lo que le convenga en cada asalto. Debe decidir a qué habilidad lo aplica antes de calcular el Turno. Si lo destina a Ataque, Parada o Esquiva, este bono no cuenta como bonificador de categoría innato, por lo que puede superar el límite de +50."
-    },
-    "KOrfpRhKV5zyeJvv": {
-      "name": "Kung Fu (Base)",
-      "description": "Daño: 20 + FUE; Contundente. "
-    },
-    "0OGc70lyRKy2FGbM": {
-      "name": "Kung Fu (Supremo)",
-      "description": "Daño: 20 + FUE; Contundente o Penetrante.\n\nEl maestro puede aplicar un bono de +20 a una de sus Habilidades entre Ataque, Parada, Esquiva, Daño o Turno, según le convenga en cada asalto. Debe decidir a qué Habilidad lo aplica antes de calcular el Turno. Si opta por mejorar Ataque, Parada o Esquiva, este bono no se considera un bonificador innato de categoría, por lo que puede superar el límite de +50."
-    },
-    "rmOkWuFifGvYrmS3": {
-      "name": "Kung Fu"
-    },
-    "MihirhLeZT4hlNk3": {
-      "name": "Lama (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nLa perfección defensiva que alcanza el practicante le permite defenderse de un segundo ataque sin aplicar ningún penalizador por defensa adicional. En términos de juego: el segundo ataque no impone penalizador, el tercero aplica un –30 (como si fuera el segundo), el cuarto un –50 (como si fuera el tercero), y así sucesivamente."
-    },
-    "t5T5BZc7lsFss2v8": {
-      "name": "Lama (Base)",
-      "description": "Daño: 10 + FUE; Contundente.\nBono: +10 a la Habilidad de Parada o Esquiva sin armas."
-    },
-    "uyFq8QFMWLhOS4ra": {
-      "name": "Lama (Supremo)",
-      "description": "Daño: 20 + FUE; Contundente.\nBono: +20 a la Habilidad de Parada o Esquiva sin armas.\n\nLa habilidad perfecta que alcanza el practicante le permite defenderse del segundo y tercer ataque sin aplicar ningún penalizador por defensa adicional. En términos de juego: el segundo y el tercer ataque no imponen penalizador; el cuarto aplica un –30 (como si fuera el segundo), el quinto un –50 (como si fuera el tercero), y así sucesivamente."
-    },
-    "iMU0ONuHom04mxEA": {
-      "name": "Lama Tsu (Arcano)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +20 a la Habilidad de Parada o Esquiva sin armas.\nBono Maestro: +20 a Parada y Esquiva (sin armas).\n\nEn este nivel de dominio, el personaje no aplica ningún penalizador a su Defensa por repeler ataques adicionales, sin importar cuántos oponentes lo ataquen simultáneamente."
+    "DaJ4HPM6GW3VFVF3": {
+      "name": "Elric Fanzine"
     },
     "zfXWR8QpiwOzKncz": {
-      "name": "Lama Tsu (Base)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +20 a la Habilidad de Parada o Esquiva sin armas.\n\nComo versión perfeccionada de Lama, este arte anula los penalizadores de dos Defensas adicionales. Este beneficio se acumula con los otorgados por los Grados Avanzado y Supremo de Lama, permitiendo al personaje ignorar los penalizadores de hasta cuatro o cinco defensas, según el grado de conocimiento que posea en Lama."
+      "name": "Emp",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 3 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Heredado del arte marcial básico</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Grado Avanzado en Kempo, Kuan o Malla-yuddha; Maestría en Ataque (Sin armas).</p><p><strong>Fórmula de daño:</strong> Usa el Daño Base del arte marcial básico empleado.</p><p><strong>Ventaja:</strong> Las maniobras de Desarme no tienen penalizador al Ataque y obtienen +3 al control enfrentado de Característica. Al contraatacar con Malla-yuddha Supremo, este control recibe +4 en su lugar.</p><p><strong>Turno:</strong> +10 al usar artes marciales.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Grado Supremo en Kempo, Kuan o Malla-yuddha; Ataque (Sin armas) 280; Defensa (Sin armas) 260.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Tras defenderse con éxito de un ataque armado, intenta automáticamente un control enfrentado de Característica para desarmar al atacante. Ninguno de los combatientes aplica modificadores a este control, incluido el bonificador de Desarme del Grado Base de Emp.</p><p><strong>Turno:</strong> +10 al usar artes marciales.</p></div>"
     },
-    "cmd2kOlhFBoBS3i6": {
-      "name": "Lama Tsu"
+    "HSYLlUJSv4W8TqaN": {
+      "name": "Enuth",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 3</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Sambo (Avanzado) o Shotokan (Avanzado); Ataque (Sin armas) 160; Defensa (Sin armas) 160.</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> +20 a las tiradas de nivel de Crítico para dejar inconsciente. Puede reducir voluntariamente el daño infligido en cualquier cantidad, incluso después de las tiradas, para dejar con vida al objetivo.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Sambo (Supremo) o Shotokan (Supremo); Inhumanidad; Erudición; Ataque (Sin armas) 280; Defensa (Sin armas) 280.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> Cualquier impacto que cause daño (al menos 1 PV) provoca un control de inconsciencia, sin importar la localización del impacto; cuenta como dirigido a puntos vulnerables contra Acumulación de Daño. +50 al nivel de Crítico para dejar inconsciente. Un impacto que cause daño también revela los PV restantes del objetivo.</p></div>"
     },
-    "w5aJsOm2q6nvs0nX": {
-      "name": "Lama"
+    "X66EWSHnYOuAhxad": {
+      "name": "Exelion",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 5</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Kardad (Avanzado) o Tai Chi (Avanzado); Maestría en Ataque (Sin armas); Extensión del Aura.</p><p><strong>Fórmula de daño:</strong> 2 × Presencia + bono de Poder. Fijo, no modificable por ninguna fuente; físico/Contundente, no Energía.</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Kardad (Supremo) o Tai Chi (Supremo); Inhumanidad; Ataque (Sin armas) 300.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> Ninguna.</p></div>"
     },
-    "jrT7Q1WaAbxSFxzO": {
-      "name": "Malla-yuddha (Avanzado)",
-      "description": "Daño: 30 + FUE; Contundente.\nBono: +10 a la Habilidad de Parada sin armas.\n\nEl personaje no sufre ningún tipo de Daño al realizar Paradas con las manos desnudas contra armas, sin importar la Rotura del atacante. A todos los efectos, se considera que posee Maestría en Parada para esta forma de defensa."
+    "kVWmp4PVNuiVMqsj": {
+      "name": "Fahstiz",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 5</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Capoeira (grado avanzado), Takkyeon (grado avanzado) o Puño Borracho (grado avanzado), Baile 160, Estilo 160, Esquiva 180 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Arte Marcial Básico utilizado.</p><p><strong>Ventaja:</strong> +10 a Esquiva frente a contraataques. Tras realizar una Finta con éxito, el objetivo realiza un control de Frialdad enfrentado a tu Baile; fallar provoca parálisis menor durante 1 asalto por cada 10 puntos de diferencia. Al recibir daño puede repetir el control de Frialdad sumando el daño sufrido; una vez al día por objetivo, inmune con Maestría en Frialdad.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Capoeira (grado supremo), Takkyeon (grado supremo) o Puño Borracho (grado supremo), Baile 260, Estilo 260, Esquiva 280 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Tras realizar una Finta con éxito, fallar el control de Frialdad enfrentado a Baile provoca fascinación durante 1 asalto por cada 10 puntos de diferencia, en lugar de parálisis; hasta dos veces al día por objetivo. Recibir daño permite repetir el control como en el Grado Base; solo es inmune alguien con Frialdad Inhumana.</p><p><strong>Turno:</strong> +5 a Turno.</p></div>"
     },
-    "ZHdmQZwhhtXJ2Vol": {
-      "name": "Malla-yuddha (Base)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nGracias a su especialización contra armas, el practicante de este arte marcial gana un bono de +10 a su Entereza al realizar Paradas con las manos desnudas contra ataques armados."
+    "VJJcyTNQocskvcer": {
+      "name": "Godhand",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Boxeo (Avanzado) o Shotokan (Avanzado); Maestría en Ataque (Sin armas).</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> Sacrifica voluntariamente un ataque disponible para preparar el primer ataque del siguiente asalto: +30 especial a Ataque y +50 a Daño. Puede sacrificar un ataque posterior en un ataque múltiple; no disponible si se ve obligado a estar a la defensiva o si no le quedan ataques.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Boxeo (Supremo) o Shotokan (Supremo); Inhumanidad; Extrusión de Presencia; Ataque (Sin armas) 300.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> El bonificador del ataque preparado aumenta a +60 especial a Ataque y +100 a Daño.</p></div>"
     },
-    "I2ZmQvVmmh2r1LiB": {
-      "name": "Malla-yuddha (Supremo)",
-      "description": "Daño: 40 + FUE; Contundente.\nBono: +30 a la Habilidad de Parada sin armas.\n\nEl personaje no sufre ningún tipo de Daño al realizar Paradas con las manos desnudas contra armas, sin importar la Rotura del atacante; se le considera con Maestría en Parada para este tipo de defensa. Además, al realizar con éxito un contraataque, puede ejecutar una maniobra de Desarme sin penalizador."
+    "Hw7arkBpVpMtdf2G": {
+      "name": "Grappling",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 20</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza</p><p><strong>Ventaja:</strong> Las maniobras de Presa se realizan con −20 y las de Derribo con −15, cada una con la mitad de su penalizador habitual.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 40; Ataque (Sin armas) 130</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> Las maniobras de Presa y Derribo ya no imponen penalizador a la Habilidad de Ataque.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 120; Maestría en Ataque (Sin armas)</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado.</p><p><strong>Ventaja:</strong> Las maniobras de Presa y Derribo pueden infligir el daño completo en lugar de la mitad del daño habitual.</p></div>"
     },
-    "4YGN5PXORcijuSOS": {
-      "name": "Malla-yuddha"
+    "fIC74TBhjKhsuJZC": {
+      "name": "Hakyoukuken",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 5</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Shotokan (Avanzado) o Muay Thai (Avanzado); Uso de la Energía Necesaria; Maestría en Ataque (Sin armas).</p><p><strong>Fórmula de daño:</strong> Daño Final del arte marcial básico +20.</p><p><strong>Ventaja:</strong> TA de armaduras blandas –2. Obtienes +20 a las tiradas de nivel de Crítico únicamente contra objetivos orgánicos. +20 a Turno con artes marciales.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Shotokan (Supremo) o Muay Thai (Supremo); Inhumanidad; Ataque (Sin armas) 300.</p><p><strong>Fórmula de daño:</strong> Daño Final del arte marcial básico +30.</p><p><strong>Ventaja:</strong> Las armaduras blandas no otorgan TA base (los bonificadores por calidad siguen aplicándose; p. ej., calidad +10 otorga TA 2). El bonificador al nivel de Crítico pasa a ser +40 contra objetivos orgánicos. +20 a Turno con artes marciales.</p></div>"
     },
-    "jXNsQB2lFFZLnSEy": {
-      "name": "Melkaiah (Arcano)",
-      "description": "Daño: Como el Base del arte marcial.\nBono Maestro: +10 a Ataque, Esquiva y Parada (sin armas).\nBono: +10 a la Habilidad de Ataque sin armas.\n\nEl practicante obtiene un bono de +3 a sus controles de Características de Fuerza o Destreza al ejecutar maniobras de Derribo o Presa. Además, puede aplicar un bono especial de +50 a su Habilidad de Ataque al ejecutar una maniobra de Ataque Completo (es decir, cuando suelta al oponente para maximizar el golpe). También recibe un bono de +3 a sus controles de Fuerza para realizar las maniobras de Aplastar o Estrangular. "
+    "10XREzhyLr2LbGwZ": {
+      "name": "Hanja",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 3</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Soo Bahk (Avanzado); Detección del Ki; Advertir 200; Maestría en Defensa (Sin armas).</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> Ignora los penalizadores a la Defensa por ataques por la espalda y espacios reducidos. Ataca a objetivos en cualquier dirección con toda su Habilidad sin necesidad de girarse.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Soo Bahk (Supremo); Inhumanidad; Erudición; Advertir 240; Defensa (Sin armas) 300.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> Sin penalizadores a la Defensa por inmovilización parcial/total (incluida Presa) ni por estar amenazado con un arma.</p></div>"
     },
-    "safMMKRyB0eUuiD2": {
-      "name": "Melkaiah (Base)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +10 a la Habilidad de Ataque sin armas.\n\nEl practicante obtiene un bono de +3 a sus controles de Características de Fuerza o Destreza al ejecutar maniobras de Derribo o Presa."
+    "sCghatdPSZb9BsL9": {
+      "name": "Jeet Kune Do",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> No especificada</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Acrobacias 40, Atletismo 40.</p><p><strong>Fórmula de daño:</strong> 20 + bono de Agilidad.</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Ataque (Sin armas) 120, Defensa (Sin armas) 120, Acrobacias 100, Atletismo 100.</p><p><strong>Fórmula de daño:</strong> 30 + bono de Agilidad.</p><p><strong>Ventaja:</strong> Sin penalizadores de combate en espacios reducidos.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Maestría en Ataque (Sin armas), Acrobacias 160, Atletismo 160.</p><p><strong>Fórmula de daño:</strong> 40 + bono de Agilidad.</p><p><strong>Ventaja:</strong> Los enemigos sufren –20 a la Defensa al combatir contra ti en espacios reducidos.</p></div>"
     },
-    "K7rrDGOHQw7MGpcw": {
-      "name": "Melkaiah"
+    "tJyI78X1mO4zZi14": {
+      "name": "Judo",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Trucos de Manos 20.</p><p><strong>Fórmula de daño:</strong> 10 más el bono de Fuerza del usuario. Contundente.</p><p><strong>Ventaja:</strong> En contraataques contra humanoides, añade el bono de FUE del oponente al Ataque (mínimo +5) y al Daño Base (mínimo +0).</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Trucos de Manos 40, Ataque 100 (sin armas), Defensa 120 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Las maniobras de Derribo/Desarme en contraataque no tienen penalizador por maniobra. Elige +10 a Parada o +10 a Esquiva (Sin armas).</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Trucos de Manos 80, Defensa 200.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> +2 a los controles de característica de Derribo/Desarme en contraataque; duplica el bonificador de Ataque/Daño en contraataque del Grado Base. Elige +10 a Parada o +10 a Esquiva (Sin armas).</p></div>"
     },
-    "3LKStlpK15u9uAAP": {
-      "name": "Moai Thai (Avanzado)",
-      "description": "Daño: 20 + 3*FUE; Contundente. "
+    "luzkRHPOHyuumxGx": {
+      "name": "Kalaripayat",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Anatomía 60, Atletismo 20.</p><p><strong>Fórmula de daño:</strong> 10 más el bono de Fuerza del usuario. Contundente.</p><p><strong>Ventaja:</strong> Daño Base de Ataque Apuntado +bono de INT contra humanoides.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Anatomía 80, Atletismo 40, Ataque 120 (sin armas), Defensa 120 (sin armas).</p><p><strong>Fórmula de daño:</strong> 20 más el bono de Fuerza del usuario. Contundente.</p><p><strong>Ventaja:</strong> Daño Base de Ataque Apuntado +2× bono de INT contra humanoides.</p><p><strong>Turno:</strong> +5 a Turno.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Anatomía 120, Atletismo 100, Ataque 200 (sin armas), Defensa 200 (sin armas).</p><p><strong>Fórmula de daño:</strong> 30 más el bono de Fuerza del usuario. Contundente.</p><p><strong>Ventaja:</strong> Daño Base de Ataque Apuntado +3× bono de INT contra humanoides.</p><p><strong>Turno:</strong> +5 a Turno.</p></div>"
     },
-    "rqbqhPnLlhqnHgVA": {
-      "name": "Moai Thai (Base)",
-      "description": "Daño: 20 + 2*FUE; Contundente."
+    "rWHIrV56yjsb3VHj": {
+      "name": "Karate",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> No especificada</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Estilo 20.</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza.</p><p><strong>Ventaja:</strong> Ninguna.</p><p><strong>Turno:</strong> +5 a Turno.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Ataque (Sin armas) 130, Defensa (Sin armas) 130, Estilo 60.</p><p><strong>Fórmula de daño:</strong> Base + daño por calidad.</p><p><strong>Ventaja:</strong> Sin armas obtiene Calidad +5 equivalente a un arma (excepto al usar nudillos o rodilleras).</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Maestría en Ataque y Defensa (Sin armas), Estilo 120.</p><p><strong>Fórmula de daño:</strong> 30 + bono de Fuerza.</p><p><strong>Ventaja:</strong> La Calidad sin armas mejora a +10 en total, excepto con nudillos o rodilleras.</p></div>"
     },
-    "8Ll8HIfnd3s1oFld": {
-      "name": "Moai THai (Supremo)",
-      "description": "Daño: 20 + 4*FUE; Contundente.\n\nDebido a la potencia devastadora de sus golpes, el practicante añade +20 a sus tiradas para calcular el nivel de Crítico."
+    "lKnf4c3GKrNDnSe7": {
+      "name": "Kardad",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Atletismo 40; Trucos de Manos 20</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza</p><p><strong>Ventaja:</strong> Obtienes +1 en los controles enfrentados de Característica para resistir una Presa o un Derribo, o para escapar de una presa existente. Este bonificador no se aplica al iniciar dichas maniobras.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Atletismo 60; Trucos de Manos 40; Defensa (Sin armas) 120</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> Aumenta a +3 el bonificador defensivo al control de Característica contra Presa, Derribo y presas.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Atletismo 120; Trucos de Manos 100</p><p><strong>Fórmula de daño:</strong> 30 + bono de Fuerza</p><p><strong>Ventaja:</strong> Conservas el bonificador defensivo de +3 al control de Característica. Una vez por asalto, puedes repetir un control enfrentado fallido realizado para resistir una Presa o un Derribo, o para escapar de una presa.</p></div>"
     },
-    "BTA5fCRMBDRXwoDb": {
-      "name": "Moai Thai"
+    "TDyfnKmoTly83H17": {
+      "name": "Kempo",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Ninguno</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza</p><p><strong>Ventaja:</strong> Los ataques adicionales sufren un penalizador de −15 a la Habilidad de Ataque por cada ataque extra en lugar de −25.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Ataque (Sin armas) 120</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> Reduce el penalizador por cada ataque adicional a −10.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Maestría en Ataque (Sin armas)</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado.</p><p><strong>Ventaja:</strong> Para determinar el número de ataques adicionales disponibles, considera la Habilidad de Ataque como 100 puntos más alta. Cada ataque adicional sigue aplicando el penalizador de −10 del Grado Avanzado (p. ej., Ataque 200 permite 4 ataques totales a Ataque 170).</p></div>"
     },
-    "YnHmHTu2XGfCrmMu": {
-      "name": "Mushin (Arcano)",
-      "description": "Daño: Como el Base del arte marcial.\nBono Maestro: +20 a la Habilidad de Ataque sin armas.\nBono: +10 a la Habilidad de Ataque sin armas.\n\nEn lugar de infligir daño directo, un ataque dirigido a los puntos de presión del oponente fuerza a este a realizar un chequeo de Resistencia Física (RF) contra una Dificultad equivalente al Daño que se habría causado +40 (hasta un máximo de RF 240). Si falla la tirada, el oponente sufre un penalizador a todas sus Acciones igual al nivel de fallo y pierde Puntos de Vida igual al doble de ese nivel de fallo. Recupera el penalizador a razón de 5 puntos por Asalto. Esta técnica solo afecta a seres orgánicos susceptibles a daño por puntos de presión. Criaturas como dragones u otros entes similares son inmunes. El uso de esta habilidad es voluntario: debe declararse antes de realizar la tirada. Si decide no utilizarla, el ataque se resuelve con daño convencional.\n\nAdicionalmente, un Maestro Arcano puede optar por inducir estados específicos si el adversario falla la RF, aplicando un penalizador a su Habilidad de Ataque para ejecutar cada uno de estos efectos especiales::\n-5: Debilidad; -10: Dolor; -25: Dolor extremo; -20: Paralización menor; -30: Paralización parcial; -50: Paralización completa; -60: Coma; -70: Muerte"
+    "5ky2uJaU2fmcJIHE": {
+      "name": "Kuan",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Trucos de Manos 40</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza</p><p><strong>Ventaja:</strong> Reduce a la mitad el penalizador de Parada contra proyectiles lanzados, reduciéndolo a −25.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Trucos de Manos 60; Defensa (Sin armas) 120</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> Reduce también a la mitad los penalizadores de Parada o Esquiva contra proyectiles disparados; se mantiene el penalizador reducido de Parada contra proyectiles lanzados.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Trucos de Manos 140; Maestría en Defensa (Sin armas)</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado.</p><p><strong>Ventaja:</strong> Defiéndete contra proyectiles disparados y lanzados sin los penalizadores específicos de proyectiles, como si usaras un escudo. Esto no otorga la capacidad de detener ataques intangibles o basados en energía.</p></div>"
     },
-    "VinfBKrb9ScLcah9": {
-      "name": "Mushin (Base)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +10 a la Habilidad de Ataque sin armas.\n\nEn lugar de infligir daño directo, un ataque dirigido a los puntos de presión del oponente fuerza a este a realizar un chequeo de Resistencia Física (RF) contra una Dificultad equivalente al Daño que se habría causado +20 (hasta un máximo de RF 220). Si falla la tirada, el oponente sufre un penalizador a todas sus Acciones igual al nivel de fallo y pierde Puntos de Vida igual al doble de ese nivel de fallo. Recupera el penalizador a razón de 5 puntos por Asalto.\nEste efecto solo afecta a seres orgánicos susceptibles a daño por puntos de presión. Criaturas como dragones u otras entidades similares son inmunes a esta técnica. El uso de esta habilidad es voluntario: antes de realizar la tirada, el luchador declara si la empleará o si realizará un ataque convencional con daño normal."
+    "L4nRyCRjVHIFiXw2": {
+      "name": "Kung Fu",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2 | <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Acrobacias 20; Trucos de Manos 20; Estilo 10.</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza.</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Acrobacias 40; Trucos de Manos 40; Estilo 20; Ataque (Sin armas) 120; Defensa (Sin armas) 120.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Antes de calcular el Turno cada asalto, asigna +10 a uno de los siguientes valores: Ataque, Parada, Esquiva, Daño o Turno. Cuando se asigna a Ataque, Parada o Esquiva, es un bonificador situacional y puede superar el límite de +50 al bono innato.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Acrobacias 120; Trucos de Manos 120; Estilo 100; Maestría en Ataque y Defensa (Sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base; Contundente puede sustituirse por Penetrante.</p><p><strong>Ventaja:</strong> El bonificador flexible aumenta a +20, sustituyendo al bonificador del Grado Avanzado en lugar de apilarse con él.</p></div>"
     },
-    "WMn4Znc69zHy9xab": {
-      "name": "Mushin"
+    "OggMM7UoMt39YYtd": {
+      "name": "Lama Tsu",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Lama (Avanzado); Detección del Ki; Estilo 120; Defensa (Sin armas) 220.</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> Ignora los penalizadores por dos defensas adicionales; se apila con Lama, permitiendo cuatro o cinco defensas sin penalizadores según el grado de Lama.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Lama (Supremo); Erudición; Estilo 140; Defensa (Sin armas) 300.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> Ignora todos los penalizadores provocados por defenderse contra ataques adicionales, sin importar su número.</p></div>"
     },
-    "84hyLYOzwei9mz7i": {
+    "U3nQ42mYCuo8z0nK": {
+      "name": "Lama",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Estilo 20</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Estilo 40; Defensa (Sin armas) 130</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> Defiéndete contra un segundo ataque sin el penalizador habitual por defensas múltiples. El tercer ataque impone −30 a la defensa, el cuarto −50 y los ataques siguientes siguen la progresión normal desplazada un ataque atrás.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Estilo 80; Maestría en Defensa (Sin armas)</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado.</p><p><strong>Ventaja:</strong> Ninguna de las tres primeras defensas sufre penalizador por defensas múltiples. La cuarta sufre −30, la quinta −50, la sexta −70 y así sucesivamente.</p></div>"
+    },
+    "AGqfoy2qkIHlpxAv": {
+      "name": "Leminuse",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Malla-Yuddha (grado avanzado) o Boxeo (grado avanzado), Extrusión de Presencia, Parada 160 (sin armas), Proezas de Fuerza 100.</p><p><strong>Fórmula de daño:</strong> +10 al Daño del Arte Marcial Básico utilizado.</p><p><strong>Ventaja:</strong> Una vez por asalto, un ataque provoca Impacto igual a tu FUE; los ataques obtienen +4 a Rotura.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Malla-Yuddha (grado supremo) o Boxeo (grado supremo), Extrusión de Presencia, Parada 300 (sin armas), Proezas de Fuerza 160.</p><p><strong>Fórmula de daño:</strong> +10 al Daño del Grado Base.</p><p><strong>Ventaja:</strong> Cada contraataque con éxito puede provocar Impacto igual a tu FUE; la Rotura pasa a ser +6.</p></div>"
+    },
+    "zcSC0wugb1iU2IcV": {
+      "name": "Lua",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 40, Resistencia al Dolor 20.</p><p><strong>Fórmula de daño:</strong> 10 más el bono de Fuerza del usuario. Contundente.</p><p><strong>Ventaja:</strong> Las maniobras de Presa no tienen penalizador.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 60, Resistencia al Dolor 40, Esquiva 120 (sin armas).</p><p><strong>Fórmula de daño:</strong> 20 más el bono de Fuerza del usuario. Contundente.</p><p><strong>Ventaja:</strong> Los penalizadores de Presa del enemigo contra ti se duplican. Si no se aplica ninguno, gasta 1 punto de Cansancio para imponer –(2× tu bono de AGI). +1 a los controles de FUE para Aplastar/Estrangular.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 120, Resistencia al Dolor 100, Ataque 150 (sin armas), Esquiva 150 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado.</p><p><strong>Ventaja:</strong> +2 en total a los controles de FUE para Aplastar/Estrangular; +20 al nivel de Crítico contra enemigos apresados.</p></div>"
+    },
+    "oOVGIFkaLBowgKMw": {
+      "name": "Lucha Libre",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Atletismo 30, Acrobacias 30.</p><p><strong>Fórmula de daño:</strong> 10 más el bono de Fuerza del usuario. Contundente.</p><p><strong>Ventaja:</strong> +1 a los controles de característica para Presa/Derribo.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Atletismo 50, Acrobacias 50, Ataque 110 (sin armas), Defensa 110 (sin armas).</p><p><strong>Fórmula de daño:</strong> 20 más el bono de Fuerza del usuario. Contundente.</p><p><strong>Ventaja:</strong> Con una estructura cercana a la altura de la cintura, un control de Acrobacias Absurdo permite realizar una Carga instantánea de hasta 1/5 del Movimiento; Imposible otorga +10 al Daño Base.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Acrobacias 120, Defensa 200 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado.</p><p><strong>Ventaja:</strong> Realizar una Carga o un Ataque Completo contra enemigos apresados añade +10 al Daño Base.</p></div>"
+    },
+    "4w6s7IYq4hD99ufj": {
+      "name": "Malla-yuddha",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Trucos de Manos 20</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> Obtienes +10 a Entereza al detener ataques armados con las manos desnudas.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Trucos de Manos 40; Defensa (Sin armas) 120</p><p><strong>Fórmula de daño:</strong> 30 + bono de Fuerza</p><p><strong>Ventaja:</strong> Detener armas con las manos desnudas no causa daño al practicante, sin importar la Rotura del arma; considera esta protección como Maestría en Parada.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Trucos de Manos 100; Maestría en Parada (Sin armas)</p><p><strong>Fórmula de daño:</strong> 40 + bono de Fuerza</p><p><strong>Ventaja:</strong> Tras un contraataque con éxito, se puede intentar una maniobra de Desarme sin su penalizador habitual.</p></div>"
+    },
+    "EVSRSkv0JyveC6na": {
+      "name": "Melkaiah",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 3</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Grappling (Avanzado) o Pankration (Avanzado); Inhumanidad; Ataque (Sin armas) 160; Defensa (Sin armas) 160.</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> +3 en los controles de Fuerza o Destreza para realizar Presa y Derribo.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Grappling (Supremo) o Pankration (Supremo); Ataque (Sin armas) 260; Defensa (Sin armas) 260.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> +50 especial a Ataque al realizar un Ataque Completo soltando a un enemigo apresado; +3 a los controles de Fuerza al Aplastar o Estrangular.</p></div>"
+    },
+    "HMb3eKfoNLdBIYaQ": {
+      "name": "Muay Thai",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 30</p><p><strong>Fórmula de daño:</strong> 20 + 2 × bono de Fuerza</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 40; Ataque (Sin armas) 130</p><p><strong>Fórmula de daño:</strong> 20 + 3 × bono de Fuerza</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 160; Maestría en Ataque (Sin armas)</p><p><strong>Fórmula de daño:</strong> 20 + 4 × bono de Fuerza</p><p><strong>Ventaja:</strong> Añade +20 a las tiradas para determinar el nivel de Crítico de los ataques con artes marciales.</p></div>"
+    },
+    "yicciugdDCr3QaUz": {
+      "name": "Mushin",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Kung Fu (Avanzado) o Xing Quan (Avanzado); Medicina 100 o especialización en Anatomía 60; Maestría en Ataque (Sin armas).</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> Decláralo antes de tirar: sustituye el daño en PV por un control de RF (dificultad = daño que habría infligido +20, máx. 220). Si falla, aplica un penalizador a toda acción igual al margen de fallo y una pérdida de PV igual al doble de dicho margen. Recupera 5 puntos de penalizador por asalto. Solo afecta a objetivos orgánicos susceptibles; criaturas como los dragones son inmunes. Sigue pudiendo realizar ataques normales.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Kung Fu (Supremo) o Xing Quan (Supremo); Inhumanidad; Medicina 120 o especialización en Anatomía 80; Ataque (Sin armas) 300.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> La dificultad del control de RF por puntos de presión aumenta en otros 20 (máximo 240); los efectos adicionales se describen en el recuadro de Mushin (no incluido).</p></div>"
+    },
+    "uiljAZFXpxX5S24t": {
+      "name": "Ninjutsu",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Ocultarse 20, Sigilo 20.</p><p><strong>Fórmula de daño:</strong> 10 más el bono de Fuerza del usuario. Cuando un personaje adquiere ninjutsu puede elegir que utilice la tabla de Contundente, Filo o Penetrante, lo cual no podrá cambiarse más adelante.</p><p><strong>Ventaja:</strong> Los ataques por sorpresa obtienen +10 al Daño Base. Elige Contundente, Filo o Penetrante de forma permanente al aprenderlo.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Ocultarse 50, Sigilo 50, Uso del Ki, Ataque 120 (sin armas).</p><p><strong>Fórmula de daño:</strong> 20 más el bono de Fuerza del usuario. El personaje puede elegir una tabla de Daño adicional de entre las tres descritas en la sección de Daño del Grado Base y usar libremente cualquiera de las dos que posea.</p><p><strong>Ventaja:</strong> El bonificador al Daño Base por sorpresa pasa a ser +20; selecciona un segundo tipo de ataque entre Contundente/Filo/Penetrante.</p><p><strong>Turno:</strong> +5 a Turno.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Ocultarse 120, Sigilo 120, Ocultación del Ki, Ataque 200 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado. El personaje puede ahora realizar ataques utilizando la tabla de Contundente, Filo o Penetrante.</p><p><strong>Ventaja:</strong> El bonificador al Daño Base por sorpresa pasa a ser +30; el penalizador de Ataque Apuntado contra enemigos sorprendidos se divide entre cuatro; utiliza los tres tipos de ataque.</p><p><strong>Turno:</strong> +5 a Turno.</p></div>"
+    },
+    "wyahmXSkATWMfEuB": {
+      "name": "Ninjutsu",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Ocultarse 20, Sigilo 20.</p><p><strong>Fórmula de daño:</strong> 10 más el bono de Fuerza del usuario. Cuando un personaje adquiere ninjutsu puede elegir que utilice la tabla de Contundente, Filo o Penetrante, lo cual no podrá cambiarse más adelante.</p><p><strong>Ventaja:</strong> Los ataques por sorpresa obtienen +10 al Daño Base. Elige Contundente, Filo o Penetrante de forma permanente al aprenderlo.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Ocultarse 50, Sigilo 50, Uso del Ki, Ataque 120 (sin armas).</p><p><strong>Fórmula de daño:</strong> 20 más el bono de Fuerza del usuario. El personaje puede elegir una tabla de Daño adicional de entre las tres descritas en la sección de Daño del Grado Base y usar libremente cualquiera de las dos que posea.</p><p><strong>Ventaja:</strong> El bonificador al Daño Base por sorpresa pasa a ser +20; selecciona un segundo tipo de ataque entre Contundente/Filo/Penetrante.</p><p><strong>Turno:</strong> +5 a Turno.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Ocultarse 120, Sigilo 120, Ocultación del Ki, Ataque 200 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado. El personaje puede ahora realizar ataques utilizando la tabla de Contundente, Filo o Penetrante.</p><p><strong>Ventaja:</strong> El bonificador al Daño Base por sorpresa pasa a ser +30; el penalizador de Ataque Apuntado contra enemigos sorprendidos se divide entre cuatro; utiliza los tres tipos de ataque.</p><p><strong>Turno:</strong> +5 a Turno.</p></div>"
+    },
+    "mjZSAacRZz01Kao7": {
       "name": "Oficial"
     },
-    "ym5yR4TVQwdrEUvE": {
-      "name": "Pankration (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nEste arte permite ejecutar la maniobra de Presa con solo la mitad del penalizador habitual (–20 en vez de –40). Además, gracias a su control perfecto del equilibrio y el movimiento, el personaje no aplica penalizadores a su Habilidad de combate mientras mantiene una Presa. Es decir, conserva toda su capacidad ofensiva y defensiva incluso mientras sostiene al enemigo. Sin embargo, sigue sufriendo los penalizadores de Movimiento correspondientes si intenta desplazarse con el oponente agarrado."
+    "ENF9LyjMfwy7ngF3": {
+      "name": "Olympus Mons",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Lua (grado avanzado), Pankration (grado avanzado) o Sambo (grado avanzado), Atletismo 180, Ataque 180 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Arte Marcial Básico utilizado.</p><p><strong>Ventaja:</strong> Aplastar inflige 20 PV por nivel de fallo en lugar de 10. </p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Lua (grado supremo), Pankration (grado supremo) o Sambo (grado supremo), Atletismo 200, Ataque 300 (sin armas), Inhumanidad.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base más el Bono de Constitución del personaje.</p><p><strong>Ventaja:</strong> Una vez por asalto, realiza un Ataque Apuntado contra un oponente apresado sin penalizador (incluido el bonificador de Crítico de Lua si corresponde). Gasta 1 punto de Cansancio para repetir una Presa/Derribo fallida una vez por asalto con los mismos modificadores.</p></div>"
     },
-    "vl6m9K6qtQaPgPDE": {
-      "name": "Pankration (Base)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nEste arte permite ejecutar la maniobra de Presa con solo la mitad del penalizador habitual (–20 en lugar de –40)."
+    "aQqmczydVE5rBxLD": {
+      "name": "Pankration",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1 | <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Atletismo 30; Proezas de Fuerza 30.</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza.</p><p><strong>Ventaja:</strong> El penalizador de la maniobra de Presa se reduce a la mitad, de −40 a −20.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Atletismo 50; Proezas de Fuerza 50; Ataque (Sin armas) 110; Defensa (Sin armas) 110.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Mientras mantienes una Presa, conservas tus habilidades completas de Ataque y Defensa. Siguen aplicándose los penalizadores habituales al Valor de Movimiento al desplazarte mientras cargas o arrastras al oponente apresado.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Proezas de Fuerza 120; Maestría en Defensa (Sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Un oponente que intente liberarse de tu Presa sufre −5 a la Característica correspondiente en lugar de −3.</p></div>"
     },
-    "pTGqfLYq8McIR7oF": {
-      "name": "Pankration (Supremo)",
-      "description": "Daño: 20 + FUE; Contundente.\nBono: +10 a la Habilidad de Parada o Esquiva sin armas.\n\nPermite realizar maniobras de Presa con solo –20 de penalizador (en vez de –40). Además, los oponentes apresados sufren un penalizador de –5 a su Característica al intentar liberarse (en lugar de -3). A este nivel, el personaje no recibe penalizadores a sus Habilidades de combate mientras mantiene la Presa, conservando su capacidad plena para atacar o defender. No obstante, sigue sufriendo los penalizadores de Movimiento pertinentes si intenta desplazarse llevando al enemigo."
+    "0obkRDaJ3nPfmVt5": {
+      "name": "Panzerkunst",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 5</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Judo (grado avanzado) o Kuan (grado avanzado), Inhumanidad, Atletismo 160, Acrobacias 160.</p><p><strong>Fórmula de daño:</strong> Igual que el Arte Marcial Básico utilizado.</p><p><strong>Ventaja:</strong> +2 de TA adicional frente a proyectiles disparados (incluida Energía), sin penalizadores de armadura. Contra Acumulación de Daño, reduce la TA en 1 por cada 10 puntos de bono de Poder; ignora Barrera de Daño hasta el valor de tu bono de Poder.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Judo (grado supremo) o Kuan (grado supremo), Levitación, Atletismo 200, Acrobacias 200.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> En el aire o gravedad cero añade 2× tu bono de AGI a la primera Parada/Esquiva de cada asalto. Duplica el bono de Poder para ignorar TA y Barrera del Grado Base.</p></div>"
     },
-    "OHUL73AHDxU6EkSM": {
-      "name": "Pankration"
+    "gl580t9BRmAwKlpT": {
+      "name": "Rahab",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 5</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Kardad (grado avanzado), Lua (grado avanzado) o Lucha Libre (grado avanzado), Uso del Ki, Atletismo 180, Defensa 180 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Arte Marcial Básico utilizado.</p><p><strong>Ventaja:</strong> +2 de TA contra ataques destinados a Derribo, Presa, Inutilizar o Dejar Inconsciente; no disponible si sufres cualquier penalizador de armadura (no cuenta como capa de armadura adicional). +10 a Defensa (Sin armas), tipo sin especificar; +5 a Turno.</p><p><strong>Turno:</strong> +5 a Turno.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Kardad (grado supremo), Lua (grado supremo) o Lucha Libre (grado supremo), Inhumanidad, Atletismo 200, Defensa 300 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> +25 a Acrobacias en combate; la TA condicional del Grado Base sube a +3.</p><p><strong>Turno:</strong> +5 a Turno.</p></div>"
     },
-    "83ZEGNTyUFS6FBs1": {
-      "name": "Rex Frame (Arcano)",
-      "description": "Daño: Como el Base del arte marcial.\nBono Maestro: +20 a Esquiva y Parada (sin armas).\nBono: +10 a la Habilidad de Esquiva o Parada sin armas.\n\nDebido al extremo acondicionamiento físico que implica esta práctica, el personaje obtiene Armadura Natural 6 contra todo tipo de ataques, incluyendo los de Energía. Esta defensa puede combinarse con cualquier capa de armadura sin imponer penalizadores especiales al Turno. Además, el personaje obtiene una Barrera de Daño 200 frente a ataques convencionales que no afecten energía."
+    "NwMCI0F4zD7SVgSh": {
+      "name": "Rex Frame",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 3</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Malla-yuddha (Avanzado) o Muay Thai (Avanzado); Maestría en Defensa (Sin armas); Inhumanidad.</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> Obtienes TA Natural 3 contra todos los tipos de daño (incluida Energía); se apila con la armadura llevada sin penalizador al Turno. Barrera de Daño 60 contra ataques convencionales incapaces de dañar energía.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Malla-yuddha (Supremo) o Muay Thai (Supremo); Defensa (Sin armas) 300; Zen.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> La TA Natural pasa a ser 6 y la Barrera de Daño pasa a ser 200.</p></div>"
     },
-    "TCn5ZBNOj4LzWs1E": {
-      "name": "Rex Frame (Base)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +10 a la Habilidad de Esquiva o Parada sin armas.\n\nDebido al extremo acondicionamiento físico que implica esta práctica, el personaje obtiene Armadura Natural 3 contra todo tipo de ataques, incluyendo los de Energía. Esta defensa puede combinarse con cualquier capa de armadura sin imponer penalizadores especiales al Turno. Además, el personaje obtiene una Barrera de Daño 60 frente a ataques convencionales que no afecten energía."
+    "q5iIsiVz6Kd7Whb4": {
+      "name": "Ryute",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 3</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Tae Kwon Do (grado avanzado) o Xingyiquan (grado avanzado), Trucos de Manos 100, Atletismo 100, Ataque 150 (sin armas), Parada 150 (sin armas), Llevar Armadura 200.</p><p><strong>Fórmula de daño:</strong> Igual que el Arte Marcial Básico o el arma utilizada.</p><p><strong>Ventaja:</strong> Requiere una capa de armadura dura que pueda llevarse sin penalizador de armadura; permite usar artes marciales mientras se lleva puesta (sin ninguna otra armadura mundana). Con un arma a una mano que se domine, utiliza el Turno más alto entre el del arma y sin armas.</p><p><strong>Turno:</strong> +10 a Turno.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Extensión del Aura, Tae Kwon Do (grado supremo) o Xingyiquan (grado supremo), Trucos de Manos 180, Atletismo 180, Ataque 280 (sin armas), Parada 280 (sin armas), Llevar Armadura 300.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Con una armadura válida, reduce el penalizador por combate con dos armas en 10 al combinar arma y mano libre. Puede llevar una capa dura más hasta dos capas blandas; obtiene +5 a Parada por cada capa adicional.</p></div>"
     },
-    "mIu2YZD9aSX1fdMY": {
-      "name": "Rex Frame"
+    "mOqav5KJOLhusEGT": {
+      "name": "Sambo",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Ninguno</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza</p><p><strong>Ventaja:</strong> Reduce a la mitad los penalizadores por maniobra para Derribo y Desarme.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Ataque (Sin armas) 130</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> Reduce también a la mitad los penalizadores por maniobra para Presa y Ataque en Área.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Maestría en Ataque y Defensa (Sin armas)</p><p><strong>Fórmula de daño:</strong> 30 + bono de Fuerza</p><p><strong>Ventaja:</strong> Reduce también a la mitad los penalizadores de Ataque Apuntado. Combinado con la ventaja habitual de Precisa de los golpes sin armas, su penalizador efectivo pasa a ser una cuarta parte del original, redondeado hacia arriba en incrementos de 5.</p></div>"
     },
-    "OkK44ugFCPQV9gSD": {
-      "name": "Sambo (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente.\nBono: +10 a la Habilidad de Parada sin armas.\n\nLos practicantes de este arte reducen a la mitad los penalizadores de las maniobras de combate Presa, Ataque de Área, Derribo y Desarmar."
+    "XVQqC4vRqspUHHlX": {
+      "name": "Savate",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Atletismo 30.</p><p><strong>Fórmula de daño:</strong> 20 más el bono de Fuerza del usuario. Contundente.</p><p><strong>Ventaja:</strong> Duplica el bonificador al Ataque por Movimiento Ofensivo.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Atletismo 60, Ataque 120 (sin armas), Defensa 120 (sin armas).</p><p><strong>Fórmula de daño:</strong> 30 más el bono de Fuerza del usuario.</p><p><strong>Ventaja:</strong> Duplica el bonificador por Ataque Total.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Atletismo 120, Ataque 200 (sin armas), Defensa 200 (sin armas).</p><p><strong>Fórmula de daño:</strong> 40 más el bono de Fuerza del usuario.</p><p><strong>Ventaja:</strong> Triplica tanto el bonificador por Ataque Total como el de Ataque por Movimiento Ofensivo (sustituye a los bonificadores anteriores).</p></div>"
     },
-    "1RNwOAvTdlz62YF7": {
-      "name": "Sambo (Base)",
-      "description": "Daño: 10 + FUE; Contundente.\n\nLos practicantes de Sambo reducen a la mitad los penalizadores de las maniobras de combate Derribo y Desarmar."
+    "s6T3w0Assp4kmjjV": {
+      "name": "Selene",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 5</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Aikido (Avanzado); Maestría en Defensa (Sin armas).</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> Duplica el bonificador habitual por contraataque al contraatacar con artes marciales.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Aikido (Supremo); Inhumanidad; Parada o Esquiva (Sin armas) 300.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> Tras una defensa con éxito, contraataca con toda tu Habilidad de Ataque sin gastar ataques ni acciones (como máximo una vez por ataque recibido). No disponible si te ves obligado a renunciar a tus Acciones Activas.</p></div>"
     },
-    "4nru7NRl6ERTvOz0": {
-      "name": "Sambo (Supremo)",
-      "description": "Daño: 30 + FUE; Contundente.\nBono: +20 a la Habilidad de Parada sin armas.\n\nLos practicantes de Sambo reducen a la mitad los penalizadores de las maniobras de combate Presa, Ataque en Área, Derribo y Desarmar. Además, un Maestro Supremo de este arte reduce a la mitad los penalizadores de sus Ataques Apuntados. Esta reducción se suma a la regla de Precisa, que ya aplican los ataques sin armas, por lo que el personaje sufre solo un cuarto del penalizador total (redondeando hacia arriba en grupos de 5)."
+    "KFm3bJipRe7qBbjE": {
+      "name": "Seraphite",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Shotokan (Avanzado) o Kempo (Avanzado); Extrusión de Presencia; Ataque (Sin armas) 180.</p><p><strong>Fórmula de daño:</strong> Daño final del arte marcial básico +10.</p><p><strong>Ventaja:</strong> Antes del Turno, puede obtener +20 especial a Ataque a costa de –30 a Defensa; este bonificador al Ataque no es innato.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Shotokan (Supremo) o Kempo (Supremo); Extrusión de Presencia; Ataque (Sin armas) 280.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> Antes del Turno, puede obtener en su lugar +30 especial a Ataque y –50 a Defensa. Puede seguir atacando tras verse obligado a estar a la defensiva o recibir daño, a menos que haya sufrido un Crítico. No puede combinarse con el modo ofensivo del Grado Base.</p></div>"
     },
-    "dusi0UcQldxrR9W9": {
-      "name": "Sambo"
+    "KGqH0E9M31n15I2d": {
+      "name": "Shadus",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Ninjutsu (grado avanzado) o Savate (grado avanzado), Extrusión de Presencia, Trucos de Manos 100, Ataque 160 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Arte Marcial Básico utilizado.</p><p><strong>Ventaja:</strong> Contra objetivos a los que superes en Turno, considera el Daño Final como +30 únicamente para determinar si se produce un Crítico (no para el daño real ni para el nivel de Crítico). Los ataques reducen la TA del objetivo en 1.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Ninjutsu (grado supremo) o Savate (grado supremo), Daño Incrementado, Trucos de Manos 140, Ocultarse 140, Sigilo 140, Atletismo 140, Ataque 280 (sin armas), Esquiva 280 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> El cálculo para provocar Crítico utiliza +50 al Daño Final efectivo sin importar el Turno; la reducción de TA es de 3 en total.</p></div>"
     },
-    "Pg8dsWMgXqhw3wrn": {
-      "name": "Selene (Arcano)",
-      "description": "Daño: Como el Base del arte marcial.\nBono Maestro: +20 a Parada y Esquiva (sin armas).\nBono: +20 a la Habilidad de Esquiva o Parada sin armas.\n\nCuando alcanza este grado, cada movimiento del practicante es tanto defensa como ataque. Siempre que defienda con éxito, puede realizar un Contraataque con su Habilidad de Ataque completa, aunque no disponga de ataques disponibles. Puede contraatacar en cualquier momento en que obtenga un Resultado de Ataque que lo permita, sin consumir sus acciones. Esto le permite atacar normalmente en su turno incluso si ya ha realizado varios contraataques. Esta capacidad está limitada a un contraataque por cada ataque recibido y no puede utilizarse si el personaje ha quedado a la defensiva ese asalto (es decir, si pierde su Acción Activa)."
+    "SD43bOWzbMXCA0ov": {
+      "name": "Shephon",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Aikido (Avanzado) o Kuan (Avanzado); Uso del Ki; Maestría en Defensa (Sin armas).</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> El bonificador por Defensa Total pasa a ser +60.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Aikido (Supremo) o Kuan (Supremo); Defensa (Sin armas) 300.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> El bonificador por Defensa Total pasa a ser +100 en su lugar.</p></div>"
     },
-    "XugBqkgmqfeZEPBK": {
-      "name": "Selene (Base)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +20 a la Habilidad de Esquiva o Parada sin armas.\n\nGracias a la eficacia defensiva de este estilo, el practicante duplica el bono de su Contraataque si lo realiza utilizando artes marciales."
+    "RF7ZsIM0MsAzS2Xy": {
+      "name": "Shotokan",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1 | <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Ninguno.</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza.</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Ataque (Sin armas) 120; Defensa (Sin armas) 120.</p><p><strong>Fórmula de daño:</strong> 30 + bono de Fuerza.</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Maestría en Ataque (Sin armas).</p><p><strong>Fórmula de daño:</strong> 50 + bono de Fuerza.</p><p><strong>Ventaja:</strong> Ninguna.</p></div>"
     },
-    "kPKuFFWwNqHdmSvg": {
-      "name": "Selene"
+    "dmObLsQPeUqgJ9MD": {
+      "name": "Shunsatsu",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 5</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Ninjutsu (grado avanzado) o Kalaripayat (grado avanzado), Ocultarse 100, Sigilo 100, Ataque 200 (sin armas), Inhumanidad.</p><p><strong>Fórmula de daño:</strong> Igual que el Arte Marcial Básico utilizado.</p><p><strong>Ventaja:</strong> Los ataques por Sorpresa, Finta o Amenazar con un arma obtienen el bono de AGI al Daño Base, excepto contra Acumulación de Daño.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Ninjutsu (grado supremo) o Kalaripayat (grado supremo), Zen, Ocultarse 200, Sigilo 200, Ataque 300 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> El bonificador de daño aplicable pasa a ser 2× el bono de AGI; los ataques por Sorpresa imponen también el penalizador por Ceguera Total.</p><p><strong>Turno:</strong> +10 a Turno.</p></div>"
     },
-    "MUJ9sIWQ7BiIvGHn": {
-      "name": "Seraphite (Arcano)",
-      "description": "Daño: Como el Base del arte marcial +10.\nBono Maestro: +20 a Ataque (sin armas).\nBono: +20 a la Habilidad de Ataque sin armas.\n\nSi lo desea, el practicante puede aumentar temporalmente su Habilidad de Ataque en +30 a cambio de sufrir un penalizador de -50 a su Defensa. Esta decisión debe declararse antes de calcular el Turno. Este bono es especial y no cuenta dentro de los límites de bonificadores innatos por Categoría.\nEn este estado, puede atacar en su oportunidad de actuar incluso si ha sido puesto a la Defensiva o ha recibido Daño, salvo que dicho ataque le haya causado un Crítico, en cuyo caso pierde esta ventaja. Este modo ofensivo no puede combinarse con la habilidad otorgada en el Grado Base de Seraphite."
+    "i53jR3QPYDnZs4c8": {
+      "name": "Soo Bahk",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Advertir 50</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza</p><p><strong>Ventaja:</strong> Reduce a la mitad los penalizadores defensivos provocados por ataques desde los flancos.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Advertir 90; Defensa (Sin armas) 120</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> Los ataques por los flancos ya no penalizan la Habilidad de Defensa. Ataca a objetivos situados en cualquiera de los flancos con toda tu Habilidad sin necesidad de girarte hacia ellos.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Advertir 120; Acrobacias 60; Maestría en Defensa (Sin armas)</p><p><strong>Fórmula de daño:</strong> 30 + bono de Fuerza</p><p><strong>Ventaja:</strong> No sufres penalizadores a la Habilidad de Ataque o Defensa por estar derribado. Los enemigos siguen obteniendo su ventaja habitual por atacar desde una posición superior.</p></div>"
     },
-    "7ETVlN84KlaMAPat": {
-      "name": "Seraphite (Base)",
-      "description": "Daño: Como el Base del arte marcial +10.\nBono: +20 a la Habilidad de Ataque sin armas.\n\nSi lo desea, el practicante puede aumentar temporalmente su Habilidad de Ataque en +20 a cambio de sufrir un penalizador de –30 a su Defensa. El uso de esta capacidad debe declararse antes de calcular el Turno. Este bono es especial y por tanto no cuenta dentro de los límites de bonificadores innatos por Categoría."
+    "eqtBIuHy8eCe0sEc": {
+      "name": "Sumo",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> No especificada</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Atletismo 20, Proezas de Fuerza 40, CON 8+, Tamaño 15+.</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza o de Constitución; Contundente.</p><p><strong>Ventaja:</strong> Reduce a la mitad los penalizadores de Derribo/Proyección; puede usar CON para realizar o resistir controles de Proyección.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Atletismo 40, Proezas de Fuerza 80, Ataque (Sin armas) 110, Defensa (Sin armas) 110, CON 10+, Tamaño 18+.</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza + bono de Constitución; Contundente.</p><p><strong>Ventaja:</strong> Puede usar CON para resistir Impactos de Fuerza; Derribo y Proyección no tienen penalizador.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Atletismo 80, Proezas de Fuerza 160, Ataque (Sin armas) 200, Defensa (Sin armas) 200, CON 11+, Tamaño 20+, Inhumanidad.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado.</p><p><strong>Ventaja:</strong> Reduce a la mitad el penalizador de Encajar el Golpe; TA natural 3 contra Contundente.</p></div>"
     },
-    "uw4zDChn9I0VVAc5": {
-      "name": "Seraphite"
+    "CG0zMUto5ObGX3O4": {
+      "name": "Suyanta",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Tai Chi (Avanzado); Extrusión de Presencia o Extrusión del Vacío; Maestría en Ataque (Sin armas).</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico; debe usar el Daño Base de Tai Chi al drenar Ki.</p><p><strong>Ventaja:</strong> Antes de tirar, elige dañar Ki en lugar de PV: la pérdida de Ki es igual al daño infligido. Elige la característica de Ki afectada si las reservas están separadas; divide la pérdida de Ki entre el múltiplo de Acumulación de Daño en criaturas con AD. Las defensas funcionan con normalidad.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Tai Chi (Supremo); Inhumanidad; Ataque (Sin armas) 300.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base, más el bono de Poder del usuario.</p><p><strong>Ventaja:</strong> Cada ataque daña tanto PV como Ki en cantidades iguales; no requiere elección.</p></div>"
     },
-    "TBcLzeZjzNr2zadQ": {
-      "name": "Shephon (Arcano)",
-      "description": "Daño: Como el Base del arte marcial.\nBono Maestro: +20 a la Habilidad de Esquiva o Parada sin armas\nBono: +20 a la Habilidad de Esquiva o Parada sin armas.\n\nCuando el personaje emplea la maniobra Defensa total, aumenta el bono de esta defensa a +100."
+    "pSo4KT52Wvt137oY": {
+      "name": "Tae Kwon Do",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Ninguno</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza</p><p><strong>Ventaja:</strong> Tras usar todos los ataques normales, realiza un ataque adicional con la pierna a −30 a la Habilidad de Ataque, tratado como un arma adicional; puede usarse incluso si se emplearon armas ese asalto.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Ataque (Sin armas) 130; Defensa (Sin armas) 100</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> El ataque adicional con la pierna se realiza en su lugar a −20 a la Habilidad de Ataque y sigue pudiendo realizarse tras atacar con armas.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Maestría en Ataque (Sin armas)</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado.</p><p><strong>Ventaja:</strong> El ataque adicional con la pierna otorgado no sufre penalizador a la Habilidad de Ataque, incluso cuando se realiza tras atacar con armas.</p></div>"
     },
-    "29iygkJDg41Ttr6H": {
-      "name": "Shephon (Base)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +20 a la Habilidad de Esquiva o Parada sin armas.\n\nCuando el personaje emplea la maniobra Defensa total, aumenta el bono de esta defensa a +60."
+    "4Ur3B2P8VyBGBpqy": {
+      "name": "Tai Chi",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Ninguno</p><p><strong>Fórmula de daño:</strong> 20 + bono de Poder</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Uso del Ki</p><p><strong>Fórmula de daño:</strong> 20 + 2 × bono de Poder</p><p><strong>Ventaja:</strong> Ninguna.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Uso de la Energía Necesaria; Ataque (Sin armas) 180; Defensa (Sin armas) 180</p><p><strong>Fórmula de daño:</strong> 20 + 3 × bono de Poder</p><p><strong>Ventaja:</strong> Al combinar el Tai Chi con otra arte marcial, añade el bono de Poder sin multiplicar del usuario al Daño Base del estilo elegido.</p></div>"
     },
-    "K6SKQkrYID67RXCs": {
-      "name": "Shephon"
+    "TEgTh1DmvRiNU5bY": {
+      "name": "Takkyeon",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Baile 20.</p><p><strong>Fórmula de daño:</strong> 20 más el Bono de Agilidad del personaje. Contundente.</p><p><strong>Ventaja:</strong> Parada del oponente –20; sin penalizador a Esquiva/escudos. Una Parada Base de 200+ ignora el penalizador.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Baile 40, Ataque 110 (sin armas), Esquiva 110 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Derribo no tiene penalizador; el umbral de inmunidad de Parada sube a 280+.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Baile 120, Esquiva 200 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Parada del oponente –40; el umbral de inmunidad sube a Parada Base 320+.</p></div>"
     },
-    "cnQ7aKkplE0vUlOO": {
-      "name": "Shotokan (Avanzado)",
-      "description": "Daño: 30 + FUE; Contundente.\nBono: +10 a la Habilidad de Ataque sin armas"
+    "p9y3kIhYu1YooaRG": {
+      "name": "Tekken",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 4</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Boxeo (grado avanzado) o Muay Thai (grado avanzado), Ataque (sin armas) 160, Resistencia al Dolor 160.</p><p><strong>Fórmula de daño:</strong> Arte Marcial Básico utilizado +30 al Daño.</p><p><strong>Ventaja:</strong> +10 al nivel de Crítico y +30 al daño del arte básico; infligir un Crítico provoca un Crítico propio de la mitad de su nivel en la extremidad atacante. Puede renunciar a todos los beneficios; la inmunidad a los Críticos impide su uso.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Boxeo (grado supremo) o Muay Thai (grado supremo), Ataque (sin armas) 300, Resistencia al Dolor 240.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base +30 al Daño.</p><p><strong>Ventaja:</strong> El bonificador al nivel de Crítico asciende a +20 y el bonificador al daño a +60. El Crítico propio equivale a 3/4 del nivel de Crítico infligido. En su lugar, puede usar el beneficio y la desventaja del Grado Base o renunciar a ellos; la inmunidad impide su uso.</p></div>"
     },
-    "Thpf0C0izRPFxBa9": {
-      "name": "Shotokan (Base)",
-      "description": "Daño: 20 + FUE; Contundente.\nBono: +5 a la Habilidad de Ataque sin armas"
+    "mUSegEMmM216atZE": {
+      "name": "Valde Orbis",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 3</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Takkyeon (grado avanzado) o Capoeira (grado avanzado), Ataque 200 (sin armas), Baile 160.</p><p><strong>Fórmula de daño:</strong> Igual que el Arte Marcial Básico utilizado.</p><p><strong>Ventaja:</strong> Los ataques en área golpean a 2 enemigos más, reducen su penalizador a la mitad y añaden el bono de DES al Daño Base.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Takkyeon (grado supremo) o Capoeira (grado supremo), Ataque 280 (sin armas), Esquiva 280 (sin armas), Baile 200.</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Base.</p><p><strong>Ventaja:</strong> Una Parada con éxito ya no detiene el ataque en área. Una vez por asalto, gasta 1 punto de Cansancio para provocar un Impacto a un solo objetivo igual a tu FUE.</p></div>"
     },
-    "RVz10QNVI0kr8gON": {
-      "name": "Shotokan (Supremo)",
-      "description": "Daño: 50 + FUE; Contundente.\nBono: +20 a la Habilidad de Ataque sin armas"
+    "4M9WXFulXpHKYwvv": {
+      "name": "Velez",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 5</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Tai Chi (Avanzado) o Kung Fu (Avanzado); Extrusión de Presencia.</p><p><strong>Fórmula de daño:</strong> Daño Base del arte marcial básico.</p><p><strong>Ventaja:</strong> Los ataques usan el tipo Energía, pero aún pueden detenerse como Contundente porque son tangibles.</p><h6>Grado Arcano</h6><p><strong>Requisitos:</strong> Tai Chi (Supremo) o Kung Fu (Supremo); Ataque (Sin armas) 280.</p><p><strong>Fórmula de daño:</strong> Como en el Grado Base.</p><p><strong>Ventaja:</strong> Los ataques de Energía se vuelven intangibles, requiriendo defensas capaces de detener energía. Los objetivos sin Detección del Ki o visión sobrenatural se defienden como si estuvieran cegados. Puede usar Poder en los controles enfrentados de Característica para maniobras en lugar de Fuerza, Destreza o Agilidad.</p></div>"
     },
-    "PygKu30uOUMpE54W": {
-      "name": "Shotokan"
+    "cVVNN6B0ACp4iwLW": {
+      "name": "Xing Quan",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 2 &nbsp;|&nbsp; <strong>Tipo de ataque:</strong> Contundente</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Trucos de Manos 20</p><p><strong>Fórmula de daño:</strong> 10 + bono de Fuerza</p><p><strong>Ventaja:</strong> Obtienes un bonificador especial de +10 a la Habilidad de Ataque contra un único enemigo elegido al actuar primero y realizar una acción ofensiva. El bonificador se aplica solo mientras atacas a ese enemigo, incluidos los ataques adicionales. Defenderse, realizar otras maniobras o elegir como objetivo a otro enemigo impide su uso; una vez utilizado, no se puede atacar a ningún otro enemigo ese asalto.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Trucos de Manos 50; Turno 100; Ataque (Sin armas) 120</p><p><strong>Fórmula de daño:</strong> 20 + bono de Fuerza</p><p><strong>Ventaja:</strong> El bonificador ofensivo condicional a la Habilidad de Ataque contra un solo objetivo aumenta a +20; siguen aplicándose todas las restricciones del Grado Base.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Trucos de Manos 100; Turno 120; Maestría en Ataque (Sin armas)</p><p><strong>Fórmula de daño:</strong> 30 + bono de Fuerza</p><p><strong>Ventaja:</strong> El bonificador ofensivo condicional a la Habilidad de Ataque contra un solo objetivo aumenta a +30; siguen aplicándose todas las restricciones del Grado Base.</p></div>"
     },
-    "nUjD5X5yMnMqmGGx": {
-      "name": "Soo Bahk (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente\nBono: +10 a la Habilidad de Parada o Esquiva sin armas.\n\nEl personaje no sufre penalizadores a su Habilidad de Defensa cuando recibe ataques desde sus flancos. Además, puede atacar a adversarios situados en sus flancos con su Habilidad completa, sin necesidad de encararlos."
-    },
-    "gNa8PuVCFPQ7eGJC": {
-      "name": "Soo Bahk (Base)",
-      "description": "Daño: 10 + FUE; Contundente\n\nGracias a su maestría en el control del espacio, el practicante sufre solo la mitad de los penalizadores por ataques que provengan de sus flancos."
-    },
-    "A8FWfjP1bsnLGiEw": {
-      "name": "Soo Bahk (Supremo)",
-      "description": "Daño: 30 + FUE; Contundente.\nBono: +20 a la Habilidad de Parada o Esquiva sin armas.\n\nEl personaje no sufre penalizadores a su Habilidad de Defensa al recibir ataques desde sus flancos, y puede atacar a enemigos situados en sus flancos con su Habilidad completa sin necesidad de encararlos. Además, si es derribado, ya no sufre penalizadores a su Habilidad de Ataque ni de Defensa por estar en el suelo. Sin embargo, el atacante sigue beneficiándose de su posición superior contra un defensor derribado."
-    },
-    "ldfmPnKRRuxRUjoH": {
-      "name": "Soo Bahk"
-    },
-    "4TkvU2UliFk7ANGm": {
-      "name": "Suyanta (Arcano)",
-      "description": "Daño: Como el Base del arte marcial.\nBono Maestro: +15 a la Habilidad de Ataque sin armas.\nBono: +10 a la Habilidad de Ataque sin armas.\n\nAl alcanzar este grado, todos los ataques del practicante reducen simultáneamente los Puntos de Vida y los Puntos de Ki del oponente por igual en una cantidad de puntos equivalente al Daño producido. Si no se usan las reglas de Unificación de Puntos de Ki, el atacante elige la Característica desde la que se pierden los puntos. En el caso de criaturas con Acumulación de Daño, el daño al Ki se divide por el Múltiplo de Acumulación al Daño del ser.\nPara aplicar esta capacidad, el personaje debe usar el Daño base de Tai Chi, sin poder seleccionar el de otras artes marciales que conozca. Por lo demás, el ataque se resuelve normalmente, y el oponente puede defenderse sin penalizaciones especiales."
-    },
-    "NuCew9X2PYgjvV1v": {
-      "name": "Suyanta (Base)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +10 a la Habilidad de Ataque sin armas.\n\nAl atacar, el practicante puede elegir dañar la Reserva de Ki del adversario en lugar de sus Puntos de Vida. Para ello, debe declararlo antes de tirar los dados. El ataque resta al Ki del objetivo una cantidad de puntos equivalente al Daño producido. Si no se usan las reglas de Unificación de Puntos de Ki, el atacante elige la Característica desde la que se pierden los puntos. En el caso de criaturas con Acumulación de Daño, el daño al Ki se divide por el Múltiplo de Acumulación al Daño del ser.\nPara aplicar esta capacidad, el personaje debe usar el Daño base de Tai Chi, sin poder seleccionar el de otras artes marciales que conozca. Por lo demás, el ataque se resuelve normalmente, y el oponente puede defenderse sin penalizaciones especiales."
-    },
-    "rVYxSQ6ZiEuaK2hz": {
-      "name": "Suyanta"
-    },
-    "NCZhFjaC0EYc13ha": {
-      "name": "Tae Kwon Do (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nEste estilo permite realizar un Ataque Adicional con las piernas una vez que ha agotado todos sus otros ataques. Este ataque se considera como si se tratara de un ataque con arma adicional y aplica un penalizador de -20. A diferencia de las reglas generales de combate sin armas, es posible ejecutar este ataque incluso si se han utilizado armas durante ese mismo asalto."
-    },
-    "85wJnTrmGXhmV4xm": {
-      "name": "Tae Kwon Do (Base)",
-      "description": "Daño: 10 + FUE; Contundente.\n\nEste estilo permite realizar un Ataque Adicional con las piernas una vez que ha agotado todos sus otros ataques. Este ataque se considera como si se tratara de un ataque con arma adicional y aplica un penalizador de -30. A diferencia de las reglas generales de combate sin armas, es posible ejecutar este ataque incluso si se han utilizado armas durante ese mismo asalto."
-    },
-    "uQj3aRIYNsVulYlU": {
-      "name": "Tae Kwon Do (Supremo)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nEste estilo permite realizar un Ataque Adicional con las piernas una vez que ha agotado todos sus otros ataques. Este ataque se considera como si se tratara de un ataque con arma adicional sin aplicar penalizador. A diferencia de las reglas generales de combate sin armas, es posible ejecutar este ataque incluso si se han utilizado armas durante ese mismo asalto."
-    },
-    "Nns8GKofqSesBhXD": {
-      "name": "Tai Chi (Avanzado)",
-      "description": "Daño: 20 +2* POD; Contundente."
-    },
-    "7gGvZLXPkGoOpucs": {
-      "name": "Tai Chi (Base)",
-      "description": "Daño: 20 + POD; Contundente."
-    },
-    "NuAz7e9nrGzsNwv5": {
-      "name": "Tai Chi (Supremo)",
-      "description": "Daño: 20 + 3*POD; Contundente.\n\nSi se emplea Tai-Chi en combinación con otro arte marcial, el personaje puede añadir el bono de POD al Daño base del estilo elegido, sin multiplicarlo."
-    },
-    "22XmfeVBAi6DI2Vb": {
-      "name": "Tai Chi"
-    },
-    "gTYhUjXwOPFCxQUV": {
-      "name": "Tae Kwon Do"
-    },
-    "wStKpfIjFqDadGAf": {
-      "name": "Velez (Arcano)",
-      "description": "Daño: Como el Base del arte marcial.\nBono Maestro: +15 a Parada y Esquiva (sin armas).\nBono: +20 a la Habilidad de Esquiva o Parada sin armas.\n\nVélez permite al practicante golpear en la TA de Energía. A este nivel, sus ataques son intangibles por naturaleza, por lo que solo pueden ser detenidos con defensas capaces de detener energía. Además, debido a su carácter sobrenatural, son invisibles para quienes no puedan percibir o ver la energía, aplicando el penalizador por estar cegados quienes no tengan Detección de Ki o visiónes  sobrenaturales. Finalmente, el personaje puede usar su Característica de POD en lugar de FUE, DES o AGI al realizar o resistir maniobras que requieran un control enfrentado de Característica (como Derribo, Presa, Desarmar, etc.)."
-    },
-    "3l3seN6Tx4eCtEg7": {
-      "name": "Velez (Base)",
-      "description": "Daño: Como el Base del arte marcial.\nBono: +20 a la Habilidad de Esquiva o Parada sin armas.\n\nVélez permite al practicante golpear en la TA de Energía. Sin embargo, estos golpes pueden ser detenidos como si se tratara de ataques Contundentes, ya que no son intangibles."
-    },
-    "4K7FlSkRMp0qiXNd": {
-      "name": "Velez"
-    },
-    "9hQvJLHXv81Aa8ig": {
-      "name": "Xing Quan (Avanzado)",
-      "description": "Daño: 20 + FUE; Contundente.\n\nSi el practicante tiene la Iniciativa en el Asalto y declara una acción Ofensiva contra un enemigo concreto, obtiene un bonificador especial de +20 a su Habilidad de Ataque contra ese adversario. Este bono representa su capacidad para penetrar la guardia del oponente, aumentando así la eficacia de sus golpes.\nSin embargo, pierde este bonificador si se ve obligado a defenderse, si declara ataques adicionales contra otros objetivos o si ejecuta alguna maniobra de combate que no sea un ataque directo contra su adversario inmediato. Nada le impide declarar varios ataques adicionales y mantener el bono, siempre que todos sus ataques se dirijan al mismo antagonista. Si decide aplicar este bono, no podrá atacar a ningún otro enemigo durante ese Asalto."
-    },
-    "NvhXtTctEC59iMKY": {
-      "name": "Xing Quan (Base)",
-      "description": "Daño: 10 + FUE; Contundente.\n\nSi el practicante tiene la Iniciativa en el Asalto y declara una acción Ofensiva contra un enemigo concreto, obtiene un bonificador especial de +10 a su Habilidad de Ataque contra ese adversario. Este bono representa su capacidad para penetrar la guardia del oponente, aumentando así la eficacia de sus golpes.\nSin embargo, pierde este bonificador si se ve obligado a defenderse, si declara ataques adicionales contra otros objetivos o si ejecuta alguna maniobra de combate que no sea un ataque directo contra su adversario inmediato. Nada le impide declarar varios ataques adicionales y mantener el bono, siempre que todos sus ataques se dirijan al mismo antagonista. Si decide aplicar este bono, no podrá atacar a ningún otro enemigo durante ese Asalto."
-    },
-    "HtmR4377hdJb7Qfe": {
-      "name": "Xing Quan (Supremo)",
-      "description": "Daño: 30 + FUE; Contundente.\n\nSi el practicante tiene la Iniciativa en el Asalto y declara una acción Ofensiva contra un enemigo concreto, obtiene un bonificador especial de +30 a su Habilidad de Ataque contra ese adversario. Este bono representa su capacidad para penetrar la guardia del oponente, aumentando así la eficacia de sus golpes.\nSin embargo, pierde este bonificador si se ve obligado a defenderse, si declara ataques adicionales contra otros objetivos o si ejecuta alguna maniobra de combate que no sea un ataque directo contra su adversario inmediato. Nada le impide declarar varios ataques adicionales y mantener el bono, siempre que todos sus ataques se dirijan al mismo antagonista. Si decide aplicar este bono, no podrá atacar a ningún otro enemigo durante ese Asalto."
-    },
-    "CCkQDjLP2jeNO8Vu": {
-      "name": "Xing Quan"
+    "QdrtX9u9tG5BJx9O": {
+      "name": "Xingyiquan",
+      "description": "<div style=\"line-height:1.55;\" class=\"martial-art-description\"><p><strong>Complejidad:</strong> 1</p><h6>Grado Base</h6><p><strong>Requisitos:</strong> Trucos de Manos 40.</p><p><strong>Fórmula de daño:</strong> 10 más el Bono de Fuerza del personaje. Contundente.</p><p><strong>Ventaja:</strong> Con un arma a una mano y la mano torpe vacía, elige Ataque/Defensa con arma o sin armas en cada tirada; utiliza el Turno más bajo y el penalizador al Turno por combatir con dos armas del mismo tamaño.</p><h6>Grado Avanzado</h6><p><strong>Requisitos:</strong> Trucos de Manos 60, Ataque 110 (sin armas), Parada 110 (sin armas).</p><p><strong>Fórmula de daño:</strong> 20 más el Bono de Fuerza del personaje. Contundente.</p><p><strong>Ventaja:</strong> La mano vacía cuenta como un arma secundaria más pequeña; se aplican los beneficios de combatir con dos armas sin penalizador adicional al Turno.</p><h6>Grado Supremo</h6><p><strong>Requisitos:</strong> Trucos de Manos 80, Ataque 200 (sin armas), Parada 200 (sin armas).</p><p><strong>Fórmula de daño:</strong> Igual que el Grado Avanzado.</p><p><strong>Ventaja:</strong> +10 a los contraataques.</p></div>"
     }
   }
 }

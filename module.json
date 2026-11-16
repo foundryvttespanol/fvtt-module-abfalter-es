@@ -6,7 +6,7 @@
       "name": "Svetlana [Shairin]"
     }
   ],
-  "version": "1.65.3",
+  "version": "1.70.1",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -24,8 +24,7 @@
   "relationships": {
     "systems": [{
         "id": "abfalter",
-        "type": "system",
-        "compatibility": "1.6.5"
+        "type": "system"
       }
     ],
     "requires": [{
